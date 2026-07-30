@@ -1,0 +1,85 @@
+{
+  "program_id": -53395,
+  "program_name": "Odadan Ezgiler",
+  "program_slug": "odadan-ezgiler",
+  "program_start_time": "09:00",
+  "recording_start_offset_sec": 0.0,
+  "aired_at": "2026-07-30",
+  "generated_at": "2026-07-30T07:01:39.437208+00:00",
+  "disclaimer": "Playlist tahmini/estimated — ses tanıma (fingerprinting) tabanlı; hatalar olabilir. Klasik müzik tanıma doğruluğu sınırlıdır.",
+  "tracks": [
+    {
+      "title": "Slavonic Dances, Op. 72, B. 147: No. 2 in E Minor, Mazur. Allegretto grazioso",
+      "artist": "Prague Symphony Orchestra & Petr Altrichter",
+      "source": "shazamio",
+      "confidence": 0.7,
+      "start_offset_sec": 0.0,
+      "end_offset_sec": 12.0,
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
+      "alternatives": [
+        {
+          "source": "audd",
+          "title": "Slavonic Dance Op.72/02 (10) In E-minor",
+          "artist": "Antonin Dvorak",
+          "confidence": 0.85,
+          "album": "ANTONIN DVORAK: SLAVONIC DANCES"
+        }
+      ],
+      "sources": [
+        "shazamio"
+      ],
+      "attempted_sources": []
+    },
+    {
+      "title": "String Trio In B Flat Major: IV. Rondo - Allegretto",
+      "artist": "Ensemble Villa Musica",
+      "source": "shazamio",
+      "confidence": 0.7,
+      "start_offset_sec": 30.0,
+      "end_offset_sec": 42.0,
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
+      "alternatives": [],
+      "sources": [
+        "shazamio"
+      ],
+      "attempted_sources": [
+        "acoustid",
+        "shazamio",
+        "audd"
+      ]
+    },
+    {
+      "title": "Crimson Passage",
+      "artist": "Ozgur Can Alkan",
+      "source": "shazamio",
+      "confidence": 0.7,
+      "start_offset_sec": 3249.780625,
+      "end_offset_sec": 3261.780625,
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
+      "alternatives": [],
+      "sources": [
+        "shazamio"
+      ],
+      "attempted_sources": [
+        "acoustid",
+        "shazamio",
+        "audd"
+      ]
+    }
+  ]
+}
