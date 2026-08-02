@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-01T08:05:44.372293+00:00",
+  "generated_at": "2026-08-02T08:07:44.482054+00:00",
   "radio_id": "standardfm",
   "month": "2026-08",
   "episodes": {
+    "standardfm/klasik-muzik/2026-08-02": {
+      "episode_id": "standardfm/klasik-muzik/2026-08-02",
+      "radio_id": "standardfm",
+      "program_id": -64735,
+      "program_slug": "klasik-muzik",
+      "program_name": "Klasik Müzik",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-02",
+      "aired_at": "2026-08-02",
+      "track_count": 44
+    },
     "standardfm/klasik-muzik/2026-08-01": {
       "episode_id": "standardfm/klasik-muzik/2026-08-01",
       "radio_id": "standardfm",
@@ -15,6 +27,30 @@
       "date": "2026-08-01",
       "aired_at": "2026-08-01",
       "track_count": 55
+    },
+    "standardfm/huseyin-karaca-mete-avunduk/2026-08-02": {
+      "episode_id": "standardfm/huseyin-karaca-mete-avunduk/2026-08-02",
+      "radio_id": "standardfm",
+      "program_id": -72439,
+      "program_slug": "huseyin-karaca-mete-avunduk",
+      "program_name": "Hüseyin Karaca & Mete Avunduk",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-02",
+      "aired_at": "2026-08-02",
+      "track_count": 2
+    },
+    "standardfm/gece-yayini/2026-08-02": {
+      "episode_id": "standardfm/gece-yayini/2026-08-02",
+      "radio_id": "standardfm",
+      "program_id": -23042,
+      "program_slug": "gece-yayini",
+      "program_name": "Gece Yayını",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-02",
+      "aired_at": "2026-08-02",
+      "track_count": 84
     },
     "standardfm/gece-yayini/2026-08-01": {
       "episode_id": "standardfm/gece-yayini/2026-08-01",
