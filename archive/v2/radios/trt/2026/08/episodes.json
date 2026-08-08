@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-07T07:01:32.850019+00:00",
+  "generated_at": "2026-08-08T06:36:21.547114+00:00",
   "radio_id": "trt",
   "month": "2026-08",
   "episodes": {
@@ -64,6 +64,18 @@
       "aired_at": "2026-08-05",
       "track_count": 0
     },
+    "trt/renklerin-icinden/2026-08-08": {
+      "episode_id": "trt/renklerin-icinden/2026-08-08",
+      "radio_id": "trt",
+      "program_id": -20698,
+      "program_slug": "renklerin-icinden",
+      "program_name": "Renklerin İçinden",
+      "program_start_time": "07:05",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-08",
+      "aired_at": "2026-08-08",
+      "track_count": 0
+    },
     "trt/renklerin-icinden/2026-08-01": {
       "episode_id": "trt/renklerin-icinden/2026-08-01",
       "radio_id": "trt",
@@ -75,6 +87,18 @@
       "date": "2026-08-01",
       "aired_at": "2026-08-01",
       "track_count": 10
+    },
+    "trt/radyo-3-sabah/2026-08-08": {
+      "episode_id": "trt/radyo-3-sabah/2026-08-08",
+      "radio_id": "trt",
+      "program_id": -74698,
+      "program_slug": "radyo-3-sabah",
+      "program_name": "Radyo 3 Sabah",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-08",
+      "aired_at": "2026-08-08",
+      "track_count": 0
     },
     "trt/radyo-3-sabah/2026-08-07": {
       "episode_id": "trt/radyo-3-sabah/2026-08-07",
@@ -268,6 +292,18 @@
       "aired_at": "2026-08-02",
       "track_count": 3
     },
+    "trt/laterna/2026-08-08": {
+      "episode_id": "trt/laterna/2026-08-08",
+      "radio_id": "trt",
+      "program_id": -16362,
+      "program_slug": "laterna",
+      "program_name": "Laterna",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-08",
+      "aired_at": "2026-08-08",
+      "track_count": 0
+    },
     "trt/laterna/2026-08-01": {
       "episode_id": "trt/laterna/2026-08-01",
       "radio_id": "trt",
@@ -315,6 +351,18 @@
       "date": "2026-08-01",
       "aired_at": "2026-08-01",
       "track_count": 6
+    },
+    "trt/gece-ve-muzik/2026-08-08": {
+      "episode_id": "trt/gece-ve-muzik/2026-08-08",
+      "radio_id": "trt",
+      "program_id": -36535,
+      "program_slug": "gece-ve-muzik",
+      "program_name": "Gece ve Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 60.0,
+      "date": "2026-08-08",
+      "aired_at": "2026-08-08",
+      "track_count": 0
     },
     "trt/gece-ve-muzik/2026-08-07": {
       "episode_id": "trt/gece-ve-muzik/2026-08-07",
@@ -387,6 +435,18 @@
       "date": "2026-08-01",
       "aired_at": "2026-08-01",
       "track_count": 11
+    },
+    "trt/ebu-euroclassic-notturno/2026-08-08": {
+      "episode_id": "trt/ebu-euroclassic-notturno/2026-08-08",
+      "radio_id": "trt",
+      "program_id": -310,
+      "program_slug": "ebu-euroclassic-notturno",
+      "program_name": "Ebu Euroclassıc Notturno",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-08",
+      "aired_at": "2026-08-08",
+      "track_count": 0
     },
     "trt/ebu-euroclassic-notturno/2026-08-07": {
       "episode_id": "trt/ebu-euroclassic-notturno/2026-08-07",
