@@ -1,9 +1,33 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-10T07:13:11.882622+00:00",
+  "generated_at": "2026-08-10T20:58:32.951512+00:00",
   "radio_id": "standardfm",
   "month": "2026-08",
   "episodes": {
+    "standardfm/riza-kutlu/2026-08-10": {
+      "episode_id": "standardfm/riza-kutlu/2026-08-10",
+      "radio_id": "standardfm",
+      "program_id": -9319,
+      "program_slug": "riza-kutlu",
+      "program_name": "Rıza Kutlu",
+      "program_start_time": "20:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-10",
+      "aired_at": "2026-08-10",
+      "track_count": 0
+    },
+    "standardfm/oglen-klasikleri---duzenleyen-malik-avunduk/2026-08-10": {
+      "episode_id": "standardfm/oglen-klasikleri---duzenleyen-malik-avunduk/2026-08-10",
+      "radio_id": "standardfm",
+      "program_id": -50736,
+      "program_slug": "oglen-klasikleri---duzenleyen-malik-avunduk",
+      "program_name": "Öğlen Klasikleri - Düzenleyen: Malik Avunduk",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-10",
+      "aired_at": "2026-08-10",
+      "track_count": 0
+    },
     "standardfm/oglen-klasikleri---duzenleyen-malik-avunduk/2026-08-06": {
       "episode_id": "standardfm/oglen-klasikleri---duzenleyen-malik-avunduk/2026-08-06",
       "radio_id": "standardfm",
@@ -38,6 +62,18 @@
       "recording_start_offset_sec": 0.0,
       "date": "2026-08-04",
       "aired_at": "2026-08-04",
+      "track_count": 0
+    },
+    "standardfm/mete-avunduk/2026-08-10": {
+      "episode_id": "standardfm/mete-avunduk/2026-08-10",
+      "radio_id": "standardfm",
+      "program_id": -78014,
+      "program_slug": "mete-avunduk",
+      "program_name": "Mete Avunduk",
+      "program_start_time": "19:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-10",
+      "aired_at": "2026-08-10",
       "track_count": 0
     },
     "standardfm/klasik-muzik/2026-08-10": {
@@ -266,6 +302,18 @@
       "recording_start_offset_sec": 180.0,
       "date": "2026-08-06",
       "aired_at": "2026-08-06",
+      "track_count": 0
+    },
+    "standardfm/aksam-nesriyati/2026-08-10": {
+      "episode_id": "standardfm/aksam-nesriyati/2026-08-10",
+      "radio_id": "standardfm",
+      "program_id": -59692,
+      "program_slug": "aksam-nesriyati",
+      "program_name": "Akşam Neşriyatı",
+      "program_start_time": "17:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-10",
+      "aired_at": "2026-08-10",
       "track_count": 0
     }
   }

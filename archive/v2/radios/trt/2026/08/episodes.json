@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-10T07:13:11.882622+00:00",
+  "generated_at": "2026-08-10T20:58:32.951512+00:00",
   "radio_id": "trt",
   "month": "2026-08",
   "episodes": {
@@ -62,6 +62,18 @@
       "recording_start_offset_sec": 0.0,
       "date": "2026-08-05",
       "aired_at": "2026-08-05",
+      "track_count": 0
+    },
+    "trt/ses-ve-soz/2026-08-10": {
+      "episode_id": "trt/ses-ve-soz/2026-08-10",
+      "radio_id": "trt",
+      "program_id": -12702,
+      "program_slug": "ses-ve-soz",
+      "program_name": "Ses Ve Söz",
+      "program_start_time": "12:05",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-10",
+      "aired_at": "2026-08-10",
       "track_count": 0
     },
     "trt/renklerin-icinden/2026-08-08": {
@@ -256,6 +268,30 @@
       "aired_at": "2026-08-04",
       "track_count": 0
     },
+    "trt/pop-studyosu/2026-08-10": {
+      "episode_id": "trt/pop-studyosu/2026-08-10",
+      "radio_id": "trt",
+      "program_id": -1284,
+      "program_slug": "pop-studyosu",
+      "program_name": "Pop Stüdyosu",
+      "program_start_time": "21:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-10",
+      "aired_at": "2026-08-10",
+      "track_count": 0
+    },
+    "trt/pop-durock/2026-08-10": {
+      "episode_id": "trt/pop-durock/2026-08-10",
+      "radio_id": "trt",
+      "program_id": 147,
+      "program_slug": "pop-durock",
+      "program_name": "Pop Durock",
+      "program_start_time": "18:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-10",
+      "aired_at": "2026-08-10",
+      "track_count": 0
+    },
     "trt/piyano-forte/2026-08-10": {
       "episode_id": "trt/piyano-forte/2026-08-10",
       "radio_id": "trt",
@@ -410,6 +446,42 @@
       "recording_start_offset_sec": 0.0,
       "date": "2026-08-07",
       "aired_at": "2026-08-07",
+      "track_count": 0
+    },
+    "trt/klasik-dunya/2026-08-10": {
+      "episode_id": "trt/klasik-dunya/2026-08-10",
+      "radio_id": "trt",
+      "program_id": -11595,
+      "program_slug": "klasik-dunya",
+      "program_name": "Klasik Dünya",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-10",
+      "aired_at": "2026-08-10",
+      "track_count": 0
+    },
+    "trt/kitapligimdaki-muzik/2026-08-10": {
+      "episode_id": "trt/kitapligimdaki-muzik/2026-08-10",
+      "radio_id": "trt",
+      "program_id": -12097,
+      "program_slug": "kitapligimdaki-muzik",
+      "program_name": "Kitaplığımdaki Müzik",
+      "program_start_time": "16:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-10",
+      "aired_at": "2026-08-10",
+      "track_count": 0
+    },
+    "trt/incelikler-atlasi/2026-08-10": {
+      "episode_id": "trt/incelikler-atlasi/2026-08-10",
+      "radio_id": "trt",
+      "program_id": -85389,
+      "program_slug": "incelikler-atlasi",
+      "program_name": "İncelikler Atlası",
+      "program_start_time": "20:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-10",
+      "aired_at": "2026-08-10",
       "track_count": 0
     },
     "trt/gorkemli-stil/2026-08-01": {
@@ -640,6 +712,30 @@
       "aired_at": "2026-08-01",
       "track_count": 20
     },
+    "trt/duygularin-muzigi/2026-08-10": {
+      "episode_id": "trt/duygularin-muzigi/2026-08-10",
+      "radio_id": "trt",
+      "program_id": -99427,
+      "program_slug": "duygularin-muzigi",
+      "program_name": "Duyguların Müziği",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-10",
+      "aired_at": "2026-08-10",
+      "track_count": 0
+    },
+    "trt/duslerin-notalari/2026-08-10": {
+      "episode_id": "trt/duslerin-notalari/2026-08-10",
+      "radio_id": "trt",
+      "program_id": -34888,
+      "program_slug": "duslerin-notalari",
+      "program_name": "Düşlerin Notaları",
+      "program_start_time": "22:05",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-10",
+      "aired_at": "2026-08-10",
+      "track_count": 0
+    },
     "trt/dogunun-bati-yuzu/2026-08-05": {
       "episode_id": "trt/dogunun-bati-yuzu/2026-08-05",
       "radio_id": "trt",
@@ -650,6 +746,42 @@
       "recording_start_offset_sec": 0.0,
       "date": "2026-08-05",
       "aired_at": "2026-08-05",
+      "track_count": 0
+    },
+    "trt/cerebrock/2026-08-10": {
+      "episode_id": "trt/cerebrock/2026-08-10",
+      "radio_id": "trt",
+      "program_id": -32300,
+      "program_slug": "cerebrock",
+      "program_name": "Cerebrock",
+      "program_start_time": "17:05",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-10",
+      "aired_at": "2026-08-10",
+      "track_count": 0
+    },
+    "trt/caz-ekspres/2026-08-10": {
+      "episode_id": "trt/caz-ekspres/2026-08-10",
+      "radio_id": "trt",
+      "program_id": -75102,
+      "program_slug": "caz-ekspres",
+      "program_name": "Caz Ekspres",
+      "program_start_time": "23:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-10",
+      "aired_at": "2026-08-10",
+      "track_count": 0
+    },
+    "trt/calgi-seruveni/2026-08-10": {
+      "episode_id": "trt/calgi-seruveni/2026-08-10",
+      "radio_id": "trt",
+      "program_id": -19819,
+      "program_slug": "calgi-seruveni",
+      "program_name": "Çalgı Serüveni",
+      "program_start_time": "15:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-10",
+      "aired_at": "2026-08-10",
       "track_count": 0
     },
     "trt/bursadan-senfonik-tinilar/2026-08-05": {
@@ -675,6 +807,30 @@
       "date": "2026-08-01",
       "aired_at": "2026-08-01",
       "track_count": 2
+    },
+    "trt/baska-yollar/2026-08-10": {
+      "episode_id": "trt/baska-yollar/2026-08-10",
+      "radio_id": "trt",
+      "program_id": -40775,
+      "program_slug": "baska-yollar",
+      "program_name": "Başka Yollar",
+      "program_start_time": "19:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-10",
+      "aired_at": "2026-08-10",
+      "track_count": 0
+    },
+    "trt/armonik-tinilar/2026-08-10": {
+      "episode_id": "trt/armonik-tinilar/2026-08-10",
+      "radio_id": "trt",
+      "program_id": -43417,
+      "program_slug": "armonik-tinilar",
+      "program_name": "Armonik Tınılar",
+      "program_start_time": "14:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-10",
+      "aired_at": "2026-08-10",
+      "track_count": 0
     },
     "trt/allegro/2026-08-10": {
       "episode_id": "trt/allegro/2026-08-10",
