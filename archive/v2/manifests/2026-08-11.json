@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-08-11T06:51:14.207292+00:00",
+  "date": "2026-08-11",
+  "radios": [
+    "standardfm",
+    "trt"
+  ],
+  "files": [
+    {
+      "path": "radios/trt/2026/08/episodes.json",
+      "bytes": 30465,
+      "sha256": "18ccdf6a09f41b8a0b5e56647e0f2411b336deade03dc6dc48a135bd7fac7e86"
+    },
+    {
+      "path": "radios/trt/2026/08/songs.json",
+      "bytes": 52656,
+      "sha256": "c30c223806f1a4e98dc00d6ae3fa02c43b2387c27782f8172a42818277e6235d"
+    },
+    {
+      "path": "radios/trt/2026/08/plays.jsonl",
+      "bytes": 41760,
+      "sha256": "3dead966e55be6b0283e7607c9ae58a91bf663410657cdac8f718aef804c1112"
+    },
+    {
+      "path": "radios/standardfm/2026/08/episodes.json",
+      "bytes": 12191,
+      "sha256": "7218ca67be67037117661f2e0d73c03e291e2d0cf803ef4f735975bd133c6d6b"
+    },
+    {
+      "path": "radios/standardfm/2026/08/songs.json",
+      "bytes": 79971,
+      "sha256": "08e68935c113ec99042aabec49797ac1abba8d5d70d39ba1edd936a1e31a2c6f"
+    },
+    {
+      "path": "radios/standardfm/2026/08/plays.jsonl",
+      "bytes": 72988,
+      "sha256": "acd3263c0ec9c5dfde8339a489ee35d11e78018165d1a2734b0f44739113fba5"
+    },
+    {
+      "path": "months.json",
+      "bytes": 267,
+      "sha256": "394f136992aa686238c8b40e6fc897b25fe744ce22b8e1a4bc91651a529b57d0"
+    }
+  ]
+}
