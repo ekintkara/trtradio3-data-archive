@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-08-13T07:14:26.912505+00:00",
+  "radio_id": "radyoodtu",
+  "month": "2026-08",
+  "episodes": {
+    "radyoodtu/sabah-rutini/2026-08-13": {
+      "episode_id": "radyoodtu/sabah-rutini/2026-08-13",
+      "radio_id": "radyoodtu",
+      "program_id": 17,
+      "program_slug": "sabah-rutini",
+      "program_name": "Sabah Rutini",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-13",
+      "aired_at": "2026-08-13",
+      "track_count": 17
+    },
+    "radyoodtu/ofis-kackini/2026-08-13": {
+      "episode_id": "radyoodtu/ofis-kackini/2026-08-13",
+      "radio_id": "radyoodtu",
+      "program_id": 22,
+      "program_slug": "ofis-kackini",
+      "program_name": "Ofis Kaçkını",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-13",
+      "aired_at": "2026-08-13",
+      "track_count": 5
+    },
+    "radyoodtu/ikinci-alarm/2026-08-13": {
+      "episode_id": "radyoodtu/ikinci-alarm/2026-08-13",
+      "radio_id": "radyoodtu",
+      "program_id": 12,
+      "program_slug": "ikinci-alarm",
+      "program_name": "İkinci Alarm",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-13",
+      "aired_at": "2026-08-13",
+      "track_count": 17
+    },
+    "radyoodtu/gunes-gozlugu/2026-08-13": {
+      "episode_id": "radyoodtu/gunes-gozlugu/2026-08-13",
+      "radio_id": "radyoodtu",
+      "program_id": 5,
+      "program_slug": "gunes-gozlugu",
+      "program_name": "Güneş Gözlüğü",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 600.0,
+      "date": "2026-08-13",
+      "aired_at": "2026-08-13",
+      "track_count": 30
+    }
+  }
+}

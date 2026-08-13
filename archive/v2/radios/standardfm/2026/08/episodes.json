@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-12T07:10:47.030306+00:00",
+  "generated_at": "2026-08-13T07:14:26.912505+00:00",
   "radio_id": "standardfm",
   "month": "2026-08",
   "episodes": {
@@ -75,6 +75,18 @@
       "date": "2026-08-10",
       "aired_at": "2026-08-10",
       "track_count": 0
+    },
+    "standardfm/klasik-muzik/2026-08-13": {
+      "episode_id": "standardfm/klasik-muzik/2026-08-13",
+      "radio_id": "standardfm",
+      "program_id": 1609,
+      "program_slug": "klasik-muzik",
+      "program_name": "Klasik Müzik",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-13",
+      "aired_at": "2026-08-13",
+      "track_count": 39
     },
     "standardfm/klasik-muzik/2026-08-12": {
       "episode_id": "standardfm/klasik-muzik/2026-08-12",
@@ -339,6 +351,18 @@
       "date": "2026-08-01",
       "aired_at": "2026-08-01",
       "track_count": 81
+    },
+    "standardfm/cavit-ergun-murat-gulenc---hissizlik-ani/2026-08-13": {
+      "episode_id": "standardfm/cavit-ergun-murat-gulenc---hissizlik-ani/2026-08-13",
+      "radio_id": "standardfm",
+      "program_id": -82685,
+      "program_slug": "cavit-ergun-murat-gulenc---hissizlik-ani",
+      "program_name": "Cavit Ergün & Murat Gülenç - Hissizlik Anı",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-13",
+      "aired_at": "2026-08-13",
+      "track_count": 89
     },
     "standardfm/cavit-ergun-murat-gulenc---hissizlik-ani/2026-08-06": {
       "episode_id": "standardfm/cavit-ergun-murat-gulenc---hissizlik-ani/2026-08-06",
