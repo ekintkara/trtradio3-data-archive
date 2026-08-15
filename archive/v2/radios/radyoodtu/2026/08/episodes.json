@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-14T07:10:40.214121+00:00",
+  "generated_at": "2026-08-15T06:21:44.534710+00:00",
   "radio_id": "radyoodtu",
   "month": "2026-08",
   "episodes": {
@@ -52,6 +52,18 @@
       "aired_at": "2026-08-13",
       "track_count": 17
     },
+    "radyoodtu/gunes-gozlugu/2026-08-15": {
+      "episode_id": "radyoodtu/gunes-gozlugu/2026-08-15",
+      "radio_id": "radyoodtu",
+      "program_id": 7,
+      "program_slug": "gunes-gozlugu",
+      "program_name": "Güneş Gözlüğü",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 120.0,
+      "date": "2026-08-15",
+      "aired_at": "2026-08-15",
+      "track_count": 70
+    },
     "radyoodtu/gunes-gozlugu/2026-08-14": {
       "episode_id": "radyoodtu/gunes-gozlugu/2026-08-14",
       "radio_id": "radyoodtu",
@@ -75,6 +87,18 @@
       "date": "2026-08-13",
       "aired_at": "2026-08-13",
       "track_count": 30
+    },
+    "radyoodtu/easy-kusagi/2026-08-15": {
+      "episode_id": "radyoodtu/easy-kusagi/2026-08-15",
+      "radio_id": "radyoodtu",
+      "program_id": 58,
+      "program_slug": "easy-kusagi",
+      "program_name": "Easy Kuşağı",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-15",
+      "aired_at": "2026-08-15",
+      "track_count": 13
     }
   }
 }
