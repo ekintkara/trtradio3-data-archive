@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-15T06:21:44.534710+00:00",
+  "generated_at": "2026-08-16T06:23:40.629197+00:00",
   "radio_id": "trt",
   "month": "2026-08",
   "episodes": {
@@ -123,6 +123,18 @@
       "date": "2026-08-01",
       "aired_at": "2026-08-01",
       "track_count": 10
+    },
+    "trt/radyo-3-sabah/2026-08-16": {
+      "episode_id": "trt/radyo-3-sabah/2026-08-16",
+      "radio_id": "trt",
+      "program_id": -47013,
+      "program_slug": "radyo-3-sabah",
+      "program_name": "Radyo 3 Sabah",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-16",
+      "aired_at": "2026-08-16",
+      "track_count": 9
     },
     "trt/radyo-3-sabah/2026-08-15": {
       "episode_id": "trt/radyo-3-sabah/2026-08-15",
@@ -532,6 +544,18 @@
       "aired_at": "2026-08-04",
       "track_count": 0
     },
+    "trt/muzige-adanmis-yasamlar/2026-08-16": {
+      "episode_id": "trt/muzige-adanmis-yasamlar/2026-08-16",
+      "radio_id": "trt",
+      "program_id": -29659,
+      "program_slug": "muzige-adanmis-yasamlar",
+      "program_name": "Müziğe Adanmış Yaşamlar",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-16",
+      "aired_at": "2026-08-16",
+      "track_count": 2
+    },
     "trt/muzige-adanmis-yasamlar/2026-08-09": {
       "episode_id": "trt/muzige-adanmis-yasamlar/2026-08-09",
       "radio_id": "trt",
@@ -591,6 +615,18 @@
       "date": "2026-08-01",
       "aired_at": "2026-08-01",
       "track_count": 7
+    },
+    "trt/kulturler-arasinda/2026-08-16": {
+      "episode_id": "trt/kulturler-arasinda/2026-08-16",
+      "radio_id": "trt",
+      "program_id": -87974,
+      "program_slug": "kulturler-arasinda",
+      "program_name": "Kültürler Arasında",
+      "program_start_time": "07:05",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-16",
+      "aired_at": "2026-08-16",
+      "track_count": 9
     },
     "trt/kulturler-arasinda/2026-08-09": {
       "episode_id": "trt/kulturler-arasinda/2026-08-09",
@@ -687,6 +723,18 @@
       "date": "2026-08-01",
       "aired_at": "2026-08-01",
       "track_count": 6
+    },
+    "trt/gece-ve-muzik/2026-08-16": {
+      "episode_id": "trt/gece-ve-muzik/2026-08-16",
+      "radio_id": "trt",
+      "program_id": -70136,
+      "program_slug": "gece-ve-muzik",
+      "program_name": "Gece ve Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 180.0,
+      "date": "2026-08-16",
+      "aired_at": "2026-08-16",
+      "track_count": 11
     },
     "trt/gece-ve-muzik/2026-08-15": {
       "episode_id": "trt/gece-ve-muzik/2026-08-15",
@@ -855,6 +903,18 @@
       "date": "2026-08-01",
       "aired_at": "2026-08-01",
       "track_count": 11
+    },
+    "trt/ebu-euroclassic-notturno/2026-08-16": {
+      "episode_id": "trt/ebu-euroclassic-notturno/2026-08-16",
+      "radio_id": "trt",
+      "program_id": -28718,
+      "program_slug": "ebu-euroclassic-notturno",
+      "program_name": "Ebu Euroclassıc Notturno",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-16",
+      "aired_at": "2026-08-16",
+      "track_count": 29
     },
     "trt/ebu-euroclassic-notturno/2026-08-15": {
       "episode_id": "trt/ebu-euroclassic-notturno/2026-08-15",

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-15T06:21:44.534710+00:00",
+  "generated_at": "2026-08-16T06:23:40.629197+00:00",
   "radio_id": "radyoodtu",
   "month": "2026-08",
   "songs": {
@@ -14,6 +14,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "82-jTNka3uc",
+      "alternatives": []
+    },
+    "00a051ea9b7cf04780c3": {
+      "song_id": "00a051ea9b7cf04780c3",
+      "title": "Vending Machine",
+      "artist": "Valley",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "o9b4v2Vc3FM",
       "alternatives": []
     },
     "012f16832257556bde6c": {
@@ -52,6 +64,30 @@
       "youtube_video_id": "qHagigQRKqU",
       "alternatives": []
     },
+    "0aad15f39f93dee6e903": {
+      "song_id": "0aad15f39f93dee6e903",
+      "title": "Body Talk",
+      "artist": "Imagination",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ltHAUKvuGcs",
+      "alternatives": []
+    },
+    "0aec6d57256be000982f": {
+      "song_id": "0aec6d57256be000982f",
+      "title": "Piano Man",
+      "artist": "Billy Joel",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "gxEPV4kolz0",
+      "alternatives": []
+    },
     "0b12fd49f3e1151b03a8": {
       "song_id": "0b12fd49f3e1151b03a8",
       "title": "From The Grave",
@@ -76,6 +112,18 @@
       "youtube_video_id": "HqMRbHy1q7w",
       "alternatives": []
     },
+    "0db452b347078007a65b": {
+      "song_id": "0db452b347078007a65b",
+      "title": "Lost Stars",
+      "artist": "Keira Knightley",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "DnX7PtkRdjM",
+      "alternatives": []
+    },
     "0f682ffaafb5161a14a5": {
       "song_id": "0f682ffaafb5161a14a5",
       "title": "TV",
@@ -86,6 +134,18 @@
       "mbid": "",
       "genre": "singer-songwriter; indie folk; contemporary folk",
       "youtube_video_id": "_JGGLJMpVks",
+      "alternatives": []
+    },
+    "1054baa8974c53cc1aa5": {
+      "song_id": "1054baa8974c53cc1aa5",
+      "title": "Half The World Away",
+      "artist": "Aurora",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "pop; indie; indie pop",
+      "youtube_video_id": "SYKU7DfEJT4",
       "alternatives": []
     },
     "11469585b62eb155bbd4": {
@@ -160,6 +220,42 @@
       "youtube_video_id": "vIpVavU0r8U",
       "alternatives": []
     },
+    "14ad6acfb82f88afb7c6": {
+      "song_id": "14ad6acfb82f88afb7c6",
+      "title": "No Time To Lose",
+      "artist": "Accept",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "EZU8ZTwzVzI",
+      "alternatives": []
+    },
+    "14c62c728220ff7d2d1b": {
+      "song_id": "14c62c728220ff7d2d1b",
+      "title": "50 Shades Of Black",
+      "artist": "Kovacs",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "sJJSzECNtQs",
+      "alternatives": []
+    },
+    "15f0c5f0129e3dd6d256": {
+      "song_id": "15f0c5f0129e3dd6d256",
+      "title": "Mi Mandi Rose",
+      "artist": "Mina",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "yspfTkkA47A",
+      "alternatives": []
+    },
     "15ff8c574bc961307a4d": {
       "song_id": "15ff8c574bc961307a4d",
       "title": "Oh Mother",
@@ -184,6 +280,18 @@
       "youtube_video_id": "jtoncUzV6nA",
       "alternatives": []
     },
+    "179005cb74bca25a1d43": {
+      "song_id": "179005cb74bca25a1d43",
+      "title": "Million Years Ago",
+      "artist": "Natalie Woodward and Richard Willats",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
+      "alternatives": []
+    },
     "1800f0dee2aa7128f373": {
       "song_id": "1800f0dee2aa7128f373",
       "title": "All Summer Long",
@@ -206,6 +314,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "YzUs8ohSB3w",
+      "alternatives": []
+    },
+    "190e1fcf57137f918307": {
+      "song_id": "190e1fcf57137f918307",
+      "title": "Landing In London (feat. Bob Seger)",
+      "artist": "3 Doors Down",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "rguhxKEBlr4",
       "alternatives": []
     },
     "19cb80f2fbc51398e489": {
@@ -244,6 +364,18 @@
       "youtube_video_id": "v1c2OfAzDTI",
       "alternatives": []
     },
+    "20ed52bb193d18a90046": {
+      "song_id": "20ed52bb193d18a90046",
+      "title": "Slave To Love",
+      "artist": "Bryan Ferry",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "UH1CMCtV4to",
+      "alternatives": []
+    },
     "226af8afe3252f66bfe0": {
       "song_id": "226af8afe3252f66bfe0",
       "title": "Blindfold",
@@ -280,6 +412,18 @@
       "youtube_video_id": "pLdJQFTnZfA",
       "alternatives": []
     },
+    "24c15b4c178ed1400d33": {
+      "song_id": "24c15b4c178ed1400d33",
+      "title": "Olive Branch",
+      "artist": "Alanis Morissette",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ocShcnKOjz8",
+      "alternatives": []
+    },
     "2558ab8dc76ed48d86e3": {
       "song_id": "2558ab8dc76ed48d86e3",
       "title": "Fireflies",
@@ -302,6 +446,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "J-CmEbXH90M",
+      "alternatives": []
+    },
+    "25900bc885cbffa12afa": {
+      "song_id": "25900bc885cbffa12afa",
+      "title": "Fading Like A Picture",
+      "artist": "DMA'S",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "z_NisO3_gVA",
       "alternatives": []
     },
     "269f8924cda87dff319a": {
@@ -376,6 +532,30 @@
       "youtube_video_id": "Aiay8I5IPB8",
       "alternatives": []
     },
+    "30a240f719406a8e669f": {
+      "song_id": "30a240f719406a8e669f",
+      "title": "Pour Que Tu M'aimes Encore",
+      "artist": "Il Divo",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "kHMOXf4KFz4",
+      "alternatives": []
+    },
+    "35de88fa40b39e831452": {
+      "song_id": "35de88fa40b39e831452",
+      "title": "I'm Into You",
+      "artist": "Chet Faker",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "electronic; downtempo; dance",
+      "youtube_video_id": "DuX2MkflGYs",
+      "alternatives": []
+    },
     "3793cfa7f94fab678b9a": {
       "song_id": "3793cfa7f94fab678b9a",
       "title": "Through Glass",
@@ -436,6 +616,42 @@
       "youtube_video_id": "Dbb7xeZGR-U",
       "alternatives": []
     },
+    "3f8d993fe6d4198b650a": {
+      "song_id": "3f8d993fe6d4198b650a",
+      "title": "New York",
+      "artist": "Paloma Faith",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "PZF7CDBj1U0",
+      "alternatives": []
+    },
+    "43dbeef73df2f33a9c84": {
+      "song_id": "43dbeef73df2f33a9c84",
+      "title": "Vision of Love",
+      "artist": "Rachelle Spring",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "2oBnor43bWU",
+      "alternatives": []
+    },
+    "44810b763ae264a426c8": {
+      "song_id": "44810b763ae264a426c8",
+      "title": "Brave",
+      "artist": "Josh Groban",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "McdMwOV0y6c",
+      "alternatives": []
+    },
     "45ceab1efd4ac4a00ad3": {
       "song_id": "45ceab1efd4ac4a00ad3",
       "title": "Nightshift Superstar",
@@ -484,6 +700,18 @@
       "youtube_video_id": "2YcSmYFkWmY",
       "alternatives": []
     },
+    "4bd002890bf1f8bfdc51": {
+      "song_id": "4bd002890bf1f8bfdc51",
+      "title": "drop dead",
+      "artist": "Olivia Rodrigo",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "78wrful9cVU",
+      "alternatives": []
+    },
     "4c685246087b7c23c8bd": {
       "song_id": "4c685246087b7c23c8bd",
       "title": "Bullets & Blades",
@@ -520,6 +748,18 @@
       "youtube_video_id": "dkQ0OJ5Byls",
       "alternatives": []
     },
+    "4e7ef7477190eea6b893": {
+      "song_id": "4e7ef7477190eea6b893",
+      "title": "Harvest Moon",
+      "artist": "Neil Young",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; folk rock; folk",
+      "youtube_video_id": "n2MtEsrcTTs",
+      "alternatives": []
+    },
     "4fa2f8d83b3461586394": {
       "song_id": "4fa2f8d83b3461586394",
       "title": "Save Me, San Francisco",
@@ -542,6 +782,18 @@
       "mbid": "",
       "genre": "blues",
       "youtube_video_id": "z4A6o-yf-ao",
+      "alternatives": []
+    },
+    "5051261d37af9813db2b": {
+      "song_id": "5051261d37af9813db2b",
+      "title": "Love Song",
+      "artist": "311",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "egX9ZDaIrkU",
       "alternatives": []
     },
     "5181f2abfbf590beb9b4": {
@@ -628,6 +880,30 @@
       "youtube_video_id": "jsCR05oKROA",
       "alternatives": []
     },
+    "56d5e874df8d8dd95d6d": {
+      "song_id": "56d5e874df8d8dd95d6d",
+      "title": "Mess I Made",
+      "artist": "St. Paul & The Broken Bones",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "A5Ku8BJ_6C0",
+      "alternatives": []
+    },
+    "56ea0a5153f11929a653": {
+      "song_id": "56ea0a5153f11929a653",
+      "title": "Frozen",
+      "artist": "Madonna",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "XS088Opj9o0",
+      "alternatives": []
+    },
     "56f8cc4551de305cdbae": {
       "song_id": "56f8cc4551de305cdbae",
       "title": "Million Reasons",
@@ -664,6 +940,18 @@
       "youtube_video_id": "",
       "alternatives": []
     },
+    "5b1dacf1bf2b578668ad": {
+      "song_id": "5b1dacf1bf2b578668ad",
+      "title": "My Body Isn't Ready",
+      "artist": "sombr",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ofywN3NgGqY",
+      "alternatives": []
+    },
     "5b54df660298fafcacdf": {
       "song_id": "5b54df660298fafcacdf",
       "title": "Beautiful",
@@ -698,6 +986,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "5NfN8l1LktI",
+      "alternatives": []
+    },
+    "623158707eae89c05398": {
+      "song_id": "623158707eae89c05398",
+      "title": "Last Kiss",
+      "artist": "Pearl Jam",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "grunge",
+      "youtube_video_id": "tNDWJ_KDkAc",
+      "alternatives": []
+    },
+    "62f95004af4315c4c9a4": {
+      "song_id": "62f95004af4315c4c9a4",
+      "title": "Easy",
+      "artist": "Lionel Richie",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "soul; r&b; motown",
+      "youtube_video_id": "0XRrYgByp28",
       "alternatives": []
     },
     "635db06bbb0ed37b8e47": {
@@ -808,6 +1120,18 @@
       "youtube_video_id": "9OFpfTd0EIs",
       "alternatives": []
     },
+    "6961fd64315b7cbf7e6d": {
+      "song_id": "6961fd64315b7cbf7e6d",
+      "title": "4 Seasons",
+      "artist": "Ellie Goulding",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "LgHfFlBjgNg",
+      "alternatives": []
+    },
     "69dca7688ce43401570e": {
       "song_id": "69dca7688ce43401570e",
       "title": "He's The Greatest Dancer",
@@ -844,6 +1168,18 @@
       "youtube_video_id": "Vzo-EL_62fQ",
       "alternatives": []
     },
+    "6b6789a230a6ef8e6a7a": {
+      "song_id": "6b6789a230a6ef8e6a7a",
+      "title": "Sway (Quien Sera)",
+      "artist": "Dean Martin",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "J76ExFgg0Vs",
+      "alternatives": []
+    },
     "6c1c66b14152fbfe09d3": {
       "song_id": "6c1c66b14152fbfe09d3",
       "title": "Lose It",
@@ -868,6 +1204,18 @@
       "youtube_video_id": "8fGLiIvKKys",
       "alternatives": []
     },
+    "6d7c9ed73d0a2875d79d": {
+      "song_id": "6d7c9ed73d0a2875d79d",
+      "title": "America",
+      "artist": "Razorlight",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "indie; rock; pop",
+      "youtube_video_id": "V9NhncU5_CE",
+      "alternatives": []
+    },
     "6e1455d623ebf5702578": {
       "song_id": "6e1455d623ebf5702578",
       "title": "With This Tear",
@@ -878,6 +1226,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "OVvEfey2bmg",
+      "alternatives": []
+    },
+    "6e94a606e705b653da3f": {
+      "song_id": "6e94a606e705b653da3f",
+      "title": "Love Don't Live Here Anymore",
+      "artist": "Madonna",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "pop; ballad; electronic",
+      "youtube_video_id": "TY1UdLLw7TQ",
       "alternatives": []
     },
     "6eeb81376ca20ad2a49d": {
@@ -916,6 +1276,18 @@
       "youtube_video_id": "9vwHuCC6nP8",
       "alternatives": []
     },
+    "70ec0cdac9ab5b4aa7fc": {
+      "song_id": "70ec0cdac9ab5b4aa7fc",
+      "title": "Baby, I Love Your Way",
+      "artist": "Peter Frampton",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "odt9rlJoUQE",
+      "alternatives": []
+    },
     "7166444eba93308d151f": {
       "song_id": "7166444eba93308d151f",
       "title": "Dancing Without You",
@@ -926,6 +1298,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "90g4ganogSg",
+      "alternatives": []
+    },
+    "716ef6dbdc6a00abc193": {
+      "song_id": "716ef6dbdc6a00abc193",
+      "title": "Wild World",
+      "artist": "Mr. Big",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Za9LY6Q3EuI",
       "alternatives": []
     },
     "741b37b635bb3db74073": {
@@ -950,6 +1334,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Bm1g5Yg0hUw",
+      "alternatives": []
+    },
+    "750b758d8cdfa5c86b57": {
+      "song_id": "750b758d8cdfa5c86b57",
+      "title": "La Fama No Me Cambiara",
+      "artist": "Peret",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "5hnzbL2Nyvo",
       "alternatives": []
     },
     "75e22bf32b0593e0b44f": {
@@ -1012,6 +1408,18 @@
       "youtube_video_id": "jFCTQ68gxoY",
       "alternatives": []
     },
+    "7a7def9d10e27131a9e9": {
+      "song_id": "7a7def9d10e27131a9e9",
+      "title": "Everything Burns",
+      "artist": "Ben Moody feat. Anastacia",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "iQfCzHA8d-k",
+      "alternatives": []
+    },
     "7aec33a0bc4158f35d98": {
       "song_id": "7aec33a0bc4158f35d98",
       "title": "Something To Be Said",
@@ -1034,6 +1442,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "ulZQTrV8QlQ",
+      "alternatives": []
+    },
+    "83a617af475ccf85a016": {
+      "song_id": "83a617af475ccf85a016",
+      "title": "Postcards From Heaven",
+      "artist": "Lighthouse Family",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "aEbLlr-q9rY",
       "alternatives": []
     },
     "85e7bc94c6e147233d39": {
@@ -1132,6 +1552,18 @@
       "youtube_video_id": "W0I6ZtWdM-Q",
       "alternatives": []
     },
+    "9017cc163b104ffa7e01": {
+      "song_id": "9017cc163b104ffa7e01",
+      "title": "White Flag",
+      "artist": "Dido",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "pop; ballad",
+      "youtube_video_id": "j-fWDrZSiZs",
+      "alternatives": []
+    },
     "90c27045e148c05a42cb": {
       "song_id": "90c27045e148c05a42cb",
       "title": "Seven Nation Army",
@@ -1156,6 +1588,18 @@
       "youtube_video_id": "6gm9IWUuus0",
       "alternatives": []
     },
+    "9150e9fae8a5b62dfdfb": {
+      "song_id": "9150e9fae8a5b62dfdfb",
+      "title": "Young At Heart",
+      "artist": "Michael Buble",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "j4kqxfreSQI",
+      "alternatives": []
+    },
     "9264da04e7e6fa63742d": {
       "song_id": "9264da04e7e6fa63742d",
       "title": "By My Side",
@@ -1178,6 +1622,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "b_8r0CdM7Bo",
+      "alternatives": []
+    },
+    "98bab35972f551547341": {
+      "song_id": "98bab35972f551547341",
+      "title": "Kiss The Rain (Acoustic)",
+      "artist": "Billie Myers",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "lfmNZLk11MY",
       "alternatives": []
     },
     "9a0681fc531c7d5e8c1a": {
@@ -1258,6 +1714,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "OcW-BSEB3ng",
+      "alternatives": []
+    },
+    "a12ae6cc553e182d3272": {
+      "song_id": "a12ae6cc553e182d3272",
+      "title": "Ghosttown",
+      "artist": "Madonna",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "GgDxv0Qg_Rg",
       "alternatives": []
     },
     "a19bedf44eceeb211fae": {
@@ -1344,6 +1812,18 @@
       "youtube_video_id": "yOJ3X5c-wI4",
       "alternatives": []
     },
+    "ac024d38961194418bb5": {
+      "song_id": "ac024d38961194418bb5",
+      "title": "Secret Garden",
+      "artist": "Bruce Springsteen",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "KgsmQpvY17s",
+      "alternatives": []
+    },
     "b07772175ba4912d2280": {
       "song_id": "b07772175ba4912d2280",
       "title": "SO GOOD",
@@ -1392,6 +1872,18 @@
       "youtube_video_id": "B402rKl4bUg",
       "alternatives": []
     },
+    "b248b5166399beab7b1c": {
+      "song_id": "b248b5166399beab7b1c",
+      "title": "My Confession",
+      "artist": "Danny Vera",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "JHaOIiZRfx4",
+      "alternatives": []
+    },
     "b29eef26077dc530fbe6": {
       "song_id": "b29eef26077dc530fbe6",
       "title": "Walls Come Down",
@@ -1414,6 +1906,18 @@
       "mbid": "",
       "genre": "billboard hot 100; billboard hot 100 2026",
       "youtube_video_id": "RGq8HhCxYrM",
+      "alternatives": []
+    },
+    "b7250be75a18742e8a2f": {
+      "song_id": "b7250be75a18742e8a2f",
+      "title": "Oceans",
+      "artist": "Seafret",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "aqsL0QQaSP4",
       "alternatives": []
     },
     "b72d4a62f46f23bafbbf": {
@@ -1440,6 +1944,18 @@
       "youtube_video_id": "StKVS0eI85I",
       "alternatives": []
     },
+    "ba51034940b5401d2481": {
+      "song_id": "ba51034940b5401d2481",
+      "title": "Favola Breve",
+      "artist": "Emma Shapplin",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Se_kSwv8Yik",
+      "alternatives": []
+    },
     "ba96fcc5917687d6ba55": {
       "song_id": "ba96fcc5917687d6ba55",
       "title": "Faith",
@@ -1450,6 +1966,30 @@
       "mbid": "",
       "genre": "pop; disco; funk",
       "youtube_video_id": "6Cs3Pvmmv0E",
+      "alternatives": []
+    },
+    "bc4b2bd857679b1b8f25": {
+      "song_id": "bc4b2bd857679b1b8f25",
+      "title": "You And I",
+      "artist": "Wilco",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "HYhQ2ReEyvQ",
+      "alternatives": []
+    },
+    "bd97dd3a1cda4cec6c44": {
+      "song_id": "bd97dd3a1cda4cec6c44",
+      "title": "Undress Me",
+      "artist": "Anggun",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "m0Egr_tMt5s",
       "alternatives": []
     },
     "c005dd6c916b893c9e58": {
@@ -1524,6 +2064,18 @@
       "youtube_video_id": "qFLhGq0060w",
       "alternatives": []
     },
+    "c6a27e21d162ca9cd0ec": {
+      "song_id": "c6a27e21d162ca9cd0ec",
+      "title": "Unwell",
+      "artist": "Matchbox Twenty",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "WziA88-n02k",
+      "alternatives": []
+    },
     "c6ce3df5a87e96d756d6": {
       "song_id": "c6ce3df5a87e96d756d6",
       "title": "I'd Be Lyin'",
@@ -1560,6 +2112,42 @@
       "youtube_video_id": "V9vuCByb6js",
       "alternatives": []
     },
+    "c951b13e6de7bcd98a82": {
+      "song_id": "c951b13e6de7bcd98a82",
+      "title": "Timing",
+      "artist": "Kevin Johansen",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "2syWy_95sOg",
+      "alternatives": []
+    },
+    "cac12d5f3548b4bf25b7": {
+      "song_id": "cac12d5f3548b4bf25b7",
+      "title": "Different Kind Of Love",
+      "artist": "Young the Giant",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Sh8e_n-H2AY",
+      "alternatives": []
+    },
+    "cda08bf4659cc85afa02": {
+      "song_id": "cda08bf4659cc85afa02",
+      "title": "Baby I'm A Fool",
+      "artist": "Melody Gardot",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "_qphknagXqA",
+      "alternatives": []
+    },
     "cee2e8d618e930120211": {
       "song_id": "cee2e8d618e930120211",
       "title": "Candy",
@@ -1582,6 +2170,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "_pDTiszST3E",
+      "alternatives": []
+    },
+    "cf4fe1badcc918bb1716": {
+      "song_id": "cf4fe1badcc918bb1716",
+      "title": "Moon River",
+      "artist": "Louis Armstrong",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "WQDaop9onHE",
       "alternatives": []
     },
     "d02cc7a1e6221a4b5680": {
@@ -1680,6 +2280,30 @@
       "youtube_video_id": "tfXhFYzm7qQ",
       "alternatives": []
     },
+    "da5c696c19a4c26fd2bf": {
+      "song_id": "da5c696c19a4c26fd2bf",
+      "title": "Money Don't Matter 2 Night",
+      "artist": "Prince",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "AmGVAu9lk6I",
+      "alternatives": []
+    },
+    "dad4c96613ff10ea7a0d": {
+      "song_id": "dad4c96613ff10ea7a0d",
+      "title": "Bang Bang (My Baby Shot Me Down)",
+      "artist": "Nancy Sinatra",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "qgDrpWWxuto",
+      "alternatives": []
+    },
     "dca7e8ca8945a9416fb7": {
       "song_id": "dca7e8ca8945a9416fb7",
       "title": "Maria",
@@ -1776,6 +2400,18 @@
       "youtube_video_id": "ep0dgzX2hqQ",
       "alternatives": []
     },
+    "e60e3eeb982a6e7b48e1": {
+      "song_id": "e60e3eeb982a6e7b48e1",
+      "title": "First Time",
+      "artist": "Macy Gray",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "voO_ZHqq6oY",
+      "alternatives": []
+    },
     "e6f7844942ad73b6d965": {
       "song_id": "e6f7844942ad73b6d965",
       "title": "Clothesline",
@@ -1848,6 +2484,18 @@
       "youtube_video_id": "4Ba_qTPA4Ds",
       "alternatives": []
     },
+    "f0515f05b21a073a2a46": {
+      "song_id": "f0515f05b21a073a2a46",
+      "title": "J'ai Tout Oublié (feat. Cristina Marocco)",
+      "artist": "Marc Lavoine",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "WYoarzvzs6I",
+      "alternatives": []
+    },
     "f3ed8bc6c50f96d279e2": {
       "song_id": "f3ed8bc6c50f96d279e2",
       "title": "other side.",
@@ -1894,6 +2542,42 @@
       "mbid": "",
       "genre": "billboard hot 100; billboard hot 100 2026",
       "youtube_video_id": "G4ESkz4dviA",
+      "alternatives": []
+    },
+    "f6af299b8f543a77d8ad": {
+      "song_id": "f6af299b8f543a77d8ad",
+      "title": "Soon We'll Be Found",
+      "artist": "Sia",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "t1x8DMfbYN4",
+      "alternatives": []
+    },
+    "f727db32b8bbdd8b4be2": {
+      "song_id": "f727db32b8bbdd8b4be2",
+      "title": "Soulmate",
+      "artist": "Natasha Bedingfield",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "P27MPi3ZhCg",
+      "alternatives": []
+    },
+    "f72dfad81e4ef748528d": {
+      "song_id": "f72dfad81e4ef748528d",
+      "title": "I Don't Want To Change You",
+      "artist": "Damien Rice",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; pop; folk",
+      "youtube_video_id": "FnzHOsiaJns",
       "alternatives": []
     },
     "f72fc70888363155f5e3": {
@@ -1966,6 +2650,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Kgjkth6BRRY",
+      "alternatives": []
+    },
+    "fe53074fb1b9bca265fd": {
+      "song_id": "fe53074fb1b9bca265fd",
+      "title": "Lover's Will",
+      "artist": "Bonnie Raitt",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "blues; blues rock; adult contemporary",
+      "youtube_video_id": "Ep6Bx980srs",
       "alternatives": []
     },
     "feed68602c98cfe5f954": {
