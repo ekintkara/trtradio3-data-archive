@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-16T06:23:40.629197+00:00",
+  "generated_at": "2026-08-17T06:35:37.825309+00:00",
   "radio_id": "trt",
   "month": "2026-08",
   "songs": {
@@ -86,6 +86,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "payp9vkQYSw",
+      "alternatives": []
+    },
+    "03593d79fe56c7159e24": {
+      "song_id": "03593d79fe56c7159e24",
+      "title": "Piano Concerto No. 5: Adagio un poco moto",
+      "artist": "Iván Fischer, Budapest Festival Orchestra & Richard Goode",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "RzJvPcZ8Jlg",
       "alternatives": []
     },
     "05da149fdf54edaaa390": {
@@ -242,6 +254,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "OlNC6gK2y0I",
+      "alternatives": []
+    },
+    "0b775be1cb614649c733": {
+      "song_id": "0b775be1cb614649c733",
+      "title": "Piano Concerto No. 5 in E Flat op. 73 \"Emperor\", Rondo: Allegro",
+      "artist": "Alfred Brendel & Zubin Mehta",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "w7HPqlJO6Hg",
       "alternatives": []
     },
     "0cd617679491092c1bd5": {
@@ -412,6 +436,18 @@
       "youtube_video_id": "FBN0SX2L2ao",
       "alternatives": []
     },
+    "156613ca8951ea4fad66": {
+      "song_id": "156613ca8951ea4fad66",
+      "title": "1999〜2001-sozai-2",
+      "artist": "宮崎慎二",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "d0MHpMruRd4",
+      "alternatives": []
+    },
     "16280cdb67089eddad55": {
       "song_id": "16280cdb67089eddad55",
       "title": "Toxic Positivity",
@@ -494,6 +530,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "i703-Y8Y5uo",
+      "alternatives": []
+    },
+    "19935ce96847875bcf48": {
+      "song_id": "19935ce96847875bcf48",
+      "title": "THE SCOTTS",
+      "artist": "THE SCOTTS, Travis Scott & Kid Cudi",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "sw4r0k8WWqU",
       "alternatives": []
     },
     "19baa7d24ee0abc7ddae": {
@@ -616,6 +664,25 @@
       "youtube_video_id": "aVbbYYUMI-c",
       "alternatives": []
     },
+    "21104449648207d323ed": {
+      "song_id": "21104449648207d323ed",
+      "title": "Piano Concerto in A Minor, Op. 16: 1. Allegro molto moderato",
+      "artist": "Simon Tedeschi, The Queensland Symphony Orchestra & Richard Bonynge",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "5MwIRR4cC7I",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto In A Minor, Op. 16, First Movement: Allegro Molto Moderato - Cadenza - Allegro Molto Moderato",
+          "artist": "Arthur Rubinstein, The RCA Victor Orchestra & Alfred Wallenstein",
+          "confidence": 0.55
+        }
+      ]
+    },
     "226a154816263a11abbe": {
       "song_id": "226a154816263a11abbe",
       "title": "Concerto No. 5 in E-Flat Major for Piano and Orchestra, Op. 73 \"Emperor\": III. Rondo. Allegro",
@@ -674,6 +741,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "CGgD7c7AnJw",
+      "alternatives": []
+    },
+    "2485be5c3367b4123570": {
+      "song_id": "2485be5c3367b4123570",
+      "title": "No Point Trying",
+      "artist": "Scott Martin",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "agvvYTd7b1Y",
       "alternatives": []
     },
     "2491e8b2ab5755267403": {
@@ -844,6 +923,18 @@
       "youtube_video_id": "HfPE3cgYyco",
       "alternatives": []
     },
+    "2b1c0f73af755e941010": {
+      "song_id": "2b1c0f73af755e941010",
+      "title": "Metamorphosis",
+      "artist": "David Clavijo",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "qhZaJDZsml4",
+      "alternatives": []
+    },
     "2b1d251296cd7c0443f7": {
       "song_id": "2b1d251296cd7c0443f7",
       "title": "Symphony No. 3 In F Major, Op. 90: III. Poco Allegretto",
@@ -928,6 +1019,37 @@
       "youtube_video_id": "AScU__9iDxE",
       "alternatives": []
     },
+    "2d50eee83460dd85ab2d": {
+      "song_id": "2d50eee83460dd85ab2d",
+      "title": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": I. Allegro",
+      "artist": "The Cleveland Orchestra, George Szell & Leon Fleisher",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "zoa6zm1f0_g",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": I. Allegro",
+          "artist": "Arthur Rubinstein, Boston Symphony Orchestra & Erich Leinsdorf",
+          "confidence": 0.55
+        }
+      ]
+    },
+    "2df291d8cdd734427103": {
+      "song_id": "2df291d8cdd734427103",
+      "title": "Rue des trois frères",
+      "artist": "Fabrizio Paterlini",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "fsDZqNLBfNo",
+      "alternatives": []
+    },
     "2eae8b2e3caccaeedfb6": {
       "song_id": "2eae8b2e3caccaeedfb6",
       "title": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": I. Allegro",
@@ -988,6 +1110,18 @@
       "youtube_video_id": "ITidiBe-0T0",
       "alternatives": []
     },
+    "317da80906a1eae9e264": {
+      "song_id": "317da80906a1eae9e264",
+      "title": "Piano Sonata in C, H. XVI No. 50: I. Allegro",
+      "artist": "Alfred Brendel",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "iTk4y0pdCCY",
+      "alternatives": []
+    },
     "3442fa7d8372569f0445": {
       "song_id": "3442fa7d8372569f0445",
       "title": "Tango Amongst the Lilies",
@@ -998,6 +1132,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Ngjuk3cQtlg",
+      "alternatives": []
+    },
+    "3509e59096f596793132": {
+      "song_id": "3509e59096f596793132",
+      "title": "Sweet Water",
+      "artist": "The Meltdown",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "d9pQZYqkmpk",
       "alternatives": []
     },
     "368ef72bbb26f1def223": {
@@ -1180,6 +1326,18 @@
       "youtube_video_id": "WDxsEqGRVeM",
       "alternatives": []
     },
+    "4055784d2a8df730eab8": {
+      "song_id": "4055784d2a8df730eab8",
+      "title": "Piano Concerto No. 5, 'Emperor' Op. 73: I. Allegro",
+      "artist": "Emil Gilels, Philharmonia Orchestra & Leopold Ludwig",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "S6v3SdsNZoU",
+      "alternatives": []
+    },
     "40634d1837e62037226c": {
       "song_id": "40634d1837e62037226c",
       "title": "Double Click",
@@ -1296,6 +1454,18 @@
       "youtube_video_id": "Hdnil82ufj0",
       "alternatives": []
     },
+    "47ef3e4d6a4d96df4703": {
+      "song_id": "47ef3e4d6a4d96df4703",
+      "title": "Ma patrie : II. La Moldau (Vltava)",
+      "artist": "Slovak Philharmonic Orchestra & Kurt Redel",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "2QAacMXj1RM",
+      "alternatives": []
+    },
     "48b968161a02dbd9a9ec": {
       "song_id": "48b968161a02dbd9a9ec",
       "title": "Teleport 2 Me, Jamie (feat. Desire)",
@@ -1344,6 +1514,31 @@
       "youtube_video_id": "1Cpq_X6bDDw",
       "alternatives": []
     },
+    "4cd62bd19cb0bbdf1277": {
+      "song_id": "4cd62bd19cb0bbdf1277",
+      "title": "Fantasia in F Minor for Piano, Four Hands, D. 940 (Op. 103)",
+      "artist": "Murray Perahia & Radu Lupu",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "gbwPQ-s37p4",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Fantasia in F Minor for Piano Four Hands, D. 940",
+          "artist": "David Fray & Jacques Rouvier",
+          "confidence": 0.55
+        },
+        {
+          "source": "shazamio",
+          "title": "Fantasia in F Minor for Piano Four Hands, D. 940",
+          "artist": "David Fray & Jacques Rouvier",
+          "confidence": 0.55
+        }
+      ]
+    },
     "4d33291400e35dc8f0c0": {
       "song_id": "4d33291400e35dc8f0c0",
       "title": "Mystic",
@@ -1368,6 +1563,31 @@
       "youtube_video_id": "WG3QoslAZmQ",
       "alternatives": []
     },
+    "4efa38cbced25f18b74a": {
+      "song_id": "4efa38cbced25f18b74a",
+      "title": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": 1. Allegro",
+      "artist": "YUNDI, Daniel Harding & Berlin Philharmonic",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "S5VS84ro0Ug",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": 3. Rondo (Allegro)",
+          "artist": "YUNDI, Daniel Harding & Berlin Philharmonic",
+          "confidence": 0.55
+        },
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": 3. Rondo. Allegro (Live from Elder Hall, University of Adelaide, 2019)",
+          "artist": "Jayson Gillham, Adelaide Symphony Orchestra & Nicholas Carter",
+          "confidence": 0.55
+        }
+      ]
+    },
     "4fe9d8299f1116a3a916": {
       "song_id": "4fe9d8299f1116a3a916",
       "title": "Concerto symphonique No. 4 in D Minor, Op. 102: II. Scherzo",
@@ -1390,6 +1610,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "wng6-wmIikA",
+      "alternatives": []
+    },
+    "50b4da737676fcc3dd38": {
+      "song_id": "50b4da737676fcc3dd38",
+      "title": "Bagatelle in A Minor, WoO 59 \"Für Elise\"",
+      "artist": "Dorian Hale",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "A96mnnC9Rjw",
       "alternatives": []
     },
     "5228e4146768a68885f1": {
@@ -1426,6 +1658,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "4sJnwBAbY50",
+      "alternatives": []
+    },
+    "52d4193e67dc41b83845": {
+      "song_id": "52d4193e67dc41b83845",
+      "title": "Flute Sonata No. 2 in E-Flat Major, BWV 1031: II. Siciliano (Arr. for Piano by Kempff)",
+      "artist": "Andrew von Oeyen",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "WjVr6E4Fr80",
       "alternatives": []
     },
     "54f491ea1b87df91cc94": {
@@ -1558,6 +1802,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "QYHxGBH6o4M",
+      "alternatives": []
+    },
+    "5b2f22ac48a6c79dae95": {
+      "song_id": "5b2f22ac48a6c79dae95",
+      "title": "Piano Sonata, Op. 1",
+      "artist": "Jong-Gyung Park",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "fmc3z6nTwmc",
       "alternatives": []
     },
     "5b54df660298fafcacdf": {
@@ -1716,6 +1972,18 @@
       "youtube_video_id": "bUjgLy7b9WY",
       "alternatives": []
     },
+    "62d0b4296f4218757156": {
+      "song_id": "62d0b4296f4218757156",
+      "title": "Concerto for Piano and Orchestra No. 5 in E-Flat Major, Op. 73: II. Adagio un poco moto - attacca",
+      "artist": "Leif Ove Andsnes & Mahler Chamber Orchestra",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "k5RFxruMPd0",
+      "alternatives": []
+    },
     "636b2364eea169cec296": {
       "song_id": "636b2364eea169cec296",
       "title": "Je suis malade",
@@ -1786,6 +2054,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "SRGLCo1LpoU",
+      "alternatives": []
+    },
+    "6778d2f41bfb6d6af8d7": {
+      "song_id": "6778d2f41bfb6d6af8d7",
+      "title": "I Got the Blues",
+      "artist": "Sam Myers",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "N-KluFB9A8M",
       "alternatives": []
     },
     "6827dc2cde98a2054395": {
@@ -1968,6 +2248,37 @@
       "youtube_video_id": "rkmD-ZGdnWs",
       "alternatives": []
     },
+    "71de26074317c7c35b4d": {
+      "song_id": "71de26074317c7c35b4d",
+      "title": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": III. Rondo (Allegro)",
+      "artist": "Hélène Grimaud, Staatskapelle Dresden & Wladimir Jurowski",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "27KVFDq65yI",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 5 in E-Flat Major, Op. 73, 'Emporer': III. Rondo - Allegro",
+          "artist": "Royal Philharmonic Orchestra & Mario Galeani",
+          "confidence": 0.55
+        },
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": III. Rondo. Allegro",
+          "artist": "The Cleveland Orchestra, George Szell & Leon Fleisher",
+          "confidence": 0.55
+        },
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": III. Rondo. Allegro",
+          "artist": "The Cleveland Orchestra, George Szell & Leon Fleisher",
+          "confidence": 0.55
+        }
+      ]
+    },
     "73d88e38ef3171515825": {
       "song_id": "73d88e38ef3171515825",
       "title": "Sale mood (feat. Booba)",
@@ -2028,6 +2339,18 @@
       "youtube_video_id": "DoJtctyKGxY",
       "alternatives": []
     },
+    "76e8e9e5dfc4994c7500": {
+      "song_id": "76e8e9e5dfc4994c7500",
+      "title": "Siciliano",
+      "artist": "Nimrod David Pfeffer",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "KN7w74G5B9E",
+      "alternatives": []
+    },
     "76f025b6dad604d9e468": {
       "song_id": "76f025b6dad604d9e468",
       "title": "Till I Loved You (feat. Don Johnson)",
@@ -2050,6 +2373,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "SBNqBITh3Ds",
+      "alternatives": []
+    },
+    "774934b2d13b3e10ea1c": {
+      "song_id": "774934b2d13b3e10ea1c",
+      "title": "Má Vlast (My Country) - Cycle of Six Symphonic Poems: II. Vltava (The Moldau River)",
+      "artist": "London Symphony Orchestra & Frank Shipway",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
       "alternatives": []
     },
     "7796661a3cbade83e068": {
@@ -2172,6 +2507,18 @@
       "youtube_video_id": "iKlZVlaVGvE",
       "alternatives": []
     },
+    "7ce6e24ddeac9b48f27f": {
+      "song_id": "7ce6e24ddeac9b48f27f",
+      "title": "Glory 3usi9 (feat. Hatsune Miku)",
+      "artist": "Nanou",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "RbOMpBTtDJg",
+      "alternatives": []
+    },
     "7d39f4e1e3a5a4e889bb": {
       "song_id": "7d39f4e1e3a5a4e889bb",
       "title": "Rialto Ripples (Rag)",
@@ -2218,6 +2565,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "QKqN06oBJss",
+      "alternatives": []
+    },
+    "7e8938f595594ed3bce4": {
+      "song_id": "7e8938f595594ed3bce4",
+      "title": "The Glory of the Lord",
+      "artist": "Jacob Agendia",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Zw1-uxZbNL0",
+      "alternatives": []
+    },
+    "7ede40ca2355c2dcca14": {
+      "song_id": "7ede40ca2355c2dcca14",
+      "title": "Wondering Why",
+      "artist": "The Red Clay Strays",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "JbxfFKvoAU4",
       "alternatives": []
     },
     "81fac8d4b7657e906cce": {
@@ -2376,6 +2747,18 @@
       "youtube_video_id": "-jPdXvoU1H0",
       "alternatives": []
     },
+    "89a29747924285da1230": {
+      "song_id": "89a29747924285da1230",
+      "title": "Guess My Crush",
+      "artist": "OTTO & Max Beirne Shafer",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "hbEgwkz0bjA",
+      "alternatives": []
+    },
     "8a39bb7987a1dc4c1c21": {
       "song_id": "8a39bb7987a1dc4c1c21",
       "title": "Pictures at an Exhibition",
@@ -2448,6 +2831,18 @@
       "youtube_video_id": "XOD4V-U1cLU",
       "alternatives": []
     },
+    "8ccc420aea3d3b58bd8d": {
+      "song_id": "8ccc420aea3d3b58bd8d",
+      "title": "Heatwave Nights",
+      "artist": "harn",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "GTR27qWXGqU",
+      "alternatives": []
+    },
     "8d2c550aa02d2f6946d1": {
       "song_id": "8d2c550aa02d2f6946d1",
       "title": "Reality",
@@ -2514,6 +2909,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "IWi7PGH4abY",
+      "alternatives": []
+    },
+    "8ef8b198704d2328a750": {
+      "song_id": "8ef8b198704d2328a750",
+      "title": "Late Night City Blues",
+      "artist": "The Chris Cain Band",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "2w8zvrnSlr0",
       "alternatives": []
     },
     "8f35274fd9d5d8809e14": {
@@ -2684,6 +3091,18 @@
       "youtube_video_id": "Do9XSUd3jC8",
       "alternatives": []
     },
+    "98416fc980b8c3c29cee": {
+      "song_id": "98416fc980b8c3c29cee",
+      "title": "Watcher",
+      "artist": "Aaron Cherof & Minecraft",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "CcAV71mXg_8",
+      "alternatives": []
+    },
     "98ef32f39042344ebe60": {
       "song_id": "98ef32f39042344ebe60",
       "title": "Bloom within Fire",
@@ -2758,6 +3177,18 @@
       "youtube_video_id": "q7G5orUo-rc",
       "alternatives": []
     },
+    "9cc06d9573ee1dbc9c99": {
+      "song_id": "9cc06d9573ee1dbc9c99",
+      "title": "À l'état pur",
+      "artist": "Soledad",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "HTWxf_ptAss",
+      "alternatives": []
+    },
     "9ce258bfcd9d5b8c7f8d": {
       "song_id": "9ce258bfcd9d5b8c7f8d",
       "title": "Time to Say Goodbye (Con Te Partirò)",
@@ -2768,6 +3199,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "4L_yCwFD6Jo",
+      "alternatives": []
+    },
+    "9eef1db248b66a589895": {
+      "song_id": "9eef1db248b66a589895",
+      "title": "Goldberg Variations, BWV 988, Aria, Variations 1, 2, 3",
+      "artist": "Peter Serkin",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Z1bOubfUfsY",
+      "alternatives": []
+    },
+    "9efbbb8342ee76108c01": {
+      "song_id": "9efbbb8342ee76108c01",
+      "title": "Perfect Business",
+      "artist": "Electric Instrumental Vibes",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "-uOUir_YSTw",
       "alternatives": []
     },
     "9effc12a97a5ab87d227": {
@@ -2950,6 +3405,18 @@
       "youtube_video_id": "WaSbkQB87M8",
       "alternatives": []
     },
+    "a704f7a5a8b58597c6f0": {
+      "song_id": "a704f7a5a8b58597c6f0",
+      "title": "Java (Kim Svärd Remix)",
+      "artist": "Black Pearl",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "GF2ga3WJ4PQ",
+      "alternatives": []
+    },
     "a716ad7e4363c8df7878": {
       "song_id": "a716ad7e4363c8df7878",
       "title": "La Bohème: \"Che gelida manina\"",
@@ -3034,6 +3501,30 @@
       "youtube_video_id": "1kofixtz2Us",
       "alternatives": []
     },
+    "aa354f707c070102a20e": {
+      "song_id": "aa354f707c070102a20e",
+      "title": "Double Trouble",
+      "artist": "Sean Costello",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "BBsTCqk4Vs4",
+      "alternatives": []
+    },
+    "aad0eca701e7e595fae2": {
+      "song_id": "aad0eca701e7e595fae2",
+      "title": "Estampes, L. 100: No. 1, Pagodes",
+      "artist": "Marie Vermeulin",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "RYBgC1JQt98",
+      "alternatives": []
+    },
     "aaec3d01a711bfb2d192": {
       "song_id": "aaec3d01a711bfb2d192",
       "title": "Emphasis",
@@ -3083,6 +3574,31 @@
       "youtube_video_id": "o60t9tp4Kvg",
       "alternatives": []
     },
+    "ad910331c659cd49af2f": {
+      "song_id": "ad910331c659cd49af2f",
+      "title": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": II. Adagio un poco mosso",
+      "artist": "The Cleveland Orchestra, George Szell & Leon Fleisher",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "uNd2WU0G-G8",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": II. Adagio un poco moto",
+          "artist": "Stefan Vladar & Wiener Kammerorchester",
+          "confidence": 0.55
+        },
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": II. Adagio un poco mosso - III. Rondo. Allegro (Live)",
+          "artist": "Walter Gieseking, NHK Symphony Orchestra, Kurt Wöss & NHK Radio Announcer",
+          "confidence": 0.55
+        }
+      ]
+    },
     "adce28aa78bdbcbf5130": {
       "song_id": "adce28aa78bdbcbf5130",
       "title": "Somos Novios (It's Impossible)",
@@ -3125,6 +3641,18 @@
           "confidence": 0.55
         }
       ]
+    },
+    "b08c1fee4560fad05e35": {
+      "song_id": "b08c1fee4560fad05e35",
+      "title": "Blue Jean Blues",
+      "artist": "The Jeff Healey Band",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "d0uWqs-ane0",
+      "alternatives": []
     },
     "b12b8521e34e3e7ff7c3": {
       "song_id": "b12b8521e34e3e7ff7c3",
@@ -3196,6 +3724,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "_hoTyZzoH1g",
+      "alternatives": []
+    },
+    "b4f932a7832c00e5002d": {
+      "song_id": "b4f932a7832c00e5002d",
+      "title": "Piano Concerto No. 5, Op. 73 \"Emperor\": III. Rondo: Allegro",
+      "artist": "Bernard Haitink, Murray Perahia & Royal Concertgebouw Orchestra",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ooyyrb6yYUY",
       "alternatives": []
     },
     "b5ad680c2216178c9ba8": {
@@ -3530,6 +4070,18 @@
       "youtube_video_id": "CbdqNSKDzwM",
       "alternatives": []
     },
+    "c5031a413e35e0a19c5a": {
+      "song_id": "c5031a413e35e0a19c5a",
+      "title": "Under Neon Skies",
+      "artist": "LEO MARIN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "67eeSdUZ-Gk",
+      "alternatives": []
+    },
     "c556f78bc0fed8d03f2b": {
       "song_id": "c556f78bc0fed8d03f2b",
       "title": "Mamari (Single)",
@@ -3648,6 +4200,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "7ui7GxRnMuc",
+      "alternatives": []
+    },
+    "ccb3edeebf1ececf7d79": {
+      "song_id": "ccb3edeebf1ececf7d79",
+      "title": "Fantasie In F Minor, Op.103, D.940",
+      "artist": "Jenő Jandó & Zsuzsa Kollar",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Z6m7zYKSbn8",
+      "alternatives": []
+    },
+    "cd3ba96572edc406d2c1": {
+      "song_id": "cd3ba96572edc406d2c1",
+      "title": "Dekoboko",
+      "artist": "ET-King",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Yk81fp5OKsg",
       "alternatives": []
     },
     "ce0f081f7214c2c7864f": {
@@ -3794,6 +4370,18 @@
       "youtube_video_id": "j5WRUgqbAwQ",
       "alternatives": []
     },
+    "d7159fc7ae7dfff6e5af": {
+      "song_id": "d7159fc7ae7dfff6e5af",
+      "title": "Piano Sonata in C Major, Hob. XVI:50: I. Allegro",
+      "artist": "Claudio Colombo",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "qOA35ar0qTU",
+      "alternatives": []
+    },
     "d72dd906f7c4915c4108": {
       "song_id": "d72dd906f7c4915c4108",
       "title": "A Midsummer Night's Dream, Op. 61 Incidental Music: No. 9 Wedding March",
@@ -3878,6 +4466,18 @@
       "youtube_video_id": "2xGaxN_Qkbw",
       "alternatives": []
     },
+    "dc62ebee6ec1825c9156": {
+      "song_id": "dc62ebee6ec1825c9156",
+      "title": "Helin",
+      "artist": "Agire Jiyan",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "rZ2lRjMbWiU",
+      "alternatives": []
+    },
     "dca23cf7869ef8363fe5": {
       "song_id": "dca23cf7869ef8363fe5",
       "title": "Chopin Fantasy",
@@ -3888,6 +4488,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "6TapsawYUok",
+      "alternatives": []
+    },
+    "dd10a1552a04d5166dbc": {
+      "song_id": "dd10a1552a04d5166dbc",
+      "title": "Concerto for Piano and Orchestra No. 5 in E-Flat Major, Op. 73: I. Allegro",
+      "artist": "Leif Ove Andsnes & Mahler Chamber Orchestra",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "EE7RSyCfMyU",
       "alternatives": []
     },
     "dd45d0bbfa24645fa250": {
@@ -3926,6 +4538,18 @@
       "youtube_video_id": "-WXwmauVyOA",
       "alternatives": []
     },
+    "dec81ec3c1cfd2861cf4": {
+      "song_id": "dec81ec3c1cfd2861cf4",
+      "title": "Take My Heart",
+      "artist": "The Teskey Brothers",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Z_HCrvcq4yE",
+      "alternatives": []
+    },
     "ded4e7c738e5115e8a8b": {
       "song_id": "ded4e7c738e5115e8a8b",
       "title": "Piano Concerto No. 1 in G Minor, Op. 25: III. Presto - molto Allegro e Vivace",
@@ -3962,6 +4586,26 @@
       "youtube_video_id": "5hmckAywgXw",
       "alternatives": []
     },
+    "e4522dad53c084f05386": {
+      "song_id": "e4522dad53c084f05386",
+      "title": "Ludwig van Beethoven - Die Wut zum Vater (Teil 13)",
+      "artist": "Peter Kirchberger",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "YR3-7SjF-nc",
+      "alternatives": [
+        {
+          "source": "audd",
+          "title": "Piano Sonata C# Minor - Presto",
+          "artist": "Ludwig Van Beethoven",
+          "confidence": 0.85,
+          "album": "Classical Cuts 2"
+        }
+      ]
+    },
     "e4802196ae4b5994f627": {
       "song_id": "e4802196ae4b5994f627",
       "title": "Kiss You Goodbye",
@@ -3984,6 +4628,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "uRo16ntW8AU",
+      "alternatives": []
+    },
+    "e5aa81c312ffe9f06801": {
+      "song_id": "e5aa81c312ffe9f06801",
+      "title": "Danzas españolas: II. Oriental (Andante)",
+      "artist": "Guillaume Coppola",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "81pNej-Dc3o",
       "alternatives": []
     },
     "e5fcfa25614b3d5b222d": {
@@ -4044,6 +4700,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "KmBdRQL2TWQ",
+      "alternatives": []
+    },
+    "eeb0de326511f8fefc2a": {
+      "song_id": "eeb0de326511f8fefc2a",
+      "title": "Chopin Nocturne Piano",
+      "artist": "Raqibul Hasan RaNa",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "9E6b3swbnWg",
       "alternatives": []
     },
     "ef3eea52790ef524a37f": {
@@ -4128,6 +4796,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "DeNR-V8qKc4",
+      "alternatives": []
+    },
+    "f2f5c4c1655614706d04": {
+      "song_id": "f2f5c4c1655614706d04",
+      "title": "Dairy Adventure (feat. Max Beirne Shafer)",
+      "artist": "OTTO",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Lpry6mXisAI",
       "alternatives": []
     },
     "f49ade4e1ed84d95b8a9": {
@@ -4250,6 +4930,18 @@
       "youtube_video_id": "DsMBhM5srPI",
       "alternatives": []
     },
+    "f93ff7521922286dfb10": {
+      "song_id": "f93ff7521922286dfb10",
+      "title": "Married To The Blues",
+      "artist": "Shemekia Copeland",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "_QeNxdCGUwo",
+      "alternatives": []
+    },
     "f95e5fffc04ccc8723b1": {
       "song_id": "f95e5fffc04ccc8723b1",
       "title": "Home (Remix)",
@@ -4309,6 +5001,31 @@
       "genre": "",
       "youtube_video_id": "-tmqClqYFqE",
       "alternatives": []
+    },
+    "fac7de0b4ebadaa56927": {
+      "song_id": "fac7de0b4ebadaa56927",
+      "title": "Piano Concerto in A Minor, Op. 16: I. Allegro molto moderato",
+      "artist": "Slowakische Staatsphilharmonie, Bystrik Rezucha & Marian Lapsansky",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "-ZaDKQbIr6k",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto in A Minor, Op. 16: I. Allegro molto moderato",
+          "artist": "Mariss Jansons, Berlin Philharmonic & Leif Ove Andsnes",
+          "confidence": 0.55
+        },
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto in A Minor, Op. 16: I. Allegro molto moderato",
+          "artist": "Jean-Marc Luisada, London Symphony Orchestra & Michael Tilson Thomas",
+          "confidence": 0.55
+        }
+      ]
     },
     "fc5023e3190d0ac95673": {
       "song_id": "fc5023e3190d0ac95673",

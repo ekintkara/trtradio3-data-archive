@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-16T06:23:40.629197+00:00",
+  "generated_at": "2026-08-17T06:35:37.825309+00:00",
   "radio_id": "radioeksen",
   "month": "2026-08",
   "episodes": {
@@ -15,6 +15,30 @@
       "date": "2026-08-16",
       "aired_at": "2026-08-16",
       "track_count": 23
+    },
+    "radioeksen/gulsah-guray--pozitif-muzikin-sundugu-sabah-sovu/2026-08-17": {
+      "episode_id": "radioeksen/gulsah-guray--pozitif-muzikin-sundugu-sabah-sovu/2026-08-17",
+      "radio_id": "radioeksen",
+      "program_id": -95510,
+      "program_slug": "gulsah-guray--pozitif-muzikin-sundugu-sabah-sovu",
+      "program_name": "GÜLŞAH GÜRAY -POZİTİF MÜZİK'İN SUNDUĞU SABAH ŞOVU",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-17",
+      "aired_at": "2026-08-17",
+      "track_count": 39
+    },
+    "radioeksen/eksen-muzik/2026-08-17": {
+      "episode_id": "radioeksen/eksen-muzik/2026-08-17",
+      "radio_id": "radioeksen",
+      "program_id": -5730,
+      "program_slug": "eksen-muzik",
+      "program_name": "Eksen Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 120.0,
+      "date": "2026-08-17",
+      "aired_at": "2026-08-17",
+      "track_count": 111
     },
     "radioeksen/eksen-muzik/2026-08-16": {
       "episode_id": "radioeksen/eksen-muzik/2026-08-16",
