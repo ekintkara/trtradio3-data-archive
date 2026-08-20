@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-19T06:28:17.328152+00:00",
+  "generated_at": "2026-08-20T06:29:47.313294+00:00",
   "radio_id": "trt",
   "month": "2026-08",
   "songs": {
@@ -352,6 +352,18 @@
       "youtube_video_id": "LNNdBi72LNQ",
       "alternatives": []
     },
+    "0ddfa2e740bf946812ee": {
+      "song_id": "0ddfa2e740bf946812ee",
+      "title": "Neural Pulse",
+      "artist": "Aethron",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "eKyRB4iwz_U",
+      "alternatives": []
+    },
     "0f2147f0f07a512850ea": {
       "song_id": "0f2147f0f07a512850ea",
       "title": "Money.Equal.Trouble",
@@ -362,6 +374,49 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "P0NmQXv_ggo",
+      "alternatives": []
+    },
+    "0f39ebfce0bb7610849c": {
+      "song_id": "0f39ebfce0bb7610849c",
+      "title": "Piano Concerto No. 3 in C Minor, Op. 37: 1. Allegro con brio - Cadenza: Ludwig van Beethoven (Live at Konzerthaus Berlin / 2018)",
+      "artist": "Jan Lisiecki, Academy of St Martin in the Fields & Tomo Keller",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "yiL2NDBiRoM",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 3 in C Minor, Op. 37: 3. Rondo (Allegro)",
+          "artist": "Stephen Kovacevich, BBC Symphony Orchestra & Sir Colin Davis",
+          "confidence": 0.55
+        },
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 3 in C Minor, Op. 37: Rondo",
+          "artist": "Alfred Brendel, Vienna Philharmonic & Heinz Wallberg",
+          "confidence": 0.55
+        },
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 3 in C Minor, Op. 37: 3. Rondo (Allegro)",
+          "artist": "Vladimir Ashkenazy, Chicago Symphony Orchestra & Sir Georg Solti",
+          "confidence": 0.55
+        }
+      ]
+    },
+    "0f6eebd75503515b067a": {
+      "song_id": "0f6eebd75503515b067a",
+      "title": "It's So Hard To Say Goodbye To Yesterday",
+      "artist": "Boyz II Men",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "oK9gLkXe0xw",
       "alternatives": []
     },
     "1056bd1188a3acda3881": {
@@ -398,6 +453,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "ojN2LcueMLM",
+      "alternatives": []
+    },
+    "11ac8261086a158c81e1": {
+      "song_id": "11ac8261086a158c81e1",
+      "title": "The Merry-go-round of Life (from \"Howl's Moving Castle\")",
+      "artist": "London Music Works & Nick Squires",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "MLdSuSZUgsw",
       "alternatives": []
     },
     "11b9b17895cae8048689": {
@@ -479,6 +546,18 @@
       "youtube_video_id": "I1aHa5YRvBI",
       "alternatives": []
     },
+    "12d5338207724777d4e1": {
+      "song_id": "12d5338207724777d4e1",
+      "title": "Peace of Landscape",
+      "artist": "kaito",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "O0wtMvGiqPo",
+      "alternatives": []
+    },
     "12e39da47212c9dbfa81": {
       "song_id": "12e39da47212c9dbfa81",
       "title": "Metamorphosis",
@@ -501,6 +580,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "u7XsYIgL-G4",
+      "alternatives": []
+    },
+    "135fa86d5526d2e13c17": {
+      "song_id": "135fa86d5526d2e13c17",
+      "title": "Hearts",
+      "artist": "Marty Balin",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "3nKNQsJtum8",
       "alternatives": []
     },
     "13763e334027497372c0": {
@@ -767,6 +858,37 @@
       "youtube_video_id": "b3j7gvXsDwI",
       "alternatives": []
     },
+    "1b525ac16abb6caf5101": {
+      "song_id": "1b525ac16abb6caf5101",
+      "title": "Freedom & Fireflies & Flickering Hope Resonance Theory",
+      "artist": "E. Elizabeth Franklin",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "BrA-6RhhU8M",
+      "alternatives": []
+    },
+    "1ba37ba7a647ecfa9231": {
+      "song_id": "1ba37ba7a647ecfa9231",
+      "title": "Piano Concerto No. 3 in C Minor, Op. 37: I. Allegro con Brio",
+      "artist": "András Schiff, Bernard Haitink & Staatskapelle Dresden",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Gb-bI7Ww6a0",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 3 in C Minor, Op. 37: I. Allegro con brio",
+          "artist": "Finnish Radio Symphony Orchestra, Hannu Lintu & Stephen Hough",
+          "confidence": 0.55
+        }
+      ]
+    },
     "1d61c0f20927b95cc2ee": {
       "song_id": "1d61c0f20927b95cc2ee",
       "title": "Mozart: Piano Sonata No. 11 in A Major: Rondo alla turca, K.331 ; Op. 6 No.2",
@@ -892,6 +1014,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "ZmNancJJw7A",
+      "alternatives": []
+    },
+    "228da3f0d33da8f785fd": {
+      "song_id": "228da3f0d33da8f785fd",
+      "title": "Cut to the Feeling (feat. Gamma Skies)",
+      "artist": "Heyson",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "2JGjQVCwzEw",
       "alternatives": []
     },
     "22a6bd260fb9edb8e604": {
@@ -1050,6 +1184,18 @@
       "youtube_video_id": "cx9rcQb3H0Y",
       "alternatives": []
     },
+    "2879d529c4fae14148e1": {
+      "song_id": "2879d529c4fae14148e1",
+      "title": "Passing Through",
+      "artist": "David \"Fathead\" Newman",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "0aFuRrXaajg",
+      "alternatives": []
+    },
     "287b67e6933ce3737091": {
       "song_id": "287b67e6933ce3737091",
       "title": "Piano Concerto No. 2 in C Minor, Op. 18: III. Allegro scherzando",
@@ -1084,6 +1230,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "D7os9V-n7rs",
+      "alternatives": []
+    },
+    "29bbbecbee99fcdbe897": {
+      "song_id": "29bbbecbee99fcdbe897",
+      "title": "I Should Have Known Better (Rerecorded)",
+      "artist": "Jim Diamond",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "qWEFNFsFrgE",
       "alternatives": []
     },
     "29c471db238e203c817f": {
@@ -1168,6 +1326,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "RgV7LZq7mOs",
+      "alternatives": []
+    },
+    "2ba3e01089adc698fc15": {
+      "song_id": "2ba3e01089adc698fc15",
+      "title": "Speranze di Luna Italian Romantic Song",
+      "artist": "Riviera Vintage Music",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "y2xWQh7UmGs",
       "alternatives": []
     },
     "2bc6b13432cf70954894": {
@@ -1369,6 +1539,18 @@
       "youtube_video_id": "iTk4y0pdCCY",
       "alternatives": []
     },
+    "31cdbcf2d44e5afd45b1": {
+      "song_id": "31cdbcf2d44e5afd45b1",
+      "title": "Something's Gotten Hold Of My Heart",
+      "artist": "Marc Almond",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; singer-songwriter",
+      "youtube_video_id": "I8ZIErShjw0",
+      "alternatives": []
+    },
     "321c8f486bb347e9e73e": {
       "song_id": "321c8f486bb347e9e73e",
       "title": "Concerto for Clarinet and Orchestra No. 1 in F minor J114 (Op. 73): Rondo (Allegretto)",
@@ -1489,6 +1671,18 @@
       "youtube_video_id": "PqZqLuZaVKc",
       "alternatives": []
     },
+    "380f5e179202b36a631b": {
+      "song_id": "380f5e179202b36a631b",
+      "title": "Pino Pomo",
+      "artist": "Plaid",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "idm; electronic; ambient",
+      "youtube_video_id": "2zNkBzdfqsk",
+      "alternatives": []
+    },
     "39023ea335a681e7e9a9": {
       "song_id": "39023ea335a681e7e9a9",
       "title": "Like a Rose",
@@ -1499,6 +1693,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "FK3rLHSwEv8",
+      "alternatives": []
+    },
+    "39060f864cfe84a9472c": {
+      "song_id": "39060f864cfe84a9472c",
+      "title": "Piano Concerto No. 1 in C Major, Op. 15: 1. Allegro con brio (Cadenza by Ludwig van Beethoven) [Live]",
+      "artist": "Arturo Benedetti Michelangeli, Vienna Symphony & Carlo Maria Giulini",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Pp_X6L-kx88",
       "alternatives": []
     },
     "3906218c26beefcc40ed": {
@@ -1777,6 +1983,18 @@
       "youtube_video_id": "_nzB46X8uvA",
       "alternatives": []
     },
+    "446cfdc81fb63a5594c5": {
+      "song_id": "446cfdc81fb63a5594c5",
+      "title": "Arrullo de Estrellas (Sanchez Dub Rework)",
+      "artist": "ZOE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "aXGwbKrHGRI",
+      "alternatives": []
+    },
     "451900a52d59983b4f9f": {
       "song_id": "451900a52d59983b4f9f",
       "title": "Fanm Sa Bel",
@@ -1811,6 +2029,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "8AQI2Sco0XM",
+      "alternatives": []
+    },
+    "46899311c25801f07165": {
+      "song_id": "46899311c25801f07165",
+      "title": "Mind Ascension",
+      "artist": "Amaya",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "zqF06d8s80c",
       "alternatives": []
     },
     "46d49ebb5a2d81fd0143": {
@@ -1867,6 +2097,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "2QAacMXj1RM",
+      "alternatives": []
+    },
+    "4850bd99c7c8e9d122ec": {
+      "song_id": "4850bd99c7c8e9d122ec",
+      "title": "Midnight Moscow Raid",
+      "artist": "George Roumanis",
+      "album": "Dixieland - Volume 1",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "1MMM2M3Z5eM",
       "alternatives": []
     },
     "48b968161a02dbd9a9ec": {
@@ -2159,6 +2401,18 @@
       "youtube_video_id": "WjVr6E4Fr80",
       "alternatives": []
     },
+    "5423da2db9443b2101da": {
+      "song_id": "5423da2db9443b2101da",
+      "title": "Ever Changing Times (feat. Michael McDonald)",
+      "artist": "Aretha Franklin",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "AM0MVuEmFGc",
+      "alternatives": []
+    },
     "5468f7dec9c197ebbf33": {
       "song_id": "5468f7dec9c197ebbf33",
       "title": "M. Dupont",
@@ -2217,6 +2471,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "RTcTLmiCu3c",
+      "alternatives": []
+    },
+    "56bb3c4766ed1dacba0e": {
+      "song_id": "56bb3c4766ed1dacba0e",
+      "title": "Concerto No. 3 in C Minor for Piano and Orchestra, Op. 37: II. Largo",
+      "artist": "Bernard Haitink, Murray Perahia & Royal Concertgebouw Orchestra",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "KW56wgwTqZs",
       "alternatives": []
     },
     "56beb2908c66ecfa46d3": {
@@ -2289,6 +2555,18 @@
       "mbid": "",
       "genre": "soundtrack; score; electronic",
       "youtube_video_id": "yQK-H7Lyf_w",
+      "alternatives": []
+    },
+    "5a25ca71e02fb1ce30d7": {
+      "song_id": "5a25ca71e02fb1ce30d7",
+      "title": "Piano Trio No. 2 in D Minor, Op. 34: III. Finale. Allegro",
+      "artist": "Linos Ensemble",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "dRWk531Bj1w",
       "alternatives": []
     },
     "5a5267e7afbd3fc6c3ee": {
@@ -2409,6 +2687,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "77pb0WXAz-Q",
+      "alternatives": []
+    },
+    "5c7903c3446afea62512": {
+      "song_id": "5c7903c3446afea62512",
+      "title": "Stop",
+      "artist": "Sam Brown",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "eIdHbK6onkY",
       "alternatives": []
     },
     "5d09fc247e7fd8da4ca2": {
@@ -2622,6 +2912,18 @@
       "youtube_video_id": "SRGLCo1LpoU",
       "alternatives": []
     },
+    "669738033331cc20ac6f": {
+      "song_id": "669738033331cc20ac6f",
+      "title": "Natural Killer Cyborg (From \"Mother 3\")",
+      "artist": "Arcade Player",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "xfFwCxB5-tI",
+      "alternatives": []
+    },
     "6778d2f41bfb6d6af8d7": {
       "song_id": "6778d2f41bfb6d6af8d7",
       "title": "I Got the Blues",
@@ -2656,6 +2958,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "_LDPTbFtprE",
+      "alternatives": []
+    },
+    "688ed860614c10c944a6": {
+      "song_id": "688ed860614c10c944a6",
+      "title": "Theme From China Beach",
+      "artist": "The China Beach Orchestra",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "iOxEiNtCPjk",
       "alternatives": []
     },
     "6a4bbd96580c93f8de9c": {
@@ -2764,6 +3078,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "qTse2hkPxYU",
+      "alternatives": []
+    },
+    "6d4c9cb31707b9cc47dc": {
+      "song_id": "6d4c9cb31707b9cc47dc",
+      "title": "L'ammore è na prumessa",
+      "artist": "Sal da Vinci",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "pop",
+      "youtube_video_id": "56b6MqYHj8k",
       "alternatives": []
     },
     "6d4f843c5e03ac511cdc": {
@@ -2927,6 +3253,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "wQGgHJ-g7rY",
+      "alternatives": []
+    },
+    "73682ef91d0502812019": {
+      "song_id": "73682ef91d0502812019",
+      "title": "Loving Kindness Subliminal",
+      "artist": "Miss Smilla",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "3TLFpJoLWfE",
       "alternatives": []
     },
     "73d88e38ef3171515825": {
@@ -3157,6 +3495,18 @@
       "youtube_video_id": "PDkXie-2PAA",
       "alternatives": []
     },
+    "799e0f1f1dadf75b4aa0": {
+      "song_id": "799e0f1f1dadf75b4aa0",
+      "title": "House Party G",
+      "artist": "DJ Pachi",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "CfVQbdMf17Q",
+      "alternatives": []
+    },
     "7a249305eefe220bad33": {
       "song_id": "7a249305eefe220bad33",
       "title": "Romeo and Juliet, Op. 64: Montagues and Capulets",
@@ -3211,6 +3561,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "jYjIuiGRV9s",
+      "alternatives": []
+    },
+    "7b99ef01572d0524dd1b": {
+      "song_id": "7b99ef01572d0524dd1b",
+      "title": "Concerto pour piano No. 3 in C Minor, Op. 37: I. Allegro con brio",
+      "artist": "Clara Haskil, Igor Markevitch & Orchestre Lamoureux",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "SrPnXOcSV6Q",
       "alternatives": []
     },
     "7c0408f8abff8f7d7e93": {
@@ -3343,6 +3705,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "JbxfFKvoAU4",
+      "alternatives": []
+    },
+    "7f73c864a56aa3ee8abb": {
+      "song_id": "7f73c864a56aa3ee8abb",
+      "title": "Solar Flare",
+      "artist": "Adi Goldstein",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "gzJXGdnUfmE",
       "alternatives": []
     },
     "81fac8d4b7657e906cce": {
@@ -3511,6 +3885,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "-jPdXvoU1H0",
+      "alternatives": []
+    },
+    "8925294e96536456d6d4": {
+      "song_id": "8925294e96536456d6d4",
+      "title": "Just Because",
+      "artist": "Anita Baker",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "jazz; soul; smooth jazz",
+      "youtube_video_id": "EV2rniuqyWI",
       "alternatives": []
     },
     "89a29747924285da1230": {
@@ -3977,6 +4363,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "dv18_iw4Jbg",
+      "alternatives": []
+    },
+    "9adad481ee3e687694ee": {
+      "song_id": "9adad481ee3e687694ee",
+      "title": "Ralome (feat. Benet Walsh)",
+      "artist": "Plaid",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "yePJv5Gbqg8",
       "alternatives": []
     },
     "9b4617927b743ec33df4": {
@@ -4570,6 +4968,18 @@
       "youtube_video_id": "o60t9tp4Kvg",
       "alternatives": []
     },
+    "acc3245a11df8b1398d0": {
+      "song_id": "acc3245a11df8b1398d0",
+      "title": "Jump Youth",
+      "artist": "Vogelmaschine",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
+      "alternatives": []
+    },
     "ad910331c659cd49af2f": {
       "song_id": "ad910331c659cd49af2f",
       "title": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": II. Adagio un poco mosso",
@@ -4662,6 +5072,18 @@
       "youtube_video_id": "H-pl3UM0vYo",
       "alternatives": []
     },
+    "b150215a03bd0dcb827d": {
+      "song_id": "b150215a03bd0dcb827d",
+      "title": "Sealed With a Kiss",
+      "artist": "Jason Donovan",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "y-Qf2c1xr2I",
+      "alternatives": []
+    },
     "b16aafd6cd3fc14a4baf": {
       "song_id": "b16aafd6cd3fc14a4baf",
       "title": "Música Para Activar la Intuición Y El Yo Superior  Absorber Energía Cósmica / 528 Hz",
@@ -4720,6 +5142,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "-HyKFMWk1w4",
+      "alternatives": []
+    },
+    "b42ade5e1bab0af08cb1": {
+      "song_id": "b42ade5e1bab0af08cb1",
+      "title": "Bella Luna",
+      "artist": "Jason Mraz",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "BwdifWxHKpg",
       "alternatives": []
     },
     "b445857bfc2b6bb326ae": {
@@ -4794,6 +5228,37 @@
       "youtube_video_id": "AdPc39YaxZU",
       "alternatives": []
     },
+    "b751aa6d81bfc1be37f0": {
+      "song_id": "b751aa6d81bfc1be37f0",
+      "title": "Piano Concerto No. 1 in C Major, Op. 15: I. Allegro con brio",
+      "artist": "Vladimir Ashkenazy, Chicago Symphony Orchestra & Sir Georg Solti",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "zjO0OUL2eFU",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 1 in C Major, Op. 15: I. Allegro con brio",
+          "artist": "Stephen Kovacevich, BBC Symphony Orchestra & Sir Colin Davis",
+          "confidence": 0.55
+        },
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 1 in C Major, Op. 15: I. Allegro con brio (Live)",
+          "artist": "Daniel Barenboim & Staatskapelle Berlin",
+          "confidence": 0.55
+        },
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 1 in C Major, Op. 15: I. Allegro con brio",
+          "artist": "Stephen Kovacevich, BBC Symphony Orchestra & Sir Colin Davis",
+          "confidence": 0.55
+        }
+      ]
+    },
     "b79326fec6a9bb3be139": {
       "song_id": "b79326fec6a9bb3be139",
       "title": "Concerto In E-flat Major for Trumpet and Orchestra, H.VIIe: 1: III. Allegro",
@@ -4854,6 +5319,18 @@
       "youtube_video_id": "",
       "alternatives": []
     },
+    "b90b5dbe035a4fcb2cb1": {
+      "song_id": "b90b5dbe035a4fcb2cb1",
+      "title": "Piano Concerto No. 3 in C Minor, Op. 37: II. Largo",
+      "artist": "Paul Lewis, BBC Symphony Orchestra & Jiří Bělohlávek",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "nYZROU_AVrI",
+      "alternatives": []
+    },
     "b99054a15346aec17261": {
       "song_id": "b99054a15346aec17261",
       "title": "Sarò con te",
@@ -4876,6 +5353,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "74mHPlvk4ac",
+      "alternatives": []
+    },
+    "bb155fb66e1b2fc78bf3": {
+      "song_id": "bb155fb66e1b2fc78bf3",
+      "title": "Intro",
+      "artist": "Woody Guthrie",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "OaLW7OhZ1eU",
       "alternatives": []
     },
     "bc1511f9a91045e58d48": {
@@ -4998,6 +5487,18 @@
       "youtube_video_id": "_qu-7fsIQ7k",
       "alternatives": []
     },
+    "c01cdc9d16498612341b": {
+      "song_id": "c01cdc9d16498612341b",
+      "title": "01 Partita No.3-Ludwig Van Beethoven",
+      "artist": "Ludwig Van Beethoven",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "D_iPsP8LXI0",
+      "alternatives": []
+    },
     "c046036ad96b66e76dd3": {
       "song_id": "c046036ad96b66e76dd3",
       "title": "Bloodflow (Mix Cut)",
@@ -5056,6 +5557,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "7VWHBHeNrg4",
+      "alternatives": []
+    },
+    "c1d5072c6d41171dd56f": {
+      "song_id": "c1d5072c6d41171dd56f",
+      "title": "Echoing Features",
+      "artist": "Adam Harth",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "CP1osBWcJyA",
       "alternatives": []
     },
     "c2f3af9c2d92945fc6c6": {
@@ -5232,6 +5745,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "eUiP6g0bNWs",
+      "alternatives": []
+    },
+    "c76f2dda8d6ddd2fd677": {
+      "song_id": "c76f2dda8d6ddd2fd677",
+      "title": "Because I Love You (The Postman Song)",
+      "artist": "Stevie B",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Xc1uQI2XmZs",
       "alternatives": []
     },
     "c801f0523b54a1aa03dc": {
@@ -5846,6 +6371,25 @@
       "youtube_video_id": "8d2dJZY9QTk",
       "alternatives": []
     },
+    "e2a21f5a03cca769672c": {
+      "song_id": "e2a21f5a03cca769672c",
+      "title": "Scherzo No. 1 in B Minor, Op. 20",
+      "artist": "Eri Goto",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "PhpuUBCXOHM",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Scherzo No. 1 in B Minor, Op. 20",
+          "artist": "Vladimir Ashkenazy",
+          "confidence": 0.55
+        }
+      ]
+    },
     "e31322304aa625749fc1": {
       "song_id": "e31322304aa625749fc1",
       "title": "Ad Günün",
@@ -5926,6 +6470,31 @@
       "youtube_video_id": "81pNej-Dc3o",
       "alternatives": []
     },
+    "e5d84dd6071ff8d4537d": {
+      "song_id": "e5d84dd6071ff8d4537d",
+      "title": "Piano Concerto No. 3 in C Minor, Op. 37: III. Rondo. Allegro",
+      "artist": "Rudolf Buchbinder, Münchener Philharmoniker & Valery Gergiev",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Zf80t_M2lqg",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 3 in C Minor, Op. 37: III. Rondo (Allegro)",
+          "artist": "Krystian Zimerman, Vienna Philharmonic & Leonard Bernstein",
+          "confidence": 0.55
+        },
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No.3 in C Minor, Op.37: III. Rondo. Allegro – Presto",
+          "artist": "Martin Helmchen, Deutsches Symphonie-Orchester Berlin & Andrew Manze",
+          "confidence": 0.55
+        }
+      ]
+    },
     "e5fcfa25614b3d5b222d": {
       "song_id": "e5fcfa25614b3d5b222d",
       "title": "Lux Aeterna",
@@ -5998,6 +6567,18 @@
       "youtube_video_id": "qtjT5wqkeqU",
       "alternatives": []
     },
+    "e8846faf98082729680d": {
+      "song_id": "e8846faf98082729680d",
+      "title": "When You Tell Me That You Love Me",
+      "artist": "Richard Clayderman",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Lwqbws-4QPc",
+      "alternatives": []
+    },
     "e9bd1aadb04478bc5f77": {
       "song_id": "e9bd1aadb04478bc5f77",
       "title": "Sussie",
@@ -6020,6 +6601,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "LYvfFDbdv2M",
+      "alternatives": []
+    },
+    "ea687a1425d39f717f7e": {
+      "song_id": "ea687a1425d39f717f7e",
+      "title": "Symphonie No. 3 in E-Flat Major, Op. 97: II. Scherzo. Sehr mäßig",
+      "artist": "Pablo Heras-Casado & Munich Philharmonic",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "QxZRTYYXmyY",
       "alternatives": []
     },
     "ec4c768acabbca2169b5": {
@@ -6286,6 +6879,42 @@
       "youtube_video_id": "",
       "alternatives": []
     },
+    "f7f1665ca5c68b07c307": {
+      "song_id": "f7f1665ca5c68b07c307",
+      "title": "Another Riff for the Good Times",
+      "artist": "YOTTO",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "f6k7weKLbbQ",
+      "alternatives": []
+    },
+    "f7f392ba720bb7ff9df0": {
+      "song_id": "f7f392ba720bb7ff9df0",
+      "title": "Rhapsody in B Minor, Op. 79, No. 1",
+      "artist": "Martha Argerich",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "NcgOp-2T05A",
+      "alternatives": []
+    },
+    "f82e52350e935bb428f1": {
+      "song_id": "f82e52350e935bb428f1",
+      "title": "Midnight Express",
+      "artist": "Hallo-Wee",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "bTHDa6Akqvo",
+      "alternatives": []
+    },
     "f88981d1849270732285": {
       "song_id": "f88981d1849270732285",
       "title": "Piano Concerto No. 2 in C Minor, Op. 18: II. Adagio sostenuto",
@@ -6477,6 +7106,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "XvPQRAfDGJU",
+      "alternatives": []
+    },
+    "fdbdfc56e773b30702c5": {
+      "song_id": "fdbdfc56e773b30702c5",
+      "title": "Concerto No. 3 in C minor for Piano and Orchestra, Op. 37: III. Rondo",
+      "artist": "Glenn Gould, Columbia Symphony Orchestra & Leonard Bernstein",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "wM2AewRGPA8",
       "alternatives": []
     },
     "fdc31bc10729804a195b": {
