@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-22T06:23:52.285075+00:00",
+  "generated_at": "2026-08-23T06:25:07.310980+00:00",
   "radio_id": "radioeksen",
   "month": "2026-08",
   "episodes": {
+    "radioeksen/radyo-eksen--oldies/2026-08-23": {
+      "episode_id": "radioeksen/radyo-eksen--oldies/2026-08-23",
+      "radio_id": "radioeksen",
+      "program_id": 1642,
+      "program_slug": "radyo-eksen--oldies",
+      "program_name": "RADYO EKSEN -OLDIES",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-23",
+      "aired_at": "2026-08-23",
+      "track_count": 15
+    },
     "radioeksen/radyo-eksen--oldies/2026-08-22": {
       "episode_id": "radioeksen/radyo-eksen--oldies/2026-08-22",
       "radio_id": "radioeksen",
@@ -87,6 +99,18 @@
       "date": "2026-08-17",
       "aired_at": "2026-08-17",
       "track_count": 39
+    },
+    "radioeksen/eksen-muzik/2026-08-23": {
+      "episode_id": "radioeksen/eksen-muzik/2026-08-23",
+      "radio_id": "radioeksen",
+      "program_id": 1641,
+      "program_slug": "eksen-muzik",
+      "program_name": "Eksen Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-23",
+      "aired_at": "2026-08-23",
+      "track_count": 114
     },
     "radioeksen/eksen-muzik/2026-08-22": {
       "episode_id": "radioeksen/eksen-muzik/2026-08-22",
