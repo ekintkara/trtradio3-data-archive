@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-24T06:38:01.858167+00:00",
+  "generated_at": "2026-08-25T06:30:11.347060+00:00",
   "radio_id": "trt",
   "month": "2026-08",
   "songs": {
@@ -280,6 +280,30 @@
       "youtube_video_id": "DOE5qym3-5Y",
       "alternatives": []
     },
+    "084ad46c573124a34c18": {
+      "song_id": "084ad46c573124a34c18",
+      "title": "Bad Man's Blood",
+      "artist": "Ray Bonneville",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Hlur4AsOCNo",
+      "alternatives": []
+    },
+    "084c2da1c94cc8271449": {
+      "song_id": "084c2da1c94cc8271449",
+      "title": "Mozart: Piano Sonata No.10 In C Major K.330-I. Allegro Moderato (모차르트: 피아노 소나타 No.10 다장조-1악장)",
+      "artist": "클래식 스타",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "4PRfd7KOmXQ",
+      "alternatives": []
+    },
     "087fe7ab4ccd735b6fde": {
       "song_id": "087fe7ab4ccd735b6fde",
       "title": "Trumpet Concerto in E-Flat Major, Hob.VII e/1: I. Allegro",
@@ -374,6 +398,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "ROQmSJjHxu8",
+      "alternatives": []
+    },
+    "0a141aac305ffc1cf3ab": {
+      "song_id": "0a141aac305ffc1cf3ab",
+      "title": "Root Chakra (Muladhara)",
+      "artist": "5D with Timothy",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "RSb7I0MeV_A",
       "alternatives": []
     },
     "0a5c53841f3ccd3241b1": {
@@ -597,6 +633,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "2y1GLQk62JM",
+      "alternatives": []
+    },
+    "10bd39dc655626d80d9c": {
+      "song_id": "10bd39dc655626d80d9c",
+      "title": "Les préludes, S. 97",
+      "artist": "Vienna Symphony & Yuri Ahronovitch",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "SWquknCMu4o",
       "alternatives": []
     },
     "1116104cd9f5281f862f": {
@@ -1719,6 +1767,18 @@
       "youtube_video_id": "HfPE3cgYyco",
       "alternatives": []
     },
+    "2af48c4836f8836b3104": {
+      "song_id": "2af48c4836f8836b3104",
+      "title": "Relaxing Piano Music 1 Hr, Vol. 1",
+      "artist": "Christine Hye-Su Kim",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "pjJm6uveeyg",
+      "alternatives": []
+    },
     "2b1c0f73af755e941010": {
       "song_id": "2b1c0f73af755e941010",
       "title": "Metamorphosis",
@@ -1858,6 +1918,25 @@
         }
       ]
     },
+    "2d5ab24e908551d8baf3": {
+      "song_id": "2d5ab24e908551d8baf3",
+      "title": "Piano Concerto No. 4 in G Major, Op. 58: I. Allegro moderato (Live at Philharmonie, Berlin, 1992)",
+      "artist": "Maurizio Pollini, Berlin Philharmonic & Claudio Abbado",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "BkIiWOqzIpk",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 4 in G Major, Op. 58: I. Allegro moderato",
+          "artist": "Van Cliburn, Fritz Reiner & Chicago Symphony Orchestra",
+          "confidence": 0.55
+        }
+      ]
+    },
     "2de0285e7d7cf24e97d5": {
       "song_id": "2de0285e7d7cf24e97d5",
       "title": "Let Me Out",
@@ -1952,6 +2031,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "fAOHryTbQw8",
+      "alternatives": []
+    },
+    "30941d251074a3229bca": {
+      "song_id": "30941d251074a3229bca",
+      "title": "Piano Concerto, Nr. 4 in G-Major, op. 58: I. Allegro Moderato",
+      "artist": "Wilhelm Kempff",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "QRYyzjUAgQ8",
       "alternatives": []
     },
     "30e81ebc5eeba2e76c83": {
@@ -2537,6 +2628,18 @@
       "youtube_video_id": "kM1__ARwXQE",
       "alternatives": []
     },
+    "4403bea2986b354a22c1": {
+      "song_id": "4403bea2986b354a22c1",
+      "title": "모차르트: 피아노 소나타 13번 내림나장조-1악장 (Mozart: Piano Sonata No.13 In B Flat Major K.333-I. Allegro)",
+      "artist": "클래식 쉼터",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
+      "alternatives": []
+    },
     "443d30be8f92c8632a3b": {
       "song_id": "443d30be8f92c8632a3b",
       "title": "Without You",
@@ -2906,6 +3009,18 @@
       "youtube_video_id": "6wyZ8zHiOR8",
       "alternatives": []
     },
+    "4d5c846c7f186a3659dd": {
+      "song_id": "4d5c846c7f186a3659dd",
+      "title": "Sonata No. 3 In B Flat Major, K.281 II.",
+      "artist": "Wolfgang Amadeus Mozart & Vadim Chaimovich",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "xRCGxDeKTTM",
+      "alternatives": []
+    },
     "4e3140e3ba92aad58cc9": {
       "song_id": "4e3140e3ba92aad58cc9",
       "title": "Serenade No. 13 in G Major, K. 525 \"Eine kleine Nachtmusik\": II. Romanze: Andante",
@@ -2916,6 +3031,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "cOr2H3hSydQ",
+      "alternatives": []
+    },
+    "4e6bb641bbc3739a18cb": {
+      "song_id": "4e6bb641bbc3739a18cb",
+      "title": "Are You Comin’ Down This Weekend?",
+      "artist": "His Name Is Alive",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; experimental; art rock",
+      "youtube_video_id": "1RTK9t8Vg84",
       "alternatives": []
     },
     "4e8eafada37803a8eb5a": {
@@ -3471,6 +3598,18 @@
       "youtube_video_id": "GkDg5ODaerY",
       "alternatives": []
     },
+    "5bbee8bee14a5d405c90": {
+      "song_id": "5bbee8bee14a5d405c90",
+      "title": "Lonesome In My Bedroom",
+      "artist": "Luther Johnson",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "V-9kieb00N0",
+      "alternatives": []
+    },
     "5bd6804541c63a5f40b5": {
       "song_id": "5bd6804541c63a5f40b5",
       "title": "Ai No Yume",
@@ -3577,6 +3716,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "wLn1gkX5xNY",
+      "alternatives": []
+    },
+    "5d13deef046a4ba35932": {
+      "song_id": "5d13deef046a4ba35932",
+      "title": "Adi Shakti",
+      "artist": "Nirinjan Kaur, Mathew Schoening & Ram Dass",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "3Lg6wNv_2zs",
       "alternatives": []
     },
     "5d793d594b2f1dc9caa4": {
@@ -3754,6 +3905,18 @@
       "youtube_video_id": "p_DczUl8x60",
       "alternatives": []
     },
+    "645f05c1b02533bbd9e7": {
+      "song_id": "645f05c1b02533bbd9e7",
+      "title": "Sonata Grill",
+      "artist": "Edu Gospel",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "qjk-YRuQZDE",
+      "alternatives": []
+    },
     "647833c42d76717a2f7e": {
       "song_id": "647833c42d76717a2f7e",
       "title": "12 Lieder Von Franz Schubert, S.558: II. Auf Dem Wasser Zu Singen",
@@ -3776,6 +3939,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "PEgCfriEgus",
+      "alternatives": []
+    },
+    "64cca5b0b396ccbc3660": {
+      "song_id": "64cca5b0b396ccbc3660",
+      "title": "I Want To Know What Love Is (Chilled House)",
+      "artist": "AndyBeats85",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "WWsER0G5jZs",
       "alternatives": []
     },
     "64eaebdc59161a1bc36c": {
@@ -4280,6 +4455,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "ERDHRLWoo2Q",
+      "alternatives": []
+    },
+    "710db534860c9e0f4384": {
+      "song_id": "710db534860c9e0f4384",
+      "title": "Chronicles of Celestial Vengeance ~ Origin of Dragon Dharma",
+      "artist": "OrangeBlugt & Josephina",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "pbiGt5qugYk",
       "alternatives": []
     },
     "7171704c9d78c99fae56": {
@@ -4993,6 +5180,25 @@
       "youtube_video_id": "HRed_oCDhic",
       "alternatives": []
     },
+    "7dbac7c312e5d70b1370": {
+      "song_id": "7dbac7c312e5d70b1370",
+      "title": "Piano Concerto No. 4 in G Major, Op. 58: III. Rondo: Vivace",
+      "artist": "Stefan Vladar, Barry Wordsworth & Capella Istropolitana",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "B5b3WLAzHlw",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 4 in G Major, Op. 58: III. Rondo. Vivace (Cadenza: Beethoven)",
+          "artist": "Maurizio Pollini, Claudio Abbado & Berlin Philharmonic",
+          "confidence": 0.55
+        }
+      ]
+    },
     "7ddc07d365ac258921c5": {
       "song_id": "7ddc07d365ac258921c5",
       "title": "Va dire à ton ex",
@@ -5160,6 +5366,25 @@
       "genre": "",
       "youtube_video_id": "ixmOAb6qzvY",
       "alternatives": []
+    },
+    "84b9bd68b7422fb8c99c": {
+      "song_id": "84b9bd68b7422fb8c99c",
+      "title": "Piano Sonata No. 13 in B-Flat, K. 333: 1. Allegro",
+      "artist": "Maria Joao Pires",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ELR_bHt6HUk",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Sonata No. 13 in B-Flat, K. 333: 2. Andante cantabile",
+          "artist": "Christoph Eschenbach",
+          "confidence": 0.55
+        }
+      ]
     },
     "84fedb6afe6103344011": {
       "song_id": "84fedb6afe6103344011",
@@ -5378,6 +5603,18 @@
       "youtube_video_id": "EV2rniuqyWI",
       "alternatives": []
     },
+    "89363fbe62f5900fea90": {
+      "song_id": "89363fbe62f5900fea90",
+      "title": "Lowdown Dirty Shame",
+      "artist": "Melvin Taylor",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "O_ziSVgibAo",
+      "alternatives": []
+    },
     "89a29747924285da1230": {
       "song_id": "89a29747924285da1230",
       "title": "Guess My Crush",
@@ -5474,6 +5711,18 @@
       "youtube_video_id": "m2Tsv8A00M8",
       "alternatives": []
     },
+    "8b7d9da6cdf9003ae78f": {
+      "song_id": "8b7d9da6cdf9003ae78f",
+      "title": "Terminal Street",
+      "artist": "Cyber City",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "O_eB1gIdMsY",
+      "alternatives": []
+    },
     "8b9e098ea0208cd63c68": {
       "song_id": "8b9e098ea0208cd63c68",
       "title": "Tell You Something (Nana's Reprise)",
@@ -5484,6 +5733,18 @@
       "mbid": "",
       "genre": "neo soul; soul; r&b",
       "youtube_video_id": "XOD4V-U1cLU",
+      "alternatives": []
+    },
+    "8c224203d73f4a113575": {
+      "song_id": "8c224203d73f4a113575",
+      "title": "Night Birds",
+      "artist": "SHAKATAK",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "L3ujcQLuGDk",
       "alternatives": []
     },
     "8ccc420aea3d3b58bd8d": {
@@ -6139,6 +6400,18 @@
       "youtube_video_id": "4L_yCwFD6Jo",
       "alternatives": []
     },
+    "9d3ae1244c6b6e68635b": {
+      "song_id": "9d3ae1244c6b6e68635b",
+      "title": "Mozart Piano Sonata No.13 In B Flat Major K.333-III. Allegretto Grazioso (모차르트: 피아노 소나타 13번 내.",
+      "artist": "화음",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "pS_vP1Dv2F4",
+      "alternatives": []
+    },
     "9defb84cb2133923025a": {
       "song_id": "9defb84cb2133923025a",
       "title": "I'm Moving On",
@@ -6614,6 +6887,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "A7ojI_pbVxA",
+      "alternatives": []
+    },
+    "a887aaeaa8ffd63917d4": {
+      "song_id": "a887aaeaa8ffd63917d4",
+      "title": "Piano Concerto No.4 in G, Op.58: 1. Allegro moderato",
+      "artist": "Claudio Arrau, Bernard Haitink & Royal Concertgebouw Orchestra",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "0ev6D4FgJGk",
       "alternatives": []
     },
     "a9a3a28cb3fedb8e9133": {
@@ -7364,6 +7649,18 @@
       "youtube_video_id": "W-CSfCo-A44",
       "alternatives": []
     },
+    "bd2d735ec1771b9bf6ef": {
+      "song_id": "bd2d735ec1771b9bf6ef",
+      "title": "I. Allegro Moderato",
+      "artist": "Sir Simon Rattle, Vienna Philharmonic & Alfred Brendel",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "AWt5ySuOBzk",
+      "alternatives": []
+    },
     "bdd89394d50412ef13ab": {
       "song_id": "bdd89394d50412ef13ab",
       "title": "Piano Concerto No. 1 in G Minor, Op. 25, MWV O 7: III. Presto",
@@ -7406,6 +7703,25 @@
       "genre": "",
       "youtube_video_id": "qZ2P5v99xL8",
       "alternatives": []
+    },
+    "becfdfcd32869afb4faa": {
+      "song_id": "becfdfcd32869afb4faa",
+      "title": "Piano Concerto No. 4 in G, Op. 58: III. Rondo (Vivace)",
+      "artist": "Christoph Eschenbach, Orchestre De Paris & Lang Lang",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "fLh3vQZBwu4",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 4 in G, Op. 58: III. Rondo (Vivace)",
+          "artist": "Krystian Zimerman, Vienna Philharmonic & Leonard Bernstein",
+          "confidence": 0.55
+        }
+      ]
     },
     "bf5a91c04681ce08fb99": {
       "song_id": "bf5a91c04681ce08fb99",
@@ -7944,6 +8260,18 @@
       "youtube_video_id": "uQoth3EXSxk",
       "alternatives": []
     },
+    "ca853656e8c9f1e2085f": {
+      "song_id": "ca853656e8c9f1e2085f",
+      "title": "Piano Concerto No. 4 in G major, Op. 58: Allegro moderato",
+      "artist": "Gerhard Oppitz, Gewandhausorchester Leipzig & Marek Janowski",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "tCZqejN_VBU",
+      "alternatives": []
+    },
     "cab2737ee4aaf2477255": {
       "song_id": "cab2737ee4aaf2477255",
       "title": "Toccata and Fugue in D Minor, BWV 565: II. Fugue",
@@ -8136,6 +8464,18 @@
       "youtube_video_id": "rGB9T17tBHo",
       "alternatives": []
     },
+    "d28ab81ef018261f588d": {
+      "song_id": "d28ab81ef018261f588d",
+      "title": "Sonnet of the Stars (Instrumental)",
+      "artist": "DJ VAN BEERG",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "8Xp1gqswKBA",
+      "alternatives": []
+    },
     "d2e2b84c615449a5f887": {
       "song_id": "d2e2b84c615449a5f887",
       "title": "Ramapire Maro Rang Rakhyo",
@@ -8266,6 +8606,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "qOA35ar0qTU",
+      "alternatives": []
+    },
+    "d72cb6746ef2d95443f1": {
+      "song_id": "d72cb6746ef2d95443f1",
+      "title": "Concerto for Piano and Orchestra No. 4 in G Op. 58 (1996 Remastered Version): III. Rondo (Vivace)",
+      "artist": "Emil Gilels, The Cleveland Orchestra & George Szell",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "4SlNA81LLCQ",
       "alternatives": []
     },
     "d72dd906f7c4915c4108": {
@@ -8448,6 +8800,18 @@
       "youtube_video_id": "BqRbGjw6WTc",
       "alternatives": []
     },
+    "dc0ea9974cd2ea646f7b": {
+      "song_id": "dc0ea9974cd2ea646f7b",
+      "title": "Cold Hearted Woman",
+      "artist": "Magic Slim",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "blues",
+      "youtube_video_id": "FAGAhFHJXuQ",
+      "alternatives": []
+    },
     "dc162790cebc11b6bc2c": {
       "song_id": "dc162790cebc11b6bc2c",
       "title": "Venus As A Boy (Q Covermount)",
@@ -8626,6 +8990,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "CCOKSetHA34",
+      "alternatives": []
+    },
+    "dfddfd5432a58c73db4a": {
+      "song_id": "dfddfd5432a58c73db4a",
+      "title": "Don't Let It Be A Dream",
+      "artist": "Michael Burks",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "sgINHrwTLjI",
       "alternatives": []
     },
     "dfe7aa67dda2d8772980": {
