@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-25T06:30:11.347060+00:00",
+  "generated_at": "2026-08-26T06:32:34.164359+00:00",
   "radio_id": "trt",
   "month": "2026-08",
   "episodes": {
@@ -135,6 +135,18 @@
       "date": "2026-08-01",
       "aired_at": "2026-08-01",
       "track_count": 10
+    },
+    "trt/radyo-3-sabah/2026-08-26": {
+      "episode_id": "trt/radyo-3-sabah/2026-08-26",
+      "radio_id": "trt",
+      "program_id": -24889,
+      "program_slug": "radyo-3-sabah",
+      "program_name": "Radyo 3 Sabah",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-26",
+      "aired_at": "2026-08-26",
+      "track_count": 5
     },
     "trt/radyo-3-sabah/2026-08-25": {
       "episode_id": "trt/radyo-3-sabah/2026-08-25",
@@ -423,6 +435,18 @@
       "date": "2026-08-01",
       "aired_at": "2026-08-01",
       "track_count": 8
+    },
+    "trt/radyo-3-gunisigi/2026-08-26": {
+      "episode_id": "trt/radyo-3-gunisigi/2026-08-26",
+      "radio_id": "trt",
+      "program_id": -68091,
+      "program_slug": "radyo-3-gunisigi",
+      "program_name": "Radyo 3 Günışığı",
+      "program_start_time": "07:05",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-26",
+      "aired_at": "2026-08-26",
+      "track_count": 4
     },
     "trt/radyo-3-gunisigi/2026-08-25": {
       "episode_id": "trt/radyo-3-gunisigi/2026-08-25",
@@ -1048,6 +1072,18 @@
       "aired_at": "2026-08-01",
       "track_count": 6
     },
+    "trt/gece-ve-muzik/2026-08-26": {
+      "episode_id": "trt/gece-ve-muzik/2026-08-26",
+      "radio_id": "trt",
+      "program_id": -67328,
+      "program_slug": "gece-ve-muzik",
+      "program_name": "Gece ve Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-26",
+      "aired_at": "2026-08-26",
+      "track_count": 17
+    },
     "trt/gece-ve-muzik/2026-08-25": {
       "episode_id": "trt/gece-ve-muzik/2026-08-25",
       "radio_id": "trt",
@@ -1335,6 +1371,18 @@
       "date": "2026-08-01",
       "aired_at": "2026-08-01",
       "track_count": 11
+    },
+    "trt/ebu-euroclassic-notturno/2026-08-26": {
+      "episode_id": "trt/ebu-euroclassic-notturno/2026-08-26",
+      "radio_id": "trt",
+      "program_id": -67718,
+      "program_slug": "ebu-euroclassic-notturno",
+      "program_name": "Ebu Euroclassıc Notturno",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-26",
+      "aired_at": "2026-08-26",
+      "track_count": 22
     },
     "trt/ebu-euroclassic-notturno/2026-08-25": {
       "episode_id": "trt/ebu-euroclassic-notturno/2026-08-25",
@@ -1719,6 +1767,18 @@
       "date": "2026-08-10",
       "aired_at": "2026-08-10",
       "track_count": 0
+    },
+    "trt/bursadan-senfonik-tinilar/2026-08-26": {
+      "episode_id": "trt/bursadan-senfonik-tinilar/2026-08-26",
+      "radio_id": "trt",
+      "program_id": -3385,
+      "program_slug": "bursadan-senfonik-tinilar",
+      "program_name": "Bursa'dan Senfonik Tınılar",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-26",
+      "aired_at": "2026-08-26",
+      "track_count": 1
     },
     "trt/bursadan-senfonik-tinilar/2026-08-19": {
       "episode_id": "trt/bursadan-senfonik-tinilar/2026-08-19",
