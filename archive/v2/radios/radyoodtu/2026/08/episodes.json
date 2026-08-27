@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-26T06:32:34.164359+00:00",
+  "generated_at": "2026-08-27T17:08:22.836374+00:00",
   "radio_id": "radyoodtu",
   "month": "2026-08",
   "episodes": {
+    "radyoodtu/sabah-rutini/2026-08-27": {
+      "episode_id": "radyoodtu/sabah-rutini/2026-08-27",
+      "radio_id": "radyoodtu",
+      "program_id": 17,
+      "program_slug": "sabah-rutini",
+      "program_name": "Sabah Rutini",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-27",
+      "aired_at": "2026-08-27",
+      "track_count": 4
+    },
     "radyoodtu/sabah-rutini/2026-08-26": {
       "episode_id": "radyoodtu/sabah-rutini/2026-08-26",
       "radio_id": "radyoodtu",
@@ -100,6 +112,42 @@
       "aired_at": "2026-08-13",
       "track_count": 17
     },
+    "radyoodtu/ogle-tatili-su-uney/2026-08-27": {
+      "episode_id": "radyoodtu/ogle-tatili-su-uney/2026-08-27",
+      "radio_id": "radyoodtu",
+      "program_id": 27,
+      "program_slug": "ogle-tatili-su-uney",
+      "program_name": "Öğle Tatili (Su Üney)",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-27",
+      "aired_at": "2026-08-27",
+      "track_count": 9
+    },
+    "radyoodtu/ogle-sonrasi-kusagi/2026-08-27": {
+      "episode_id": "radyoodtu/ogle-sonrasi-kusagi/2026-08-27",
+      "radio_id": "radyoodtu",
+      "program_id": 32,
+      "program_slug": "ogle-sonrasi-kusagi",
+      "program_name": "Öğle Sonrası Kuşağı",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-27",
+      "aired_at": "2026-08-27",
+      "track_count": 16
+    },
+    "radyoodtu/ofis-kackini/2026-08-27": {
+      "episode_id": "radyoodtu/ofis-kackini/2026-08-27",
+      "radio_id": "radyoodtu",
+      "program_id": 22,
+      "program_slug": "ofis-kackini",
+      "program_name": "Ofis Kaçkını",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-27",
+      "aired_at": "2026-08-27",
+      "track_count": 9
+    },
     "radyoodtu/ofis-kackini/2026-08-13": {
       "episode_id": "radyoodtu/ofis-kackini/2026-08-13",
       "radio_id": "radyoodtu",
@@ -111,6 +159,18 @@
       "date": "2026-08-13",
       "aired_at": "2026-08-13",
       "track_count": 5
+    },
+    "radyoodtu/muzik-yayini/2026-08-27": {
+      "episode_id": "radyoodtu/muzik-yayini/2026-08-27",
+      "radio_id": "radyoodtu",
+      "program_id": 52,
+      "program_slug": "muzik-yayini",
+      "program_name": "Müzik Yayını",
+      "program_start_time": "19:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-27",
+      "aired_at": "2026-08-27",
+      "track_count": 3
     },
     "radyoodtu/muzik-yayini/2026-08-21": {
       "episode_id": "radyoodtu/muzik-yayini/2026-08-21",
@@ -135,6 +195,30 @@
       "date": "2026-08-14",
       "aired_at": "2026-08-14",
       "track_count": 36
+    },
+    "radyoodtu/maximum-gencin-sundugu-40-haramiler-ege-yildizhan/2026-08-27": {
+      "episode_id": "radyoodtu/maximum-gencin-sundugu-40-haramiler-ege-yildizhan/2026-08-27",
+      "radio_id": "radyoodtu",
+      "program_id": 47,
+      "program_slug": "maximum-gencin-sundugu-40-haramiler-ege-yildizhan",
+      "program_name": "Maximum Genç'in Sunduğu 40 Haramiler (Ege Yıldızhan)",
+      "program_start_time": "18:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-27",
+      "aired_at": "2026-08-27",
+      "track_count": 16
+    },
+    "radyoodtu/ikinci-alarm/2026-08-27": {
+      "episode_id": "radyoodtu/ikinci-alarm/2026-08-27",
+      "radio_id": "radyoodtu",
+      "program_id": 12,
+      "program_slug": "ikinci-alarm",
+      "program_name": "İkinci Alarm",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-27",
+      "aired_at": "2026-08-27",
+      "track_count": 17
     },
     "radyoodtu/ikinci-alarm/2026-08-26": {
       "episode_id": "radyoodtu/ikinci-alarm/2026-08-26",
@@ -243,6 +327,18 @@
       "date": "2026-08-13",
       "aired_at": "2026-08-13",
       "track_count": 17
+    },
+    "radyoodtu/gunes-gozlugu/2026-08-27": {
+      "episode_id": "radyoodtu/gunes-gozlugu/2026-08-27",
+      "radio_id": "radyoodtu",
+      "program_id": 5,
+      "program_slug": "gunes-gozlugu",
+      "program_name": "Güneş Gözlüğü",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-27",
+      "aired_at": "2026-08-27",
+      "track_count": 59
     },
     "radyoodtu/gunes-gozlugu/2026-08-26": {
       "episode_id": "radyoodtu/gunes-gozlugu/2026-08-26",
@@ -435,6 +531,18 @@
       "date": "2026-08-15",
       "aired_at": "2026-08-15",
       "track_count": 13
+    },
+    "radyoodtu/arventonun-sundugu-carpi-5-sahra-topay/2026-08-27": {
+      "episode_id": "radyoodtu/arventonun-sundugu-carpi-5-sahra-topay/2026-08-27",
+      "radio_id": "radyoodtu",
+      "program_id": 42,
+      "program_slug": "arventonun-sundugu-carpi-5-sahra-topay",
+      "program_name": "Arvento'nun Sunduğu Çarpı 5 (Sahra Topay)",
+      "program_start_time": "17:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-27",
+      "aired_at": "2026-08-27",
+      "track_count": 6
     }
   }
 }

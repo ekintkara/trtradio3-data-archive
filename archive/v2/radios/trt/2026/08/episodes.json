@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-26T06:32:34.164359+00:00",
+  "generated_at": "2026-08-27T17:08:22.836374+00:00",
   "radio_id": "trt",
   "month": "2026-08",
   "episodes": {
@@ -14,6 +14,18 @@
       "recording_start_offset_sec": 0.0,
       "date": "2026-08-04",
       "aired_at": "2026-08-04",
+      "track_count": 0
+    },
+    "trt/yayli-calgilar-dunyasi/2026-08-27": {
+      "episode_id": "trt/yayli-calgilar-dunyasi/2026-08-27",
+      "radio_id": "trt",
+      "program_id": -85161,
+      "program_slug": "yayli-calgilar-dunyasi",
+      "program_name": "Yaylı Çalgılar Dünyası",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-27",
+      "aired_at": "2026-08-27",
       "track_count": 0
     },
     "trt/yayli-calgilar-dunyasi/2026-08-06": {
@@ -76,6 +88,18 @@
       "aired_at": "2026-08-05",
       "track_count": 0
     },
+    "trt/tren-yolculugu/2026-08-27": {
+      "episode_id": "trt/tren-yolculugu/2026-08-27",
+      "radio_id": "trt",
+      "program_id": 173,
+      "program_slug": "tren-yolculugu",
+      "program_name": "Tren Yolculuğu",
+      "program_start_time": "16:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-27",
+      "aired_at": "2026-08-27",
+      "track_count": 12
+    },
     "trt/ses-ve-soz/2026-08-10": {
       "episode_id": "trt/ses-ve-soz/2026-08-10",
       "radio_id": "trt",
@@ -87,6 +111,18 @@
       "date": "2026-08-10",
       "aired_at": "2026-08-10",
       "track_count": 0
+    },
+    "trt/sahnelerimizden-esintiler/2026-08-27": {
+      "episode_id": "trt/sahnelerimizden-esintiler/2026-08-27",
+      "radio_id": "trt",
+      "program_id": -1486,
+      "program_slug": "sahnelerimizden-esintiler",
+      "program_name": "Sahnelerimizden Esintiler",
+      "program_start_time": "15:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-27",
+      "aired_at": "2026-08-27",
+      "track_count": 3
     },
     "trt/renklerin-icinden/2026-08-22": {
       "episode_id": "trt/renklerin-icinden/2026-08-22",
@@ -135,6 +171,18 @@
       "date": "2026-08-01",
       "aired_at": "2026-08-01",
       "track_count": 10
+    },
+    "trt/radyo-3-sabah/2026-08-27": {
+      "episode_id": "trt/radyo-3-sabah/2026-08-27",
+      "radio_id": "trt",
+      "program_id": -85001,
+      "program_slug": "radyo-3-sabah",
+      "program_name": "Radyo 3 Sabah",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-27",
+      "aired_at": "2026-08-27",
+      "track_count": 7
     },
     "trt/radyo-3-sabah/2026-08-26": {
       "episode_id": "trt/radyo-3-sabah/2026-08-26",
@@ -436,6 +484,18 @@
       "aired_at": "2026-08-01",
       "track_count": 8
     },
+    "trt/radyo-3-gunisigi/2026-08-27": {
+      "episode_id": "trt/radyo-3-gunisigi/2026-08-27",
+      "radio_id": "trt",
+      "program_id": -46416,
+      "program_slug": "radyo-3-gunisigi",
+      "program_name": "Radyo 3 Günışığı",
+      "program_start_time": "07:05",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-27",
+      "aired_at": "2026-08-27",
+      "track_count": 7
+    },
     "trt/radyo-3-gunisigi/2026-08-26": {
       "episode_id": "trt/radyo-3-gunisigi/2026-08-26",
       "radio_id": "trt",
@@ -652,6 +712,18 @@
       "aired_at": "2026-08-10",
       "track_count": 0
     },
+    "trt/pop-durock/2026-08-27": {
+      "episode_id": "trt/pop-durock/2026-08-27",
+      "radio_id": "trt",
+      "program_id": 1597,
+      "program_slug": "pop-durock",
+      "program_name": "Pop Durock",
+      "program_start_time": "18:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-27",
+      "aired_at": "2026-08-27",
+      "track_count": 17
+    },
     "trt/pop-durock/2026-08-10": {
       "episode_id": "trt/pop-durock/2026-08-10",
       "radio_id": "trt",
@@ -699,6 +771,18 @@
       "date": "2026-08-10",
       "aired_at": "2026-08-10",
       "track_count": 0
+    },
+    "trt/odadan-ezgiler/2026-08-27": {
+      "episode_id": "trt/odadan-ezgiler/2026-08-27",
+      "radio_id": "trt",
+      "program_id": -53395,
+      "program_slug": "odadan-ezgiler",
+      "program_name": "Odadan Ezgiler",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-27",
+      "aired_at": "2026-08-27",
+      "track_count": 7
     },
     "trt/odadan-ezgiler/2026-08-20": {
       "episode_id": "trt/odadan-ezgiler/2026-08-20",
@@ -748,6 +832,18 @@
       "aired_at": "2026-08-04",
       "track_count": 0
     },
+    "trt/muzikli-zaman-makinesi/2026-08-27": {
+      "episode_id": "trt/muzikli-zaman-makinesi/2026-08-27",
+      "radio_id": "trt",
+      "program_id": -82532,
+      "program_slug": "muzikli-zaman-makinesi",
+      "program_name": "Müzikli Zaman Makinesi",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-27",
+      "aired_at": "2026-08-27",
+      "track_count": 7
+    },
     "trt/muzikli-zaman-makinesi/2026-08-13": {
       "episode_id": "trt/muzikli-zaman-makinesi/2026-08-13",
       "radio_id": "trt",
@@ -783,6 +879,18 @@
       "date": "2026-08-02",
       "aired_at": "2026-08-02",
       "track_count": 8
+    },
+    "trt/muzikhol/2026-08-27": {
+      "episode_id": "trt/muzikhol/2026-08-27",
+      "radio_id": "trt",
+      "program_id": -67174,
+      "program_slug": "muzikhol",
+      "program_name": "Müzikhol",
+      "program_start_time": "17:05",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-27",
+      "aired_at": "2026-08-27",
+      "track_count": 13
     },
     "trt/muzigin-rotasi/2026-08-25": {
       "episode_id": "trt/muzigin-rotasi/2026-08-25",
@@ -1060,6 +1168,18 @@
       "aired_at": "2026-08-23",
       "track_count": 0
     },
+    "trt/guneyde-bir-yer/2026-08-27": {
+      "episode_id": "trt/guneyde-bir-yer/2026-08-27",
+      "radio_id": "trt",
+      "program_id": -82193,
+      "program_slug": "guneyde-bir-yer",
+      "program_name": "Güneyde Bir Yer",
+      "program_start_time": "12:05",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-27",
+      "aired_at": "2026-08-27",
+      "track_count": 11
+    },
     "trt/gorkemli-stil/2026-08-01": {
       "episode_id": "trt/gorkemli-stil/2026-08-01",
       "radio_id": "trt",
@@ -1071,6 +1191,18 @@
       "date": "2026-08-01",
       "aired_at": "2026-08-01",
       "track_count": 6
+    },
+    "trt/gece-ve-muzik/2026-08-27": {
+      "episode_id": "trt/gece-ve-muzik/2026-08-27",
+      "radio_id": "trt",
+      "program_id": -13330,
+      "program_slug": "gece-ve-muzik",
+      "program_name": "Gece ve Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-27",
+      "aired_at": "2026-08-27",
+      "track_count": 15
     },
     "trt/gece-ve-muzik/2026-08-26": {
       "episode_id": "trt/gece-ve-muzik/2026-08-26",
@@ -1371,6 +1503,42 @@
       "date": "2026-08-01",
       "aired_at": "2026-08-01",
       "track_count": 11
+    },
+    "trt/forte/2026-08-27": {
+      "episode_id": "trt/forte/2026-08-27",
+      "radio_id": "trt",
+      "program_id": 174,
+      "program_slug": "forte",
+      "program_name": "Forte",
+      "program_start_time": "20:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-27",
+      "aired_at": "2026-08-27",
+      "track_count": 0
+    },
+    "trt/eskiden-yeniye/2026-08-27": {
+      "episode_id": "trt/eskiden-yeniye/2026-08-27",
+      "radio_id": "trt",
+      "program_id": 1082,
+      "program_slug": "eskiden-yeniye",
+      "program_name": "Eskiden Yeniye",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-27",
+      "aired_at": "2026-08-27",
+      "track_count": 6
+    },
+    "trt/ebu-euroclassic-notturno/2026-08-27": {
+      "episode_id": "trt/ebu-euroclassic-notturno/2026-08-27",
+      "radio_id": "trt",
+      "program_id": -62695,
+      "program_slug": "ebu-euroclassic-notturno",
+      "program_name": "Ebu Euroclassıc Notturno",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-27",
+      "aired_at": "2026-08-27",
+      "track_count": 20
     },
     "trt/ebu-euroclassic-notturno/2026-08-26": {
       "episode_id": "trt/ebu-euroclassic-notturno/2026-08-26",
@@ -1744,6 +1912,18 @@
       "aired_at": "2026-08-10",
       "track_count": 0
     },
+    "trt/caz-fora/2026-08-27": {
+      "episode_id": "trt/caz-fora/2026-08-27",
+      "radio_id": "trt",
+      "program_id": -46441,
+      "program_slug": "caz-fora",
+      "program_name": "Caz Fora",
+      "program_start_time": "19:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-27",
+      "aired_at": "2026-08-27",
+      "track_count": 6
+    },
     "trt/caz-ekspres/2026-08-10": {
       "episode_id": "trt/caz-ekspres/2026-08-10",
       "radio_id": "trt",
@@ -1815,6 +1995,18 @@
       "date": "2026-08-05",
       "aired_at": "2026-08-05",
       "track_count": 0
+    },
+    "trt/besteci-ve-toplum/2026-08-27": {
+      "episode_id": "trt/besteci-ve-toplum/2026-08-27",
+      "radio_id": "trt",
+      "program_id": -40360,
+      "program_slug": "besteci-ve-toplum",
+      "program_name": "Besteci Ve Toplum",
+      "program_start_time": "14:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-27",
+      "aired_at": "2026-08-27",
+      "track_count": 2
     },
     "trt/basrolde-kadinlar/2026-08-01": {
       "episode_id": "trt/basrolde-kadinlar/2026-08-01",

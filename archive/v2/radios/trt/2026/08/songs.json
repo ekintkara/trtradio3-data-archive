@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-26T06:32:34.164359+00:00",
+  "generated_at": "2026-08-27T17:08:22.836374+00:00",
   "radio_id": "trt",
   "month": "2026-08",
   "songs": {
@@ -14,6 +14,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "7Wm3zmfbfDY",
+      "alternatives": []
+    },
+    "0144b3800ea39b6b4572": {
+      "song_id": "0144b3800ea39b6b4572",
+      "title": "Credo in Cantus",
+      "artist": "Anthony Phillips",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "MSkaZRzr5Pw",
       "alternatives": []
     },
     "01789c9b67e7dec8b7d5": {
@@ -62,6 +74,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "cctCiQX9tTE",
+      "alternatives": []
+    },
+    "01ee6e8a92fd95cd8e59": {
+      "song_id": "01ee6e8a92fd95cd8e59",
+      "title": "High Above (feat. Lady Blackbird)",
+      "artist": "Bakermat",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "r-PH9ETE8zo",
       "alternatives": []
     },
     "01f0b225fb4f45e8e1a0": {
@@ -206,6 +230,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "OkHGUaB1Bs8",
+      "alternatives": []
+    },
+    "064d724619c563650620": {
+      "song_id": "064d724619c563650620",
+      "title": "You Know What I Need",
+      "artist": "PNAU & Troye Sivan",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "pop",
+      "youtube_video_id": "W3TABrgizjM",
       "alternatives": []
     },
     "069627723ad673571777": {
@@ -671,6 +707,18 @@
       "youtube_video_id": "SWquknCMu4o",
       "alternatives": []
     },
+    "10c1a2a10cad397be8ce": {
+      "song_id": "10c1a2a10cad397be8ce",
+      "title": "Hand in Hand",
+      "artist": "livetune",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "RKtoreimcQ8",
+      "alternatives": []
+    },
     "1116104cd9f5281f862f": {
       "song_id": "1116104cd9f5281f862f",
       "title": "Drifting under Sky",
@@ -880,6 +928,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "lfsRdvqV2-E",
+      "alternatives": []
+    },
+    "13abf0c5ff55a562b53f": {
+      "song_id": "13abf0c5ff55a562b53f",
+      "title": "The Train Leaves At 8 (Come Spiegarti) [feat. Milva]",
+      "artist": "Dreamers Inc. & Mikis Theodorakis",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "YO7fA89DwmE",
       "alternatives": []
     },
     "147254cfd313c50d85f8": {
@@ -1297,6 +1357,18 @@
       "youtube_video_id": "aeEmGvm7kDk",
       "alternatives": []
     },
+    "1d78b06833f768ee2677": {
+      "song_id": "1d78b06833f768ee2677",
+      "title": "Piano Trio in D Major, Op. 70 No. 1: I. Allegro vivace e con brio",
+      "artist": "Van Baerle Trio",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "6eo1MxU0YPg",
+      "alternatives": []
+    },
     "1e19061b35d77e8e556f": {
       "song_id": "1e19061b35d77e8e556f",
       "title": "Twilight Feeling",
@@ -1324,6 +1396,37 @@
           "source": "shazamio",
           "title": "Capriccio Italien, Op. 45",
           "artist": "Chicago Symphony Orchestra & Daniel Barenboim",
+          "confidence": 0.55
+        }
+      ]
+    },
+    "1e591fb7dba67a3236ac": {
+      "song_id": "1e591fb7dba67a3236ac",
+      "title": "Piano Concerto No. 20 in D Minor, K. 466: II. Romance (Live)",
+      "artist": "Mitsuko Uchida & The Cleveland Orchestra",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "uDmbJGRr08w",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 20 in D Minor, K. 466: II. Romance",
+          "artist": "Maria Joao Pires, Orchestra Mozart & Claudio Abbado",
+          "confidence": 0.55
+        },
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 20 in D Minor, K. 466: II. Romance",
+          "artist": "Jan Lisiecki, Bavarian Radio Symphony Orchestra & Christian Zacharias",
+          "confidence": 0.55
+        },
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 20 in D Minor, K. 466: II. Romance",
+          "artist": "Charles Richard-Hamelin, Les Violons du Roy & Jonathan Cohen",
           "confidence": 0.55
         }
       ]
@@ -1527,6 +1630,18 @@
       "youtube_video_id": "iUwRZxoKczU",
       "alternatives": []
     },
+    "23148fb9ca1f54c72686": {
+      "song_id": "23148fb9ca1f54c72686",
+      "title": "Hello, World!",
+      "artist": "3rdegree",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "wNZZ0cBzoIQ",
+      "alternatives": []
+    },
     "232402ff88954ff50446": {
       "song_id": "232402ff88954ff50446",
       "title": "Suite Bergamasque, CD 82: III. Clair de lune",
@@ -1551,6 +1666,18 @@
       "youtube_video_id": "mYizu7CzKuc",
       "alternatives": []
     },
+    "23de69ba3a8d9c728811": {
+      "song_id": "23de69ba3a8d9c728811",
+      "title": "Golden Hour Silhouettes",
+      "artist": "Fashion House Beats",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "E7hX-W2a6mw",
+      "alternatives": []
+    },
     "24430a8d2a0b64f00e66": {
       "song_id": "24430a8d2a0b64f00e66",
       "title": "Cuadros de Una Exposición",
@@ -1561,6 +1688,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "CGgD7c7AnJw",
+      "alternatives": []
+    },
+    "2463a2162e26e73d3940": {
+      "song_id": "2463a2162e26e73d3940",
+      "title": "Tango de Boedo",
+      "artist": "Daniel Diaz",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "x9xWzYMbWc8",
       "alternatives": []
     },
     "246c6a3d9f13fc31608f": {
@@ -1719,6 +1858,18 @@
       "youtube_video_id": "Q-WNClIoaXs",
       "alternatives": []
     },
+    "2857fb363919aa5227ac": {
+      "song_id": "2857fb363919aa5227ac",
+      "title": "Knights in White Satin (Remastered)",
+      "artist": "Giorgio Moroder",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "RRRqc_hFkio",
+      "alternatives": []
+    },
     "2879d529c4fae14148e1": {
       "song_id": "2879d529c4fae14148e1",
       "title": "Passing Through",
@@ -1741,6 +1892,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "l7oGp4Hro84",
+      "alternatives": []
+    },
+    "28998a1e8d00d64a8aeb": {
+      "song_id": "28998a1e8d00d64a8aeb",
+      "title": "Lenio Verde",
+      "artist": "Cholos Andinos",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "VN6cfJB9e0I",
       "alternatives": []
     },
     "28d62e9c2ca7481172fd": {
@@ -1849,6 +2012,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "ZY5OFloQihQ",
+      "alternatives": []
+    },
+    "2aa1ad8a16581eb25cb4": {
+      "song_id": "2aa1ad8a16581eb25cb4",
+      "title": "Toccata and Fugue in D Minor, BWV 565",
+      "artist": "Valerie Tryon",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "WnWajreV_bs",
       "alternatives": []
     },
     "2aa32406a03d9f280555": {
@@ -2081,6 +2256,18 @@
       "youtube_video_id": "uWLj7yOa4iY",
       "alternatives": []
     },
+    "2ebb409be2bad3f9a88d": {
+      "song_id": "2ebb409be2bad3f9a88d",
+      "title": "Alright (Brad Carter Remix)",
+      "artist": "Red Carpet",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "UaPUFDMtEuA",
+      "alternatives": []
+    },
     "2ee9699c373955cc0446": {
       "song_id": "2ee9699c373955cc0446",
       "title": "What To Do",
@@ -2115,6 +2302,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "O1wyCnkyvz8",
+      "alternatives": []
+    },
+    "2fea03f4ae92fc167f11": {
+      "song_id": "2fea03f4ae92fc167f11",
+      "title": "Эхо любви (Live)",
+      "artist": "Anna German",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "6SB22pr33ck",
       "alternatives": []
     },
     "3093086a8b05fccd4f7f": {
@@ -2249,6 +2448,18 @@
       "youtube_video_id": "iCJ4rLKmh6w",
       "alternatives": []
     },
+    "3420b5d8bf1a80cc243f": {
+      "song_id": "3420b5d8bf1a80cc243f",
+      "title": "Anybody Seen My Baby?",
+      "artist": "The Rolling Stones",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "BinwuzZVjnE",
+      "alternatives": []
+    },
     "3442fa7d8372569f0445": {
       "song_id": "3442fa7d8372569f0445",
       "title": "Tango Amongst the Lilies",
@@ -2295,6 +2506,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "J_2GpDoNciY",
+      "alternatives": []
+    },
+    "35e73248ed4ba88c8776": {
+      "song_id": "35e73248ed4ba88c8776",
+      "title": "A Veces Llegan Cartas",
+      "artist": "Julio Iglesias",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "vWbZS67Cb5w",
       "alternatives": []
     },
     "36056c77e4117f48a185": {
@@ -2381,6 +2604,30 @@
       "youtube_video_id": "2zNkBzdfqsk",
       "alternatives": []
     },
+    "383fb2975655ac9ab3b2": {
+      "song_id": "383fb2975655ac9ab3b2",
+      "title": "Money's Too Tight (To Mention)",
+      "artist": "Simply Red",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "DrUB0g8Vjgg",
+      "alternatives": []
+    },
+    "387871dc4d0bc18b6eb0": {
+      "song_id": "387871dc4d0bc18b6eb0",
+      "title": "REGGAE BGM",
+      "artist": "SmokyCarl Ensemble",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "tIqIFb8Ew4I",
+      "alternatives": []
+    },
     "38f2c628b9f0cdaa489a": {
       "song_id": "38f2c628b9f0cdaa489a",
       "title": "A Stranger (Dub)",
@@ -2465,6 +2712,18 @@
       "youtube_video_id": "otCpCn0l4Wo",
       "alternatives": []
     },
+    "39c1ca226fb2c868f4af": {
+      "song_id": "39c1ca226fb2c868f4af",
+      "title": "Creative Spark DOPAMINE",
+      "artist": "Nay Lapa Thompson",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
+      "alternatives": []
+    },
     "3a09161dd9dacc08317b": {
       "song_id": "3a09161dd9dacc08317b",
       "title": "No Man's Land",
@@ -2532,6 +2791,66 @@
       "youtube_video_id": "RIHkQeEf5rU",
       "alternatives": []
     },
+    "3abe4291fb8c9b445a82": {
+      "song_id": "3abe4291fb8c9b445a82",
+      "title": "Peninsula",
+      "artist": "Darko Kustura",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "pQCwkJnbgcc",
+      "alternatives": []
+    },
+    "3acac92930889a251e4b": {
+      "song_id": "3acac92930889a251e4b",
+      "title": "SEE YOU IN THE AFTERLIFE",
+      "artist": "FOSTER THE PEOPLE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; pop; indie rock",
+      "youtube_video_id": "eV_iGKxEXqY",
+      "alternatives": []
+    },
+    "3ba7565e1824cedfbf22": {
+      "song_id": "3ba7565e1824cedfbf22",
+      "title": "Sonata in C Minor, L3.137: II. Allegro",
+      "artist": "Georgina McKay Lodge, Eva Lymenstull, David Schulenberg & Augusta McKay Lodge",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Vzag9P6lz8c",
+      "alternatives": []
+    },
+    "3c14346aaee8352cecf4": {
+      "song_id": "3c14346aaee8352cecf4",
+      "title": "Pipe Pulse",
+      "artist": "Nina Valentine",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
+      "alternatives": []
+    },
+    "3c4eeb6479511794e7dd": {
+      "song_id": "3c4eeb6479511794e7dd",
+      "title": "Cantare È D'Amore",
+      "artist": "Amedeo Minghi",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "kLs-zdYf0mw",
+      "alternatives": []
+    },
     "3c966ad448e1e3049c66": {
       "song_id": "3c966ad448e1e3049c66",
       "title": "Aïda: \"Gloria All'Egitto\"",
@@ -2544,6 +2863,18 @@
       "youtube_video_id": "1W9VQmiDJxA",
       "alternatives": []
     },
+    "3cfbd37ea447d81f0075": {
+      "song_id": "3cfbd37ea447d81f0075",
+      "title": "Toccata and Fugue in D Minor (after J.s.Bach Bw. 565)",
+      "artist": "Mélodie Zhao",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "y3AiGw8mkq0",
+      "alternatives": []
+    },
     "3d2a9f55b680e4a8333c": {
       "song_id": "3d2a9f55b680e4a8333c",
       "title": "Specter",
@@ -2554,6 +2885,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "tKovy0BMnRY",
+      "alternatives": []
+    },
+    "3d806f9c10bdf713236e": {
+      "song_id": "3d806f9c10bdf713236e",
+      "title": "Into the night",
+      "artist": "YesMan",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "JDi3RxNIaRQ",
+      "alternatives": []
+    },
+    "3dd3be5a10e60b6a8f17": {
+      "song_id": "3dd3be5a10e60b6a8f17",
+      "title": "Casta Diva",
+      "artist": "Maria Callas & Chorus",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "s-TwMfgaDC8",
       "alternatives": []
     },
     "3dde0a9e53fbee74d6f6": {
@@ -2700,6 +3055,18 @@
       "youtube_video_id": "eTWCSakLUKo",
       "alternatives": []
     },
+    "429840aca45485502c51": {
+      "song_id": "429840aca45485502c51",
+      "title": "Concerto No. 20, Mov. 2, Mozart (feat. Vienna Philharmonic) [Live]",
+      "artist": "Rik",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "O0Hys66rpMI",
+      "alternatives": []
+    },
     "42b131f89b4274f94162": {
       "song_id": "42b131f89b4274f94162",
       "title": "Back Home (Original Mix)",
@@ -2770,6 +3137,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "",
+      "alternatives": []
+    },
+    "441382e8ce09016b8997": {
+      "song_id": "441382e8ce09016b8997",
+      "title": "Piano Trio No. 5 in D Major, Op. 70 No. 1 \"Ghost\": I. Allegro vivace con brio",
+      "artist": "Jacqueline du Pré, Daniel Barenboim & Pinchas Zukerman",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ReZeyI8Z5wk",
       "alternatives": []
     },
     "4431416d379da63eedf7": {
@@ -2880,6 +3259,18 @@
       "youtube_video_id": "zqF06d8s80c",
       "alternatives": []
     },
+    "46a5e23837ade8637bae": {
+      "song_id": "46a5e23837ade8637bae",
+      "title": "Always Get Through To You",
+      "artist": "Barry Can't Swim",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "mbgTxobXLBs",
+      "alternatives": []
+    },
     "46d49ebb5a2d81fd0143": {
       "song_id": "46d49ebb5a2d81fd0143",
       "title": "Final Destination (feat. AllButtonsIn)",
@@ -2910,6 +3301,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "YPT1pUQeYOk",
+      "alternatives": []
+    },
+    "4725e022cb67501cf167": {
+      "song_id": "4725e022cb67501cf167",
+      "title": "Wipala",
+      "artist": "Inkuyo",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "soundtrack; folk; latin",
+      "youtube_video_id": "t8qV8OLugJM",
       "alternatives": []
     },
     "475d139197f585ad1245": {
@@ -3032,6 +3435,18 @@
       "youtube_video_id": "dRueao3_g_c",
       "alternatives": []
     },
+    "4ba5a8a0cecf6f03f2eb": {
+      "song_id": "4ba5a8a0cecf6f03f2eb",
+      "title": "Slave to the Rhythm (Hot Blooded Version)",
+      "artist": "Grace Jones",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "DgTJZR60D3g",
+      "alternatives": []
+    },
     "4bf4e4486917ddd921f7": {
       "song_id": "4bf4e4486917ddd921f7",
       "title": "Transposer",
@@ -3054,6 +3469,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "_Yn7jjhM_lU",
+      "alternatives": []
+    },
+    "4c034a9922fd30bbbde8": {
+      "song_id": "4c034a9922fd30bbbde8",
+      "title": "Isn't She Lovely",
+      "artist": "David Parton",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "a5C_hQn4uPc",
       "alternatives": []
     },
     "4c4d0006f7ecf4b3dffb": {
@@ -3153,6 +3580,18 @@
       "youtube_video_id": "6wyZ8zHiOR8",
       "alternatives": []
     },
+    "4d3e1baea7f727c074bb": {
+      "song_id": "4d3e1baea7f727c074bb",
+      "title": "Marc Ustari - Alone Together",
+      "artist": "Marc Ustari",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "92-_0IEKZBo",
+      "alternatives": []
+    },
     "4d5c846c7f186a3659dd": {
       "song_id": "4d5c846c7f186a3659dd",
       "title": "Sonata No. 3 In B Flat Major, K.281 II.",
@@ -3163,6 +3602,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "xRCGxDeKTTM",
+      "alternatives": []
+    },
+    "4d6b238594013e979269": {
+      "song_id": "4d6b238594013e979269",
+      "title": "The Power Of Love",
+      "artist": "CYRIL",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "7o_WaNMxWPg",
+      "alternatives": []
+    },
+    "4daa92ca9b446c8cd5bd": {
+      "song_id": "4daa92ca9b446c8cd5bd",
+      "title": "La Flor De La Canela",
+      "artist": "Chabuca Granda",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "KisngEru6sQ",
       "alternatives": []
     },
     "4e3140e3ba92aad58cc9": {
@@ -3274,6 +3737,18 @@
       "youtube_video_id": "DAAtXCvhvZQ",
       "alternatives": []
     },
+    "4ff7efece3185b48c8ed": {
+      "song_id": "4ff7efece3185b48c8ed",
+      "title": "When I'm With You",
+      "artist": "Sheriff",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "mMwBWlCFuY4",
+      "alternatives": []
+    },
     "502bd4f8dd91deffbd89": {
       "song_id": "502bd4f8dd91deffbd89",
       "title": "Lulajże maleńka",
@@ -3356,6 +3831,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "ct0OzCVw0yM",
+      "alternatives": []
+    },
+    "51d74e1d265aabc29cff": {
+      "song_id": "51d74e1d265aabc29cff",
+      "title": "La flor de la canela (Arr. for Tenor and Orchestra by Juan Diego Flórez) [Live From Walt Disney Concert Hall, Los Angeles / 2010]",
+      "artist": "Juan Diego Flórez, Los Angeles Philharmonic & Gustavo Dudamel",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "W32gbmufVr4",
       "alternatives": []
     },
     "5228e4146768a68885f1": {
@@ -3488,6 +3975,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "_w0o-ApIvkc",
+      "alternatives": []
+    },
+    "54ce3969f8e963305121": {
+      "song_id": "54ce3969f8e963305121",
+      "title": "Part-Time Lover",
+      "artist": "Stevie Wonder",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "74mL5f7tr5w",
       "alternatives": []
     },
     "54f491ea1b87df91cc94": {
@@ -3898,6 +4397,18 @@
       "youtube_video_id": "esVVz8hMmFY",
       "alternatives": []
     },
+    "5d83c5b29c0ce6d77fe6": {
+      "song_id": "5d83c5b29c0ce6d77fe6",
+      "title": "Ouverture (Arr. for Orchestra by Joann Falletta)",
+      "artist": "JoAnn Falletta & The Women's Philharmonic",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "tNDZDdx7C0Y",
+      "alternatives": []
+    },
     "5dcc4db257956b56e7e8": {
       "song_id": "5dcc4db257956b56e7e8",
       "title": "Trumpet Concerto in E-Flat, H.VIIe/1: 3. Allegro",
@@ -3908,6 +4419,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Ire0SumHPHU",
+      "alternatives": []
+    },
+    "5e3087509baa824c29f1": {
+      "song_id": "5e3087509baa824c29f1",
+      "title": "Fly Me to the Moon (In Other Words)",
+      "artist": "Doris Day",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "M_CRJNKvWsk",
       "alternatives": []
     },
     "5e70f1b34a11748803d4": {
@@ -3953,6 +4476,18 @@
       "youtube_video_id": "YSA_J4Agrm0",
       "alternatives": []
     },
+    "5eed02836386e988e2c4": {
+      "song_id": "5eed02836386e988e2c4",
+      "title": "Oh Sherrie",
+      "artist": "Steve Perry",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "5-WpsdC2-Cc",
+      "alternatives": []
+    },
     "5f139c28a49814c7c617": {
       "song_id": "5f139c28a49814c7c617",
       "title": "Violin Sonata in D Major, Op. 12 No. 1: 1. Allegro con brio",
@@ -3965,6 +4500,18 @@
       "youtube_video_id": "v3DHzYXd2lA",
       "alternatives": []
     },
+    "5fb8bd634af5e54c268c": {
+      "song_id": "5fb8bd634af5e54c268c",
+      "title": "Slow Down",
+      "artist": "retox44",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "husIY2FVSac",
+      "alternatives": []
+    },
     "601bf3e015810dc7d4b9": {
       "song_id": "601bf3e015810dc7d4b9",
       "title": "Play the Game Tonight",
@@ -3975,6 +4522,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "W2azO25JtFo",
+      "alternatives": []
+    },
+    "6037ba1b34095123c25f": {
+      "song_id": "6037ba1b34095123c25f",
+      "title": "Being Boring",
+      "artist": "Pet Shop Boys",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "DnvFOaBoieE",
       "alternatives": []
     },
     "609856826cb32f01242d": {
@@ -3999,6 +4558,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "dg_MIysNGIU",
+      "alternatives": []
+    },
+    "61129805f80a5290b8c5": {
+      "song_id": "61129805f80a5290b8c5",
+      "title": "Tears of the Autumn Wind",
+      "artist": "adi rahman",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "VMcey0TxOlg",
       "alternatives": []
     },
     "613865d7c37867161e04": {
@@ -4049,6 +4620,18 @@
       "youtube_video_id": "lsImlz45K8Y",
       "alternatives": []
     },
+    "6241d59a338646dbae1d": {
+      "song_id": "6241d59a338646dbae1d",
+      "title": "The Happiness Frequency",
+      "artist": "Brainwave Music",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "QSgyXgES-8k",
+      "alternatives": []
+    },
     "62d0b4296f4218757156": {
       "song_id": "62d0b4296f4218757156",
       "title": "Concerto for Piano and Orchestra No. 5 in E-Flat Major, Op. 73: II. Adagio un poco moto - attacca",
@@ -4083,6 +4666,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "p_DczUl8x60",
+      "alternatives": []
+    },
+    "641945d09ec7d7c5224d": {
+      "song_id": "641945d09ec7d7c5224d",
+      "title": "Face to Face Heart to Heart",
+      "artist": "The Twins",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "vpHUcqe2v-w",
       "alternatives": []
     },
     "645f05c1b02533bbd9e7": {
@@ -4227,6 +4822,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "xfFwCxB5-tI",
+      "alternatives": []
+    },
+    "6764caa784709e3ebbb7": {
+      "song_id": "6764caa784709e3ebbb7",
+      "title": "Jewel in the Dark",
+      "artist": "Sounds of Red Bull",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "z3GvxAXmhZU",
       "alternatives": []
     },
     "6778d2f41bfb6d6af8d7": {
@@ -4469,6 +5076,18 @@
       "youtube_video_id": "AvTv9ukaTXM",
       "alternatives": []
     },
+    "6d3352d94c50c4e59a54": {
+      "song_id": "6d3352d94c50c4e59a54",
+      "title": "L'amour l'amour l'amour",
+      "artist": "Mouloudji",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "9GvKfvDt5T8",
+      "alternatives": []
+    },
     "6d38fc3fd93745f3f120": {
       "song_id": "6d38fc3fd93745f3f120",
       "title": "Gajumaru",
@@ -4527,6 +5146,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "v7-1QfGbcIs",
+      "alternatives": []
+    },
+    "6de75354ef84c3637f1e": {
+      "song_id": "6de75354ef84c3637f1e",
+      "title": "Dance Hall Days",
+      "artist": "Wang Chung",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "V-xpJRwIA-Q",
       "alternatives": []
     },
     "6e47721e9127cae89308": {
@@ -4623,6 +5254,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "8fATAQtY9ag",
+      "alternatives": []
+    },
+    "70a53e3f999e6a5a6054": {
+      "song_id": "70a53e3f999e6a5a6054",
+      "title": "Melodia Inca",
+      "artist": "Chukila",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "uecDNhJXdfE",
       "alternatives": []
     },
     "70ad3b8e64af4fa56a93": {
@@ -4908,6 +5551,18 @@
       "youtube_video_id": "FETBv4PR9yk",
       "alternatives": []
     },
+    "74c3928f0977bbacd65c": {
+      "song_id": "74c3928f0977bbacd65c",
+      "title": "Spirit Lead Me",
+      "artist": "Braam Official",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "9lS7ZNxan48",
+      "alternatives": []
+    },
     "74dc4570cac3e3b77a2f": {
       "song_id": "74dc4570cac3e3b77a2f",
       "title": "Piano Concerto No. 2 in C Minor, Op. 18: II. Adagio sostenuto",
@@ -4918,6 +5573,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "gJHPZ0JGfb4",
+      "alternatives": []
+    },
+    "74efd973d345954c25be": {
+      "song_id": "74efd973d345954c25be",
+      "title": "\"O mio babbino caro\" Paris RTF Studios may 18, 1965",
+      "artist": "Giacomo Puccini",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "l1C8NFDdFYg",
       "alternatives": []
     },
     "75116411ff0dda148afe": {
@@ -4942,6 +5609,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "",
+      "alternatives": []
+    },
+    "758ec4e80db17bb4d7cb": {
+      "song_id": "758ec4e80db17bb4d7cb",
+      "title": "More Than I Can Say",
+      "artist": "Leo Sayer",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "GnIlo91CrBw",
       "alternatives": []
     },
     "75f7ae775aae1e318924": {
@@ -5074,6 +5753,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "EiDsd6hIyD0",
+      "alternatives": []
+    },
+    "77fef1bb300fbe19aa3c": {
+      "song_id": "77fef1bb300fbe19aa3c",
+      "title": "Symphony No. 7 in A Major, Op. 92: 2. Allegretto",
+      "artist": "Royal Concertgebouw Orchestra & Eugen Jochum",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "qtgwVCfA03o",
       "alternatives": []
     },
     "780a2ecbc772609a84de": {
@@ -5264,6 +5955,18 @@
       "youtube_video_id": "dOLjwaADaec",
       "alternatives": []
     },
+    "7b7d2b0863591f697810": {
+      "song_id": "7b7d2b0863591f697810",
+      "title": "Deep Audio",
+      "artist": "Stuart Tallentire",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "4nCFvpbBMuI",
+      "alternatives": []
+    },
     "7b81a9d736b52bd1e301": {
       "song_id": "7b81a9d736b52bd1e301",
       "title": "Nijuuhachi Drift: Chrono Synthesis",
@@ -5384,6 +6087,30 @@
       "youtube_video_id": "FRgI3MbZhp4",
       "alternatives": []
     },
+    "7d70fe190a04093d6785": {
+      "song_id": "7d70fe190a04093d6785",
+      "title": "Piano Sonata No. 11 in A Major, K. 331: III. Rondo \"Alla turca\", Allegretto (Remastered)",
+      "artist": "Glenn Gould",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "N77Pwc9PY-I",
+      "alternatives": []
+    },
+    "7d740782d4250c29826c": {
+      "song_id": "7d740782d4250c29826c",
+      "title": "Use Me (Brutal Hearts)",
+      "artist": "Diplo, Sturgill Simpson, Dove Cameron & Johnny Blue Skies",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "_OX3uUhgusM",
+      "alternatives": []
+    },
     "7d9009028886f3166b53": {
       "song_id": "7d9009028886f3166b53",
       "title": "Pájaro Poderoso",
@@ -5437,6 +6164,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "TJFzxqyNgPg",
+      "alternatives": []
+    },
+    "7e1937ebd0e7025e47b1": {
+      "song_id": "7e1937ebd0e7025e47b1",
+      "title": "No Doubt About It",
+      "artist": "Hot Chocolate",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "WeiufBduVE8",
       "alternatives": []
     },
     "7e298d7b9117d2c46ddb": {
@@ -5770,6 +6509,30 @@
       "youtube_video_id": "L4_BEFZ3j4Q",
       "alternatives": []
     },
+    "870adb122901044eab57": {
+      "song_id": "870adb122901044eab57",
+      "title": "Soft Music-Clear and Bright",
+      "artist": "如是我聞",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "UHu8BmxKbOo",
+      "alternatives": []
+    },
+    "8738da0492c09e80891a": {
+      "song_id": "8738da0492c09e80891a",
+      "title": "Vissi d'arte",
+      "artist": "Maria Callas",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "lxNThjjuqBk",
+      "alternatives": []
+    },
     "8794db7a497083f5f20d": {
       "song_id": "8794db7a497083f5f20d",
       "title": "All for Love",
@@ -5780,6 +6543,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "ofA3URC1wyk",
+      "alternatives": []
+    },
+    "87b5df46bcf9d293b01c": {
+      "song_id": "87b5df46bcf9d293b01c",
+      "title": "Wasakara",
+      "artist": "Oliver Mtukudzi",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "pQfNLAio8iU",
       "alternatives": []
     },
     "87ec5e8b4a22819015f3": {
@@ -5879,6 +6654,18 @@
       "youtube_video_id": "hbEgwkz0bjA",
       "alternatives": []
     },
+    "89ef2d6a3069e1f9eff5": {
+      "song_id": "89ef2d6a3069e1f9eff5",
+      "title": "Give A Little Bit More (feat. Stella Angelico)",
+      "artist": "Cookin' On 3 Burners",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "E1F5wOqoky8",
+      "alternatives": []
+    },
     "8a39bb7987a1dc4c1c21": {
       "song_id": "8a39bb7987a1dc4c1c21",
       "title": "Pictures at an Exhibition",
@@ -5901,6 +6688,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Q-u6R0lxKe8",
+      "alternatives": []
+    },
+    "8ae0d7c27a462d7fcdab": {
+      "song_id": "8ae0d7c27a462d7fcdab",
+      "title": "Sadness Therapy (1 Hour)",
+      "artist": "Patrick Lenk",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "0ghCpTvAbac",
       "alternatives": []
     },
     "8aea9f6d79d0a7d566b4": {
@@ -6021,6 +6820,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "ipbkvh9_Ero",
+      "alternatives": []
+    },
+    "8d1cb3798dba249a6d52": {
+      "song_id": "8d1cb3798dba249a6d52",
+      "title": "Is This Love",
+      "artist": "Whitesnake",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "GOJk0HW_hJw",
       "alternatives": []
     },
     "8d2c550aa02d2f6946d1": {
@@ -6273,6 +7084,30 @@
       "youtube_video_id": "QkSsjUoraZM",
       "alternatives": []
     },
+    "92f6bd6e5908da151748": {
+      "song_id": "92f6bd6e5908da151748",
+      "title": "Valkyrja",
+      "artist": "State Azure",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Wc3T1KbKejs",
+      "alternatives": []
+    },
+    "93450c5e1f69c0cc947f": {
+      "song_id": "93450c5e1f69c0cc947f",
+      "title": "Elise (Alle Farben Remix)",
+      "artist": "Drauf & Dran",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "electronic; relaxed",
+      "youtube_video_id": "jqHpq3XhmkM",
+      "alternatives": []
+    },
     "935a9970fd930d01de76": {
       "song_id": "935a9970fd930d01de76",
       "title": "The Wind Danced with the Curtains",
@@ -6283,6 +7118,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "xYar6-x7F5o",
+      "alternatives": []
+    },
+    "9398dd9df28f397c5e50": {
+      "song_id": "9398dd9df28f397c5e50",
+      "title": "Celestial Connection (432 Hz)",
+      "artist": "Gaia Meditation",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ac4UESoyC10",
       "alternatives": []
     },
     "93cc96b1b48e8f4fd815": {
@@ -6405,6 +7252,30 @@
       "youtube_video_id": "Lp9zTR0vAYc",
       "alternatives": []
     },
+    "969a5ea8e36022d55f90": {
+      "song_id": "969a5ea8e36022d55f90",
+      "title": "On the Beach",
+      "artist": "Chris Rea",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "-yXVufG5oV0",
+      "alternatives": []
+    },
+    "96b9253e20d7f19b9beb": {
+      "song_id": "96b9253e20d7f19b9beb",
+      "title": "You Are My Everything",
+      "artist": "Prestige Melody",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "N_cG0nea8gU",
+      "alternatives": []
+    },
     "96bde9d17ceb01449614": {
       "song_id": "96bde9d17ceb01449614",
       "title": "Hob Fi Dimashq",
@@ -6415,6 +7286,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "-q1dsTXxRRk",
+      "alternatives": []
+    },
+    "96f6a512c8023e4e140d": {
+      "song_id": "96f6a512c8023e4e140d",
+      "title": "A Little Time",
+      "artist": "The Beautiful South",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "pop",
+      "youtube_video_id": "2lGzJwksSv4",
+      "alternatives": []
+    },
+    "9733ca3736194f5379a2": {
+      "song_id": "9733ca3736194f5379a2",
+      "title": "Stolen Kisses",
+      "artist": "Stamatis Spanoudakis",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ASQFPdnaiCw",
       "alternatives": []
     },
     "980131fceb42a676c32e": {
@@ -6780,6 +7675,18 @@
       "youtube_video_id": "y7BdKZi7u4w",
       "alternatives": []
     },
+    "9eb553f28d891c3dbab3": {
+      "song_id": "9eb553f28d891c3dbab3",
+      "title": "Segredos",
+      "artist": "Katia Guerreiro",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "2FJqvU24Soo",
+      "alternatives": []
+    },
     "9eef1db248b66a589895": {
       "song_id": "9eef1db248b66a589895",
       "title": "Goldberg Variations, BWV 988, Aria, Variations 1, 2, 3",
@@ -6864,6 +7771,25 @@
       "youtube_video_id": "Q5X2y5oZ6qc",
       "alternatives": []
     },
+    "a187ca7e49127933ccdf": {
+      "song_id": "a187ca7e49127933ccdf",
+      "title": "Fantasy in F Minor, D. 940 (Live)",
+      "artist": "The Latsos Piano Duo",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "XnzBlOH3I-g",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Fantasia in F Minor for Piano Four Hands, D. 940",
+          "artist": "David Fray & Jacques Rouvier",
+          "confidence": 0.55
+        }
+      ]
+    },
     "a19d972b5fb62caa8f14": {
       "song_id": "a19d972b5fb62caa8f14",
       "title": "Dove comincia il sole (2° Parte)",
@@ -6886,6 +7812,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "l6XQFIMhUB8",
+      "alternatives": []
+    },
+    "a232516690981336295c": {
+      "song_id": "a232516690981336295c",
+      "title": "Milash",
+      "artist": "Selamawit Yohannes",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "YulL8DPKSEE",
       "alternatives": []
     },
     "a27a712a7f7c8386b1e2": {
@@ -7025,6 +7963,18 @@
       "mbid": "",
       "genre": "soul; pop; hip hop",
       "youtube_video_id": "DZdBfdzLjgM",
+      "alternatives": []
+    },
+    "a4d3cc49a783c5567340": {
+      "song_id": "a4d3cc49a783c5567340",
+      "title": "Analog Generation",
+      "artist": "Yashiro",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "DQo42c3yXRQ",
       "alternatives": []
     },
     "a4e8639cd7adeeba0be8": {
@@ -7384,6 +8334,18 @@
         }
       ]
     },
+    "ab3658c0157e62ee0972": {
+      "song_id": "ab3658c0157e62ee0972",
+      "title": "Mozambique",
+      "artist": "Michel Portal & Richard Galliano",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "dzyTSx_KeQo",
+      "alternatives": []
+    },
     "ab9726e744682623d86c": {
       "song_id": "ab9726e744682623d86c",
       "title": "Four Eyed Cyclops",
@@ -7505,6 +8467,18 @@
       "youtube_video_id": "TF0QihfSzV8",
       "alternatives": []
     },
+    "adda36c15430ee3307a1": {
+      "song_id": "adda36c15430ee3307a1",
+      "title": "Me Gustas",
+      "artist": "Herencia Andina",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ij-SneMXuO8",
+      "alternatives": []
+    },
     "ae2c6c8c40095dbfb6dd": {
       "song_id": "ae2c6c8c40095dbfb6dd",
       "title": "Beauty of the Kingdom",
@@ -7547,6 +8521,30 @@
           "confidence": 0.55
         }
       ]
+    },
+    "af421a1b20a8dd9bbcdb": {
+      "song_id": "af421a1b20a8dd9bbcdb",
+      "title": "Easy (feat. Gabriella)",
+      "artist": "Kadebostany",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "8L67ojfBCuo",
+      "alternatives": []
+    },
+    "af4dcd4d74e3d0354216": {
+      "song_id": "af4dcd4d74e3d0354216",
+      "title": "Pájaro Campana, Pájaro Chogui, Galopera (feat. Rogers Roa Echavarría & Marlon Monsalve Gomez)",
+      "artist": "Grupo la Vuelta, Andres Garzon Tovar & Antonio Cogollo Rodriguez",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "DP1JWomPS8I",
+      "alternatives": []
     },
     "b08c1fee4560fad05e35": {
       "song_id": "b08c1fee4560fad05e35",
@@ -7987,6 +8985,18 @@
       "youtube_video_id": "OaLW7OhZ1eU",
       "alternatives": []
     },
+    "bb6dfa45a421ef25d685": {
+      "song_id": "bb6dfa45a421ef25d685",
+      "title": "ope Outruns Doubt",
+      "artist": "jujnaika manase",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "k1lL90PPPsM",
+      "alternatives": []
+    },
     "bc1511f9a91045e58d48": {
       "song_id": "bc1511f9a91045e58d48",
       "title": "soft ambient",
@@ -8203,6 +9213,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "D_iPsP8LXI0",
+      "alternatives": []
+    },
+    "c033f0ad43d25f876a85": {
+      "song_id": "c033f0ad43d25f876a85",
+      "title": "Master Fork 128 Hz H (80 Bpm)",
+      "artist": "My Meditation Music, Planetary Frequencies Meditation & Dr. Meditation Frequencies",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "XVHmkQ1gpbo",
       "alternatives": []
     },
     "c046036ad96b66e76dd3": {
@@ -8502,6 +9524,18 @@
       "youtube_video_id": "Ec1hqWgqJc8",
       "alternatives": []
     },
+    "c5a230e579afda57f394": {
+      "song_id": "c5a230e579afda57f394",
+      "title": "Run Rabbit",
+      "artist": "Mollie Elizabeth",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "vzHOdM_8faM",
+      "alternatives": []
+    },
     "c612f40d2da8d20f0d32": {
       "song_id": "c612f40d2da8d20f0d32",
       "title": "Piano Concerto No. 1 in A Minor, Op. 7: III. Finale. Allegro non troppo - Allegro molto",
@@ -8670,6 +9704,30 @@
       "youtube_video_id": "j3-HgifVyhQ",
       "alternatives": []
     },
+    "c956dee2cc3029e0051d": {
+      "song_id": "c956dee2cc3029e0051d",
+      "title": "Maniac",
+      "artist": "Michael Sembello",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "324it5DKoXU",
+      "alternatives": []
+    },
+    "c970c75bb2d3c1873f8c": {
+      "song_id": "c970c75bb2d3c1873f8c",
+      "title": "Somehow",
+      "artist": "Khaim",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "wQfqpN72lCA",
+      "alternatives": []
+    },
     "ca10fa9721bac1492cb5": {
       "song_id": "ca10fa9721bac1492cb5",
       "title": "Data Drizzle",
@@ -8718,6 +9776,30 @@
       "youtube_video_id": "X1GnENzbZlU",
       "alternatives": []
     },
+    "cbfab68e3627c0d7954f": {
+      "song_id": "cbfab68e3627c0d7954f",
+      "title": "My Kind Of Lady",
+      "artist": "Supertramp",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Q0FXu6bv_8k",
+      "alternatives": []
+    },
+    "cc20c274424b7a28ff8f": {
+      "song_id": "cc20c274424b7a28ff8f",
+      "title": "Don't speak (feat. Robert Cristian)",
+      "artist": "Moonlight & Dayana",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "RMu42xS_Wz8",
+      "alternatives": []
+    },
     "cc5a90026befcb49909a": {
       "song_id": "cc5a90026befcb49909a",
       "title": "Canefields",
@@ -8742,6 +9824,18 @@
       "youtube_video_id": "7ui7GxRnMuc",
       "alternatives": []
     },
+    "cca7a72e5032ed9c76db": {
+      "song_id": "cca7a72e5032ed9c76db",
+      "title": "Only You",
+      "artist": "Yazoo",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "dt9gn7R683k",
+      "alternatives": []
+    },
     "ccb3edeebf1ececf7d79": {
       "song_id": "ccb3edeebf1ececf7d79",
       "title": "Fantasie In F Minor, Op.103, D.940",
@@ -8752,6 +9846,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Z6m7zYKSbn8",
+      "alternatives": []
+    },
+    "ccb4693b2f080df9ba81": {
+      "song_id": "ccb4693b2f080df9ba81",
+      "title": "Toccata and Fugue in D Minor, BWV 565 (Transcr. Constantini for Bandoneon): II. Fugue",
+      "artist": "Claudio Constantini",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ES3sbXY4gPk",
       "alternatives": []
     },
     "cce6c73ffa36d9518e9e": {
@@ -8874,6 +9980,18 @@
       "youtube_video_id": "JWwD6dQFV9I",
       "alternatives": []
     },
+    "d06e6c14ee8d72e5da8c": {
+      "song_id": "d06e6c14ee8d72e5da8c",
+      "title": "Houdini",
+      "artist": "Dua Lipa",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "suAR1PYFNYA",
+      "alternatives": []
+    },
     "d0a16da014008ca15623": {
       "song_id": "d0a16da014008ca15623",
       "title": "Prélude, Fugue et Variation, Op. 18: I. Andantino. II. Lento (Arr. pour piano)",
@@ -8884,6 +10002,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Q7x2Vb-uTUU",
+      "alternatives": []
+    },
+    "d125d13076be2d023618": {
+      "song_id": "d125d13076be2d023618",
+      "title": "La Sonnambula (1986 Remastered Version), Act 2, Scene 2: Ah! non credea mirarti (Amina/Elvino)",
+      "artist": "Maria Callas, Teatro Alla Scala Orchestra & Antonino Votto",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "kuPNn66xNTw",
+      "alternatives": []
+    },
+    "d1bcd7498f75e0e2519d": {
+      "song_id": "d1bcd7498f75e0e2519d",
+      "title": "Light Blue",
+      "artist": "Robert Jíša",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "rMnuYnKSzrU",
       "alternatives": []
     },
     "d1ec8fd5452ffd0e9593": {
@@ -8922,6 +10064,18 @@
       "youtube_video_id": "8Xp1gqswKBA",
       "alternatives": []
     },
+    "d2a792b727cf83c25d8b": {
+      "song_id": "d2a792b727cf83c25d8b",
+      "title": "Supernatural Love",
+      "artist": "Donna Summer",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "4ezafGJS9SU",
+      "alternatives": []
+    },
     "d2e2b84c615449a5f887": {
       "song_id": "d2e2b84c615449a5f887",
       "title": "Ramapire Maro Rang Rakhyo",
@@ -8957,6 +10111,38 @@
       "genre": "pop",
       "youtube_video_id": "-fxh7jAJR8U",
       "alternatives": []
+    },
+    "d5247b77780cf953e22d": {
+      "song_id": "d5247b77780cf953e22d",
+      "title": "Flashdance… What A Feeling",
+      "artist": "Irene Cara",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ILWSp0m9G2U",
+      "alternatives": []
+    },
+    "d55de30fb86dafe9f48e": {
+      "song_id": "d55de30fb86dafe9f48e",
+      "title": "Dancing Without You",
+      "artist": "Disco Bambino, Nile Rodgers & Sophie Ellis-Bextor",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "90g4ganogSg",
+      "alternatives": [
+        {
+          "source": "audd",
+          "title": "Dancing Without You",
+          "artist": "Disco Bambino",
+          "confidence": 0.85,
+          "album": "Dancing Without You"
+        }
+      ]
     },
     "d567d92619218ccebd0b": {
       "song_id": "d567d92619218ccebd0b",
@@ -9066,6 +10252,18 @@
       "youtube_video_id": "qOA35ar0qTU",
       "alternatives": []
     },
+    "d72a73b2e8a4d64d5c2d": {
+      "song_id": "d72a73b2e8a4d64d5c2d",
+      "title": "Prelude In E Minor",
+      "artist": "Gerry Mulligan",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "4ntWWtCmZ2E",
+      "alternatives": []
+    },
     "d72cb6746ef2d95443f1": {
       "song_id": "d72cb6746ef2d95443f1",
       "title": "Concerto for Piano and Orchestra No. 4 in G Op. 58 (1996 Remastered Version): III. Rondo (Vivace)",
@@ -9088,6 +10286,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "okiV6tiuk-0",
+      "alternatives": []
+    },
+    "d7326a0940984dd09ccc": {
+      "song_id": "d7326a0940984dd09ccc",
+      "title": "Luminous Shadows",
+      "artist": "Harmony The Koala",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "lhhBgqKK0FM",
       "alternatives": []
     },
     "d7fea3d329ec51a28ab7": {
@@ -9162,6 +10372,18 @@
       "youtube_video_id": "",
       "alternatives": []
     },
+    "d945e5288cfeceb8b8b6": {
+      "song_id": "d945e5288cfeceb8b8b6",
+      "title": "Mi Refugio",
+      "artist": "Eufonia",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "naudC10dt4E",
+      "alternatives": []
+    },
     "d95ce0b84b461da1e085": {
       "song_id": "d95ce0b84b461da1e085",
       "title": "Piano Concerto No. 4 in G Minor, Op. 40: I. Allegro vivace (Alla breve)",
@@ -9174,6 +10396,18 @@
       "youtube_video_id": "1rm6jxymHR0",
       "alternatives": []
     },
+    "d97f67b3ccc49bcddaa9": {
+      "song_id": "d97f67b3ccc49bcddaa9",
+      "title": "Fantasy in F Minor for Piano Four Hands, D. 940: I. Allegro molto moderato - Largo - Allegro vivace",
+      "artist": "Andreas Grau & Götz Schumacher",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "0zYFpHTfNHY",
+      "alternatives": []
+    },
     "d98bc378800c6cb0f770": {
       "song_id": "d98bc378800c6cb0f770",
       "title": "Reattachment of Worldly Affairs (Live)",
@@ -9184,6 +10418,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "",
+      "alternatives": []
+    },
+    "d9a3f06e709fd5eef6ea": {
+      "song_id": "d9a3f06e709fd5eef6ea",
+      "title": "Bach - Toccata and Fugue in D Minor",
+      "artist": "Toiro Kuriki",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "cSoioYliu5o",
       "alternatives": []
     },
     "d9d9cb1f0be1749517cc": {
@@ -9232,6 +10478,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "mIvXtm8GWMY",
+      "alternatives": []
+    },
+    "db3ea4876a7ab6527b67": {
+      "song_id": "db3ea4876a7ab6527b67",
+      "title": "Every Breath You Take",
+      "artist": "The Police",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "OMOGaugKpzs",
       "alternatives": []
     },
     "dbf0b1ee7adcdef95336": {
@@ -9390,6 +10648,18 @@
       "youtube_video_id": "kfoNJwvbFL4",
       "alternatives": []
     },
+    "ddfd0f686a206350450a": {
+      "song_id": "ddfd0f686a206350450a",
+      "title": "Second Chance",
+      "artist": "38 Special",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "cRkaPdfjzEk",
+      "alternatives": []
+    },
     "de0a20aa5f3c4080d4d1": {
       "song_id": "de0a20aa5f3c4080d4d1",
       "title": "Trio in E-Flat Major, D. 929: II. Andante con moto",
@@ -9412,6 +10682,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "-WXwmauVyOA",
+      "alternatives": []
+    },
+    "de7c8bcc7851f82eb83c": {
+      "song_id": "de7c8bcc7851f82eb83c",
+      "title": "Piano Concerto No. 3 in C minor Op. 37: I. Allegro con brio",
+      "artist": "Annie Fischer, Budapest Symphony Orchestra & Heribert Esser",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ziRYygWqW6Q",
       "alternatives": []
     },
     "dec81ec3c1cfd2861cf4": {
@@ -9742,6 +11024,18 @@
       "youtube_video_id": "4I-GGTCV0K0",
       "alternatives": []
     },
+    "e687ba66e7a88bc44494": {
+      "song_id": "e687ba66e7a88bc44494",
+      "title": "I'm So Excited",
+      "artist": "The Pointer Sisters",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Yz6hTuK9yBo",
+      "alternatives": []
+    },
     "e69bdedd68bb19b6f25b": {
       "song_id": "e69bdedd68bb19b6f25b",
       "title": "Machine City",
@@ -9850,6 +11144,18 @@
       "youtube_video_id": "cA4r8Pi4BAI",
       "alternatives": []
     },
+    "e928757cdaffa24b08f0": {
+      "song_id": "e928757cdaffa24b08f0",
+      "title": "Toccata & Fugue (From \"Rollerball\")",
+      "artist": "MAKSIM",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "thbYn18lukM",
+      "alternatives": []
+    },
     "e93e9a7c8f50d406d39c": {
       "song_id": "e93e9a7c8f50d406d39c",
       "title": "Mirrors",
@@ -9910,6 +11216,18 @@
       "youtube_video_id": "QxZRTYYXmyY",
       "alternatives": []
     },
+    "eaa6e3e470543728ba66": {
+      "song_id": "eaa6e3e470543728ba66",
+      "title": "Long Time Gone",
+      "artist": "Galliano",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "UCZFK6DaVrs",
+      "alternatives": []
+    },
     "eb5ba1135dfa59d01e99": {
       "song_id": "eb5ba1135dfa59d01e99",
       "title": "Fractal Panorama",
@@ -9945,6 +11263,25 @@
       "genre": "",
       "youtube_video_id": "7_CRr1l4Szs",
       "alternatives": []
+    },
+    "ecf48b645eea8b9e2387": {
+      "song_id": "ecf48b645eea8b9e2387",
+      "title": "Fantasiestücke, Op. 12",
+      "artist": "Maxim Philippov",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ivoC17sIDiY",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Fantasiestücke, Op. 12",
+          "artist": "Benno Moiseiwitsch",
+          "confidence": 0.55
+        }
+      ]
     },
     "ee5076c3999bbdf853f7": {
       "song_id": "ee5076c3999bbdf853f7",
@@ -9994,6 +11331,18 @@
       "youtube_video_id": "F6BcPj42bUg",
       "alternatives": []
     },
+    "ef875d33e282373acab8": {
+      "song_id": "ef875d33e282373acab8",
+      "title": "Cathedral",
+      "artist": "Secret Garden",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "QqoDh2fYuC0",
+      "alternatives": []
+    },
     "ef960b64f8077bc43e30": {
       "song_id": "ef960b64f8077bc43e30",
       "title": "Pictures At An Exhibition",
@@ -10004,6 +11353,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "X29Xe7qoVy8",
+      "alternatives": []
+    },
+    "efd78fcbeea8b5ac012c": {
+      "song_id": "efd78fcbeea8b5ac012c",
+      "title": "Love Don't Live Here Anymore",
+      "artist": "Jimmy Nail",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "1iWOaW2I71E",
       "alternatives": []
     },
     "eff3686e7839cd4ddaca": {
@@ -10028,6 +11389,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "A0Gmphu72tY",
+      "alternatives": []
+    },
+    "f081355592be9ab95c99": {
+      "song_id": "f081355592be9ab95c99",
+      "title": "IT'S RAINING MEN",
+      "artist": "THE WEATHER GIRLS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "l5aZJBLAu1E",
       "alternatives": []
     },
     "f0f4dc181bbc520ce42e": {
@@ -10064,6 +11437,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "32OHSsk-BfE",
+      "alternatives": []
+    },
+    "f29817e525dbd96be747": {
+      "song_id": "f29817e525dbd96be747",
+      "title": "English Suite No. 2 in A Minor, BWV 807: 5. Bourrée I & II",
+      "artist": "Martha Argerich",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "q6ZW9bSfgR4",
       "alternatives": []
     },
     "f29a84b6507e5a90c822": {
@@ -10493,6 +11878,18 @@
       "youtube_video_id": "g4IZrY9lirI",
       "alternatives": []
     },
+    "fa060a3759dc99388c73": {
+      "song_id": "fa060a3759dc99388c73",
+      "title": "Love is... (feat. Manyus & Dario Guida)",
+      "artist": "Magic Brown",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "QWsJQDO7snQ",
+      "alternatives": []
+    },
     "fa6d69aef28c27f06687": {
       "song_id": "fa6d69aef28c27f06687",
       "title": "Parlez-moi de lui",
@@ -10602,6 +11999,30 @@
       "youtube_video_id": "idnI2sDEAZo",
       "alternatives": []
     },
+    "fc7dcd79f0fdb8186ffd": {
+      "song_id": "fc7dcd79f0fdb8186ffd",
+      "title": "Prince Igor: Polovetsian Dances",
+      "artist": "Alliage Quintett & Sabine Meyer",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "gZvq9IUdEEs",
+      "alternatives": []
+    },
+    "fce0b51e8ff5fc842f3d": {
+      "song_id": "fce0b51e8ff5fc842f3d",
+      "title": "If I Let You",
+      "artist": "The Womack Sisters",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "FhFBYQG8Xg4",
+      "alternatives": []
+    },
     "fd15fddb2b3b23f5a1f6": {
       "song_id": "fd15fddb2b3b23f5a1f6",
       "title": "Бар икән бәхет",
@@ -10624,6 +12045,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "XvPQRAfDGJU",
+      "alternatives": []
+    },
+    "fd79a33107668e42076a": {
+      "song_id": "fd79a33107668e42076a",
+      "title": "Tu Boda",
+      "artist": "Pastorita Huaracina",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "5_NHR3Uw4ZM",
       "alternatives": []
     },
     "fdbdfc56e773b30702c5": {
