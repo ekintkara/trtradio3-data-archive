@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-27T17:08:22.836374+00:00",
+  "generated_at": "2026-08-28T17:55:26.493133+00:00",
   "radio_id": "radyoodtu",
   "month": "2026-08",
   "episodes": {
@@ -160,6 +160,18 @@
       "aired_at": "2026-08-13",
       "track_count": 5
     },
+    "radyoodtu/muzik-yayini/2026-08-28": {
+      "episode_id": "radyoodtu/muzik-yayini/2026-08-28",
+      "radio_id": "radyoodtu",
+      "program_id": 56,
+      "program_slug": "muzik-yayini",
+      "program_name": "Müzik Yayını",
+      "program_start_time": "18:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-28",
+      "aired_at": "2026-08-28",
+      "track_count": 1
+    },
     "radyoodtu/muzik-yayini/2026-08-27": {
       "episode_id": "radyoodtu/muzik-yayini/2026-08-27",
       "radio_id": "radyoodtu",
@@ -195,6 +207,18 @@
       "date": "2026-08-14",
       "aired_at": "2026-08-14",
       "track_count": 36
+    },
+    "radyoodtu/maximum-gencin-sundugu-40-haramiler-tekrar/2026-08-28": {
+      "episode_id": "radyoodtu/maximum-gencin-sundugu-40-haramiler-tekrar/2026-08-28",
+      "radio_id": "radyoodtu",
+      "program_id": 54,
+      "program_slug": "maximum-gencin-sundugu-40-haramiler-tekrar",
+      "program_name": "Maximum Genç'in Sunduğu 40 Haramiler (Tekrar)",
+      "program_start_time": "14:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-28",
+      "aired_at": "2026-08-28",
+      "track_count": 1
     },
     "radyoodtu/maximum-gencin-sundugu-40-haramiler-ege-yildizhan/2026-08-27": {
       "episode_id": "radyoodtu/maximum-gencin-sundugu-40-haramiler-ege-yildizhan/2026-08-27",
@@ -327,6 +351,18 @@
       "date": "2026-08-13",
       "aired_at": "2026-08-13",
       "track_count": 17
+    },
+    "radyoodtu/gunes-gozlugu/2026-08-28": {
+      "episode_id": "radyoodtu/gunes-gozlugu/2026-08-28",
+      "radio_id": "radyoodtu",
+      "program_id": 6,
+      "program_slug": "gunes-gozlugu",
+      "program_name": "Güneş Gözlüğü",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-28",
+      "aired_at": "2026-08-28",
+      "track_count": 4
     },
     "radyoodtu/gunes-gozlugu/2026-08-27": {
       "episode_id": "radyoodtu/gunes-gozlugu/2026-08-27",
@@ -531,6 +567,18 @@
       "date": "2026-08-15",
       "aired_at": "2026-08-15",
       "track_count": 13
+    },
+    "radyoodtu/cumartesi-eki/2026-08-28": {
+      "episode_id": "radyoodtu/cumartesi-eki/2026-08-28",
+      "radio_id": "radyoodtu",
+      "program_id": 55,
+      "program_slug": "cumartesi-eki",
+      "program_name": "Cumartesi Eki",
+      "program_start_time": "15:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-28",
+      "aired_at": "2026-08-28",
+      "track_count": 21
     },
     "radyoodtu/arventonun-sundugu-carpi-5-sahra-topay/2026-08-27": {
       "episode_id": "radyoodtu/arventonun-sundugu-carpi-5-sahra-topay/2026-08-27",
