@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-28T17:55:26.493133+00:00",
+  "generated_at": "2026-08-29T11:59:48.017183+00:00",
   "radio_id": "radioeksen",
   "month": "2026-08",
   "episodes": {
+    "radioeksen/radyo-eksen--oldies/2026-08-29": {
+      "episode_id": "radioeksen/radyo-eksen--oldies/2026-08-29",
+      "radio_id": "radioeksen",
+      "program_id": -27441,
+      "program_slug": "radyo-eksen--oldies",
+      "program_name": "RADYO EKSEN -OLDIES",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-29",
+      "aired_at": "2026-08-29",
+      "track_count": 50
+    },
     "radioeksen/radyo-eksen--oldies/2026-08-23": {
       "episode_id": "radioeksen/radyo-eksen--oldies/2026-08-23",
       "radio_id": "radioeksen",
@@ -208,6 +220,18 @@
       "aired_at": "2026-08-17",
       "track_count": 39
     },
+    "radioeksen/eksen-muzik/2026-08-29": {
+      "episode_id": "radioeksen/eksen-muzik/2026-08-29",
+      "radio_id": "radioeksen",
+      "program_id": -51370,
+      "program_slug": "eksen-muzik",
+      "program_name": "Eksen Müzik",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-29",
+      "aired_at": "2026-08-29",
+      "track_count": 41
+    },
     "radioeksen/eksen-muzik/2026-08-28": {
       "episode_id": "radioeksen/eksen-muzik/2026-08-28",
       "radio_id": "radioeksen",
@@ -363,6 +387,18 @@
       "date": "2026-08-16",
       "aired_at": "2026-08-16",
       "track_count": 105
+    },
+    "radioeksen/aytun---tchibo-gold-selection-ile-keyifli-bir-mola/2026-08-29": {
+      "episode_id": "radioeksen/aytun---tchibo-gold-selection-ile-keyifli-bir-mola/2026-08-29",
+      "radio_id": "radioeksen",
+      "program_id": -31454,
+      "program_slug": "aytun---tchibo-gold-selection-ile-keyifli-bir-mola",
+      "program_name": "AYTUN - TCHIBO GOLD SELECTION İLE KEYİFLİ BİR MOLA",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-29",
+      "aired_at": "2026-08-29",
+      "track_count": 2
     }
   }
 }

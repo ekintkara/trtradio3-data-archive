@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-28T17:55:26.493133+00:00",
+  "generated_at": "2026-08-29T11:59:48.017183+00:00",
   "radio_id": "radyoodtu",
   "month": "2026-08",
   "episodes": {
@@ -159,6 +159,18 @@
       "date": "2026-08-13",
       "aired_at": "2026-08-13",
       "track_count": 5
+    },
+    "radyoodtu/muzik-yayini/2026-08-29": {
+      "episode_id": "radyoodtu/muzik-yayini/2026-08-29",
+      "radio_id": "radyoodtu",
+      "program_id": 77,
+      "program_slug": "muzik-yayini",
+      "program_name": "Müzik Yayını",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-29",
+      "aired_at": "2026-08-29",
+      "track_count": 10
     },
     "radyoodtu/muzik-yayini/2026-08-28": {
       "episode_id": "radyoodtu/muzik-yayini/2026-08-28",
@@ -352,6 +364,18 @@
       "aired_at": "2026-08-13",
       "track_count": 17
     },
+    "radyoodtu/gunes-gozlugu/2026-08-29": {
+      "episode_id": "radyoodtu/gunes-gozlugu/2026-08-29",
+      "radio_id": "radyoodtu",
+      "program_id": 7,
+      "program_slug": "gunes-gozlugu",
+      "program_name": "Güneş Gözlüğü",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-29",
+      "aired_at": "2026-08-29",
+      "track_count": 32
+    },
     "radyoodtu/gunes-gozlugu/2026-08-28": {
       "episode_id": "radyoodtu/gunes-gozlugu/2026-08-28",
       "radio_id": "radyoodtu",
@@ -543,6 +567,18 @@
       "date": "2026-08-13",
       "aired_at": "2026-08-13",
       "track_count": 30
+    },
+    "radyoodtu/easy-kusagi/2026-08-29": {
+      "episode_id": "radyoodtu/easy-kusagi/2026-08-29",
+      "radio_id": "radyoodtu",
+      "program_id": 58,
+      "program_slug": "easy-kusagi",
+      "program_name": "Easy Kuşağı",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-29",
+      "aired_at": "2026-08-29",
+      "track_count": 21
     },
     "radyoodtu/easy-kusagi/2026-08-22": {
       "episode_id": "radyoodtu/easy-kusagi/2026-08-22",

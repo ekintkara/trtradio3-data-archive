@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-28T17:55:26.493133+00:00",
+  "generated_at": "2026-08-29T11:59:48.017183+00:00",
   "radio_id": "acikradyo",
   "month": "2026-08",
   "episodes": {
@@ -135,6 +135,30 @@
       "date": "2026-08-28",
       "aired_at": "2026-08-28",
       "track_count": 3
+    },
+    "acikradyo/caz-turbulans/2026-08-29": {
+      "episode_id": "acikradyo/caz-turbulans/2026-08-29",
+      "radio_id": "acikradyo",
+      "program_id": 1779,
+      "program_slug": "caz-turbulans",
+      "program_name": "Caz Türbülans",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-29",
+      "aired_at": "2026-08-29",
+      "track_count": 12
+    },
+    "acikradyo/apacik-radyo-muzikleri/2026-08-29": {
+      "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-08-29",
+      "radio_id": "acikradyo",
+      "program_id": 1781,
+      "program_slug": "apacik-radyo-muzikleri",
+      "program_name": "Apaçık Radyo Müzikleri",
+      "program_start_time": "02:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-29",
+      "aired_at": "2026-08-29",
+      "track_count": 37
     },
     "acikradyo/apacik-radyo-muzikleri/2026-08-28": {
       "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-08-28",

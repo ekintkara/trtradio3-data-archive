@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-28T17:55:26.493133+00:00",
+  "generated_at": "2026-08-29T11:59:48.017183+00:00",
   "radio_id": "acikradyo",
   "month": "2026-08",
   "songs": {
@@ -14,6 +14,30 @@
       "mbid": "",
       "genre": "country; pop; bluegrass",
       "youtube_video_id": "UbxUSsFXYo4",
+      "alternatives": []
+    },
+    "02b428a44b95c8d0ced6": {
+      "song_id": "02b428a44b95c8d0ced6",
+      "title": "No More Worry (Planet Club Mix)",
+      "artist": "Basic Inc",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "AJKsY-t1EVQ",
+      "alternatives": []
+    },
+    "03501ae4cf59ec35fa97": {
+      "song_id": "03501ae4cf59ec35fa97",
+      "title": "Hey Girl Don't Bother Me",
+      "artist": "The Tams",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ZLubTUsfZD8",
       "alternatives": []
     },
     "0579becd208bafe0066c": {
@@ -64,6 +88,30 @@
       "youtube_video_id": "ymgJGyzp0gk",
       "alternatives": []
     },
+    "0d96766bd288c7bb8855": {
+      "song_id": "0d96766bd288c7bb8855",
+      "title": "Pink Blue Hotel",
+      "artist": "Loopless",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "1Irv9cHgG40",
+      "alternatives": []
+    },
+    "1067a7247df7a89e48da": {
+      "song_id": "1067a7247df7a89e48da",
+      "title": "Breaking Up Is Hard To Do",
+      "artist": "Neil Sedaka",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "tbad22CKlB4",
+      "alternatives": []
+    },
     "138c95e19b095e861fc7": {
       "song_id": "138c95e19b095e861fc7",
       "title": "Bad To Worst (2002 Remastered Version)",
@@ -86,6 +134,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "aKfL-Qoc7Kk",
+      "alternatives": []
+    },
+    "1637441f73f0a5c4056f": {
+      "song_id": "1637441f73f0a5c4056f",
+      "title": "Rock With Me Baby",
+      "artist": "Billy Lee Riley",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "I6HzluOygpU",
       "alternatives": []
     },
     "1745015869f882c4fdaa": {
@@ -244,6 +304,18 @@
       "youtube_video_id": "UtmkbMYOEkk",
       "alternatives": []
     },
+    "2ca278d0db712952ecb7": {
+      "song_id": "2ca278d0db712952ecb7",
+      "title": "Bad Luck",
+      "artist": "B.B. King",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ehSpDjUggsQ",
+      "alternatives": []
+    },
     "2cdc0394f85c6f0d963e": {
       "song_id": "2cdc0394f85c6f0d963e",
       "title": "Scorpion",
@@ -280,6 +352,18 @@
       "youtube_video_id": "tODynAw4Jfg",
       "alternatives": []
     },
+    "2ecdff1b1693ca9e4c29": {
+      "song_id": "2ecdff1b1693ca9e4c29",
+      "title": "Everytime (SÉLECTIONNÉ PAR CHLOÉ;seduction time)",
+      "artist": "Soulphiction",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
+      "alternatives": []
+    },
     "2ede8a66398b7dad5754": {
       "song_id": "2ede8a66398b7dad5754",
       "title": "Inflation Blues",
@@ -290,6 +374,42 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "ZHId-r8Gb-8",
+      "alternatives": []
+    },
+    "2f39e41912f91771f30b": {
+      "song_id": "2f39e41912f91771f30b",
+      "title": "Asadoya Yunta",
+      "artist": "Kifu Mitsuhashi & Kiyoshi Yamaya",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "lx00nv8CM2s",
+      "alternatives": []
+    },
+    "2f765e7cc7329dfcc023": {
+      "song_id": "2f765e7cc7329dfcc023",
+      "title": "Rock Island Line",
+      "artist": "Lonnie Donegan",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "wI4nRD-DRpk",
+      "alternatives": []
+    },
+    "307ca49d9a676ca5e679": {
+      "song_id": "307ca49d9a676ca5e679",
+      "title": "Driftin' Blues",
+      "artist": "Charles Brown",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "9Tv5-1BIjQ4",
       "alternatives": []
     },
     "308bd93b89687249ef4c": {
@@ -350,6 +470,18 @@
       "mbid": "",
       "genre": "reggae",
       "youtube_video_id": "z5kWTVqsRJ8",
+      "alternatives": []
+    },
+    "38f81cf9b4d4490a8b13": {
+      "song_id": "38f81cf9b4d4490a8b13",
+      "title": "Be-Bop-A-Lula",
+      "artist": "Gene Vincent",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ZWFlLYZm0tA",
       "alternatives": []
     },
     "391df1419e5188b1415d": {
@@ -424,6 +556,18 @@
       "youtube_video_id": "y5U-I5wk1uo",
       "alternatives": []
     },
+    "3f6586cbfa4f72309be3": {
+      "song_id": "3f6586cbfa4f72309be3",
+      "title": "That's How Strong My Love Is",
+      "artist": "Taj Mahal",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "n7T6FBq6Ym4",
+      "alternatives": []
+    },
     "3f79097010acc01045e0": {
       "song_id": "3f79097010acc01045e0",
       "title": "Cool Down the Pace",
@@ -460,6 +604,18 @@
       "youtube_video_id": "Jh20cMEgvqc",
       "alternatives": []
     },
+    "442dc887fdf99021af64": {
+      "song_id": "442dc887fdf99021af64",
+      "title": "Club Ready Dance Music",
+      "artist": "Sandy Khippal",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
+      "alternatives": []
+    },
     "448ea1961a5dcbca152e": {
       "song_id": "448ea1961a5dcbca152e",
       "title": "Downtown (Befour Steppa)",
@@ -472,6 +628,18 @@
       "youtube_video_id": "P5Tvcxfl17s",
       "alternatives": []
     },
+    "4ee276ee21143fdfa8de": {
+      "song_id": "4ee276ee21143fdfa8de",
+      "title": "Pendulum's Lullaby",
+      "artist": "Osmund Evans",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "XI7DRtUXwf0",
+      "alternatives": []
+    },
     "4f7f0455580c91d47c2b": {
       "song_id": "4f7f0455580c91d47c2b",
       "title": "Resistance Riddim Instrumental",
@@ -482,6 +650,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "CWzOu3YocWI",
+      "alternatives": []
+    },
+    "4ffe48294d86c8e07afb": {
+      "song_id": "4ffe48294d86c8e07afb",
+      "title": "Walking The Blues",
+      "artist": "Champion Jack Dupree",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "4GMQmsO3L5g",
       "alternatives": []
     },
     "507272089056fa258a24": {
@@ -544,6 +724,18 @@
       "youtube_video_id": "GE158cFu_Bo",
       "alternatives": []
     },
+    "529c71f085b2f1670859": {
+      "song_id": "529c71f085b2f1670859",
+      "title": "Good Golly Miss Molly",
+      "artist": "Little Richard",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "AK_jm3Hz1Wk",
+      "alternatives": []
+    },
     "5370ae4c460b3ea6fa7c": {
       "song_id": "5370ae4c460b3ea6fa7c",
       "title": "Caridad",
@@ -554,6 +746,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "vlOL9stv1_w",
+      "alternatives": []
+    },
+    "543acdeef2c1fb09636d": {
+      "song_id": "543acdeef2c1fb09636d",
+      "title": "Aglio",
+      "artist": "Oscar Rocchi",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Bbu0sSHm1cU",
       "alternatives": []
     },
     "553140f513f47f9e5fd7": {
@@ -568,6 +772,30 @@
       "youtube_video_id": "mYALBzfY5QY",
       "alternatives": []
     },
+    "5542e5f912f16f141cbd": {
+      "song_id": "5542e5f912f16f141cbd",
+      "title": "Profane Prophecy",
+      "artist": "The Black Crowes",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "wNWqTEUKnyo",
+      "alternatives": []
+    },
+    "5677928f8cd139b61f34": {
+      "song_id": "5677928f8cd139b61f34",
+      "title": "Let's Roll Just Like We Used To",
+      "artist": "Kasabian",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "AetgFOdtarU",
+      "alternatives": []
+    },
     "57187b63ba763deef564": {
       "song_id": "57187b63ba763deef564",
       "title": "Gentrification",
@@ -578,6 +806,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "0BSlxLe3KwQ",
+      "alternatives": []
+    },
+    "5f1be06bdc51baad57f5": {
+      "song_id": "5f1be06bdc51baad57f5",
+      "title": "Black Shadow",
+      "artist": "Minus Group",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "B0q-J938Tqo",
       "alternatives": []
     },
     "600cf4cacc50c815cf29": {
@@ -602,6 +842,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "QJdHOTACVHk",
+      "alternatives": []
+    },
+    "613652156e3a4fa65d3f": {
+      "song_id": "613652156e3a4fa65d3f",
+      "title": "We Are What We Are",
+      "artist": "Lion's Share",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "CU-yIM4XUIE",
       "alternatives": []
     },
     "62c4be704a6660d95640": {
@@ -640,6 +892,18 @@
       "youtube_video_id": "irEyzVPlWgc",
       "alternatives": []
     },
+    "63df91b40aebb7a0fb66": {
+      "song_id": "63df91b40aebb7a0fb66",
+      "title": "Be My Girl",
+      "artist": "Jim Dale",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "2wenpJzK0Oc",
+      "alternatives": []
+    },
     "650182929043dea9eaaa": {
       "song_id": "650182929043dea9eaaa",
       "title": "COME TOGETHER",
@@ -650,6 +914,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "BjoN2yXwmoc",
+      "alternatives": []
+    },
+    "66992ae9c66ad6d5996f": {
+      "song_id": "66992ae9c66ad6d5996f",
+      "title": "In My Own Dream",
+      "artist": "The Paul Butterfield Blues Band",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "E4bw9QlysDY",
       "alternatives": []
     },
     "68c5b65108ca39e7b0a0": {
@@ -686,6 +962,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "2KL-uVdJgQQ",
+      "alternatives": []
+    },
+    "6ddf3ab63b59b30362d2": {
+      "song_id": "6ddf3ab63b59b30362d2",
+      "title": "Right Now",
+      "artist": "Gotthard",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "B382_zqdlLg",
+      "alternatives": []
+    },
+    "6f1d3b7a9c706b57293d": {
+      "song_id": "6f1d3b7a9c706b57293d",
+      "title": "Blueberry Hill",
+      "artist": "Fats Domino",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "bQQCPrwKzdo",
       "alternatives": []
     },
     "707d0455ef9b84f455b5": {
@@ -767,6 +1067,18 @@
       "youtube_video_id": "0SOXWmy4tqg",
       "alternatives": []
     },
+    "7848bfcd62e0549ddaa7": {
+      "song_id": "7848bfcd62e0549ddaa7",
+      "title": "Bach to Swing",
+      "artist": "Claude Bolling And His Orchestra",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "1IaAhX-snSc",
+      "alternatives": []
+    },
     "78c238ef6721cb784bed": {
       "song_id": "78c238ef6721cb784bed",
       "title": "Curly Dub",
@@ -777,6 +1089,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "QfiBpIRIYPw",
+      "alternatives": []
+    },
+    "792d9e4142091a65db09": {
+      "song_id": "792d9e4142091a65db09",
+      "title": "Numb",
+      "artist": "Portishead",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Z7If6GODLFc",
       "alternatives": []
     },
     "7a73fdf8bd62a006ad26": {
@@ -849,6 +1173,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "vYC7oEqjcro",
+      "alternatives": []
+    },
+    "80f25eb219c2462d2d28": {
+      "song_id": "80f25eb219c2462d2d28",
+      "title": "Red Headed Woman",
+      "artist": "Sonny Burgess",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "fOnOWLhuT80",
+      "alternatives": []
+    },
+    "810bd84a867e2003dd94": {
+      "song_id": "810bd84a867e2003dd94",
+      "title": "My Baby Walked Off",
+      "artist": "Howlin' Wolf",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "blues",
+      "youtube_video_id": "9bQN-suArbU",
       "alternatives": []
     },
     "8180dc4a21a3e4b3d5c7": {
@@ -947,6 +1295,18 @@
       "youtube_video_id": "zNAx8Zf7hiQ",
       "alternatives": []
     },
+    "8a45d7bb815042af36d2": {
+      "song_id": "8a45d7bb815042af36d2",
+      "title": "İspanyol Meyhanesi",
+      "artist": "Timur Selçuk",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "mPEfVY6GVsg",
+      "alternatives": []
+    },
     "8b32470fa2db84cb72b1": {
       "song_id": "8b32470fa2db84cb72b1",
       "title": "Yumeji's Theme (Theme from \"In the Mood for Love\")",
@@ -969,6 +1329,18 @@
       "mbid": "",
       "genre": "reggae; roots reggae",
       "youtube_video_id": "PvheubKIJz8",
+      "alternatives": []
+    },
+    "8d443d59f073fc191f22": {
+      "song_id": "8d443d59f073fc191f22",
+      "title": "Everything Hurts",
+      "artist": "Johnald",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "mPijn72awOg",
       "alternatives": []
     },
     "8ea9c95fa32c6181c1bb": {
@@ -1019,6 +1391,18 @@
       "youtube_video_id": "LRxYg_20oPg",
       "alternatives": []
     },
+    "95ff04a03fcb3f03d518": {
+      "song_id": "95ff04a03fcb3f03d518",
+      "title": "Introduction: Also Sprach Zarathustra (Theme From 2001: A Space Odyssey) [Live]",
+      "artist": "Elvis Presley",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "_WoPLBc6d5A",
+      "alternatives": []
+    },
     "9788f4185d4b2982bec5": {
       "song_id": "9788f4185d4b2982bec5",
       "title": "Good Vibrations",
@@ -1053,6 +1437,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Vz5sd_jaHKw",
+      "alternatives": []
+    },
+    "996581b55f7579260098": {
+      "song_id": "996581b55f7579260098",
+      "title": "Goodbye Kiss",
+      "artist": "Kasabian",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "vZarE8_M3fc",
+      "alternatives": []
+    },
+    "9ab8287a3d646e94c7e6": {
+      "song_id": "9ab8287a3d646e94c7e6",
+      "title": "Low Down and Dirty",
+      "artist": "Popa Chubby",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "blues; rock; blues rock",
+      "youtube_video_id": "6HuXW9zCbyA",
       "alternatives": []
     },
     "9cb5b1b2079bae660703": {
@@ -1103,6 +1511,18 @@
       "youtube_video_id": "f77NV7PM7MY",
       "alternatives": []
     },
+    "ace9aa9618e678903fcb": {
+      "song_id": "ace9aa9618e678903fcb",
+      "title": "Here Comes Summer",
+      "artist": "Jerry Keller",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "aY2aj3ba7pA",
+      "alternatives": []
+    },
     "aef5682a3988a86c866c": {
       "song_id": "aef5682a3988a86c866c",
       "title": "Rub A Dub Riddim",
@@ -1113,6 +1533,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "69nbLz1FmTU",
+      "alternatives": []
+    },
+    "b18f131c131f06e6845e": {
+      "song_id": "b18f131c131f06e6845e",
+      "title": "Don't Get Around Much Anymore",
+      "artist": "Dr John",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "WSGgj088Skc",
+      "alternatives": []
+    },
+    "b20895a71b25fe3dcc23": {
+      "song_id": "b20895a71b25fe3dcc23",
+      "title": "Wang Dang Doodle (feat. Eric Clapton, Steve Winwood, Bill Wyman & Charlie Watts)",
+      "artist": "Howlin' Wolf",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "rF0GmnpPSWc",
       "alternatives": []
     },
     "b3759334af279d78bfff": {
@@ -1235,6 +1679,18 @@
       "youtube_video_id": "YEPT8NeOVF0",
       "alternatives": []
     },
+    "c986e5be439a10262d7e": {
+      "song_id": "c986e5be439a10262d7e",
+      "title": "One Step",
+      "artist": "J.J. Cale",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; blues; blues rock",
+      "youtube_video_id": "APr3Abm55BE",
+      "alternatives": []
+    },
     "ca9eda78c3d622cdb153": {
       "song_id": "ca9eda78c3d622cdb153",
       "title": "Satisfy My Soul",
@@ -1245,6 +1701,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "5O1WKodlCIA",
+      "alternatives": []
+    },
+    "ccd2fe40e9a2bf7ef229": {
+      "song_id": "ccd2fe40e9a2bf7ef229",
+      "title": "Henry's Swing Club",
+      "artist": "John Lee Hooker",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "42249YlRtMQ",
       "alternatives": []
     },
     "ce78bfe3cb3b98a56cac": {
@@ -1271,6 +1739,18 @@
       "youtube_video_id": "esizY_DNqTY",
       "alternatives": []
     },
+    "d06e8eb4bfed871b5f27": {
+      "song_id": "d06e8eb4bfed871b5f27",
+      "title": "I Got It Bad (And That Ain't Good) [Live]",
+      "artist": "Billie Holiday",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "YDxKzrWa-YY",
+      "alternatives": []
+    },
     "d0a643807e46c0c7453d": {
       "song_id": "d0a643807e46c0c7453d",
       "title": "2012 (If the World Would End) [feat. Evelyn & Patrick Miller] [Extended Mix]",
@@ -1281,6 +1761,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "n_bLIjcP298",
+      "alternatives": []
+    },
+    "d47ac5bc171461f9a325": {
+      "song_id": "d47ac5bc171461f9a325",
+      "title": "Dimples",
+      "artist": "John Lee Hooker",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "JAQk4UWOoxU",
       "alternatives": []
     },
     "d5f12f4a6fd23e5b8499": {
@@ -1379,6 +1871,18 @@
       "youtube_video_id": "JWoYy4Ah81s",
       "alternatives": []
     },
+    "e2b33c5b9a334dec7a60": {
+      "song_id": "e2b33c5b9a334dec7a60",
+      "title": "Sam Blues",
+      "artist": "Sambalanca Trio",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "cjiyvIdYBrI",
+      "alternatives": []
+    },
     "e437e1d500407a875c87": {
       "song_id": "e437e1d500407a875c87",
       "title": "Backbone",
@@ -1389,6 +1893,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "bv5RuxhBEqk",
+      "alternatives": []
+    },
+    "e7238d1d8db11182224f": {
+      "song_id": "e7238d1d8db11182224f",
+      "title": "Sword Vigor",
+      "artist": "Power Paladin",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "1D4wXxFyE-8",
       "alternatives": []
     },
     "eb942ea33fa980a9f542": {
@@ -1451,6 +1967,30 @@
       "youtube_video_id": "0CpMFPf9GKU",
       "alternatives": []
     },
+    "f220c8ace5a9f7553482": {
+      "song_id": "f220c8ace5a9f7553482",
+      "title": "Little Things Mean A Lot",
+      "artist": "Alma Cogan",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "YfwEp-75O_Y",
+      "alternatives": []
+    },
+    "f2259f97c9381b055440": {
+      "song_id": "f2259f97c9381b055440",
+      "title": "Needles and Pins",
+      "artist": "The Searchers",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ugDXpdjmpgw",
+      "alternatives": []
+    },
     "f2fb2b45ce6f4367c0e2": {
       "song_id": "f2fb2b45ce6f4367c0e2",
       "title": "Lágrimas de Escarcha",
@@ -1485,6 +2025,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Aexhz09pcf4",
+      "alternatives": []
+    },
+    "f65a5b275c3eedb2f4f0": {
+      "song_id": "f65a5b275c3eedb2f4f0",
+      "title": "See See Rider",
+      "artist": "Elvis Presley",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Jzc0MhZXXzg",
       "alternatives": []
     },
     "f70a071e3b47a0efe87d": {
@@ -1545,6 +2097,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "pxHCOdGrydQ",
+      "alternatives": []
+    },
+    "fb6d40a873be0f805828": {
+      "song_id": "fb6d40a873be0f805828",
+      "title": "Standin' Round Cryin'",
+      "artist": "Muddy Waters",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "blues; chicago blues; delta blues",
+      "youtube_video_id": "0G9J0gtuD4w",
       "alternatives": []
     },
     "fc567b4d2ab70c5ec8c4": {
@@ -1614,6 +2178,18 @@
       "youtube_video_id": "vsMWVW4xtwI",
       "alternatives": []
     },
+    "fef9154b10776a64084b": {
+      "song_id": "fef9154b10776a64084b",
+      "title": "Can't Buy Me Love",
+      "artist": "Ella Fitzgerald",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "jazz; vocal jazz; swing",
+      "youtube_video_id": "FL4jXzZ33-E",
+      "alternatives": []
+    },
     "ff247d8e5ffe3764935c": {
       "song_id": "ff247d8e5ffe3764935c",
       "title": "Come Together",
@@ -1624,6 +2200,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "ubR9cXWkXv8",
+      "alternatives": []
+    },
+    "ff53166278d7bc080276": {
+      "song_id": "ff53166278d7bc080276",
+      "title": "Opus 17 (Don't You Worry 'Bout Me)",
+      "artist": "Frankie Valli & The Four Seasons",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "0Y5b0fg_ZwE",
       "alternatives": []
     }
   }
