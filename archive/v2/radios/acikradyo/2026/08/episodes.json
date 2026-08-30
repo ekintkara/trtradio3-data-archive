@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-29T11:59:48.017183+00:00",
+  "generated_at": "2026-08-30T10:56:33.499440+00:00",
   "radio_id": "acikradyo",
   "month": "2026-08",
   "episodes": {
@@ -147,6 +147,18 @@
       "date": "2026-08-29",
       "aired_at": "2026-08-29",
       "track_count": 12
+    },
+    "acikradyo/apacik-radyo-muzikleri/2026-08-30": {
+      "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-08-30",
+      "radio_id": "acikradyo",
+      "program_id": 1799,
+      "program_slug": "apacik-radyo-muzikleri",
+      "program_name": "Apaçık Radyo Müzikleri",
+      "program_start_time": "02:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-30",
+      "aired_at": "2026-08-30",
+      "track_count": 70
     },
     "acikradyo/apacik-radyo-muzikleri/2026-08-29": {
       "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-08-29",
