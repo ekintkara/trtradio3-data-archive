@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-30T10:56:33.499440+00:00",
+  "generated_at": "2026-08-31T12:13:40.679024+00:00",
   "radio_id": "acikradyo",
   "month": "2026-08",
   "episodes": {
@@ -40,6 +40,18 @@
       "aired_at": "2026-08-28",
       "track_count": 7
     },
+    "acikradyo/opus-94-9/2026-08-31": {
+      "episode_id": "acikradyo/opus-94-9/2026-08-31",
+      "radio_id": "acikradyo",
+      "program_id": 1658,
+      "program_slug": "opus-94-9",
+      "program_name": "Opus 94.9",
+      "program_start_time": "14:30",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-31",
+      "aired_at": "2026-08-31",
+      "track_count": 1
+    },
     "acikradyo/once-saglik/2026-08-28": {
       "episode_id": "acikradyo/once-saglik/2026-08-28",
       "radio_id": "acikradyo",
@@ -75,6 +87,18 @@
       "date": "2026-08-28",
       "aired_at": "2026-08-28",
       "track_count": 2
+    },
+    "acikradyo/klang/2026-08-31": {
+      "episode_id": "acikradyo/klang/2026-08-31",
+      "radio_id": "acikradyo",
+      "program_id": 1646,
+      "program_slug": "klang",
+      "program_name": "Klang",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-31",
+      "aired_at": "2026-08-31",
+      "track_count": 12
     },
     "acikradyo/kavanozdaki-yildiz/2026-08-28": {
       "episode_id": "acikradyo/kavanozdaki-yildiz/2026-08-28",
@@ -147,6 +171,30 @@
       "date": "2026-08-29",
       "aired_at": "2026-08-29",
       "track_count": 12
+    },
+    "acikradyo/banttan-buluta/2026-08-31": {
+      "episode_id": "acikradyo/banttan-buluta/2026-08-31",
+      "radio_id": "acikradyo",
+      "program_id": 1655,
+      "program_slug": "banttan-buluta",
+      "program_name": "Banttan Buluta",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-31",
+      "aired_at": "2026-08-31",
+      "track_count": 10
+    },
+    "acikradyo/apacik-radyo-muzikleri/2026-08-31": {
+      "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-08-31",
+      "radio_id": "acikradyo",
+      "program_id": 1648,
+      "program_slug": "apacik-radyo-muzikleri",
+      "program_name": "Apaçık Radyo Müzikleri",
+      "program_start_time": "02:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-08-31",
+      "aired_at": "2026-08-31",
+      "track_count": 56
     },
     "acikradyo/apacik-radyo-muzikleri/2026-08-30": {
       "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-08-30",
