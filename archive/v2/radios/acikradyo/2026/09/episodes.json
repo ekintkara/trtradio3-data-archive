@@ -1,0 +1,32 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-09-01T10:49:40.249834+00:00",
+  "radio_id": "acikradyo",
+  "month": "2026-09",
+  "episodes": {
+    "acikradyo/rock-rock/2026-09-01": {
+      "episode_id": "acikradyo/rock-rock/2026-09-01",
+      "radio_id": "acikradyo",
+      "program_id": 1690,
+      "program_slug": "rock-rock",
+      "program_name": "Rock on Rock",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-01",
+      "aired_at": "2026-09-01",
+      "track_count": 7
+    },
+    "acikradyo/apacik-radyo-muzikleri/2026-09-01": {
+      "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-09-01",
+      "radio_id": "acikradyo",
+      "program_id": 1692,
+      "program_slug": "apacik-radyo-muzikleri",
+      "program_name": "Apaçık Radyo Müzikleri",
+      "program_start_time": "02:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-01",
+      "aired_at": "2026-09-01",
+      "track_count": 38
+    }
+  }
+}
