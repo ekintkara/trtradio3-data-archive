@@ -1,9 +1,33 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-01T10:49:40.249834+00:00",
+  "generated_at": "2026-09-02T10:14:05.930826+00:00",
   "radio_id": "acikradyo",
   "month": "2026-09",
   "episodes": {
+    "acikradyo/walkman/2026-09-02": {
+      "episode_id": "acikradyo/walkman/2026-09-02",
+      "radio_id": "acikradyo",
+      "program_id": 1722,
+      "program_slug": "walkman",
+      "program_name": "Walkman",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-02",
+      "aired_at": "2026-09-02",
+      "track_count": 15
+    },
+    "acikradyo/tunanin-beri-yani/2026-09-02": {
+      "episode_id": "acikradyo/tunanin-beri-yani/2026-09-02",
+      "radio_id": "acikradyo",
+      "program_id": 1723,
+      "program_slug": "tunanin-beri-yani",
+      "program_name": "Tuna'nın Beri Yanı",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-02",
+      "aired_at": "2026-09-02",
+      "track_count": 1
+    },
     "acikradyo/rock-rock/2026-09-01": {
       "episode_id": "acikradyo/rock-rock/2026-09-01",
       "radio_id": "acikradyo",
@@ -15,6 +39,30 @@
       "date": "2026-09-01",
       "aired_at": "2026-09-01",
       "track_count": 7
+    },
+    "acikradyo/egzotik-yeralti/2026-09-02": {
+      "episode_id": "acikradyo/egzotik-yeralti/2026-09-02",
+      "radio_id": "acikradyo",
+      "program_id": 1713,
+      "program_slug": "egzotik-yeralti",
+      "program_name": "Egzotik Yeraltı",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-02",
+      "aired_at": "2026-09-02",
+      "track_count": 3
+    },
+    "acikradyo/apacik-radyo-muzikleri/2026-09-02": {
+      "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-09-02",
+      "radio_id": "acikradyo",
+      "program_id": 1715,
+      "program_slug": "apacik-radyo-muzikleri",
+      "program_name": "Apaçık Radyo Müzikleri",
+      "program_start_time": "02:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-02",
+      "aired_at": "2026-09-02",
+      "track_count": 43
     },
     "acikradyo/apacik-radyo-muzikleri/2026-09-01": {
       "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-09-01",

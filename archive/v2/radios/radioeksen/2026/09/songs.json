@@ -1,9 +1,33 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-01T10:49:40.249834+00:00",
+  "generated_at": "2026-09-02T10:14:05.930826+00:00",
   "radio_id": "radioeksen",
   "month": "2026-09",
   "songs": {
+    "02704c50eaef8da8ce32": {
+      "song_id": "02704c50eaef8da8ce32",
+      "title": "HELL OF IT",
+      "artist": "KASABIAN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "qNz4v5U4Ecg",
+      "alternatives": []
+    },
+    "02eeae016691b6281f25": {
+      "song_id": "02eeae016691b6281f25",
+      "title": "Gates of Babylon",
+      "artist": "Rainbow",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; hard rock; classic rock",
+      "youtube_video_id": "z03ZRYh4GKY",
+      "alternatives": []
+    },
     "04aa5470698ddd51b5cd": {
       "song_id": "04aa5470698ddd51b5cd",
       "title": "TAKE ME BACK THEN",
@@ -26,6 +50,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "dhZUsNJ-LQU",
+      "alternatives": []
+    },
+    "07aa4cb203777f2b7c3d": {
+      "song_id": "07aa4cb203777f2b7c3d",
+      "title": "MONEY'S TOO TIGHT TO MENTION",
+      "artist": "SIMPLY RED",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "DrUB0g8Vjgg",
+      "alternatives": []
+    },
+    "086aca31ce63016d0566": {
+      "song_id": "086aca31ce63016d0566",
+      "title": "I WISH",
+      "artist": "SKEE-LO",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "hip hop; rap; west coast hip hop",
+      "youtube_video_id": "ryDOy3AosBw",
       "alternatives": []
     },
     "08709b1569df54d907b3": {
@@ -52,6 +100,18 @@
       "youtube_video_id": "f4Mc-NYPHaQ",
       "alternatives": []
     },
+    "094ca1a042db0c61f1a1": {
+      "song_id": "094ca1a042db0c61f1a1",
+      "title": "HOT SUMMER DAY",
+      "artist": "IT'S A BEAUTIFUL DAY",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Z6vFt7FTBQ8",
+      "alternatives": []
+    },
     "0b68c9dd5ab0158ee9a4": {
       "song_id": "0b68c9dd5ab0158ee9a4",
       "title": "CARAVAN OF LOVE",
@@ -64,6 +124,30 @@
       "youtube_video_id": "ehfiQd7lcPY",
       "alternatives": []
     },
+    "1183f82d29db967d346d": {
+      "song_id": "1183f82d29db967d346d",
+      "title": "PROBLEMS",
+      "artist": "SEUN KUTI, EGYPT 80, KABAKA PYRAMID",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "DDNA2pUkXBk",
+      "alternatives": []
+    },
+    "119c25bc404a99773876": {
+      "song_id": "119c25bc404a99773876",
+      "title": "ANIMAL",
+      "artist": "PEARL JAM & EDDIE VEDDER",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "GnKzz3D7g8E",
+      "alternatives": []
+    },
     "11a015356ec9ed4c04af": {
       "song_id": "11a015356ec9ed4c04af",
       "title": "WELCOME TO THE DCC",
@@ -74,6 +158,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Y3FNUvJYGpE",
+      "alternatives": []
+    },
+    "124720b8a45d89e0a0cc": {
+      "song_id": "124720b8a45d89e0a0cc",
+      "title": "IF WE WERE VAMPIRES",
+      "artist": "JASON ISBELL AND THE 400 UNIT",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ivYkyC8J29M",
       "alternatives": []
     },
     "12865a862d0c33cb8383": {
@@ -148,6 +244,18 @@
       "youtube_video_id": "LbPRGDwlfqs",
       "alternatives": []
     },
+    "177fd09c65c2ca0374af": {
+      "song_id": "177fd09c65c2ca0374af",
+      "title": "WHERE DO YOU THINK YOU'RE GOING ?",
+      "artist": "DIRE STRAITS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "LROnjfhnZMo",
+      "alternatives": []
+    },
     "191234aa8171ee2d181e": {
       "song_id": "191234aa8171ee2d181e",
       "title": "Bad Medicine",
@@ -158,6 +266,54 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "eOUtsybozjg",
+      "alternatives": []
+    },
+    "19615d079209e903693d": {
+      "song_id": "19615d079209e903693d",
+      "title": "ON CALL",
+      "artist": "KINGS OF LEON",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; pop; indie rock",
+      "youtube_video_id": "RYOW5uoyKl0",
+      "alternatives": []
+    },
+    "19ed4f219f7bea65f77c": {
+      "song_id": "19ed4f219f7bea65f77c",
+      "title": "TWO HEARTS",
+      "artist": "CHRIS ISAAK",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "q6kP37BL2iI",
+      "alternatives": []
+    },
+    "1b3259f21c81868263a4": {
+      "song_id": "1b3259f21c81868263a4",
+      "title": "JOCK MY STYLE",
+      "artist": "GGWENDOLYN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ekecZ9-MeTc",
+      "alternatives": []
+    },
+    "1b49d1d6460e1c59dd5a": {
+      "song_id": "1b49d1d6460e1c59dd5a",
+      "title": "PLEASE PLEASE PLEASE LET ME GET WHAT I WANT",
+      "artist": "THE SMITHS & MORRISSEY & JOHNNY MARR",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "_JU3bogr4oc",
       "alternatives": []
     },
     "1e49651674436d205323": {
@@ -184,6 +340,42 @@
       "youtube_video_id": "WcPJpsb8jrs",
       "alternatives": []
     },
+    "200c1ab3ccf48ecb32fd": {
+      "song_id": "200c1ab3ccf48ecb32fd",
+      "title": "London",
+      "artist": "Roger Hodgson",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "tJuvZoThvwc",
+      "alternatives": []
+    },
+    "205f74c6334eb95b54df": {
+      "song_id": "205f74c6334eb95b54df",
+      "title": "CAN'T LET GO",
+      "artist": "ROBERT PLANT & ALISON KRAUSS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "MPZ575AC3wQ",
+      "alternatives": []
+    },
+    "24de7a8c5d3694a2b37d": {
+      "song_id": "24de7a8c5d3694a2b37d",
+      "title": "ALL BY MYSELF",
+      "artist": "WHILK & MISKY",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "r7Yl4Oko_P0",
+      "alternatives": []
+    },
     "278e9b2ad7e236780510": {
       "song_id": "278e9b2ad7e236780510",
       "title": "NEVER LET ME DOWN AGAIN",
@@ -206,6 +398,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "AIOAlaACuv4",
+      "alternatives": []
+    },
+    "29b200390e3cd8096c5b": {
+      "song_id": "29b200390e3cd8096c5b",
+      "title": "Baby Love",
+      "artist": "The Supremes",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "D6QF4sB40gU",
       "alternatives": []
     },
     "2a180db5f5bb043a20de": {
@@ -256,6 +460,18 @@
       "youtube_video_id": "mYFaghHyMKc",
       "alternatives": []
     },
+    "2f1ace9ca0f858604288": {
+      "song_id": "2f1ace9ca0f858604288",
+      "title": "COLD",
+      "artist": "CHELSEA WOLFE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "QrqTW01HTas",
+      "alternatives": []
+    },
     "32e55a47af4be7ef75ab": {
       "song_id": "32e55a47af4be7ef75ab",
       "title": "DONOR COUNTRY (A GOOD CAUSE)",
@@ -266,6 +482,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "OB5sLtKoZTo",
+      "alternatives": []
+    },
+    "36f050548e4a60767c5a": {
+      "song_id": "36f050548e4a60767c5a",
+      "title": "ANGIE",
+      "artist": "BERT JANSCH",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "qOIt7fOgeFk",
       "alternatives": []
     },
     "377f8012963ac6e7d7fe": {
@@ -280,6 +508,18 @@
       "youtube_video_id": "u8NxdNERUGc",
       "alternatives": []
     },
+    "3813606aa611521e74d3": {
+      "song_id": "3813606aa611521e74d3",
+      "title": "ATLAS AIR",
+      "artist": "MASSIVE ATTACK",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "downtempo; trip hop; electronic",
+      "youtube_video_id": "c61jlHO3rVM",
+      "alternatives": []
+    },
     "3915bfda99b684bbf584": {
       "song_id": "3915bfda99b684bbf584",
       "title": "HISTORY REPEATING",
@@ -290,6 +530,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "yzLT6_TQmq8",
+      "alternatives": []
+    },
+    "394693bc5240d13fef33": {
+      "song_id": "394693bc5240d13fef33",
+      "title": "IN YOUR ROOM",
+      "artist": "DEPECHE MODE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "cGvZyrhObrg",
       "alternatives": []
     },
     "3bb4ff990443f4f8597b": {
@@ -352,6 +604,18 @@
       "youtube_video_id": "aOkiG53ituQ",
       "alternatives": []
     },
+    "4125a59a9a1018669d90": {
+      "song_id": "4125a59a9a1018669d90",
+      "title": "LAURIE",
+      "artist": "TIM BURGESS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "LEVBvpeEAPc",
+      "alternatives": []
+    },
     "43a40c51903dfdd33a44": {
       "song_id": "43a40c51903dfdd33a44",
       "title": "PT. CONCEPTION",
@@ -376,6 +640,30 @@
       "youtube_video_id": "m4WY2VAQNjk",
       "alternatives": []
     },
+    "45a3099df1de60507e13": {
+      "song_id": "45a3099df1de60507e13",
+      "title": "WHY DOES IT ALWAYS RAIN ON ME ?",
+      "artist": "TRAVIS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "PXatLOWjr-k",
+      "alternatives": []
+    },
+    "46bd70aab80cfff25959": {
+      "song_id": "46bd70aab80cfff25959",
+      "title": "LOVE WAS MADE OF STONE",
+      "artist": "BROOKE COMBE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "IVZaafsYSbE",
+      "alternatives": []
+    },
     "4712ccda995ff36ba425": {
       "song_id": "4712ccda995ff36ba425",
       "title": "Forget Me Nots",
@@ -386,6 +674,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "jtMHsNhQBvI",
+      "alternatives": []
+    },
+    "4bb729d101d4eb9d8e55": {
+      "song_id": "4bb729d101d4eb9d8e55",
+      "title": "TON INVITATION",
+      "artist": "LOUISE ATTAQUE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ApWnXUavKOc",
       "alternatives": []
     },
     "4c238f2b21ab92838cae": {
@@ -400,6 +700,18 @@
       "youtube_video_id": "Q6ZRGzx31iQ",
       "alternatives": []
     },
+    "52c8e08fc32f9ab152f7": {
+      "song_id": "52c8e08fc32f9ab152f7",
+      "title": "JUXTOPOSED WITH YOU",
+      "artist": "SUPER FURRY ANIMALS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ElrcgeS78fw",
+      "alternatives": []
+    },
     "52fa3beb1a85f5aac81d": {
       "song_id": "52fa3beb1a85f5aac81d",
       "title": "TO YOUR LOVE",
@@ -410,6 +722,42 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "4cRyzcFXQ-Q",
+      "alternatives": []
+    },
+    "56a317295f9697a59c10": {
+      "song_id": "56a317295f9697a59c10",
+      "title": "HOT PATOOTIE (BLESS MY SOUL) / MEAT LOAF",
+      "artist": "EDDIE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "uCUBYE3kcGg",
+      "alternatives": []
+    },
+    "582543f470afc72cc175": {
+      "song_id": "582543f470afc72cc175",
+      "title": "DAY IS DONE",
+      "artist": "NICK DRAKE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "folk rock; rock; folk",
+      "youtube_video_id": "9VNfZwvuyBA",
+      "alternatives": []
+    },
+    "5966ef51ce6fe1b17ce1": {
+      "song_id": "5966ef51ce6fe1b17ce1",
+      "title": "Insignificant Other",
+      "artist": "Queens Of The Stone Age",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "1jGT1UvmBi0",
       "alternatives": []
     },
     "5a0a31c621abac247914": {
@@ -424,6 +772,18 @@
       "youtube_video_id": "7Q6AllUfIdk",
       "alternatives": []
     },
+    "5a4c71c5b0a10e72c7a9": {
+      "song_id": "5a4c71c5b0a10e72c7a9",
+      "title": "JE SUIS MALADE",
+      "artist": "SERGE LAMA",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "HDbpZpm9j9c",
+      "alternatives": []
+    },
     "5f8dcbed09a2da8fb66c": {
       "song_id": "5f8dcbed09a2da8fb66c",
       "title": "MASTER OF PUPPETS",
@@ -434,6 +794,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "E0ozmU9cJDg",
+      "alternatives": []
+    },
+    "613cad5cfceb816ea47a": {
+      "song_id": "613cad5cfceb816ea47a",
+      "title": "Just A Girl",
+      "artist": "No Doubt",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "PHzOOQfhPFg",
       "alternatives": []
     },
     "625dbf07600b6206988e": {
@@ -448,6 +820,18 @@
       "youtube_video_id": "CmXWkMlKFkI",
       "alternatives": []
     },
+    "633947035940cac17a4e": {
+      "song_id": "633947035940cac17a4e",
+      "title": "SPECTRUM",
+      "artist": "FLORENCE & THE MACHINE & CALVIN HARRIS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "O4-6Y_91v5I",
+      "alternatives": []
+    },
     "63bfaa832350bdafe13e": {
       "song_id": "63bfaa832350bdafe13e",
       "title": "Pink",
@@ -458,6 +842,54 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "ZfbBqBOSXlU",
+      "alternatives": []
+    },
+    "658447fc5371633e5b5f": {
+      "song_id": "658447fc5371633e5b5f",
+      "title": "CAN'T FIND LOVE",
+      "artist": "SUNNAN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Hv4ZhWIf8c8",
+      "alternatives": []
+    },
+    "6766e368e2bc2f950dc3": {
+      "song_id": "6766e368e2bc2f950dc3",
+      "title": "Back In Love",
+      "artist": "Suki Waterhouse",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "0jLwEFJT0So",
+      "alternatives": []
+    },
+    "67c013e9cfa1cac7b2c2": {
+      "song_id": "67c013e9cfa1cac7b2c2",
+      "title": "SISTER GOLDEN HAIR",
+      "artist": "AMERICA",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "4gibSb1_GGw",
+      "alternatives": []
+    },
+    "69c7137aee2004ab96dc": {
+      "song_id": "69c7137aee2004ab96dc",
+      "title": "BEST OF YOU",
+      "artist": "FOO FIGHTERS & NIRVANA & THEM CROOKED VULTURES",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "jro-mi6-1mc",
       "alternatives": []
     },
     "6a9ca10ce5d51cd33b41": {
@@ -482,6 +914,42 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "3cqU1pFRqYE",
+      "alternatives": []
+    },
+    "707a012bcd5ed5e54c99": {
+      "song_id": "707a012bcd5ed5e54c99",
+      "title": "SHOOT TO THRILL",
+      "artist": "AC-DC",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "xRQnJyP77tY",
+      "alternatives": []
+    },
+    "71bde74d3959146e496b": {
+      "song_id": "71bde74d3959146e496b",
+      "title": "GLORIFIED G",
+      "artist": "PEARL JAM",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "grunge; rock; alternative rock",
+      "youtube_video_id": "9lmX3FQLr5Q",
+      "alternatives": []
+    },
+    "71dc7d1687033f003002": {
+      "song_id": "71dc7d1687033f003002",
+      "title": "MALAMBO NO. 1",
+      "artist": "YMA SUMAC",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "rf4lbqabfzQ",
       "alternatives": []
     },
     "73b2f6ef85625fdc296d": {
@@ -556,6 +1024,30 @@
       "youtube_video_id": "NOG3eus4ZSo",
       "alternatives": []
     },
+    "7b45c5aefc2570042c1d": {
+      "song_id": "7b45c5aefc2570042c1d",
+      "title": "ONLY YOU",
+      "artist": "PORTISHEAD",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "TmDkzVvherk",
+      "alternatives": []
+    },
+    "7c41018d5d4f28729072": {
+      "song_id": "7c41018d5d4f28729072",
+      "title": "Celebration",
+      "artist": "Kool & The Gang",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "3GwjfUFyY6M",
+      "alternatives": []
+    },
     "7c8210b69e9ad4968fc6": {
       "song_id": "7c8210b69e9ad4968fc6",
       "title": "WHEN A BLIND MAN CRIES",
@@ -580,6 +1072,18 @@
       "youtube_video_id": "PAo9-B6On5U",
       "alternatives": []
     },
+    "7e12812b793a8bef2654": {
+      "song_id": "7e12812b793a8bef2654",
+      "title": "BLANKETS",
+      "artist": "CRAIG FINN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "aNtJYo7u4Fc",
+      "alternatives": []
+    },
     "7e21dc2a3be9a4d08dc8": {
       "song_id": "7e21dc2a3be9a4d08dc8",
       "title": "GUT FEELING",
@@ -590,6 +1094,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Cwx_Qq56YTA",
+      "alternatives": []
+    },
+    "7e53dbc8be40c2f8ccbc": {
+      "song_id": "7e53dbc8be40c2f8ccbc",
+      "title": "STREETS OF YOUR TOWN",
+      "artist": "THE GO BETWEENS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "8M_P_xX9Cmw",
       "alternatives": []
     },
     "82fd0e606d8da6d167d6": {
@@ -652,6 +1168,30 @@
       "youtube_video_id": "EMeinq7I__w",
       "alternatives": []
     },
+    "86178b5ceedc8142ac9a": {
+      "song_id": "86178b5ceedc8142ac9a",
+      "title": "DISCO CONNECTION",
+      "artist": "ISAAC HAYES",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "1JEhTU3_1nY",
+      "alternatives": []
+    },
+    "88322af6e6f7d23f0c91": {
+      "song_id": "88322af6e6f7d23f0c91",
+      "title": "In My Life",
+      "artist": "The Beatles",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "YBcdt6DsLQA",
+      "alternatives": []
+    },
     "891f6eed7ccfcbf30d8c": {
       "song_id": "891f6eed7ccfcbf30d8c",
       "title": "HOLDING ON (FEAT. SAM DEW)",
@@ -662,6 +1202,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "RnGCoQe-hzU",
+      "alternatives": []
+    },
+    "89d1f9453687dc4afb47": {
+      "song_id": "89d1f9453687dc4afb47",
+      "title": "HUNGER STRIKE",
+      "artist": "TEMPLE OF THE DOG",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "VUb450Alpps",
       "alternatives": []
     },
     "8b4814e3562fd6ec37d6": {
@@ -676,6 +1228,18 @@
       "youtube_video_id": "eNk4JC_3S7s",
       "alternatives": []
     },
+    "8c2ae215ff507e084b74": {
+      "song_id": "8c2ae215ff507e084b74",
+      "title": "IF YOU'RE THINKING OF ME",
+      "artist": "DODGY",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "tpZsuz8FuJk",
+      "alternatives": []
+    },
     "8ff27fbd05ac1aa8bd2c": {
       "song_id": "8ff27fbd05ac1aa8bd2c",
       "title": "Marianne",
@@ -686,6 +1250,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "lWNxWy012Ro",
+      "alternatives": []
+    },
+    "91e1520ce57992cbca32": {
+      "song_id": "91e1520ce57992cbca32",
+      "title": "MEET ME IN THE WOODS",
+      "artist": "LORD HURON",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "iBy2qRG1PA0",
       "alternatives": []
     },
     "94347fb8644d534cd5fa": {
@@ -712,6 +1288,30 @@
       "youtube_video_id": "Ixrje2rXLMA",
       "alternatives": []
     },
+    "991f8c2331774f6f3577": {
+      "song_id": "991f8c2331774f6f3577",
+      "title": "STAY AWAY",
+      "artist": "NIRVANA",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "grunge",
+      "youtube_video_id": "vnHm-u4IYuo",
+      "alternatives": []
+    },
+    "995fe95802cc8b50c4bf": {
+      "song_id": "995fe95802cc8b50c4bf",
+      "title": "WATERLOO SUNSET",
+      "artist": "DAVID BOWIE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; classic rock; pop",
+      "youtube_video_id": "xnOGCc7vU2g",
+      "alternatives": []
+    },
     "9a7c19a2025885a646e7": {
       "song_id": "9a7c19a2025885a646e7",
       "title": "Secret Smile",
@@ -722,6 +1322,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "kryV3E4QKGk",
+      "alternatives": []
+    },
+    "9abad0572484d834a5f3": {
+      "song_id": "9abad0572484d834a5f3",
+      "title": "LET'S WORK TOGETHER",
+      "artist": "CANNED HEAT",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock",
+      "youtube_video_id": "wGGW4IezbC4",
       "alternatives": []
     },
     "9bcf418bb5e2e8a0e64e": {
@@ -736,6 +1348,30 @@
       "youtube_video_id": "_PVjcIO4MT4",
       "alternatives": []
     },
+    "9e290e6ce82828e3a43b": {
+      "song_id": "9e290e6ce82828e3a43b",
+      "title": "DANCING DAYS",
+      "artist": "STONE TEMPLE PILOTS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "0dc85uN9ujk",
+      "alternatives": []
+    },
+    "9f8b4371756314dfd8bb": {
+      "song_id": "9f8b4371756314dfd8bb",
+      "title": "Your Rocky Spine",
+      "artist": "Great Lake Swimmers",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "folk; rock; indie rock",
+      "youtube_video_id": "eQ6W_cq-zQ0",
+      "alternatives": []
+    },
     "a06d8c18bc37676f1163": {
       "song_id": "a06d8c18bc37676f1163",
       "title": "BABY I LOVE YOUR WAY",
@@ -746,6 +1382,18 @@
       "mbid": "",
       "genre": "europop",
       "youtube_video_id": "utXwIqQj7oE",
+      "alternatives": []
+    },
+    "a227491bfa1c55edde9b": {
+      "song_id": "a227491bfa1c55edde9b",
+      "title": "MAKE YOUR OWN KIND OF MUSIC",
+      "artist": "CASS ELLIOT",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "mraLsg-G4wA",
       "alternatives": []
     },
     "a4795c51856cbedef685": {
@@ -760,6 +1408,54 @@
       "youtube_video_id": "_fxdDJYvVyE",
       "alternatives": []
     },
+    "a5ecb831430c7fa63fe0": {
+      "song_id": "a5ecb831430c7fa63fe0",
+      "title": "What A Beautiful Day",
+      "artist": "Levellers",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "5SKS_xcBS5w",
+      "alternatives": []
+    },
+    "a675354ff491c76d38a6": {
+      "song_id": "a675354ff491c76d38a6",
+      "title": "BAM BAM",
+      "artist": "CHAKA DEMUS & PLIERS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "dancehall; reggae; dub",
+      "youtube_video_id": "zz-G25XMXr4",
+      "alternatives": []
+    },
+    "aa31916efb5c4209a766": {
+      "song_id": "aa31916efb5c4209a766",
+      "title": "Born To Die",
+      "artist": "Lana Del Rey",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "4lq9bBw2Xqc",
+      "alternatives": []
+    },
+    "aae7f64b1dfc5138bce5": {
+      "song_id": "aae7f64b1dfc5138bce5",
+      "title": "IT'S A BEAUTIFUL DAY",
+      "artist": "LIVERPOOL EXPRESS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "TvyM_NRcIUM",
+      "alternatives": []
+    },
     "adbf7d5dd35f3fb1c956": {
       "song_id": "adbf7d5dd35f3fb1c956",
       "title": "MOVIN' ON",
@@ -770,6 +1466,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "p8V9c9ZQ2y8",
+      "alternatives": []
+    },
+    "af6148d2b10fd3eb7d4f": {
+      "song_id": "af6148d2b10fd3eb7d4f",
+      "title": "MUSTANG",
+      "artist": "KINGS OF LEON",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "wMJyD23nKrk",
+      "alternatives": []
+    },
+    "b0b18b787aa54458a36d": {
+      "song_id": "b0b18b787aa54458a36d",
+      "title": "SUMMER NIGHTS",
+      "artist": "DANA AND ALDEN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "pFGLFnUF8xg",
       "alternatives": []
     },
     "b18a92160bf0719a536b": {
@@ -796,6 +1516,30 @@
       "youtube_video_id": "bBZQxuHDqW0",
       "alternatives": []
     },
+    "b2e05281e07dc0266efa": {
+      "song_id": "b2e05281e07dc0266efa",
+      "title": "I'M ON STANDBY",
+      "artist": "EELS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "bnjxVR9_Fzk",
+      "alternatives": []
+    },
+    "b34bbf802cb8e10d8d48": {
+      "song_id": "b34bbf802cb8e10d8d48",
+      "title": "NOT HOW I HOPED",
+      "artist": "SERA CAHOONE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Pp-cw1LDVCs",
+      "alternatives": []
+    },
     "b4d1e50e74fe839b7bad": {
       "song_id": "b4d1e50e74fe839b7bad",
       "title": "LET IT BE",
@@ -818,6 +1562,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "fb_S4aWI6Og",
+      "alternatives": []
+    },
+    "b75cf0d2a7f346f4f19e": {
+      "song_id": "b75cf0d2a7f346f4f19e",
+      "title": "WHY DID YOU MISS IT?",
+      "artist": "TWISTED TEENS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "2zUWJZpE6FU",
+      "alternatives": []
+    },
+    "b773f6392851e429b17b": {
+      "song_id": "b773f6392851e429b17b",
+      "title": "CLOUD NUMBER 9",
+      "artist": "BRYAN ADAMS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "QhO-4cCQSUU",
       "alternatives": []
     },
     "bac7e8bff5f2a1969622": {
@@ -844,6 +1612,18 @@
       "youtube_video_id": "B32yjbCSVpU",
       "alternatives": []
     },
+    "bb93bfe5fe60751e9bf5": {
+      "song_id": "bb93bfe5fe60751e9bf5",
+      "title": "I Saw the Light",
+      "artist": "Todd Rundgren",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "N5V5HktI4Kg",
+      "alternatives": []
+    },
     "bbd3d98df1559637c896": {
       "song_id": "bbd3d98df1559637c896",
       "title": "In My Place",
@@ -868,6 +1648,18 @@
       "youtube_video_id": "tV2Ipe6mU90",
       "alternatives": []
     },
+    "bdaca4fd07f5cbe695aa": {
+      "song_id": "bdaca4fd07f5cbe695aa",
+      "title": "WHEN WE'RE TOGETHER",
+      "artist": "RIALTO",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ZEi2ODX3uJ8",
+      "alternatives": []
+    },
     "bf33d78fd8541651b9c0": {
       "song_id": "bf33d78fd8541651b9c0",
       "title": "NO ONE",
@@ -878,6 +1670,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "gU8VXkEalOs",
+      "alternatives": []
+    },
+    "c54dfb2713087d3174c3": {
+      "song_id": "c54dfb2713087d3174c3",
+      "title": "MEETING THE MASTER",
+      "artist": "GRETA VAN FLEET",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "SFFKed1Dt4I",
       "alternatives": []
     },
     "c63f2a9e3341fc4f30d4": {
@@ -940,6 +1744,138 @@
       "youtube_video_id": "-AUCSkHCrwY",
       "alternatives": []
     },
+    "cc93f223f2495f0d4726": {
+      "song_id": "cc93f223f2495f0d4726",
+      "title": "ALEGRIA",
+      "artist": "ELIA Y ELIZABETH",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "01U_g1KFw4k",
+      "alternatives": []
+    },
+    "cd2e2b425d94183ceb87": {
+      "song_id": "cd2e2b425d94183ceb87",
+      "title": "I FOUND THAT ESSENCE RARE",
+      "artist": "GANG OF FOUR",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "0SyK1KAFpMw",
+      "alternatives": []
+    },
+    "cdb09e951731ffcce47f": {
+      "song_id": "cdb09e951731ffcce47f",
+      "title": "Covered In You",
+      "artist": "The Rolling Stones",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "yi4RvjBXass",
+      "alternatives": []
+    },
+    "cfe1e1c2e24341225bd6": {
+      "song_id": "cfe1e1c2e24341225bd6",
+      "title": "BARBED WIRE",
+      "artist": "MICATONE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Mv5XPLw09uE",
+      "alternatives": []
+    },
+    "d01f2cfc363c88af1128": {
+      "song_id": "d01f2cfc363c88af1128",
+      "title": "DANCE DANCE DANCE (??????)",
+      "artist": "CHINESE AMERICAN BEAR",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "zmbN8gSSWus",
+      "alternatives": []
+    },
+    "d05d97553988a9a22816": {
+      "song_id": "d05d97553988a9a22816",
+      "title": "KISS (EDIT)",
+      "artist": "EDITORS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "hRSRv11tiRc",
+      "alternatives": []
+    },
+    "d1bbd11a1abaaba2ef4d": {
+      "song_id": "d1bbd11a1abaaba2ef4d",
+      "title": "DOES IT EVER CROSS YOUR MIND?",
+      "artist": "BRANDON FLOWERS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "qDbPtKHyk0M",
+      "alternatives": []
+    },
+    "d34479b453165bdcb8b2": {
+      "song_id": "d34479b453165bdcb8b2",
+      "title": "LOVE ME, PLEASE LOVE ME",
+      "artist": "SANDIE SHAW",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "europop",
+      "youtube_video_id": "RIOhoPlmbig",
+      "alternatives": []
+    },
+    "d388116b2d577383efe2": {
+      "song_id": "d388116b2d577383efe2",
+      "title": "ROADRUNNER",
+      "artist": "THE MODERN LOVERS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Gy88-5pc7c8",
+      "alternatives": []
+    },
+    "d43d92f4793bc9b351db": {
+      "song_id": "d43d92f4793bc9b351db",
+      "title": "COLD BLOWS THE WIND",
+      "artist": "WEEN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "BnPwcjp_Ass",
+      "alternatives": []
+    },
+    "d54d12da8d8bb7cab9ba": {
+      "song_id": "d54d12da8d8bb7cab9ba",
+      "title": "IT'S NOT REALLY FOR ME",
+      "artist": "JAMIE SHE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "qB49rx_VFXE",
+      "alternatives": []
+    },
     "d8b123bf4861bfad6450": {
       "song_id": "d8b123bf4861bfad6450",
       "title": "LIKE A STONE",
@@ -952,6 +1888,66 @@
       "youtube_video_id": "7QU1nvuxaMA",
       "alternatives": []
     },
+    "dad4c96613ff10ea7a0d": {
+      "song_id": "dad4c96613ff10ea7a0d",
+      "title": "Bang Bang (My Baby Shot Me Down)",
+      "artist": "Nancy Sinatra",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "qgDrpWWxuto",
+      "alternatives": []
+    },
+    "db0bb994a7078b8c5c34": {
+      "song_id": "db0bb994a7078b8c5c34",
+      "title": "MAGALENHA",
+      "artist": "SERGIO MENDES",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ijnujobdJ4c",
+      "alternatives": []
+    },
+    "dc71f2e2cac1927cb353": {
+      "song_id": "dc71f2e2cac1927cb353",
+      "title": "SERPENT SKY",
+      "artist": "JJ72",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "c8hIHzmguxc",
+      "alternatives": []
+    },
+    "dc7c2fb45b3e9a9520a4": {
+      "song_id": "dc7c2fb45b3e9a9520a4",
+      "title": "ICON",
+      "artist": "DAAN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; pop; alternative rock",
+      "youtube_video_id": "WjNUJSuV42k",
+      "alternatives": []
+    },
+    "dcc16d09ed9e5be306fe": {
+      "song_id": "dcc16d09ed9e5be306fe",
+      "title": "AIRPORT SURROUNDINGS",
+      "artist": "LONEY DEAR",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "RwmPACtcITg",
+      "alternatives": []
+    },
     "dd6c826707aea9589c3d": {
       "song_id": "dd6c826707aea9589c3d",
       "title": "SHIP OF FOOLS",
@@ -962,6 +1958,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "UYeFo-YP3O4",
+      "alternatives": []
+    },
+    "e0f4449f01293866c675": {
+      "song_id": "e0f4449f01293866c675",
+      "title": "AIN'T IT A SIN",
+      "artist": "CHARLES BRADLEY",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "UD1eaRDY-q4",
+      "alternatives": []
+    },
+    "e3d50d407a6b59e98156": {
+      "song_id": "e3d50d407a6b59e98156",
+      "title": "ALL STAR",
+      "artist": "SMASH MOUTH",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "L_jWHffIx5E",
       "alternatives": []
     },
     "e6613fc5df64f05460dd": {
@@ -1036,6 +2056,18 @@
       "youtube_video_id": "Yqh-WPtmWMo",
       "alternatives": []
     },
+    "f003a651e658b6e8c97b": {
+      "song_id": "f003a651e658b6e8c97b",
+      "title": "LEAN ON ME",
+      "artist": "THE HOUSEMARTINS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; pop; pop rock",
+      "youtube_video_id": "ILpuFx74ah8",
+      "alternatives": []
+    },
     "f21b3f4a99cc14aec736": {
       "song_id": "f21b3f4a99cc14aec736",
       "title": "Something About Us",
@@ -1060,6 +2092,18 @@
       "youtube_video_id": "fm7D5hyrLEI",
       "alternatives": []
     },
+    "f562760d856460768482": {
+      "song_id": "f562760d856460768482",
+      "title": "CHILD PSYCHOLOGY",
+      "artist": "BLACK BOX RECORDER",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; electronic; pop",
+      "youtube_video_id": "HN8CPj9AkX4",
+      "alternatives": []
+    },
     "f563113f2979f7679acf": {
       "song_id": "f563113f2979f7679acf",
       "title": "HIPPIE SUNSHINE",
@@ -1072,6 +2116,30 @@
       "youtube_video_id": "RHb-BPpZWoU",
       "alternatives": []
     },
+    "f65f9307352c5430e451": {
+      "song_id": "f65f9307352c5430e451",
+      "title": "It's My Life",
+      "artist": "Bon Jovi",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "vx2u5uUu3DE",
+      "alternatives": []
+    },
+    "fb86dbeda19f30807b26": {
+      "song_id": "fb86dbeda19f30807b26",
+      "title": "THIS LETTER",
+      "artist": "BELLE & SEBASTIAN & U.S. GIRLS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
+      "alternatives": []
+    },
     "fc4248bb8188471320eb": {
       "song_id": "fc4248bb8188471320eb",
       "title": "CONDEMNATION",
@@ -1082,6 +2150,42 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "bjG7MhfeQRA",
+      "alternatives": []
+    },
+    "fce820b86eef8f5a9df6": {
+      "song_id": "fce820b86eef8f5a9df6",
+      "title": "SKINNED",
+      "artist": "BLIND MELON",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "lCHd3VCu47M",
+      "alternatives": []
+    },
+    "fedbb6d8c3e46393fd36": {
+      "song_id": "fedbb6d8c3e46393fd36",
+      "title": "RUN-AROUND",
+      "artist": "BLUES TRAVELER",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ousaiByU1ko",
+      "alternatives": []
+    },
+    "ff3e2d9e9a3bb8f4d746": {
+      "song_id": "ff3e2d9e9a3bb8f4d746",
+      "title": "WHEN THINGS FALL APART",
+      "artist": "AUGUSTINES & AUGUSTINES",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "hRU8Gfi5mDU",
       "alternatives": []
     }
   }
