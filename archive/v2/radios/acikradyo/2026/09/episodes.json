@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-02T10:14:05.930826+00:00",
+  "generated_at": "2026-09-03T10:25:42.591524+00:00",
   "radio_id": "acikradyo",
   "month": "2026-09",
   "episodes": {
@@ -28,6 +28,18 @@
       "aired_at": "2026-09-02",
       "track_count": 1
     },
+    "acikradyo/seoul-express/2026-09-03": {
+      "episode_id": "acikradyo/seoul-express/2026-09-03",
+      "radio_id": "acikradyo",
+      "program_id": 1745,
+      "program_slug": "seoul-express",
+      "program_name": "Seoul Express",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-03",
+      "aired_at": "2026-09-03",
+      "track_count": 6
+    },
     "acikradyo/rock-rock/2026-09-01": {
       "episode_id": "acikradyo/rock-rock/2026-09-01",
       "radio_id": "acikradyo",
@@ -40,6 +52,42 @@
       "aired_at": "2026-09-01",
       "track_count": 7
     },
+    "acikradyo/neu/2026-09-03": {
+      "episode_id": "acikradyo/neu/2026-09-03",
+      "radio_id": "acikradyo",
+      "program_id": 1736,
+      "program_slug": "neu",
+      "program_name": "NEU",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-03",
+      "aired_at": "2026-09-03",
+      "track_count": 15
+    },
+    "acikradyo/funkmatik/2026-09-03": {
+      "episode_id": "acikradyo/funkmatik/2026-09-03",
+      "radio_id": "acikradyo",
+      "program_id": 1744,
+      "program_slug": "funkmatik",
+      "program_name": "Funkmatik",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-03",
+      "aired_at": "2026-09-03",
+      "track_count": 13
+    },
+    "acikradyo/eldesler/2026-09-03": {
+      "episode_id": "acikradyo/eldesler/2026-09-03",
+      "radio_id": "acikradyo",
+      "program_id": 1735,
+      "program_slug": "eldesler",
+      "program_name": "Eldesler",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-03",
+      "aired_at": "2026-09-03",
+      "track_count": 4
+    },
     "acikradyo/egzotik-yeralti/2026-09-02": {
       "episode_id": "acikradyo/egzotik-yeralti/2026-09-02",
       "radio_id": "acikradyo",
@@ -51,6 +99,18 @@
       "date": "2026-09-02",
       "aired_at": "2026-09-02",
       "track_count": 3
+    },
+    "acikradyo/apacik-radyo-muzikleri/2026-09-03": {
+      "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-09-03",
+      "radio_id": "acikradyo",
+      "program_id": 1737,
+      "program_slug": "apacik-radyo-muzikleri",
+      "program_name": "Apaçık Radyo Müzikleri",
+      "program_start_time": "02:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-03",
+      "aired_at": "2026-09-03",
+      "track_count": 24
     },
     "acikradyo/apacik-radyo-muzikleri/2026-09-02": {
       "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-09-02",
