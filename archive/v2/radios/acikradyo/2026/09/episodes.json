@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-04T10:12:38.758201+00:00",
+  "generated_at": "2026-09-05T09:41:42.984021+00:00",
   "radio_id": "acikradyo",
   "month": "2026-09",
   "episodes": {
+    "acikradyo/yeni-seyler-rejimi/2026-09-05": {
+      "episode_id": "acikradyo/yeni-seyler-rejimi/2026-09-05",
+      "radio_id": "acikradyo",
+      "program_id": 1784,
+      "program_slug": "yeni-seyler-rejimi",
+      "program_name": "Yeni Şeyler Rejimi",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-05",
+      "aired_at": "2026-09-05",
+      "track_count": 9
+    },
     "acikradyo/walkman/2026-09-02": {
       "episode_id": "acikradyo/walkman/2026-09-02",
       "radio_id": "acikradyo",
@@ -52,6 +64,18 @@
       "aired_at": "2026-09-01",
       "track_count": 7
     },
+    "acikradyo/radyo-agos/2026-09-05": {
+      "episode_id": "acikradyo/radyo-agos/2026-09-05",
+      "radio_id": "acikradyo",
+      "program_id": 1782,
+      "program_slug": "radyo-agos",
+      "program_name": "Radyo Agos",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-05",
+      "aired_at": "2026-09-05",
+      "track_count": 16
+    },
     "acikradyo/neu/2026-09-03": {
       "episode_id": "acikradyo/neu/2026-09-03",
       "radio_id": "acikradyo",
@@ -63,6 +87,30 @@
       "date": "2026-09-03",
       "aired_at": "2026-09-03",
       "track_count": 15
+    },
+    "acikradyo/mucadele-atlasi/2026-09-05": {
+      "episode_id": "acikradyo/mucadele-atlasi/2026-09-05",
+      "radio_id": "acikradyo",
+      "program_id": 1783,
+      "program_slug": "mucadele-atlasi",
+      "program_name": "Mücadele Atlası",
+      "program_start_time": "10:30",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-05",
+      "aired_at": "2026-09-05",
+      "track_count": 8
+    },
+    "acikradyo/harici-bellek/2026-09-05": {
+      "episode_id": "acikradyo/harici-bellek/2026-09-05",
+      "radio_id": "acikradyo",
+      "program_id": 1785,
+      "program_slug": "harici-bellek",
+      "program_name": "Harici Bellek",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-05",
+      "aired_at": "2026-09-05",
+      "track_count": 4
     },
     "acikradyo/funkmatik/2026-09-03": {
       "episode_id": "acikradyo/funkmatik/2026-09-03",
@@ -99,6 +147,30 @@
       "date": "2026-09-02",
       "aired_at": "2026-09-02",
       "track_count": 3
+    },
+    "acikradyo/caz-turbulans/2026-09-05": {
+      "episode_id": "acikradyo/caz-turbulans/2026-09-05",
+      "radio_id": "acikradyo",
+      "program_id": 1779,
+      "program_slug": "caz-turbulans",
+      "program_name": "Caz Türbülans",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-05",
+      "aired_at": "2026-09-05",
+      "track_count": 8
+    },
+    "acikradyo/apacik-radyo-muzikleri/2026-09-05": {
+      "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-09-05",
+      "radio_id": "acikradyo",
+      "program_id": 1781,
+      "program_slug": "apacik-radyo-muzikleri",
+      "program_name": "Apaçık Radyo Müzikleri",
+      "program_start_time": "02:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-05",
+      "aired_at": "2026-09-05",
+      "track_count": 23
     },
     "acikradyo/apacik-radyo-muzikleri/2026-09-04": {
       "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-09-04",

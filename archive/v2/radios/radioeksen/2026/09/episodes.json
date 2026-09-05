@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-04T10:12:38.758201+00:00",
+  "generated_at": "2026-09-05T09:41:42.984021+00:00",
   "radio_id": "radioeksen",
   "month": "2026-09",
   "episodes": {
+    "radioeksen/radyo-eksen--oldies/2026-09-05": {
+      "episode_id": "radioeksen/radyo-eksen--oldies/2026-09-05",
+      "radio_id": "radioeksen",
+      "program_id": -27441,
+      "program_slug": "radyo-eksen--oldies",
+      "program_name": "RADYO EKSEN -OLDIES",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-05",
+      "aired_at": "2026-09-05",
+      "track_count": 46
+    },
     "radioeksen/gulsah-turgut--paribu-artin-sundugu-gun-ortasi-programi/2026-09-04": {
       "episode_id": "radioeksen/gulsah-turgut--paribu-artin-sundugu-gun-ortasi-programi/2026-09-04",
       "radio_id": "radioeksen",
@@ -100,6 +112,18 @@
       "aired_at": "2026-09-01",
       "track_count": 38
     },
+    "radioeksen/eksen-muzik/2026-09-05": {
+      "episode_id": "radioeksen/eksen-muzik/2026-09-05",
+      "radio_id": "radioeksen",
+      "program_id": -51370,
+      "program_slug": "eksen-muzik",
+      "program_name": "Eksen Müzik",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-05",
+      "aired_at": "2026-09-05",
+      "track_count": 10
+    },
     "radioeksen/eksen-muzik/2026-09-04": {
       "episode_id": "radioeksen/eksen-muzik/2026-09-04",
       "radio_id": "radioeksen",
@@ -147,6 +171,18 @@
       "date": "2026-09-01",
       "aired_at": "2026-09-01",
       "track_count": 42
+    },
+    "radioeksen/aytun---tchibo-gold-selection-ile-keyifli-bir-mola/2026-09-05": {
+      "episode_id": "radioeksen/aytun---tchibo-gold-selection-ile-keyifli-bir-mola/2026-09-05",
+      "radio_id": "radioeksen",
+      "program_id": -31454,
+      "program_slug": "aytun---tchibo-gold-selection-ile-keyifli-bir-mola",
+      "program_name": "AYTUN - TCHIBO GOLD SELECTION İLE KEYİFLİ BİR MOLA",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-05",
+      "aired_at": "2026-09-05",
+      "track_count": 1
     }
   }
 }

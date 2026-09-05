@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-04T10:12:38.758201+00:00",
+  "generated_at": "2026-09-05T09:41:42.984021+00:00",
   "radio_id": "trt",
   "month": "2026-09",
   "songs": {
@@ -76,6 +76,18 @@
       "youtube_video_id": "eAw_zsdVFuA",
       "alternatives": []
     },
+    "054bcaab7644431c6e21": {
+      "song_id": "054bcaab7644431c6e21",
+      "title": "Sonate No. 3 in B Minor, Op. 58",
+      "artist": "Diana Jaworska",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "-M_6NLmt0T8",
+      "alternatives": []
+    },
     "059107dc05df20c7f237": {
       "song_id": "059107dc05df20c7f237",
       "title": "Quintette avec Piano, Op. 81, B. 55: IV. Finale. Allegro",
@@ -112,6 +124,18 @@
       "youtube_video_id": "A97cf4zpA_I",
       "alternatives": []
     },
+    "05f098e4ab93a296b993": {
+      "song_id": "05f098e4ab93a296b993",
+      "title": "Angel of Mine",
+      "artist": "Monica",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "PsUsWZduiLc",
+      "alternatives": []
+    },
     "060766ec141987232812": {
       "song_id": "060766ec141987232812",
       "title": "Somebody Dance With Me",
@@ -134,6 +158,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "THqBKMAIK8o",
+      "alternatives": []
+    },
+    "0624657c83aac363c3f3": {
+      "song_id": "0624657c83aac363c3f3",
+      "title": "Camberwell",
+      "artist": "#1 Dads",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "HFD6_zS5tK0",
       "alternatives": []
     },
     "069856a392b53d6bd89d": {
@@ -252,6 +288,18 @@
         }
       ]
     },
+    "0cdd4f8c5f354ab6c3c9": {
+      "song_id": "0cdd4f8c5f354ab6c3c9",
+      "title": "Hotline Bling",
+      "artist": "Drake",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "hip hop; contemporary r&b; rap",
+      "youtube_video_id": "uxpDa-c-4Mc",
+      "alternatives": []
+    },
     "0d1d064dbffedbe23604": {
       "song_id": "0d1d064dbffedbe23604",
       "title": "Little Dipper",
@@ -262,6 +310,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "PVhzevGLZHE",
+      "alternatives": []
+    },
+    "0e7d0b4c809a6f11c676": {
+      "song_id": "0e7d0b4c809a6f11c676",
+      "title": "Always and Forever",
+      "artist": "Luther Vandross",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "funk; soul; r&b",
+      "youtube_video_id": "xm4wAmsGyN0",
       "alternatives": []
     },
     "0f892a9dece80f1f6d9e": {
@@ -298,6 +358,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "djV11Xbc914",
+      "alternatives": []
+    },
+    "12a0e317d11ebb477943": {
+      "song_id": "12a0e317d11ebb477943",
+      "title": "The Power",
+      "artist": "Elton John & Little Richard",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "LHxPIwPtB30",
       "alternatives": []
     },
     "12c5ca56e6f6fb607f28": {
@@ -415,6 +487,18 @@
       "youtube_video_id": "Jv7fN-dy0Zw",
       "alternatives": []
     },
+    "1831ef5c9ef069a1d823": {
+      "song_id": "1831ef5c9ef069a1d823",
+      "title": "Before the Night Is Over",
+      "artist": "Bryan Adams",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "-iQqDjQW6ko",
+      "alternatives": []
+    },
     "187630e80f0c61ef60ea": {
       "song_id": "187630e80f0c61ef60ea",
       "title": "Concerto No. 3 in F Major, RV 293 \"L'autunno\"': II. Adagio molto",
@@ -475,6 +559,18 @@
       "youtube_video_id": "WWJLeedcAOk",
       "alternatives": []
     },
+    "1a8d63a87c30e6b40155": {
+      "song_id": "1a8d63a87c30e6b40155",
+      "title": "Spain",
+      "artist": "Chick Corea & Return to Forever",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "sEhQTjgoTdU",
+      "alternatives": []
+    },
     "1af0475be58576d4e491": {
       "song_id": "1af0475be58576d4e491",
       "title": "Talking to the Moon",
@@ -502,6 +598,25 @@
           "source": "shazamio",
           "title": "24 Preludes, Op 28 (Live, 18/4/1997)",
           "artist": "Dimitris Sgouros",
+          "confidence": 0.55
+        }
+      ]
+    },
+    "1b0e391a77c265fd0c61": {
+      "song_id": "1b0e391a77c265fd0c61",
+      "title": "Sonata No. 3 in B Minor, Op. 58: Allegro Maestoso",
+      "artist": "Itzhak Solsky",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Gb6s2y2rOkk",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Sonata No. 3 in B minor, Op. 58",
+          "artist": "Stephen Beus",
           "confidence": 0.55
         }
       ]
@@ -634,6 +749,43 @@
       "youtube_video_id": "xrELwxwCDe0",
       "alternatives": []
     },
+    "1efd212b9daf8b6ff6d2": {
+      "song_id": "1efd212b9daf8b6ff6d2",
+      "title": "Lose Control",
+      "artist": "Ledisi",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "soul",
+      "youtube_video_id": "SkumgszfHPM",
+      "alternatives": []
+    },
+    "201c3c9f9021b3769e36": {
+      "song_id": "201c3c9f9021b3769e36",
+      "title": "Piano Sonata No. 3 in B Minor, Op. 58: IV. Finale. Presto non tanto",
+      "artist": "Hisako Kawamura",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "q4qVpdN51Ew",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Sonata No. 3 in B Minor, Op. 58: IV. Finale (Presto non tanto)",
+          "artist": "Maurizio Pollini",
+          "confidence": 0.55
+        },
+        {
+          "source": "shazamio",
+          "title": "Piano Sonata No. 3 in B Minor, Op. 58: IV. Finale: Presto non tanto - Agitato",
+          "artist": "Misha Fomin",
+          "confidence": 0.55
+        }
+      ]
+    },
     "221f435373fce3b54220": {
       "song_id": "221f435373fce3b54220",
       "title": "Viral Heat",
@@ -668,6 +820,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "o9X-sN_5Gx8",
+      "alternatives": []
+    },
+    "22e1cae889412acd2f42": {
+      "song_id": "22e1cae889412acd2f42",
+      "title": "Lost In The Grid",
+      "artist": "Motion Audio",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "X4jWu_YrydU",
       "alternatives": []
     },
     "22edd96878ee8dba2c22": {
@@ -833,6 +997,30 @@
       "youtube_video_id": "qhqD5oNgMS8",
       "alternatives": []
     },
+    "2cbfb20f7d4b713f76e2": {
+      "song_id": "2cbfb20f7d4b713f76e2",
+      "title": "Have You Ever",
+      "artist": "Brandy",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Xkj1An6Wnec",
+      "alternatives": []
+    },
+    "2ddce26a9efb8acc581e": {
+      "song_id": "2ddce26a9efb8acc581e",
+      "title": "(23) Retrowave Album V.12",
+      "artist": "SLICED CØRPSE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "GSUlKE0iQOI",
+      "alternatives": []
+    },
     "2df7081d92102700ef79": {
       "song_id": "2df7081d92102700ef79",
       "title": "Piano Concerto No. 25 in C Major K. 503: I. Allegro maestoso",
@@ -869,6 +1057,18 @@
       "youtube_video_id": "fL5nmhaUY8I",
       "alternatives": []
     },
+    "306f68d071cc0f679cee": {
+      "song_id": "306f68d071cc0f679cee",
+      "title": "Fundo Musical Worship Piano (Faz Chover) Musical Fundo",
+      "artist": "Fundos De Oração",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "SN1J5xM56Xs",
+      "alternatives": []
+    },
     "307386b7b0992a7f4ba8": {
       "song_id": "307386b7b0992a7f4ba8",
       "title": "Casablanca",
@@ -891,6 +1091,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "8hi3s0nZL2c",
+      "alternatives": []
+    },
+    "32fe734c83c22bc61e96": {
+      "song_id": "32fe734c83c22bc61e96",
+      "title": "Finlandia",
+      "artist": "Keven John Edusei & Chineke! Orchestra",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "i5kFtOonwes",
       "alternatives": []
     },
     "340ecc43caf90c979fed": {
@@ -977,6 +1189,18 @@
       "youtube_video_id": "b09c-zgrSto",
       "alternatives": []
     },
+    "3768dd7d50edfc60f5c3": {
+      "song_id": "3768dd7d50edfc60f5c3",
+      "title": "A Dramatic Irony (From \"Honkai: Star Rail\") [Kafka Theme]",
+      "artist": "tnbee",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "WnVD9db1DIs",
+      "alternatives": []
+    },
     "39f938524a7ee731765e": {
       "song_id": "39f938524a7ee731765e",
       "title": "Leisha's World (Westlake Remix)",
@@ -999,6 +1223,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "0lK_CL-95jc",
+      "alternatives": []
+    },
+    "3bb44ad820d67b8e5cbb": {
+      "song_id": "3bb44ad820d67b8e5cbb",
+      "title": "Infinite",
+      "artist": "Skyknock",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "S8BHXHGHhWA",
       "alternatives": []
     },
     "3ccd34c72d7cb3b53724": {
@@ -1055,6 +1291,25 @@
       "genre": "",
       "youtube_video_id": "VsdTM9VO6Oc",
       "alternatives": []
+    },
+    "3ea02a46370a69ac4ffe": {
+      "song_id": "3ea02a46370a69ac4ffe",
+      "title": "Piano Sonata No. 3 in B Minor, Op. 58, 1. Allegro maestoso",
+      "artist": "Maurizio Pollini",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "-Wg0l_C375A",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Sonata No. 3 in B Minor, Op. 58",
+          "artist": "Vassily Primakov",
+          "confidence": 0.55
+        }
+      ]
     },
     "406e7f93a59bcb4fa9ca": {
       "song_id": "406e7f93a59bcb4fa9ca",
@@ -1182,6 +1437,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Wyohl9Lshp4",
+      "alternatives": []
+    },
+    "47dac329d7eb44069d80": {
+      "song_id": "47dac329d7eb44069d80",
+      "title": "Piano Concerto No. 1 \"Latin\": I. Mambo (Live)",
+      "artist": "Gabriela Montero, The Orchestra of the Americas & Carlos Miguel Prieto",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "UwSFv5oJmN8",
       "alternatives": []
     },
     "485d6252df9c770f00d8": {
@@ -1426,6 +1693,18 @@
       "youtube_video_id": "Xwyyrq8Jb_U",
       "alternatives": []
     },
+    "59a469534f8ffd02854f": {
+      "song_id": "59a469534f8ffd02854f",
+      "title": "Piano Concerto No. 2 in B-Flat Major, Op. 19: I. Allegro con brio (Live at Philharmonie, Berlin, 1992)",
+      "artist": "Maurizio Pollini, Berlin Philharmonic & Claudio Abbado",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "mtGm-mWVH9c",
+      "alternatives": []
+    },
     "59f71ed46d435d3a4a5a": {
       "song_id": "59f71ed46d435d3a4a5a",
       "title": "Elysian",
@@ -1491,6 +1770,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "ReZE3lk6n1w",
+      "alternatives": []
+    },
+    "5c79952b62d8ad0d99c9": {
+      "song_id": "5c79952b62d8ad0d99c9",
+      "title": "Maybe I Should Call",
+      "artist": "K. Michelle",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; american; hip hop",
+      "youtube_video_id": "GOc54rZjbhY",
       "alternatives": []
     },
     "5cdb965c080516887dd3": {
@@ -1685,6 +1976,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Ff_7iTz-lLQ",
+      "alternatives": []
+    },
+    "659288c67902964fe90a": {
+      "song_id": "659288c67902964fe90a",
+      "title": "Baby I Love U!",
+      "artist": "Jennifer Lopez",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "z142HK8V-hE",
       "alternatives": []
     },
     "6764caa784709e3ebbb7": {
@@ -1886,6 +2189,18 @@
       "youtube_video_id": "",
       "alternatives": []
     },
+    "723b5cc8e0d749f7d683": {
+      "song_id": "723b5cc8e0d749f7d683",
+      "title": "Tribal Chief (WrestleMania 40 Intro) [Ultimate Version])",
+      "artist": "Triple 7 Music",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "AZCqCdCMJIY",
+      "alternatives": []
+    },
     "723dde5b891111b9d6a0": {
       "song_id": "723dde5b891111b9d6a0",
       "title": "Naïve",
@@ -1896,6 +2211,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "takRXAL3ArU",
+      "alternatives": []
+    },
+    "7275ed79c9c3f3c76536": {
+      "song_id": "7275ed79c9c3f3c76536",
+      "title": "scherzo dai4ban hochouchou長調 作品54(Chopin)",
+      "artist": "Keisuke Toyama",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
       "alternatives": []
     },
     "731836ade44ed01e8bc2": {
@@ -1920,6 +2247,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "tahdJaL7uqA",
+      "alternatives": []
+    },
+    "743f353bd282e2451df1": {
+      "song_id": "743f353bd282e2451df1",
+      "title": "Polonaise No. 7 in A-Flat, Op. 61 Polonaise-Fantaisie",
+      "artist": "Maurizio Pollini",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Y-P9ZXXKipg",
       "alternatives": []
     },
     "74b0b795f1c61b90b48c": {
@@ -1956,6 +2295,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "LG5QPdGmucc",
+      "alternatives": []
+    },
+    "7715f5b5f82dcc4ce2f6": {
+      "song_id": "7715f5b5f82dcc4ce2f6",
+      "title": "Piano Sonata No. 3, Op. 58 In B Minor: Allegro Maestoso",
+      "artist": "Kazimierz Brzozowski",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "LRPaQQGkNb8",
       "alternatives": []
     },
     "77dfa70ccc9084fdff62": {
@@ -2001,6 +2352,18 @@
       "youtube_video_id": "XYn9Qzj7rRU",
       "alternatives": []
     },
+    "792f11492c2a6b22ad60": {
+      "song_id": "792f11492c2a6b22ad60",
+      "title": "If You Lose Her",
+      "artist": "Joe",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "hip hop; soul; r&b",
+      "youtube_video_id": "p3edJ4QWyj4",
+      "alternatives": []
+    },
     "79bcd5581530faf6fe10": {
       "song_id": "79bcd5581530faf6fe10",
       "title": "Ecstasy",
@@ -2023,6 +2386,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "5RNy_1odv20",
+      "alternatives": []
+    },
+    "7a9bd5da4b9cb928cd1d": {
+      "song_id": "7a9bd5da4b9cb928cd1d",
+      "title": "Sonate pour violoncelle et piano No. 3 in A Major, Op. 69: I. Allegro, ma non tanto",
+      "artist": "Pierre Fournier & Friedrich Gulda",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "gjlTPshtzok",
       "alternatives": []
     },
     "7b88f683a06636310682": {
@@ -2048,6 +2423,31 @@
       "genre": "",
       "youtube_video_id": "yuhcWMxr8X4",
       "alternatives": []
+    },
+    "7b9b2af93da1acb3a69e": {
+      "song_id": "7b9b2af93da1acb3a69e",
+      "title": "Cello Sonata No. 3 in A major, Op. 69: III. Adagio cantabile - Allegro vivace",
+      "artist": "Jitka Cechova & Jan Palenicek",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Bb1CaM3sdTI",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Cello Sonata No.3 In A Major, Op.69 - III. Allegro vivace",
+          "artist": "Dimanche FR",
+          "confidence": 0.55
+        },
+        {
+          "source": "shazamio",
+          "title": "Cello Sonata No. 3 in A Major, Op. 69: III. Allegro vivace (On Period Instruments)",
+          "artist": "David Hardy & Lambert Orkis",
+          "confidence": 0.55
+        }
+      ]
     },
     "7d5d0b0505539c86dc37": {
       "song_id": "7d5d0b0505539c86dc37",
@@ -2083,6 +2483,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "VO1qqsRwk1Y",
+      "alternatives": []
+    },
+    "7ed8b62c9096ab523b7c": {
+      "song_id": "7ed8b62c9096ab523b7c",
+      "title": "Future",
+      "artist": "Soundridemusic",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "q_r0THGGLy4",
       "alternatives": []
     },
     "7f2ce0bc66d5e7478af9": {
@@ -2133,6 +2545,18 @@
       "youtube_video_id": "E20G25SCAEg",
       "alternatives": []
     },
+    "81b3123a340ec22cbe66": {
+      "song_id": "81b3123a340ec22cbe66",
+      "title": "Ode To Joy Remix",
+      "artist": "Giulio Cercato",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Fjw5qZxWM0E",
+      "alternatives": []
+    },
     "831e71e6260284842d9f": {
       "song_id": "831e71e6260284842d9f",
       "title": "Piano Concerto No. 1, Op. 11: I. Allegro maestoso",
@@ -2143,6 +2567,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "7achSmsPqJ4",
+      "alternatives": []
+    },
+    "8326c837f7f006cdae3e": {
+      "song_id": "8326c837f7f006cdae3e",
+      "title": "Crocodile Rock",
+      "artist": "The Beach Boys",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "rGYbvZ7OFX8",
       "alternatives": []
     },
     "836913bae12045d21e67": {
@@ -2251,6 +2687,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "ofA3URC1wyk",
+      "alternatives": []
+    },
+    "87e6aa565929c0e525c1": {
+      "song_id": "87e6aa565929c0e525c1",
+      "title": "Symphony No. 9 in E Minor, Op. 95, B. 178 \"From the New World\": III. Molto vivace",
+      "artist": "Carlo Maria Giulini & Philharmonia Orchestra",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "BYwQV1HeFbA",
       "alternatives": []
     },
     "88439372d73fcc64b1a0": {
@@ -2424,6 +2872,18 @@
         }
       ]
     },
+    "8f52e2f789c8322f7983": {
+      "song_id": "8f52e2f789c8322f7983",
+      "title": "Every Time I Close My Eyes",
+      "artist": "Babyface, Mariah Carey, Kenny G & Sheila E.",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "GbrSO81KhBY",
+      "alternatives": []
+    },
     "8f6295bbaae5f67538ef": {
       "song_id": "8f6295bbaae5f67538ef",
       "title": "Piano Concerto No. 3 in C Major, Op. 26: I. Andante - Allegro (Live)",
@@ -2453,6 +2913,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "m-uykaDIvHE",
+      "alternatives": []
+    },
+    "90b19be3f30430b578ed": {
+      "song_id": "90b19be3f30430b578ed",
+      "title": "Not a Bad Thing",
+      "artist": "Justin Timberlake",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "pop",
+      "youtube_video_id": "Y8ygKnBtKAk",
       "alternatives": []
     },
     "910a7df957e08944fcc6": {
@@ -2526,6 +2998,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "6VwbyBGbqPY",
+      "alternatives": []
+    },
+    "966ee4421b3fc3371e4f": {
+      "song_id": "966ee4421b3fc3371e4f",
+      "title": "Piano Concerto No. 1 in C Major, Op. 15: III. Rondo (Allegro scherzando)",
+      "artist": "Alfred Brendel, Vienna Philharmonic & Sir Simon Rattle",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "UMNFEHXw94U",
+      "alternatives": []
+    },
+    "96d8fe4ed45fc891c031": {
+      "song_id": "96d8fe4ed45fc891c031",
+      "title": "Dreamin' (feat. Fiora)",
+      "artist": "Seven Lions",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ZsJLmTPeBnk",
       "alternatives": []
     },
     "976a504a32d969591122": {
@@ -2631,6 +3127,49 @@
       "youtube_video_id": "9VnNhAoHnyQ",
       "alternatives": []
     },
+    "9b7ec4f572e9942389d5": {
+      "song_id": "9b7ec4f572e9942389d5",
+      "title": "Princess of China",
+      "artist": "Coldplay & Rihanna",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "1Uw6ZkbsAH8",
+      "alternatives": []
+    },
+    "9bc121599e05a6636b45": {
+      "song_id": "9bc121599e05a6636b45",
+      "title": "Calm",
+      "artist": "Central Record",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "SyhbCJH7EXc",
+      "alternatives": []
+    },
+    "9c97987d0c2ae676d4c2": {
+      "song_id": "9c97987d0c2ae676d4c2",
+      "title": "Sonata No.3 in A Major for Cello and Piano, Op. 69 : II. Scherzo - Allegro molto",
+      "artist": "Sergei Slovachevsky & Igor Uryash",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "_eNSXwVetX0",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Sonata No. 3 in A Major for Cello and Piano, Op. 69: II. Scherzo. Allegro molto",
+          "artist": "Emanuel Ax & Yo-Yo Ma",
+          "confidence": 0.55
+        }
+      ]
+    },
     "9dbab7311add3e9cc554": {
       "song_id": "9dbab7311add3e9cc554",
       "title": "Love Is the Hero (feat. Freddie Mercury)",
@@ -2713,6 +3252,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "yN3UhWXnPqY",
+      "alternatives": []
+    },
+    "a1e21cbe93700ba62212": {
+      "song_id": "a1e21cbe93700ba62212",
+      "title": "Swimming",
+      "artist": "Flawed Mangoes",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "5k7ccAEaY0Q",
       "alternatives": []
     },
     "a2b7366cae9b5d16b233": {
@@ -2842,6 +3393,18 @@
       "youtube_video_id": "JDZ_DlNfsWk",
       "alternatives": []
     },
+    "a6e11cd6f9b73e75e1ce": {
+      "song_id": "a6e11cd6f9b73e75e1ce",
+      "title": "Piano Concerto No. 1 in C Major, Op. 15: I. Allegro con brio",
+      "artist": "Alfred Brendel, Vienna Philharmonic & Sir Simon Rattle",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "TDXv-OUWdHI",
+      "alternatives": []
+    },
     "a778cb44dcaabfce3440": {
       "song_id": "a778cb44dcaabfce3440",
       "title": "We Wish You A Merry Christmas Cute Fireplace",
@@ -2854,6 +3417,18 @@
       "youtube_video_id": "tq9O15Fi7ok",
       "alternatives": []
     },
+    "a8658d3240a9faf610c3": {
+      "song_id": "a8658d3240a9faf610c3",
+      "title": "Piano Concerto No. 1 in C Major, Op. 15: II. Largo",
+      "artist": "Alfred Brendel, Vienna Philharmonic & Sir Simon Rattle",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "EQsEZ0GvvhE",
+      "alternatives": []
+    },
     "a9905880e6a2044bd2cd": {
       "song_id": "a9905880e6a2044bd2cd",
       "title": "Mono No Aware",
@@ -2864,6 +3439,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "J9YTABP_rsE",
+      "alternatives": []
+    },
+    "a9fed6a261b0bf23df4f": {
+      "song_id": "a9fed6a261b0bf23df4f",
+      "title": "Walking on Stars (Ohv)",
+      "artist": "Silent Rhythm",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "7_U_Pke_Pt4",
+      "alternatives": []
+    },
+    "aa0b92f7b28e86553846": {
+      "song_id": "aa0b92f7b28e86553846",
+      "title": "Piano Sonata No. 3 in B Minor, Op. 58: I. Allegro maestoso (Live)",
+      "artist": "Martha Argerich",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "apEiru-f67A",
       "alternatives": []
     },
     "aaaba374d7a4db770646": {
@@ -2900,6 +3499,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "J7jCklCTGLk",
+      "alternatives": []
+    },
+    "ac55c87190fc69a61ff9": {
+      "song_id": "ac55c87190fc69a61ff9",
+      "title": "Jata Me Janmayo Suro Eklo",
+      "artist": "Ramswarup Jangid & Rinku Sharma",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Odys6Fas8Rg",
+      "alternatives": []
+    },
+    "acd75a6b2034f60522af": {
+      "song_id": "acd75a6b2034f60522af",
+      "title": "Big in Japan (feat. Amelie Martinez)",
+      "artist": "Ash",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "eZqx2cFyGVg",
       "alternatives": []
     },
     "aea550404173328d4f74": {
@@ -2993,6 +3616,30 @@
       "youtube_video_id": "gjpTnbOdHxw",
       "alternatives": []
     },
+    "b4f84f829654c04bf690": {
+      "song_id": "b4f84f829654c04bf690",
+      "title": "Never Love Again",
+      "artist": "Anthony Hamilton",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "soul; neo soul; r&b",
+      "youtube_video_id": "kDAfz6lHcws",
+      "alternatives": []
+    },
+    "b568e62b970458b3a1e4": {
+      "song_id": "b568e62b970458b3a1e4",
+      "title": "Last Universe",
+      "artist": "Daniel Brown keys",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "0f29kGCFkNs",
+      "alternatives": []
+    },
     "b627d66f62616ae59da5": {
       "song_id": "b627d66f62616ae59da5",
       "title": "Snake Ranger",
@@ -3060,6 +3707,18 @@
       "youtube_video_id": "JvbJECsiCvQ",
       "alternatives": []
     },
+    "bb9b6845e3c45b70b852": {
+      "song_id": "bb9b6845e3c45b70b852",
+      "title": "Minimal Trading Music | Deep Focus & Ambient & Chill",
+      "artist": "Dj ZaDA",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "PMp4ID3VsMo",
+      "alternatives": []
+    },
     "bc58a3279c33103fe87f": {
       "song_id": "bc58a3279c33103fe87f",
       "title": "Concierto de Aranjuez for Guitar and Orchestra: 2. Adagio",
@@ -3082,6 +3741,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "nwppOcmjVCk",
+      "alternatives": []
+    },
+    "bd0a57a001190ece518d": {
+      "song_id": "bd0a57a001190ece518d",
+      "title": "Twilight Blue (Acoustic)",
+      "artist": "Josh Marohl",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "_hcRNhz-wfQ",
+      "alternatives": []
+    },
+    "bd55d334be4d92eba3a6": {
+      "song_id": "bd55d334be4d92eba3a6",
+      "title": "Background Music",
+      "artist": "StudioBox28",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "-KzQHnHijkQ",
       "alternatives": []
     },
     "bdac2a7a937ddb99df74": {
@@ -3144,6 +3827,18 @@
       "youtube_video_id": "Da4DqUmwHZw",
       "alternatives": []
     },
+    "c08e4a0f825c1d7d8ccc": {
+      "song_id": "c08e4a0f825c1d7d8ccc",
+      "title": "Roundabout",
+      "artist": "Yes",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "LuGAWR2eRyQ",
+      "alternatives": []
+    },
     "c238868f8c419a7eaff5": {
       "song_id": "c238868f8c419a7eaff5",
       "title": "Love Like Never Before",
@@ -3154,6 +3849,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "i7Y_L7zMLFw",
+      "alternatives": []
+    },
+    "c2b80e900c4808a7c9e2": {
+      "song_id": "c2b80e900c4808a7c9e2",
+      "title": "Road Less Traveled (full mix)",
+      "artist": "Ron Saltmarsh & Randy Wachtler",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
       "alternatives": []
     },
     "c346208a7541137aa63f": {
@@ -3264,6 +3971,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Ds7UBzCiaXE",
+      "alternatives": []
+    },
+    "cabc8cbf673e9bce9eab": {
+      "song_id": "cabc8cbf673e9bce9eab",
+      "title": "Secret To the End",
+      "artist": "Depeche Mode",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "bBYaklKDWj0",
       "alternatives": []
     },
     "cc023390a43e521b1517": {
@@ -3554,6 +4273,18 @@
       "youtube_video_id": "VnIC83TP5MM",
       "alternatives": []
     },
+    "e0622bbe85ea6a2b5302": {
+      "song_id": "e0622bbe85ea6a2b5302",
+      "title": "How Does It Feel",
+      "artist": "Anita Baker",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "RJpYXnoSHt4",
+      "alternatives": []
+    },
     "e082c8a3d55ee101f3ef": {
       "song_id": "e082c8a3d55ee101f3ef",
       "title": "Sonata for Piano in B-Flat Major, Op. Post.: IV. Allegro ma non troppo",
@@ -3576,6 +4307,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "BsHIHlChRoo",
+      "alternatives": []
+    },
+    "e20836866a4d34d1a148": {
+      "song_id": "e20836866a4d34d1a148",
+      "title": "Forever",
+      "artist": "Kenny Lattimore",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "TpDvgO9fQi4",
       "alternatives": []
     },
     "e28f1ca2f6e00ae56031": {
@@ -3684,6 +4427,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "JE0-YwNEJq4",
+      "alternatives": []
+    },
+    "e8c7200fbbab37e86bb8": {
+      "song_id": "e8c7200fbbab37e86bb8",
+      "title": "The Show",
+      "artist": "Lenka",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "elsh3J5lJ6g",
       "alternatives": []
     },
     "e9294ed373df4e3157a2": {
@@ -3837,6 +4592,18 @@
       "youtube_video_id": "",
       "alternatives": []
     },
+    "f0246eb00bb9e4c33dcc": {
+      "song_id": "f0246eb00bb9e4c33dcc",
+      "title": "Spend My Life With You",
+      "artist": "Eric Benét",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "soul; neo soul; r&b",
+      "youtube_video_id": "KO36QW0Gtro",
+      "alternatives": []
+    },
     "f04e5e41744bdc0858b7": {
       "song_id": "f04e5e41744bdc0858b7",
       "title": "Song for Jesse",
@@ -3940,6 +4707,18 @@
       "youtube_video_id": "",
       "alternatives": []
     },
+    "f1c206ba416abca9f0e6": {
+      "song_id": "f1c206ba416abca9f0e6",
+      "title": "A Lion’s Shadow Cast Upon the Earth",
+      "artist": "静寂工房の音",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "yCWEEAhjPzU",
+      "alternatives": []
+    },
     "f1ef7697dc93e22fc2a0": {
       "song_id": "f1ef7697dc93e22fc2a0",
       "title": "Aura",
@@ -3950,6 +4729,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "0U7RIwye1OE",
+      "alternatives": []
+    },
+    "f22274f73f3cb0ff5a53": {
+      "song_id": "f22274f73f3cb0ff5a53",
+      "title": "Baby I Love U! (R. Kelly Remix)",
+      "artist": "Jennifer Lopez",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "YwL3LQTbDf8",
       "alternatives": []
     },
     "f2b03c6b6e12b394bbd3": {
@@ -4029,6 +4820,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "HUylpu7sk1Y",
+      "alternatives": []
+    },
+    "f64bb8c91b4028c50663": {
+      "song_id": "f64bb8c91b4028c50663",
+      "title": "Scientific Proof",
+      "artist": "Chris Jensen",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "3mOwsXUe7Eg",
       "alternatives": []
     },
     "f6505ed9156efb59f753": {

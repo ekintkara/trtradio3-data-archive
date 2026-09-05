@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-04T10:12:38.758201+00:00",
+  "generated_at": "2026-09-05T09:41:42.984021+00:00",
   "radio_id": "trt",
   "month": "2026-09",
   "episodes": {
@@ -63,6 +63,30 @@
       "date": "2026-09-04",
       "aired_at": "2026-09-04",
       "track_count": 3
+    },
+    "trt/renklerin-icinden/2026-09-05": {
+      "episode_id": "trt/renklerin-icinden/2026-09-05",
+      "radio_id": "trt",
+      "program_id": -20698,
+      "program_slug": "renklerin-icinden",
+      "program_name": "Renklerin İçinden",
+      "program_start_time": "07:05",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-05",
+      "aired_at": "2026-09-05",
+      "track_count": 3
+    },
+    "trt/radyo-3-sabah/2026-09-05": {
+      "episode_id": "trt/radyo-3-sabah/2026-09-05",
+      "radio_id": "trt",
+      "program_id": -74698,
+      "program_slug": "radyo-3-sabah",
+      "program_name": "Radyo 3 Sabah",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-05",
+      "aired_at": "2026-09-05",
+      "track_count": 8
     },
     "trt/radyo-3-sabah/2026-09-04": {
       "episode_id": "trt/radyo-3-sabah/2026-09-04",
@@ -160,6 +184,18 @@
       "aired_at": "2026-09-01",
       "track_count": 6
     },
+    "trt/opus-1/2026-09-05": {
+      "episode_id": "trt/opus-1/2026-09-05",
+      "radio_id": "trt",
+      "program_id": 1489,
+      "program_slug": "opus-1",
+      "program_name": "Opus 1",
+      "program_start_time": "11:15",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-05",
+      "aired_at": "2026-09-05",
+      "track_count": 1
+    },
     "trt/odadan-ezgiler/2026-09-03": {
       "episode_id": "trt/odadan-ezgiler/2026-09-03",
       "radio_id": "trt",
@@ -244,6 +280,18 @@
       "aired_at": "2026-09-04",
       "track_count": 1
     },
+    "trt/laterna/2026-09-05": {
+      "episode_id": "trt/laterna/2026-09-05",
+      "radio_id": "trt",
+      "program_id": -16362,
+      "program_slug": "laterna",
+      "program_name": "Laterna",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-05",
+      "aired_at": "2026-09-05",
+      "track_count": 8
+    },
     "trt/klasik-muzikle-dunya-turu/2026-09-04": {
       "episode_id": "trt/klasik-muzikle-dunya-turu/2026-09-04",
       "radio_id": "trt",
@@ -279,6 +327,30 @@
       "date": "2026-09-03",
       "aired_at": "2026-09-03",
       "track_count": 8
+    },
+    "trt/gorkemli-stil/2026-09-05": {
+      "episode_id": "trt/gorkemli-stil/2026-09-05",
+      "radio_id": "trt",
+      "program_id": -92692,
+      "program_slug": "gorkemli-stil",
+      "program_name": "Görkemli Stil",
+      "program_start_time": "10:30",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-05",
+      "aired_at": "2026-09-05",
+      "track_count": 3
+    },
+    "trt/gece-ve-muzik/2026-09-05": {
+      "episode_id": "trt/gece-ve-muzik/2026-09-05",
+      "radio_id": "trt",
+      "program_id": -36535,
+      "program_slug": "gece-ve-muzik",
+      "program_name": "Gece ve Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-05",
+      "aired_at": "2026-09-05",
+      "track_count": 16
     },
     "trt/gece-ve-muzik/2026-09-04": {
       "episode_id": "trt/gece-ve-muzik/2026-09-04",
@@ -340,6 +412,18 @@
       "aired_at": "2026-09-03",
       "track_count": 5
     },
+    "trt/ebu-euroclassic-notturno/2026-09-05": {
+      "episode_id": "trt/ebu-euroclassic-notturno/2026-09-05",
+      "radio_id": "trt",
+      "program_id": -310,
+      "program_slug": "ebu-euroclassic-notturno",
+      "program_name": "Ebu Euroclassıc Notturno",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-05",
+      "aired_at": "2026-09-05",
+      "track_count": 19
+    },
     "trt/ebu-euroclassic-notturno/2026-09-04": {
       "episode_id": "trt/ebu-euroclassic-notturno/2026-09-04",
       "radio_id": "trt",
@@ -400,6 +484,18 @@
       "aired_at": "2026-09-04",
       "track_count": 10
     },
+    "trt/doksandan-sonra/2026-09-05": {
+      "episode_id": "trt/doksandan-sonra/2026-09-05",
+      "radio_id": "trt",
+      "program_id": -63242,
+      "program_slug": "doksandan-sonra",
+      "program_name": "Doksandan Sonra",
+      "program_start_time": "12:05",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-05",
+      "aired_at": "2026-09-05",
+      "track_count": 7
+    },
     "trt/dogunun-bati-yuzu/2026-09-02": {
       "episode_id": "trt/dogunun-bati-yuzu/2026-09-02",
       "radio_id": "trt",
@@ -435,6 +531,18 @@
       "date": "2026-09-02",
       "aired_at": "2026-09-02",
       "track_count": 2
+    },
+    "trt/basrolde-kadinlar/2026-09-05": {
+      "episode_id": "trt/basrolde-kadinlar/2026-09-05",
+      "radio_id": "trt",
+      "program_id": -24951,
+      "program_slug": "basrolde-kadinlar",
+      "program_name": "Başrolde Kadınlar",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-05",
+      "aired_at": "2026-09-05",
+      "track_count": 0
     },
     "trt/akdeniz-melodileri/2026-09-01": {
       "episode_id": "trt/akdeniz-melodileri/2026-09-01",
