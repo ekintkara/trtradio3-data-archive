@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-05T09:41:42.984021+00:00",
+  "generated_at": "2026-09-06T09:56:49.229123+00:00",
   "radio_id": "radyoodtu",
   "month": "2026-09",
   "episodes": {
+    "radyoodtu/sabah-rutini/2026-09-06": {
+      "episode_id": "radyoodtu/sabah-rutini/2026-09-06",
+      "radio_id": "radyoodtu",
+      "program_id": 13,
+      "program_slug": "sabah-rutini",
+      "program_name": "Sabah Rutini",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 660.0,
+      "date": "2026-09-06",
+      "aired_at": "2026-09-06",
+      "track_count": 1
+    },
     "radyoodtu/sabah-rutini/2026-09-03": {
       "episode_id": "radyoodtu/sabah-rutini/2026-09-03",
       "radio_id": "radyoodtu",
@@ -39,6 +51,18 @@
       "date": "2026-09-01",
       "aired_at": "2026-09-01",
       "track_count": 10
+    },
+    "radyoodtu/ogle-tatili-su-uney/2026-09-06": {
+      "episode_id": "radyoodtu/ogle-tatili-su-uney/2026-09-06",
+      "radio_id": "radyoodtu",
+      "program_id": 23,
+      "program_slug": "ogle-tatili-su-uney",
+      "program_name": "Öğle Tatili (Su Üney)",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-06",
+      "aired_at": "2026-09-06",
+      "track_count": 1
     },
     "radyoodtu/ogle-tatili-su-uney/2026-09-03": {
       "episode_id": "radyoodtu/ogle-tatili-su-uney/2026-09-03",
@@ -112,6 +136,18 @@
       "aired_at": "2026-09-01",
       "track_count": 11
     },
+    "radyoodtu/ofis-kackini/2026-09-06": {
+      "episode_id": "radyoodtu/ofis-kackini/2026-09-06",
+      "radio_id": "radyoodtu",
+      "program_id": 18,
+      "program_slug": "ofis-kackini",
+      "program_name": "Ofis Kaçkını",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-06",
+      "aired_at": "2026-09-06",
+      "track_count": 1
+    },
     "radyoodtu/ofis-kackini/2026-09-03": {
       "episode_id": "radyoodtu/ofis-kackini/2026-09-03",
       "radio_id": "radyoodtu",
@@ -172,6 +208,18 @@
       "aired_at": "2026-09-04",
       "track_count": 1
     },
+    "radyoodtu/ikinci-alarm/2026-09-06": {
+      "episode_id": "radyoodtu/ikinci-alarm/2026-09-06",
+      "radio_id": "radyoodtu",
+      "program_id": 8,
+      "program_slug": "ikinci-alarm",
+      "program_name": "İkinci Alarm",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-06",
+      "aired_at": "2026-09-06",
+      "track_count": 1
+    },
     "radyoodtu/ikinci-alarm/2026-09-03": {
       "episode_id": "radyoodtu/ikinci-alarm/2026-09-03",
       "radio_id": "radyoodtu",
@@ -207,6 +255,18 @@
       "date": "2026-09-01",
       "aired_at": "2026-09-01",
       "track_count": 18
+    },
+    "radyoodtu/gunes-gozlugu/2026-09-06": {
+      "episode_id": "radyoodtu/gunes-gozlugu/2026-09-06",
+      "radio_id": "radyoodtu",
+      "program_id": 1,
+      "program_slug": "gunes-gozlugu",
+      "program_name": "Güneş Gözlüğü",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 60.0,
+      "date": "2026-09-06",
+      "aired_at": "2026-09-06",
+      "track_count": 1
     },
     "radyoodtu/gunes-gozlugu/2026-09-05": {
       "episode_id": "radyoodtu/gunes-gozlugu/2026-09-05",

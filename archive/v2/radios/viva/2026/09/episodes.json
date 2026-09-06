@@ -1,0 +1,44 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-09-06T09:56:49.229123+00:00",
+  "radio_id": "viva",
+  "month": "2026-09",
+  "episodes": {
+    "viva/viva-nostalji/2026-09-06": {
+      "episode_id": "viva/viva-nostalji/2026-09-06",
+      "radio_id": "viva",
+      "program_id": 10195,
+      "program_slug": "viva-nostalji",
+      "program_name": "Viva Nostalji",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-06",
+      "aired_at": "2026-09-06",
+      "track_count": 7
+    },
+    "viva/turkce-muzigin-keyfi/2026-09-06": {
+      "episode_id": "viva/turkce-muzigin-keyfi/2026-09-06",
+      "radio_id": "viva",
+      "program_id": 10196,
+      "program_slug": "turkce-muzigin-keyfi",
+      "program_name": "Türkçe Müziğin Keyfi",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-06",
+      "aired_at": "2026-09-06",
+      "track_count": 13
+    },
+    "viva/muzik-viva/2026-09-06": {
+      "episode_id": "viva/muzik-viva/2026-09-06",
+      "radio_id": "viva",
+      "program_id": 10193,
+      "program_slug": "muzik-viva",
+      "program_name": "Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 10860.0,
+      "date": "2026-09-06",
+      "aired_at": "2026-09-06",
+      "track_count": 25
+    }
+  }
+}

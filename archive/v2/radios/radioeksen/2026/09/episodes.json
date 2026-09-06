@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-05T09:41:42.984021+00:00",
+  "generated_at": "2026-09-06T09:56:49.229123+00:00",
   "radio_id": "radioeksen",
   "month": "2026-09",
   "episodes": {
+    "radioeksen/radyo-eksen--oldies/2026-09-06": {
+      "episode_id": "radioeksen/radyo-eksen--oldies/2026-09-06",
+      "radio_id": "radioeksen",
+      "program_id": 1642,
+      "program_slug": "radyo-eksen--oldies",
+      "program_name": "RADYO EKSEN -OLDIES",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 660.0,
+      "date": "2026-09-06",
+      "aired_at": "2026-09-06",
+      "track_count": 47
+    },
     "radioeksen/radyo-eksen--oldies/2026-09-05": {
       "episode_id": "radioeksen/radyo-eksen--oldies/2026-09-05",
       "radio_id": "radioeksen",
@@ -15,6 +27,18 @@
       "date": "2026-09-05",
       "aired_at": "2026-09-05",
       "track_count": 46
+    },
+    "radioeksen/guven-yildiz--trio/2026-09-06": {
+      "episode_id": "radioeksen/guven-yildiz--trio/2026-09-06",
+      "radio_id": "radioeksen",
+      "program_id": -90435,
+      "program_slug": "guven-yildiz--trio",
+      "program_name": "GÜVEN YILDIZ -TRIO",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-06",
+      "aired_at": "2026-09-06",
+      "track_count": 13
     },
     "radioeksen/gulsah-turgut--paribu-artin-sundugu-gun-ortasi-programi/2026-09-04": {
       "episode_id": "radioeksen/gulsah-turgut--paribu-artin-sundugu-gun-ortasi-programi/2026-09-04",
@@ -111,6 +135,18 @@
       "date": "2026-09-01",
       "aired_at": "2026-09-01",
       "track_count": 38
+    },
+    "radioeksen/eksen-muzik/2026-09-06": {
+      "episode_id": "radioeksen/eksen-muzik/2026-09-06",
+      "radio_id": "radioeksen",
+      "program_id": -47869,
+      "program_slug": "eksen-muzik",
+      "program_name": "Eksen Müzik",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-06",
+      "aired_at": "2026-09-06",
+      "track_count": 15
     },
     "radioeksen/eksen-muzik/2026-09-05": {
       "episode_id": "radioeksen/eksen-muzik/2026-09-05",
