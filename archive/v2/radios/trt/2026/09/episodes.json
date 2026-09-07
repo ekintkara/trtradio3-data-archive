@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-06T09:56:49.229123+00:00",
+  "generated_at": "2026-09-07T11:06:19.563647+00:00",
   "radio_id": "trt",
   "month": "2026-09",
   "episodes": {
@@ -64,6 +64,18 @@
       "aired_at": "2026-09-02",
       "track_count": 10
     },
+    "trt/ses-ve-soz/2026-09-07": {
+      "episode_id": "trt/ses-ve-soz/2026-09-07",
+      "radio_id": "trt",
+      "program_id": -12702,
+      "program_slug": "ses-ve-soz",
+      "program_name": "Ses Ve Söz",
+      "program_start_time": "12:05",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-07",
+      "aired_at": "2026-09-07",
+      "track_count": 8
+    },
     "trt/sakli-notalar/2026-09-04": {
       "episode_id": "trt/sakli-notalar/2026-09-04",
       "radio_id": "trt",
@@ -87,6 +99,18 @@
       "date": "2026-09-05",
       "aired_at": "2026-09-05",
       "track_count": 3
+    },
+    "trt/radyo-3-sabah/2026-09-07": {
+      "episode_id": "trt/radyo-3-sabah/2026-09-07",
+      "radio_id": "trt",
+      "program_id": -11373,
+      "program_slug": "radyo-3-sabah",
+      "program_name": "Radyo 3 Sabah",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-07",
+      "aired_at": "2026-09-07",
+      "track_count": 9
     },
     "trt/radyo-3-sabah/2026-09-06": {
       "episode_id": "trt/radyo-3-sabah/2026-09-06",
@@ -160,6 +184,18 @@
       "aired_at": "2026-09-01",
       "track_count": 5
     },
+    "trt/radyo-3-gunisigi/2026-09-07": {
+      "episode_id": "trt/radyo-3-gunisigi/2026-09-07",
+      "radio_id": "trt",
+      "program_id": -31973,
+      "program_slug": "radyo-3-gunisigi",
+      "program_name": "Radyo 3 Günışığı",
+      "program_start_time": "07:05",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-07",
+      "aired_at": "2026-09-07",
+      "track_count": 10
+    },
     "trt/radyo-3-gunisigi/2026-09-04": {
       "episode_id": "trt/radyo-3-gunisigi/2026-09-04",
       "radio_id": "trt",
@@ -207,6 +243,18 @@
       "date": "2026-09-01",
       "aired_at": "2026-09-01",
       "track_count": 6
+    },
+    "trt/piyano-forte/2026-09-07": {
+      "episode_id": "trt/piyano-forte/2026-09-07",
+      "radio_id": "trt",
+      "program_id": -22982,
+      "program_slug": "piyano-forte",
+      "program_name": "Piyano Forte",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-07",
+      "aired_at": "2026-09-07",
+      "track_count": 10
     },
     "trt/opus-1/2026-09-05": {
       "episode_id": "trt/opus-1/2026-09-05",
@@ -376,6 +424,18 @@
       "aired_at": "2026-09-04",
       "track_count": 12
     },
+    "trt/klasik-dunya/2026-09-07": {
+      "episode_id": "trt/klasik-dunya/2026-09-07",
+      "radio_id": "trt",
+      "program_id": -11595,
+      "program_slug": "klasik-dunya",
+      "program_name": "Klasik Dünya",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-07",
+      "aired_at": "2026-09-07",
+      "track_count": 3
+    },
     "trt/iklimlere-yolculuk/2026-09-04": {
       "episode_id": "trt/iklimlere-yolculuk/2026-09-04",
       "radio_id": "trt",
@@ -411,6 +471,18 @@
       "date": "2026-09-05",
       "aired_at": "2026-09-05",
       "track_count": 3
+    },
+    "trt/gece-ve-muzik/2026-09-07": {
+      "episode_id": "trt/gece-ve-muzik/2026-09-07",
+      "radio_id": "trt",
+      "program_id": -12662,
+      "program_slug": "gece-ve-muzik",
+      "program_name": "Gece ve Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 240.0,
+      "date": "2026-09-07",
+      "aired_at": "2026-09-07",
+      "track_count": 9
     },
     "trt/gece-ve-muzik/2026-09-06": {
       "episode_id": "trt/gece-ve-muzik/2026-09-06",
@@ -508,6 +580,18 @@
       "aired_at": "2026-09-06",
       "track_count": 6
     },
+    "trt/ebu-euroclassic-notturno/2026-09-07": {
+      "episode_id": "trt/ebu-euroclassic-notturno/2026-09-07",
+      "radio_id": "trt",
+      "program_id": -2246,
+      "program_slug": "ebu-euroclassic-notturno",
+      "program_name": "Ebu Euroclassıc Notturno",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-07",
+      "aired_at": "2026-09-07",
+      "track_count": 18
+    },
     "trt/ebu-euroclassic-notturno/2026-09-06": {
       "episode_id": "trt/ebu-euroclassic-notturno/2026-09-06",
       "radio_id": "trt",
@@ -580,6 +664,18 @@
       "aired_at": "2026-09-01",
       "track_count": 29
     },
+    "trt/duygularin-muzigi/2026-09-07": {
+      "episode_id": "trt/duygularin-muzigi/2026-09-07",
+      "radio_id": "trt",
+      "program_id": -99427,
+      "program_slug": "duygularin-muzigi",
+      "program_name": "Duyguların Müziği",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-07",
+      "aired_at": "2026-09-07",
+      "track_count": 6
+    },
     "trt/dunya-sahne-ve-studyolarindan/2026-09-04": {
       "episode_id": "trt/dunya-sahne-ve-studyolarindan/2026-09-04",
       "radio_id": "trt",
@@ -651,6 +747,30 @@
       "date": "2026-09-05",
       "aired_at": "2026-09-05",
       "track_count": 0
+    },
+    "trt/armonik-tinilar/2026-09-07": {
+      "episode_id": "trt/armonik-tinilar/2026-09-07",
+      "radio_id": "trt",
+      "program_id": -43417,
+      "program_slug": "armonik-tinilar",
+      "program_name": "Armonik Tınılar",
+      "program_start_time": "14:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-07",
+      "aired_at": "2026-09-07",
+      "track_count": 0
+    },
+    "trt/allegro/2026-09-07": {
+      "episode_id": "trt/allegro/2026-09-07",
+      "radio_id": "trt",
+      "program_id": 225,
+      "program_slug": "allegro",
+      "program_name": "Allegro",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-07",
+      "aired_at": "2026-09-07",
+      "track_count": 18
     },
     "trt/akdeniz-melodileri/2026-09-01": {
       "episode_id": "trt/akdeniz-melodileri/2026-09-01",
