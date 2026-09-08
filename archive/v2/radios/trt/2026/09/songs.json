@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-07T11:06:19.563647+00:00",
+  "generated_at": "2026-09-08T10:19:10.399644+00:00",
   "radio_id": "trt",
   "month": "2026-09",
   "songs": {
@@ -50,6 +50,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "frrxoPNl8uk",
+      "alternatives": []
+    },
+    "01c2f84e4849d5e0f873": {
+      "song_id": "01c2f84e4849d5e0f873",
+      "title": "I Wanna Know (feat. Nico & Vinz)",
+      "artist": "Alesso",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "TnSfwONWlk8",
       "alternatives": []
     },
     "0243f4d9eada45ba5a38": {
@@ -134,6 +146,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "PMFKs-HuIOg",
+      "alternatives": []
+    },
+    "05b4f8e463c69b47af8b": {
+      "song_id": "05b4f8e463c69b47af8b",
+      "title": "Everybody Hurts ( MTV Unplugged Version )",
+      "artist": "The Corrs",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "_GIT-ee4Pzw",
       "alternatives": []
     },
     "05c9911e1bdf476ce020": {
@@ -275,6 +299,18 @@
       "youtube_video_id": "8KX2zzheKf0",
       "alternatives": []
     },
+    "087fe7ab4ccd735b6fde": {
+      "song_id": "087fe7ab4ccd735b6fde",
+      "title": "Trumpet Concerto in E-Flat Major, Hob.VII e/1: I. Allegro",
+      "artist": "Alison Balsom & The Deutsche Kammerphilharmonie Bremen",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "7DMxoaxtNGM",
+      "alternatives": []
+    },
     "0940ffbbfb410ce86b07": {
       "song_id": "0940ffbbfb410ce86b07",
       "title": "Let's Turn It On (Special Edition)",
@@ -285,6 +321,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "3FL_R6lgywA",
+      "alternatives": []
+    },
+    "0941331b2a13cda9b715": {
+      "song_id": "0941331b2a13cda9b715",
+      "title": "Trumpet Concerto in E Flat, H.VIIe/1: 3. Allegro",
+      "artist": "Michael Halász, The Melbourne Symphony Orchestra & Geoffrey Payne",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "i5LJ_zxwf00",
       "alternatives": []
     },
     "096c8221ca0bf9424bdc": {
@@ -456,6 +504,18 @@
       "youtube_video_id": "BZLNK0BAfY0",
       "alternatives": []
     },
+    "116fa98dea5d4137cb68": {
+      "song_id": "116fa98dea5d4137cb68",
+      "title": "Peresvet",
+      "artist": "Dark Soul & STRUNO",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "nNrrOMV4RFw",
+      "alternatives": []
+    },
     "11b708f2aff67e0d6d6f": {
       "song_id": "11b708f2aff67e0d6d6f",
       "title": "Take On Me",
@@ -523,6 +583,18 @@
         }
       ]
     },
+    "1425b42a6a49adee3658": {
+      "song_id": "1425b42a6a49adee3658",
+      "title": "痛苦的网恋",
+      "artist": "Tenderness",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "hnmb8tzmfV4",
+      "alternatives": []
+    },
     "15b8f12aca53314f0aca": {
       "song_id": "15b8f12aca53314f0aca",
       "title": "Desert Rose (Slowed)",
@@ -559,6 +631,18 @@
       "youtube_video_id": "0AGmbsuOK34",
       "alternatives": []
     },
+    "16394d68262037d45e0c": {
+      "song_id": "16394d68262037d45e0c",
+      "title": "Kto #1.1",
+      "artist": "not-things",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "F3rQYym1FEQ",
+      "alternatives": []
+    },
     "169f59831b20c303db9b": {
       "song_id": "169f59831b20c303db9b",
       "title": "Eternity",
@@ -582,6 +666,25 @@
       "genre": "",
       "youtube_video_id": "jmtRHsriJTQ",
       "alternatives": []
+    },
+    "16d2df3b475cd5d16a4a": {
+      "song_id": "16d2df3b475cd5d16a4a",
+      "title": "Piano Sonata No. 11 in A Major, K. 331: III. Alla turca",
+      "artist": "Klara Havlikova",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "FX_CXs-tDOE",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Sonate pour piano No. 11 in A Major, K. 331: III. Rondo alla Turca. Allegretto",
+          "artist": "Wilhelm Kempff",
+          "confidence": 0.55
+        }
+      ]
     },
     "16e7f8d6223693d11637": {
       "song_id": "16e7f8d6223693d11637",
@@ -617,6 +720,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "rNtrQVuToNw",
+      "alternatives": []
+    },
+    "171b1674ebf01822f175": {
+      "song_id": "171b1674ebf01822f175",
+      "title": "Flawless and Perfect Skin Made Attractive through Subliminal Frequencies",
+      "artist": "Aesthetic Healing",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "JGZ0aPKy43Q",
       "alternatives": []
     },
     "17490ab0924efd0aaeed": {
@@ -776,6 +891,18 @@
           "confidence": 0.55
         }
       ]
+    },
+    "1b4a953ae6effee8bc82": {
+      "song_id": "1b4a953ae6effee8bc82",
+      "title": "Montagem! (Ultra Slowed)",
+      "artist": "MisterLEVIK",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "RPKnapxay6k",
+      "alternatives": []
     },
     "1b4f20a8d1300293f77d": {
       "song_id": "1b4f20a8d1300293f77d",
@@ -977,6 +1104,30 @@
       "youtube_video_id": "3G9IbKeEG18",
       "alternatives": []
     },
+    "1fecba97c91e69b7ba7e": {
+      "song_id": "1fecba97c91e69b7ba7e",
+      "title": "Animal Instinct (Acoustic Version)",
+      "artist": "The Cranberries",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "S7UJMg8LJ_w",
+      "alternatives": []
+    },
+    "200156a7472306019abf": {
+      "song_id": "200156a7472306019abf",
+      "title": "Kickoff",
+      "artist": "Forekast",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "7KIMZtoxjwg",
+      "alternatives": []
+    },
     "201c3c9f9021b3769e36": {
       "song_id": "201c3c9f9021b3769e36",
       "title": "Piano Sonata No. 3 in B Minor, Op. 58: IV. Finale. Presto non tanto",
@@ -1134,6 +1285,18 @@
       "youtube_video_id": "ySlb5tds9Eg",
       "alternatives": []
     },
+    "2696ef0e02c487ab2539": {
+      "song_id": "2696ef0e02c487ab2539",
+      "title": "The Tempest, Op. 18, TH 44",
+      "artist": "Berlin Philharmonic & Claudio Abbado",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "CbwfT0Fs3nM",
+      "alternatives": []
+    },
     "276e537e041e35870275": {
       "song_id": "276e537e041e35870275",
       "title": "Sonata 'Moonlight' 1st Mm-Beethoven",
@@ -1144,6 +1307,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "sbTVZMJ9Z2I",
+      "alternatives": []
+    },
+    "27938646464f37a3966b": {
+      "song_id": "27938646464f37a3966b",
+      "title": "Somos (Dúo Con Armando Manzanero)",
+      "artist": "Eydie Gorme",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "bGIbELgs22A",
+      "alternatives": []
+    },
+    "27eded49bd0e612d5697": {
+      "song_id": "27eded49bd0e612d5697",
+      "title": "Moonlight Sonata",
+      "artist": "Noah Perry",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "NdZMN6oc-pk",
       "alternatives": []
     },
     "2852dd46f2f7d493b01f": {
@@ -1259,6 +1446,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "7uE3DQ3NT3A",
+      "alternatives": []
+    },
+    "2b870c46c08da3f2badd": {
+      "song_id": "2b870c46c08da3f2badd",
+      "title": "Just One Thing",
+      "artist": "William Augusto & Soaking in his Presence",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "hEmSmu7-2BE",
       "alternatives": []
     },
     "2c283a42b0b695325635": {
@@ -1452,6 +1651,25 @@
       "genre": "soundtrack; instrumental; jazz",
       "youtube_video_id": "qJK3eUP5Hvg",
       "alternatives": []
+    },
+    "34370e742a6b1e7f7f2f": {
+      "song_id": "34370e742a6b1e7f7f2f",
+      "title": "Sonata No. 11 in A Major for Piano, K. 331: I. Tema. Andante grazioso (Und Variationen)",
+      "artist": "Lili Krauss",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "g5p--m9cW30",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Sonata No. 11 in A major, K. 331: I. Theme and Variations: Andante grazioso",
+          "artist": "Margarete Babinsky",
+          "confidence": 0.55
+        }
+      ]
     },
     "3442fa7d8372569f0445": {
       "song_id": "3442fa7d8372569f0445",
@@ -1755,6 +1973,18 @@
       "youtube_video_id": "-VRihDKcdsM",
       "alternatives": []
     },
+    "3fb82edf0d963b356f26": {
+      "song_id": "3fb82edf0d963b356f26",
+      "title": "Quintet for Clarinet & Strings in B-Flat Major, Op. 34,  J. 182: I. Allegro",
+      "artist": "Ensemble Kaleidoscope & Bernhard Röthlisberger",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "PUCWgwfHiY0",
+      "alternatives": []
+    },
     "3fd1190c64319e36239b": {
       "song_id": "3fd1190c64319e36239b",
       "title": "Prélude à l'après-midi d'un faune, CD 87",
@@ -1803,6 +2033,18 @@
       "youtube_video_id": "T0m-lk2yvyc",
       "alternatives": []
     },
+    "410fd3410893d885fb9c": {
+      "song_id": "410fd3410893d885fb9c",
+      "title": "Turandot, Act 3: \"Nessun Dorma\" (Calaf)",
+      "artist": "Franco Corelli, Orchestra of the Rome Opera House, Francesco Molinari-Pradelli & Coro del Teatro dell'Opera di Roma",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Q9y7bLObR2Q",
+      "alternatives": []
+    },
     "416927b40dc94d4aa7f6": {
       "song_id": "416927b40dc94d4aa7f6",
       "title": "She's So Bad",
@@ -1825,6 +2067,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "PFcWrfjgY_k",
+      "alternatives": []
+    },
+    "43ba28ec6b35e936db59": {
+      "song_id": "43ba28ec6b35e936db59",
+      "title": "No puedo dejarte de amar",
+      "artist": "Eimy MUSICA",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "3aQD5Q11s-Q",
+      "alternatives": []
+    },
+    "43f8dda38ea2475373a3": {
+      "song_id": "43f8dda38ea2475373a3",
+      "title": "Click Clack",
+      "artist": "UNRELEASEDDDD124",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
       "alternatives": []
     },
     "4426a882ec1a6cc6a9a2": {
@@ -2118,6 +2384,18 @@
       "youtube_video_id": "n2MtEsrcTTs",
       "alternatives": []
     },
+    "4f1547040a1fd1f2c7d5": {
+      "song_id": "4f1547040a1fd1f2c7d5",
+      "title": "Sombra de Ti",
+      "artist": "Shakira",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "latin; pop; latin pop",
+      "youtube_video_id": "L09bo6wNaoo",
+      "alternatives": []
+    },
     "4f15c56d17fd2955ecb0": {
       "song_id": "4f15c56d17fd2955ecb0",
       "title": "A Thousand Years",
@@ -2166,6 +2444,18 @@
       "youtube_video_id": "Pr6_cy4o8yo",
       "alternatives": []
     },
+    "4feb802e7e19a7b316fe": {
+      "song_id": "4feb802e7e19a7b316fe",
+      "title": "What The Water Gave Me (MTV Unplugged, 2012 / Live)",
+      "artist": "Florence + the Machine",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "FxW-U1ZhePA",
+      "alternatives": []
+    },
     "50bf1d702482d45772f5": {
       "song_id": "50bf1d702482d45772f5",
       "title": "Holy Spirit",
@@ -2188,6 +2478,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "HfuThdiCF5Q",
+      "alternatives": []
+    },
+    "51436a6fe976cac098e5": {
+      "song_id": "51436a6fe976cac098e5",
+      "title": "PERDONAME PRINCESA",
+      "artist": "MARKO MENDOZA",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ZpHTfA7zr8Q",
       "alternatives": []
     },
     "524bb61a77bfc3a9f13a": {
@@ -2214,6 +2516,18 @@
       "youtube_video_id": "RcDak7nRwEc",
       "alternatives": []
     },
+    "544c37effd3605b1b27a": {
+      "song_id": "544c37effd3605b1b27a",
+      "title": "Trumpet Concerto in E-Flat Major, Hob. VIIe:1: I. Allegro",
+      "artist": "Simon Höfele, BBC Scottish Symphony Orchestra & Duncan Ward",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "NT48YNGt7aQ",
+      "alternatives": []
+    },
     "54e5c84bdd20934435bf": {
       "song_id": "54e5c84bdd20934435bf",
       "title": "Tomorrow",
@@ -2225,6 +2539,31 @@
       "genre": "",
       "youtube_video_id": "54Jn1SV_Er0",
       "alternatives": []
+    },
+    "54eb18d7ec3a64501e94": {
+      "song_id": "54eb18d7ec3a64501e94",
+      "title": "Piano Sonata No. 32 in C Minor, Op. 111: II. Arietta (Adagio Molto Semplice e Cantabile)",
+      "artist": "Alfred Brendel",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "syetlcLqIGA",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Sonata No. 32 in C Minor, Op. 111: II. Arietta (Adagio Molto Semplice e Cantabile)",
+          "artist": "Maurizio Pollini",
+          "confidence": 0.55
+        },
+        {
+          "source": "shazamio",
+          "title": "Piano Sonata No. 32 in C Minor, Op. 111: II. Arietta. Adagio molto semplice cantabile (Live at Suntory Hall, Tokyo, 2025)",
+          "artist": "Mitsuko Uchida",
+          "confidence": 0.55
+        }
+      ]
     },
     "55f1e3b9b6f0e52b34ff": {
       "song_id": "55f1e3b9b6f0e52b34ff",
@@ -2408,6 +2747,18 @@
       "youtube_video_id": "SGUEgKEFTpE",
       "alternatives": []
     },
+    "5ba6eeaedbb493c0dbb7": {
+      "song_id": "5ba6eeaedbb493c0dbb7",
+      "title": "Summertime in Venice",
+      "artist": "Buddy Greco",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
+      "alternatives": []
+    },
     "5ba96765061bcde51806": {
       "song_id": "5ba96765061bcde51806",
       "title": "Piano Sonata No. 12 in F Major, K. 332: II. Adagio",
@@ -2535,6 +2886,18 @@
       "youtube_video_id": "m2CQ0FvAZuw",
       "alternatives": []
     },
+    "5f950433d339e410bb13": {
+      "song_id": "5f950433d339e410bb13",
+      "title": "En Aranjuez con Tu Amor (From Concierto de Aranjuez)",
+      "artist": "José Carreras, Michael Reed & The Angel Orchestra of London",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "w7zGsojS_R8",
+      "alternatives": []
+    },
     "5fbfaffafd7060a6f732": {
       "song_id": "5fbfaffafd7060a6f732",
       "title": "Piano Concerto No. 2 in C Minor, Op. 18: II. Adagio sostenuto",
@@ -2612,6 +2975,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "lY2yjAdbvdQ",
+      "alternatives": []
+    },
+    "6185ad7db212f6b2814b": {
+      "song_id": "6185ad7db212f6b2814b",
+      "title": "Rondo Alla Turca (Turkish Rondo) From Piano Sonata In A Major K311 (Remastered)",
+      "artist": "Michel Simone",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "aeEmGvm7kDk",
       "alternatives": []
     },
     "61f7d6c3ecc7162519c1": {
@@ -2777,6 +3152,18 @@
       "youtube_video_id": "z142HK8V-hE",
       "alternatives": []
     },
+    "662bd1d1f66dfba75f97": {
+      "song_id": "662bd1d1f66dfba75f97",
+      "title": "Füzuli Kantatası",
+      "artist": "Şövkət Ələkbərova",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "pkFNdZF7-Sk",
+      "alternatives": []
+    },
     "6764caa784709e3ebbb7": {
       "song_id": "6764caa784709e3ebbb7",
       "title": "Jewel in the Dark",
@@ -2885,6 +3272,18 @@
       "youtube_video_id": "nXfUkOKN9xU",
       "alternatives": []
     },
+    "6ba904b04043a47b31b1": {
+      "song_id": "6ba904b04043a47b31b1",
+      "title": "for product launch_one",
+      "artist": "Jihyun sung",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
+      "alternatives": []
+    },
     "6c4d1dc3eeaedb5f9925": {
       "song_id": "6c4d1dc3eeaedb5f9925",
       "title": "Piano Quintet In a 'The Trout', D. 667 - Scherzo: Presto - Trio",
@@ -2903,6 +3302,18 @@
           "confidence": 0.55
         }
       ]
+    },
+    "6cd468358e05e1aaee81": {
+      "song_id": "6cd468358e05e1aaee81",
+      "title": "Orcines",
+      "artist": "Ramirez",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "0TJyn2C2DDY",
+      "alternatives": []
     },
     "6d07bf94e1547341ea4d": {
       "song_id": "6d07bf94e1547341ea4d",
@@ -2986,6 +3397,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "tZw3Uy9GSNE",
+      "alternatives": []
+    },
+    "6e27fe11ab71f9a532b9": {
+      "song_id": "6e27fe11ab71f9a532b9",
+      "title": "Sunchaser (Original Mix;Asot 344)",
+      "artist": "Akesson",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ybyZv68DwUE",
       "alternatives": []
     },
     "6e76e95288e1198e6f72": {
@@ -3072,6 +3495,18 @@
       "youtube_video_id": "W6ygLKii_-0",
       "alternatives": []
     },
+    "71ada171abaac856f561": {
+      "song_id": "71ada171abaac856f561",
+      "title": "St Paul's Suite op.29 No. 2: Finale (The Dargason)",
+      "artist": "La Pietà & Angèle Dubeau",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "6cdctn9ZSgs",
+      "alternatives": []
+    },
     "721e05fbba5745fdc745": {
       "song_id": "721e05fbba5745fdc745",
       "title": "You Don't Know Me",
@@ -3144,6 +3579,18 @@
       "youtube_video_id": "",
       "alternatives": []
     },
+    "72a2d041e62e5ad624f6": {
+      "song_id": "72a2d041e62e5ad624f6",
+      "title": "Tres Lagrimas",
+      "artist": "Guitarra Azul",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Vu4D8CHCkcw",
+      "alternatives": []
+    },
     "731836ade44ed01e8bc2": {
       "song_id": "731836ade44ed01e8bc2",
       "title": "Cristo Por Siempre",
@@ -3192,6 +3639,18 @@
       "youtube_video_id": "Y-P9ZXXKipg",
       "alternatives": []
     },
+    "745bbf7ad57d49c8837d": {
+      "song_id": "745bbf7ad57d49c8837d",
+      "title": "No One Else (Deep Mix)",
+      "artist": "Adrian Ivan",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "4tbLJ4VfWbg",
+      "alternatives": []
+    },
     "74b0b795f1c61b90b48c": {
       "song_id": "74b0b795f1c61b90b48c",
       "title": "String Trio In B Flat Major: IV. Rondo - Allegretto",
@@ -3238,6 +3697,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "LRPaQQGkNb8",
+      "alternatives": []
+    },
+    "77b50aed5a1a09b0fbb4": {
+      "song_id": "77b50aed5a1a09b0fbb4",
+      "title": "Casablanca (en duo avec Carla Bruni) [feat. Carla Bruni]",
+      "artist": "Serge Lama",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "J2BZx5M6iZs",
       "alternatives": []
     },
     "77dfa70ccc9084fdff62": {
@@ -3331,6 +3802,18 @@
       "youtube_video_id": "gjlTPshtzok",
       "alternatives": []
     },
+    "7acb78012a07daf26b40": {
+      "song_id": "7acb78012a07daf26b40",
+      "title": "Joy",
+      "artist": "Terrence Barrett",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "E6zh7JJK1EU",
+      "alternatives": []
+    },
     "7b88f683a06636310682": {
       "song_id": "7b88f683a06636310682",
       "title": "Blue Eyes",
@@ -3379,6 +3862,42 @@
           "confidence": 0.55
         }
       ]
+    },
+    "7ba728b30eaa187924b1": {
+      "song_id": "7ba728b30eaa187924b1",
+      "title": "Sonata No.32 in c minor, Op. 111 (piano)",
+      "artist": "Stars Piano",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "WGg9cE-ceso",
+      "alternatives": []
+    },
+    "7c3cdd6e1ccdc6bed410": {
+      "song_id": "7c3cdd6e1ccdc6bed410",
+      "title": "Incursion",
+      "artist": "Twockx",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
+      "alternatives": []
+    },
+    "7c41018d5d4f28729072": {
+      "song_id": "7c41018d5d4f28729072",
+      "title": "Celebration",
+      "artist": "Kool & The Gang",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "3GwjfUFyY6M",
+      "alternatives": []
     },
     "7d5d0b0505539c86dc37": {
       "song_id": "7d5d0b0505539c86dc37",
@@ -3546,6 +4065,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Fjw5qZxWM0E",
+      "alternatives": []
+    },
+    "81fac8d4b7657e906cce": {
+      "song_id": "81fac8d4b7657e906cce",
+      "title": "Mój Świat (Radio Edit)",
+      "artist": "LOVERBOY Polska",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "2FdyNCp-LmI",
       "alternatives": []
     },
     "831e71e6260284842d9f": {
@@ -3729,6 +4260,18 @@
       "youtube_video_id": "ofA3URC1wyk",
       "alternatives": []
     },
+    "879b33c4c54825ccc400": {
+      "song_id": "879b33c4c54825ccc400",
+      "title": "Onward",
+      "artist": "Yes",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "progressive rock",
+      "youtube_video_id": "hbowD1NZ-zc",
+      "alternatives": []
+    },
     "87e6aa565929c0e525c1": {
       "song_id": "87e6aa565929c0e525c1",
       "title": "Symphony No. 9 in E Minor, Op. 95, B. 178 \"From the New World\": III. Molto vivace",
@@ -3775,6 +4318,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "O7GMEa-RG2M",
+      "alternatives": []
+    },
+    "895b46ebd36d975cdd51": {
+      "song_id": "895b46ebd36d975cdd51",
+      "title": "Airflow",
+      "artist": "MegaPower",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "0L4pkPbG8VE",
       "alternatives": []
     },
     "8a881406db41d6943086": {
@@ -3909,6 +4464,18 @@
       "youtube_video_id": "z0Dl1E_8eiw",
       "alternatives": []
     },
+    "8e72a11ab532e17de65d": {
+      "song_id": "8e72a11ab532e17de65d",
+      "title": "Mozart: Piano Sonata No.11 In A Major K.331-II. Menuetto (모차르트: 피아노 소나타 11번 가장조-2악장)",
+      "artist": "화음",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "C-KMs991yUY",
+      "alternatives": []
+    },
     "8e7bc221906ea4773836": {
       "song_id": "8e7bc221906ea4773836",
       "title": "Slavonic Dances, Op. 72, B. 147: No. 2 in E Minor, Mazur. Allegretto grazioso",
@@ -4003,6 +4570,18 @@
       "youtube_video_id": "m-uykaDIvHE",
       "alternatives": []
     },
+    "8fe7a1018db569c49320": {
+      "song_id": "8fe7a1018db569c49320",
+      "title": "Tosca: \"E lucevan le stelle\"",
+      "artist": "Luciano Pavarotti, Leone Magiera & Royal Philharmonic Orchestra",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "UuQdEyz6b6w",
+      "alternatives": []
+    },
     "90b19be3f30430b578ed": {
       "song_id": "90b19be3f30430b578ed",
       "title": "Not a Bad Thing",
@@ -4074,6 +4653,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "K_yBUfMGvzc",
+      "alternatives": []
+    },
+    "94f03257e471c38c5f0c": {
+      "song_id": "94f03257e471c38c5f0c",
+      "title": "Piano Sonata No. 11 in a Major, Kv 331 \"Alla Turca: III. Rondò Alla Turca",
+      "artist": "I Like Mozart",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "n2Tru4Qa3pc",
       "alternatives": []
     },
     "95112eeefb6ffcbb7691": {
@@ -4311,6 +4902,18 @@
       "youtube_video_id": "SyhbCJH7EXc",
       "alternatives": []
     },
+    "9c9270e0220b7dd30e17": {
+      "song_id": "9c9270e0220b7dd30e17",
+      "title": "Piano Sonata No. 32 in C Minor, Op. 111: 2. Arietta (Adagio Molto Semplice E Cantabile)",
+      "artist": "Alfred Brendel",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "syetlcLqIGA",
+      "alternatives": []
+    },
     "9c97987d0c2ae676d4c2": {
       "song_id": "9c97987d0c2ae676d4c2",
       "title": "Sonata No.3 in A Major for Cello and Piano, Op. 69 : II. Scherzo - Allegro molto",
@@ -4364,6 +4967,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "ZSf_A7Okv5k",
+      "alternatives": []
+    },
+    "9e5dc901d1625c41708f": {
+      "song_id": "9e5dc901d1625c41708f",
+      "title": "Piano Quintet No. 2 in A Major, Op. 81, B. 155: IV. Allegro",
+      "artist": "Menahem Pressler & Emerson String Quartet",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "UbqRFWv3eVw",
       "alternatives": []
     },
     "9ea894f7263ce6fab88f": {
@@ -4462,6 +5077,18 @@
       "youtube_video_id": "vLSgxA5HuRQ",
       "alternatives": []
     },
+    "a12b49d6d95eb101d2fc": {
+      "song_id": "a12b49d6d95eb101d2fc",
+      "title": "Celebration (Single Version)",
+      "artist": "Kool & The Gang",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Ctmup-jJhSE",
+      "alternatives": []
+    },
     "a13eca8fb33f5bfc6d2f": {
       "song_id": "a13eca8fb33f5bfc6d2f",
       "title": "Un monde fait pour nous",
@@ -4529,6 +5156,18 @@
       "youtube_video_id": "po23cD0_Ymc",
       "alternatives": []
     },
+    "a2f5fdf0cd0e7f930932": {
+      "song_id": "a2f5fdf0cd0e7f930932",
+      "title": "Sonata, Op. 111: I. Maestoso - Allegro con brio ed appassionato",
+      "artist": "Jean-Efflam Bavouzet",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "_RuNqsh78oY",
+      "alternatives": []
+    },
     "a34568e3f6014e7fc38e": {
       "song_id": "a34568e3f6014e7fc38e",
       "title": "Keyboard Suite No. 5, HWV 430: Air and Five Variations \"The Harmonious Blacksmith\"",
@@ -4563,6 +5202,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "UQlPTwRIcMw",
+      "alternatives": []
+    },
+    "a48316599dc177efec5e": {
+      "song_id": "a48316599dc177efec5e",
+      "title": "Piano Concerto No. 1 in C Minor for Piano, Trumpet and String Orchestra, Op. 35: IV. Allegro con brio",
+      "artist": "Yuja Wang, Boston Symphony Orchestra & Andris Nelsons",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "i7PUCChAZBA",
       "alternatives": []
     },
     "a492d53787bf6e73658d": {
@@ -4745,6 +5396,18 @@
       "youtube_video_id": "EQsEZ0GvvhE",
       "alternatives": []
     },
+    "a88ca8016613bf1266b8": {
+      "song_id": "a88ca8016613bf1266b8",
+      "title": "Many of Horror (MTV Unplugged Live at Roundhouse, London)",
+      "artist": "Biffy Clyro",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Tuxu77XekMQ",
+      "alternatives": []
+    },
     "a9905880e6a2044bd2cd": {
       "song_id": "a9905880e6a2044bd2cd",
       "title": "Mono No Aware",
@@ -4827,6 +5490,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "J7jCklCTGLk",
+      "alternatives": []
+    },
+    "ac47542ddbb0378a0f22": {
+      "song_id": "ac47542ddbb0378a0f22",
+      "title": "Times Like These",
+      "artist": "Foo Fighters",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "rhzmNRtIp8k",
       "alternatives": []
     },
     "ac55c87190fc69a61ff9": {
@@ -4932,6 +5607,31 @@
       "youtube_video_id": "eVQ1UPubojg",
       "alternatives": []
     },
+    "b154d97bde41ad9941a9": {
+      "song_id": "b154d97bde41ad9941a9",
+      "title": "Piano Sonata No. 32 in C Minor, Op. 111: I. Maestoso - Allegro con brio ed appassionato (Live)",
+      "artist": "Evren Ozel",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "mON5ajt_6k8",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Sonata No. 32 in C Minor, Op. 111: I. Maestoso - Allegro con brio ed appassionato",
+          "artist": "Boris Giltburg",
+          "confidence": 0.55
+        },
+        {
+          "source": "shazamio",
+          "title": "Piano Sonata No. 32 in C Minor, Op. 111: I. Maestoso - Allegro con brio ed appassionato",
+          "artist": "Boris Giltburg",
+          "confidence": 0.55
+        }
+      ]
+    },
     "b33b93561b992d706273": {
       "song_id": "b33b93561b992d706273",
       "title": "What If? (Instrumental)",
@@ -5002,6 +5702,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "QXgjdafPXqs",
+      "alternatives": []
+    },
+    "b46b5f195d9d63179124": {
+      "song_id": "b46b5f195d9d63179124",
+      "title": "In the Art",
+      "artist": "Peran",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "QAJJ35DVlTs",
       "alternatives": []
     },
     "b4b5d20997cc68e386df": {
@@ -5093,6 +5805,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "W9C8ZLMb1bs",
+      "alternatives": []
+    },
+    "b6e31668e9df777cd6d0": {
+      "song_id": "b6e31668e9df777cd6d0",
+      "title": "Clarinet Quintet in B-Flat Major, Op. 34, J. 182: III. Minuetto Capriccio - Presto",
+      "artist": "Mark van de Wiel & Soloists of the Philharmonia Orchestra",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "x8n-aHbwpW4",
       "alternatives": []
     },
     "b9d88e41e909f9637d32": {
@@ -5191,6 +5915,18 @@
       "youtube_video_id": "6bEiIgXwU5o",
       "alternatives": []
     },
+    "bcf9a5f40559f9abe99a": {
+      "song_id": "bcf9a5f40559f9abe99a",
+      "title": "Qué Hay Que Hacer para Olvidar?",
+      "artist": "Danny Cabuche",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Cai7IZgZWP0",
+      "alternatives": []
+    },
     "bd03c9504d01a8a8727d": {
       "song_id": "bd03c9504d01a8a8727d",
       "title": "Buoyant Vibes",
@@ -5237,6 +5973,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "-KzQHnHijkQ",
+      "alternatives": []
+    },
+    "bd5806a3fca49d0b6be5": {
+      "song_id": "bd5806a3fca49d0b6be5",
+      "title": "Vapor Noir – Retro Cinematic Synthwave",
+      "artist": "Arcade Pulse",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "YX3hIz2oYXg",
       "alternatives": []
     },
     "bdac2a7a937ddb99df74": {
@@ -5443,6 +6191,18 @@
       "youtube_video_id": "qrWX1I9BJdI",
       "alternatives": []
     },
+    "c404a193f9f9f5d3120d": {
+      "song_id": "c404a193f9f9f5d3120d",
+      "title": "Under the Milky Way (Psychedelic Symphony Live at the Sydney Opera House)",
+      "artist": "The Church",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "7Z9x5tmQPRc",
+      "alternatives": []
+    },
     "c44fdf49a7be0257ed38": {
       "song_id": "c44fdf49a7be0257ed38",
       "title": "Suite española, Op. 47: Granada (Serenata)",
@@ -5484,6 +6244,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Y-6dUzwt_0Q",
+      "alternatives": []
+    },
+    "c4771b6d5dc6f0170390": {
+      "song_id": "c4771b6d5dc6f0170390",
+      "title": "Lotus Chant",
+      "artist": "Gammelbear",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "YwADaXixMWI",
       "alternatives": []
     },
     "c5c61a6703ce35a4a99a": {
@@ -6112,6 +6884,25 @@
       "youtube_video_id": "yy2SAu_ckYE",
       "alternatives": []
     },
+    "e03adabc2f541b45b41c": {
+      "song_id": "e03adabc2f541b45b41c",
+      "title": "Sonata No.11 in a Major-K.331",
+      "artist": "Classical Hits",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "vp_h649sZ9A",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Sonate No. 11 in A Major, K.331 \"Marche turc\"",
+          "artist": "Myriam Birger",
+          "confidence": 0.55
+        }
+      ]
+    },
     "e0622bbe85ea6a2b5302": {
       "song_id": "e0622bbe85ea6a2b5302",
       "title": "How Does It Feel",
@@ -6535,6 +7326,18 @@
       "youtube_video_id": "1NEdFFGjS7o",
       "alternatives": []
     },
+    "ee03a3b7eb68ac651d2b": {
+      "song_id": "ee03a3b7eb68ac651d2b",
+      "title": "Vier letzte Lieder, Op. posth: I. Frühling",
+      "artist": "Elisabeth Schwarzkopf, Philharmonia Orchestra & Otto Ackermann",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "pHicsJ68ctw",
+      "alternatives": []
+    },
     "ee0811d60fe04cae1b97": {
       "song_id": "ee0811d60fe04cae1b97",
       "title": "Il barbiere di Siviglia (The Barber of Seville): Overture",
@@ -6777,6 +7580,18 @@
         }
       ]
     },
+    "f2c277d6e5ebe29fa24c": {
+      "song_id": "f2c277d6e5ebe29fa24c",
+      "title": "The Color of the Fire",
+      "artist": "Boards of Canada",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "electronic; ambient; electronica",
+      "youtube_video_id": "2rU65M-eYSw",
+      "alternatives": []
+    },
     "f413a3143f67f1b1d88e": {
       "song_id": "f413a3143f67f1b1d88e",
       "title": "Symphonie Maria Dich Lieben (Improvisation: Introduction - Allegro - Andante - Scherzando - Finale)",
@@ -6799,6 +7614,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "mzOeHVpxSyM",
+      "alternatives": []
+    },
+    "f47409e4d25370e9a3db": {
+      "song_id": "f47409e4d25370e9a3db",
+      "title": "Planned Love",
+      "artist": "TwinsVG",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "rJtrv1kbgUk",
       "alternatives": []
     },
     "f4a9f531f5f2cc9a75ec": {
@@ -6883,6 +7710,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "2KVzvBEBU80",
+      "alternatives": []
+    },
+    "f76cfb841734c9171e13": {
+      "song_id": "f76cfb841734c9171e13",
+      "title": "Concerto for Trumpet and Orchestra in E-Flat Major, Hob VIIe:1: III. Finale. Allegro",
+      "artist": "Wynton Marsalis, Raymond Leppard & English Chamber Orchestra",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "7ThS1zekFvo",
       "alternatives": []
     },
     "f8ab7eaa4ca72a889dd3": {
@@ -7070,6 +7909,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "5xo5oHcU1m4",
+      "alternatives": []
+    },
+    "fccf7975c01e4f1c2185": {
+      "song_id": "fccf7975c01e4f1c2185",
+      "title": "L'elisir d'amore: Una furtiva lagrima",
+      "artist": "Enrico Caruso",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "t936rzOt3Zc",
       "alternatives": []
     },
     "fd0f32ddcbde04af39e7": {
