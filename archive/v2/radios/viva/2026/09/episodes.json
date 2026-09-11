@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-10T10:17:38.065793+00:00",
+  "generated_at": "2026-09-11T10:16:45.095989+00:00",
   "radio_id": "viva",
   "month": "2026-09",
   "episodes": {
+    "viva/vural-ozkan-konusuyor/2026-09-11": {
+      "episode_id": "viva/vural-ozkan-konusuyor/2026-09-11",
+      "radio_id": "viva",
+      "program_id": 13082,
+      "program_slug": "vural-ozkan-konusuyor",
+      "program_name": "Vural Özkan Konuşuyor",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-11",
+      "aired_at": "2026-09-11",
+      "track_count": 37
+    },
     "viva/vural-ozkan-konusuyor/2026-09-10": {
       "episode_id": "viva/vural-ozkan-konusuyor/2026-09-10",
       "radio_id": "viva",
@@ -64,6 +76,18 @@
       "aired_at": "2026-09-06",
       "track_count": 7
     },
+    "viva/turkce-muzigin-keyfi/2026-09-11": {
+      "episode_id": "viva/turkce-muzigin-keyfi/2026-09-11",
+      "radio_id": "viva",
+      "program_id": 13083,
+      "program_slug": "turkce-muzigin-keyfi",
+      "program_name": "Türkçe Müziğin Keyfi",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-11",
+      "aired_at": "2026-09-11",
+      "track_count": 105
+    },
     "viva/turkce-muzigin-keyfi/2026-09-10": {
       "episode_id": "viva/turkce-muzigin-keyfi/2026-09-10",
       "radio_id": "viva",
@@ -123,6 +147,18 @@
       "date": "2026-09-06",
       "aired_at": "2026-09-06",
       "track_count": 13
+    },
+    "viva/muzik-viva/2026-09-11": {
+      "episode_id": "viva/muzik-viva/2026-09-11",
+      "radio_id": "viva",
+      "program_id": 13081,
+      "program_slug": "muzik-viva",
+      "program_name": "Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 10800.0,
+      "date": "2026-09-11",
+      "aired_at": "2026-09-11",
+      "track_count": 98
     },
     "viva/muzik-viva/2026-09-10": {
       "episode_id": "viva/muzik-viva/2026-09-10",

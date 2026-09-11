@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-10T10:17:38.065793+00:00",
+  "generated_at": "2026-09-11T10:16:45.095989+00:00",
   "radio_id": "trt",
   "month": "2026-09",
   "episodes": {
@@ -136,6 +136,18 @@
       "aired_at": "2026-09-07",
       "track_count": 8
     },
+    "trt/sakli-notalar/2026-09-11": {
+      "episode_id": "trt/sakli-notalar/2026-09-11",
+      "radio_id": "trt",
+      "program_id": -24156,
+      "program_slug": "sakli-notalar",
+      "program_name": "Saklı Notalar",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-11",
+      "aired_at": "2026-09-11",
+      "track_count": 4
+    },
     "trt/sakli-notalar/2026-09-04": {
       "episode_id": "trt/sakli-notalar/2026-09-04",
       "radio_id": "trt",
@@ -159,6 +171,18 @@
       "date": "2026-09-05",
       "aired_at": "2026-09-05",
       "track_count": 3
+    },
+    "trt/radyo-3-sabah/2026-09-11": {
+      "episode_id": "trt/radyo-3-sabah/2026-09-11",
+      "radio_id": "trt",
+      "program_id": -35607,
+      "program_slug": "radyo-3-sabah",
+      "program_name": "Radyo 3 Sabah",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-11",
+      "aired_at": "2026-09-11",
+      "track_count": 6
     },
     "trt/radyo-3-sabah/2026-09-10": {
       "episode_id": "trt/radyo-3-sabah/2026-09-10",
@@ -279,6 +303,18 @@
       "date": "2026-09-01",
       "aired_at": "2026-09-01",
       "track_count": 5
+    },
+    "trt/radyo-3-gunisigi/2026-09-11": {
+      "episode_id": "trt/radyo-3-gunisigi/2026-09-11",
+      "radio_id": "trt",
+      "program_id": -41643,
+      "program_slug": "radyo-3-gunisigi",
+      "program_name": "Radyo 3 Günışığı",
+      "program_start_time": "07:05",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-11",
+      "aired_at": "2026-09-11",
+      "track_count": 4
     },
     "trt/radyo-3-gunisigi/2026-09-10": {
       "episode_id": "trt/radyo-3-gunisigi/2026-09-10",
@@ -580,6 +616,18 @@
       "aired_at": "2026-09-06",
       "track_count": 20
     },
+    "trt/maestronun-gunlugu/2026-09-11": {
+      "episode_id": "trt/maestronun-gunlugu/2026-09-11",
+      "radio_id": "trt",
+      "program_id": -95249,
+      "program_slug": "maestronun-gunlugu",
+      "program_name": "Maestro'nun Günlüğü",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-11",
+      "aired_at": "2026-09-11",
+      "track_count": 1
+    },
     "trt/maestronun-gunlugu/2026-09-04": {
       "episode_id": "trt/maestronun-gunlugu/2026-09-04",
       "radio_id": "trt",
@@ -616,6 +664,18 @@
       "aired_at": "2026-09-06",
       "track_count": 8
     },
+    "trt/klasik-muzikle-dunya-turu/2026-09-11": {
+      "episode_id": "trt/klasik-muzikle-dunya-turu/2026-09-11",
+      "radio_id": "trt",
+      "program_id": -78904,
+      "program_slug": "klasik-muzikle-dunya-turu",
+      "program_name": "Klasik Müzikle Dünya Turu",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-11",
+      "aired_at": "2026-09-11",
+      "track_count": 4
+    },
     "trt/klasik-muzikle-dunya-turu/2026-09-04": {
       "episode_id": "trt/klasik-muzikle-dunya-turu/2026-09-04",
       "radio_id": "trt",
@@ -639,6 +699,18 @@
       "date": "2026-09-07",
       "aired_at": "2026-09-07",
       "track_count": 3
+    },
+    "trt/iklimlere-yolculuk/2026-09-11": {
+      "episode_id": "trt/iklimlere-yolculuk/2026-09-11",
+      "radio_id": "trt",
+      "program_id": -74699,
+      "program_slug": "iklimlere-yolculuk",
+      "program_name": "İklimlere Yolculuk",
+      "program_start_time": "12:05",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-11",
+      "aired_at": "2026-09-11",
+      "track_count": 11
     },
     "trt/iklimlere-yolculuk/2026-09-04": {
       "episode_id": "trt/iklimlere-yolculuk/2026-09-04",
@@ -687,6 +759,18 @@
       "date": "2026-09-05",
       "aired_at": "2026-09-05",
       "track_count": 3
+    },
+    "trt/gece-ve-muzik/2026-09-11": {
+      "episode_id": "trt/gece-ve-muzik/2026-09-11",
+      "radio_id": "trt",
+      "program_id": -71341,
+      "program_slug": "gece-ve-muzik",
+      "program_name": "Gece ve Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 120.0,
+      "date": "2026-09-11",
+      "aired_at": "2026-09-11",
+      "track_count": 12
     },
     "trt/gece-ve-muzik/2026-09-10": {
       "episode_id": "trt/gece-ve-muzik/2026-09-10",
@@ -844,6 +928,18 @@
       "aired_at": "2026-09-06",
       "track_count": 6
     },
+    "trt/ebu-euroclassic-notturno/2026-09-11": {
+      "episode_id": "trt/ebu-euroclassic-notturno/2026-09-11",
+      "radio_id": "trt",
+      "program_id": -35522,
+      "program_slug": "ebu-euroclassic-notturno",
+      "program_name": "Ebu Euroclassıc Notturno",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-11",
+      "aired_at": "2026-09-11",
+      "track_count": 20
+    },
     "trt/ebu-euroclassic-notturno/2026-09-10": {
       "episode_id": "trt/ebu-euroclassic-notturno/2026-09-10",
       "radio_id": "trt",
@@ -975,6 +1071,18 @@
       "date": "2026-09-07",
       "aired_at": "2026-09-07",
       "track_count": 6
+    },
+    "trt/dunya-sahne-ve-studyolarindan/2026-09-11": {
+      "episode_id": "trt/dunya-sahne-ve-studyolarindan/2026-09-11",
+      "radio_id": "trt",
+      "program_id": -61363,
+      "program_slug": "dunya-sahne-ve-studyolarindan",
+      "program_name": "Dünya Sahne Ve Stüdyolarından",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-11",
+      "aired_at": "2026-09-11",
+      "track_count": 5
     },
     "trt/dunya-sahne-ve-studyolarindan/2026-09-04": {
       "episode_id": "trt/dunya-sahne-ve-studyolarindan/2026-09-04",
