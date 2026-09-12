@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-11T10:16:45.095989+00:00",
+  "generated_at": "2026-09-12T09:50:04.511302+00:00",
   "radio_id": "acikradyo",
   "month": "2026-09",
   "episodes": {
+    "acikradyo/yeni-seyler-rejimi/2026-09-12": {
+      "episode_id": "acikradyo/yeni-seyler-rejimi/2026-09-12",
+      "radio_id": "acikradyo",
+      "program_id": 1784,
+      "program_slug": "yeni-seyler-rejimi",
+      "program_name": "Yeni Şeyler Rejimi",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 1800.0,
+      "date": "2026-09-12",
+      "aired_at": "2026-09-12",
+      "track_count": 5
+    },
     "acikradyo/yeni-seyler-rejimi/2026-09-05": {
       "episode_id": "acikradyo/yeni-seyler-rejimi/2026-09-05",
       "radio_id": "acikradyo",
@@ -243,6 +255,18 @@
       "date": "2026-09-02",
       "aired_at": "2026-09-02",
       "track_count": 3
+    },
+    "acikradyo/caz-turbulans/2026-09-12": {
+      "episode_id": "acikradyo/caz-turbulans/2026-09-12",
+      "radio_id": "acikradyo",
+      "program_id": 1779,
+      "program_slug": "caz-turbulans",
+      "program_name": "Caz Türbülans",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 60.0,
+      "date": "2026-09-12",
+      "aired_at": "2026-09-12",
+      "track_count": 7
     },
     "acikradyo/caz-turbulans/2026-09-05": {
       "episode_id": "acikradyo/caz-turbulans/2026-09-05",
