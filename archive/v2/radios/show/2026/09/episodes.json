@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-12T09:50:04.511302+00:00",
+  "generated_at": "2026-09-13T10:50:03.645220+00:00",
   "radio_id": "show",
   "month": "2026-09",
   "episodes": {
@@ -63,6 +63,18 @@
       "date": "2026-09-07",
       "aired_at": "2026-09-07",
       "track_count": 13
+    },
+    "show/muzik-show/2026-09-13": {
+      "episode_id": "show/muzik-show/2026-09-13",
+      "radio_id": "show",
+      "program_id": 10189,
+      "program_slug": "muzik-show",
+      "program_name": "Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 300.0,
+      "date": "2026-09-13",
+      "aired_at": "2026-09-13",
+      "track_count": 203
     },
     "show/muzik-show/2026-09-11": {
       "episode_id": "show/muzik-show/2026-09-11",
@@ -134,6 +146,18 @@
       "recording_start_offset_sec": 10860.0,
       "date": "2026-09-06",
       "aired_at": "2026-09-06",
+      "track_count": 25
+    },
+    "show/hit-muzik/2026-09-13": {
+      "episode_id": "show/hit-muzik/2026-09-13",
+      "radio_id": "show",
+      "program_id": 10190,
+      "program_slug": "hit-muzik",
+      "program_name": "Hit Müzik",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-13",
+      "aired_at": "2026-09-13",
       "track_count": 25
     },
     "show/hit-muzik/2026-09-12": {

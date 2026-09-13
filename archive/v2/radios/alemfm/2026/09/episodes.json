@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-12T09:50:04.511302+00:00",
+  "generated_at": "2026-09-13T10:50:03.645220+00:00",
   "radio_id": "alemfm",
   "month": "2026-09",
   "episodes": {
+    "alemfm/muzik-alemfm/2026-09-13": {
+      "episode_id": "alemfm/muzik-alemfm/2026-09-13",
+      "radio_id": "alemfm",
+      "program_id": 10187,
+      "program_slug": "muzik-alemfm",
+      "program_name": "Müzik",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-13",
+      "aired_at": "2026-09-13",
+      "track_count": 10
+    },
     "alemfm/muzik-alemfm/2026-09-06": {
       "episode_id": "alemfm/muzik-alemfm/2026-09-06",
       "radio_id": "alemfm",
@@ -87,6 +99,18 @@
       "date": "2026-09-12",
       "aired_at": "2026-09-12",
       "track_count": 176
+    },
+    "alemfm/alemin-en-iyileri/2026-09-13": {
+      "episode_id": "alemfm/alemin-en-iyileri/2026-09-13",
+      "radio_id": "alemfm",
+      "program_id": 10186,
+      "program_slug": "alemin-en-iyileri",
+      "program_name": "Alem’in En İyileri",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 300.0,
+      "date": "2026-09-13",
+      "aired_at": "2026-09-13",
+      "track_count": 186
     },
     "alemfm/alemin-en-iyileri/2026-09-12": {
       "episode_id": "alemfm/alemin-en-iyileri/2026-09-12",

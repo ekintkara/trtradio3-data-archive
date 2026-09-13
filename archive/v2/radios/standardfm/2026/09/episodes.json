@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-12T09:50:04.511302+00:00",
+  "generated_at": "2026-09-13T10:50:03.645220+00:00",
   "radio_id": "standardfm",
   "month": "2026-09",
   "episodes": {
@@ -99,6 +99,18 @@
       "date": "2026-09-01",
       "aired_at": "2026-09-01",
       "track_count": 42
+    },
+    "standardfm/klasik-muzik/2026-09-13": {
+      "episode_id": "standardfm/klasik-muzik/2026-09-13",
+      "radio_id": "standardfm",
+      "program_id": -64735,
+      "program_slug": "klasik-muzik",
+      "program_name": "Klasik Müzik",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-13",
+      "aired_at": "2026-09-13",
+      "track_count": 45
     },
     "standardfm/klasik-muzik/2026-09-12": {
       "episode_id": "standardfm/klasik-muzik/2026-09-12",
@@ -232,6 +244,18 @@
       "aired_at": "2026-09-01",
       "track_count": 57
     },
+    "standardfm/huseyin-karaca-mete-avunduk/2026-09-13": {
+      "episode_id": "standardfm/huseyin-karaca-mete-avunduk/2026-09-13",
+      "radio_id": "standardfm",
+      "program_id": -72439,
+      "program_slug": "huseyin-karaca-mete-avunduk",
+      "program_name": "Hüseyin Karaca & Mete Avunduk",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-13",
+      "aired_at": "2026-09-13",
+      "track_count": 27
+    },
     "standardfm/huseyin-karaca-mete-avunduk/2026-09-06": {
       "episode_id": "standardfm/huseyin-karaca-mete-avunduk/2026-09-06",
       "radio_id": "standardfm",
@@ -243,6 +267,18 @@
       "date": "2026-09-06",
       "aired_at": "2026-09-06",
       "track_count": 25
+    },
+    "standardfm/gece-yayini/2026-09-13": {
+      "episode_id": "standardfm/gece-yayini/2026-09-13",
+      "radio_id": "standardfm",
+      "program_id": -23042,
+      "program_slug": "gece-yayini",
+      "program_name": "Gece Yayını",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 300.0,
+      "date": "2026-09-13",
+      "aired_at": "2026-09-13",
+      "track_count": 81
     },
     "standardfm/gece-yayini/2026-09-12": {
       "episode_id": "standardfm/gece-yayini/2026-09-12",
