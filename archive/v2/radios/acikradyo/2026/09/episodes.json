@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-13T10:50:03.645220+00:00",
+  "generated_at": "2026-09-14T11:18:21.429233+00:00",
   "radio_id": "acikradyo",
   "month": "2026-09",
   "episodes": {
@@ -160,6 +160,18 @@
       "aired_at": "2026-09-05",
       "track_count": 8
     },
+    "acikradyo/klang/2026-09-14": {
+      "episode_id": "acikradyo/klang/2026-09-14",
+      "radio_id": "acikradyo",
+      "program_id": 1646,
+      "program_slug": "klang",
+      "program_name": "Klang",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 60.0,
+      "date": "2026-09-14",
+      "aired_at": "2026-09-14",
+      "track_count": 4
+    },
     "acikradyo/klang/2026-09-07": {
       "episode_id": "acikradyo/klang/2026-09-07",
       "radio_id": "acikradyo",
@@ -279,6 +291,18 @@
       "date": "2026-09-05",
       "aired_at": "2026-09-05",
       "track_count": 8
+    },
+    "acikradyo/banttan-buluta/2026-09-14": {
+      "episode_id": "acikradyo/banttan-buluta/2026-09-14",
+      "radio_id": "acikradyo",
+      "program_id": 1655,
+      "program_slug": "banttan-buluta",
+      "program_name": "Banttan Buluta",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-14",
+      "aired_at": "2026-09-14",
+      "track_count": 2
     },
     "acikradyo/banttan-buluta/2026-09-07": {
       "episode_id": "acikradyo/banttan-buluta/2026-09-07",
