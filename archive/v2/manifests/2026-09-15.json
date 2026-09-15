@@ -1,0 +1,190 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-09-15T10:43:26.353837+00:00",
+  "date": "2026-09-15",
+  "radios": [
+    "acikradyo",
+    "alemfm",
+    "pal",
+    "palnostalji",
+    "radioeksen",
+    "radyoodtu",
+    "show",
+    "show90lar",
+    "standardfm",
+    "trt",
+    "viva"
+  ],
+  "files": [
+    {
+      "path": "radios/trt/2026/09/episodes.json",
+      "bytes": 56362,
+      "sha256": "fecd62da303c14782766f157bb65ff2e6a4aaa98991c36bf42ac8cf3c267179c"
+    },
+    {
+      "path": "radios/trt/2026/09/songs.json",
+      "bytes": 363059,
+      "sha256": "526268ef79c86e90520ab3b06c718e9e70145c23e5a7107b9764df4164c3d7f1"
+    },
+    {
+      "path": "radios/trt/2026/09/plays.jsonl",
+      "bytes": 306584,
+      "sha256": "0380230bb464a91f9396ebf06dc8fb79c22d0fe0cc73ea1b4c844002fcae9184"
+    },
+    {
+      "path": "radios/alemfm/2026/09/episodes.json",
+      "bytes": 9181,
+      "sha256": "2beb0b101d12621e9564f9d54ce47a6083cf870158abc6ea67387d3fd56f0e95"
+    },
+    {
+      "path": "radios/alemfm/2026/09/songs.json",
+      "bytes": 217168,
+      "sha256": "9f76f4b9d3f294b324450dee75945a8545558c0c6edff4fed80572277ff2f946"
+    },
+    {
+      "path": "radios/alemfm/2026/09/plays.jsonl",
+      "bytes": 291887,
+      "sha256": "12554a713d4085aafc6b920fdb023c962a310bf5ed9dc31d54e9753a2d7b457a"
+    },
+    {
+      "path": "radios/pal/2026/09/episodes.json",
+      "bytes": 4129,
+      "sha256": "9a99f63aabf2f328c83254c43d5bd280f3ecf249e15d2c6324f1037d825825e3"
+    },
+    {
+      "path": "radios/pal/2026/09/songs.json",
+      "bytes": 126198,
+      "sha256": "de19ea5889491e5bc1badd37ed2d8666cb7de81a06cd9c9d47b87751d7e6c802"
+    },
+    {
+      "path": "radios/pal/2026/09/plays.jsonl",
+      "bytes": 555194,
+      "sha256": "08812cd66d475200aeda680c266680d24c234a43483d9ec5a52eb046eaec8582"
+    },
+    {
+      "path": "radios/palnostalji/2026/09/episodes.json",
+      "bytes": 4617,
+      "sha256": "e5eda4fffee097c7f15a004e85836464d915ad95c28ea426f84011da6c4f3b1e"
+    },
+    {
+      "path": "radios/palnostalji/2026/09/songs.json",
+      "bytes": 296278,
+      "sha256": "c262108579c81cd028c67573a9f6a8b8536e6b840de5d40565e6b82618bd0dbd"
+    },
+    {
+      "path": "radios/palnostalji/2026/09/plays.jsonl",
+      "bytes": 479641,
+      "sha256": "659de8fa8bbc43bdbd9b77c6531d87a37a0008d846b618dc0895fb145b3e8d75"
+    },
+    {
+      "path": "radios/show90lar/2026/09/episodes.json",
+      "bytes": 4501,
+      "sha256": "d3961261a26932e893c3f9cf18e8e8e448d9e92f78b3535f4e8149e9a2cd39d7"
+    },
+    {
+      "path": "radios/show90lar/2026/09/songs.json",
+      "bytes": 181812,
+      "sha256": "218ac5754a7cc9f5a32c0e40a21ff6e109925f1035635108907df7f736afa797"
+    },
+    {
+      "path": "radios/show90lar/2026/09/plays.jsonl",
+      "bytes": 384771,
+      "sha256": "d80e5315b9fac1f1b5a5a87a93c5abb56e176c90ee7bf2b8aa4bd2ddaaadd57a"
+    },
+    {
+      "path": "radios/radioeksen/2026/09/episodes.json",
+      "bytes": 22504,
+      "sha256": "44dca770bfa6b380533ca1472d32a0bf098b0e1bc80173f50cfffb2aa159fe4d"
+    },
+    {
+      "path": "radios/radioeksen/2026/09/songs.json",
+      "bytes": 352371,
+      "sha256": "8aa4b2b08ad6f3e1226eb97c93c6c12af11bd3aa0879fd49967d56a8de3b0a08"
+    },
+    {
+      "path": "radios/radioeksen/2026/09/plays.jsonl",
+      "bytes": 373832,
+      "sha256": "69556dbf7252c4a86fcb412fca2de6a5bb418112a46bcbad64523647c0eb7c85"
+    },
+    {
+      "path": "radios/standardfm/2026/09/episodes.json",
+      "bytes": 18420,
+      "sha256": "f4e6abd9ac907d089d75373a184b36efe4f361e4623f4c80ac38d23c949f5a76"
+    },
+    {
+      "path": "radios/standardfm/2026/09/songs.json",
+      "bytes": 616979,
+      "sha256": "4c6739c47306d53b2e16ed18bfc603afda06f8689e37638601713ae87bee7bae"
+    },
+    {
+      "path": "radios/standardfm/2026/09/plays.jsonl",
+      "bytes": 668167,
+      "sha256": "f5455284576a7408685b8e082b65a99e18304820b7e13ed835061cccabba3d33"
+    },
+    {
+      "path": "radios/radyoodtu/2026/09/episodes.json",
+      "bytes": 30208,
+      "sha256": "7aafc9c2f9e947eeb33cd62f0efeaf13efe5793031ef0d7d7aa8291b114e0837"
+    },
+    {
+      "path": "radios/radyoodtu/2026/09/songs.json",
+      "bytes": 334231,
+      "sha256": "612ed0d33b09788edd07d855f5adc87c361a0cd8ebe8817f66ddb36480594ec0"
+    },
+    {
+      "path": "radios/radyoodtu/2026/09/plays.jsonl",
+      "bytes": 525814,
+      "sha256": "1121c90102236b1bc88af77ab0b7714d19361418cdb4055fdeba590e9116bf74"
+    },
+    {
+      "path": "radios/show/2026/09/episodes.json",
+      "bytes": 11538,
+      "sha256": "3d872e200dbda0651f6dd1882307e0c785e1e8b375bb4ccd7113a63f4c201789"
+    },
+    {
+      "path": "radios/show/2026/09/songs.json",
+      "bytes": 143519,
+      "sha256": "f06a0cd572c1bc03ab503374d37b5fa7108fce48061ff1a25d06c64de5e22ec1"
+    },
+    {
+      "path": "radios/show/2026/09/plays.jsonl",
+      "bytes": 689868,
+      "sha256": "24a3c3ef5b2997b785c987a0558fadade1df0b20498d1e44176dceebdbad36c3"
+    },
+    {
+      "path": "radios/viva/2026/09/episodes.json",
+      "bytes": 11974,
+      "sha256": "48769c2bf599d08733155925ef872a065354a841bf20e0bca2d975394831fbb4"
+    },
+    {
+      "path": "radios/viva/2026/09/songs.json",
+      "bytes": 200559,
+      "sha256": "0a541ba8dcf01741492f387151c77f15508a9e806798a59dc6e3c3cf50c8d5ea"
+    },
+    {
+      "path": "radios/viva/2026/09/plays.jsonl",
+      "bytes": 537938,
+      "sha256": "709c1126185101ef8be58592a7bbe5ab3fde6784f3488bf640f9ab84351520f3"
+    },
+    {
+      "path": "radios/acikradyo/2026/09/episodes.json",
+      "bytes": 16234,
+      "sha256": "aa16d6f86d4ef35227b74bc107ebf98284cccc357a3ceef01f4b57dc78277fcc"
+    },
+    {
+      "path": "radios/acikradyo/2026/09/songs.json",
+      "bytes": 208659,
+      "sha256": "8605d62664d441fa05953c38a7bac07794475cb31ecd5380412320953d399353"
+    },
+    {
+      "path": "radios/acikradyo/2026/09/plays.jsonl",
+      "bytes": 194533,
+      "sha256": "96c831f24504850cf3401dfdabbbc7754128ce27985951cefc3f27647e19fdf2"
+    },
+    {
+      "path": "months.json",
+      "bytes": 551,
+      "sha256": "d5060660a4df04f65e8f0da278b53be7f4b1a452593ea5457ba71beba08fc791"
+    }
+  ]
+}

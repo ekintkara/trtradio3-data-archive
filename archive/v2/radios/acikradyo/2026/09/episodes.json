@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-14T11:18:21.429233+00:00",
+  "generated_at": "2026-09-15T10:43:26.353837+00:00",
   "radio_id": "acikradyo",
   "month": "2026-09",
   "episodes": {
@@ -87,6 +87,18 @@
       "date": "2026-09-03",
       "aired_at": "2026-09-03",
       "track_count": 6
+    },
+    "acikradyo/rock-rock/2026-09-15": {
+      "episode_id": "acikradyo/rock-rock/2026-09-15",
+      "radio_id": "acikradyo",
+      "program_id": 1690,
+      "program_slug": "rock-rock",
+      "program_name": "Rock on Rock",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 60.0,
+      "date": "2026-09-15",
+      "aired_at": "2026-09-15",
+      "track_count": 7
     },
     "acikradyo/rock-rock/2026-09-08": {
       "episode_id": "acikradyo/rock-rock/2026-09-08",
