@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-16T10:31:40.269571+00:00",
+  "generated_at": "2026-09-17T10:41:49.327848+00:00",
   "radio_id": "standardfm",
   "month": "2026-09",
   "episodes": {
+    "standardfm/oglen-klasikleri---duzenleyen-malik-avunduk/2026-09-17": {
+      "episode_id": "standardfm/oglen-klasikleri---duzenleyen-malik-avunduk/2026-09-17",
+      "radio_id": "standardfm",
+      "program_id": 1610,
+      "program_slug": "oglen-klasikleri---duzenleyen-malik-avunduk",
+      "program_name": "Öğlen Klasikleri - Düzenleyen: Malik Avunduk",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-17",
+      "aired_at": "2026-09-17",
+      "track_count": 55
+    },
     "standardfm/oglen-klasikleri---duzenleyen-malik-avunduk/2026-09-16": {
       "episode_id": "standardfm/oglen-klasikleri---duzenleyen-malik-avunduk/2026-09-16",
       "radio_id": "standardfm",
@@ -135,6 +147,18 @@
       "date": "2026-09-01",
       "aired_at": "2026-09-01",
       "track_count": 42
+    },
+    "standardfm/klasik-muzik/2026-09-17": {
+      "episode_id": "standardfm/klasik-muzik/2026-09-17",
+      "radio_id": "standardfm",
+      "program_id": 1609,
+      "program_slug": "klasik-muzik",
+      "program_name": "Klasik Müzik",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-17",
+      "aired_at": "2026-09-17",
+      "track_count": 49
     },
     "standardfm/klasik-muzik/2026-09-16": {
       "episode_id": "standardfm/klasik-muzik/2026-09-16",
@@ -507,6 +531,18 @@
       "date": "2026-09-01",
       "aired_at": "2026-09-01",
       "track_count": 94
+    },
+    "standardfm/cavit-ergun-murat-gulenc---hissizlik-ani/2026-09-17": {
+      "episode_id": "standardfm/cavit-ergun-murat-gulenc---hissizlik-ani/2026-09-17",
+      "radio_id": "standardfm",
+      "program_id": -82685,
+      "program_slug": "cavit-ergun-murat-gulenc---hissizlik-ani",
+      "program_name": "Cavit Ergün & Murat Gülenç - Hissizlik Anı",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 300.0,
+      "date": "2026-09-17",
+      "aired_at": "2026-09-17",
+      "track_count": 74
     },
     "standardfm/cavit-ergun-murat-gulenc---hissizlik-ani/2026-09-10": {
       "episode_id": "standardfm/cavit-ergun-murat-gulenc---hissizlik-ani/2026-09-10",

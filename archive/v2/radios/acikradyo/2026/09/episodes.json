@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-16T10:31:40.269571+00:00",
+  "generated_at": "2026-09-17T10:41:49.327848+00:00",
   "radio_id": "acikradyo",
   "month": "2026-09",
   "episodes": {
@@ -88,6 +88,30 @@
       "aired_at": "2026-09-02",
       "track_count": 1
     },
+    "acikradyo/sevgili-gunluk/2026-09-17": {
+      "episode_id": "acikradyo/sevgili-gunluk/2026-09-17",
+      "radio_id": "acikradyo",
+      "program_id": 1741,
+      "program_slug": "sevgili-gunluk",
+      "program_name": "Sevgili Günlük",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-17",
+      "aired_at": "2026-09-17",
+      "track_count": 5
+    },
+    "acikradyo/seoul-express/2026-09-17": {
+      "episode_id": "acikradyo/seoul-express/2026-09-17",
+      "radio_id": "acikradyo",
+      "program_id": 1745,
+      "program_slug": "seoul-express",
+      "program_name": "Seoul Express",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-17",
+      "aired_at": "2026-09-17",
+      "track_count": 10
+    },
     "acikradyo/seoul-express/2026-09-10": {
       "episode_id": "acikradyo/seoul-express/2026-09-10",
       "radio_id": "acikradyo",
@@ -111,6 +135,18 @@
       "date": "2026-09-03",
       "aired_at": "2026-09-03",
       "track_count": 6
+    },
+    "acikradyo/sabahlik/2026-09-17": {
+      "episode_id": "acikradyo/sabahlik/2026-09-17",
+      "radio_id": "acikradyo",
+      "program_id": 1739,
+      "program_slug": "sabahlik",
+      "program_name": "Sabahlık",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-17",
+      "aired_at": "2026-09-17",
+      "track_count": 20
     },
     "acikradyo/rock-rock/2026-09-15": {
       "episode_id": "acikradyo/rock-rock/2026-09-15",
@@ -159,6 +195,18 @@
       "date": "2026-09-05",
       "aired_at": "2026-09-05",
       "track_count": 16
+    },
+    "acikradyo/neu/2026-09-17": {
+      "episode_id": "acikradyo/neu/2026-09-17",
+      "radio_id": "acikradyo",
+      "program_id": 1736,
+      "program_slug": "neu",
+      "program_name": "NEU",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-17",
+      "aired_at": "2026-09-17",
+      "track_count": 13
     },
     "acikradyo/neu/2026-09-10": {
       "episode_id": "acikradyo/neu/2026-09-10",
@@ -220,6 +268,18 @@
       "aired_at": "2026-09-07",
       "track_count": 4
     },
+    "acikradyo/kiyi-kose-istanbul/2026-09-17": {
+      "episode_id": "acikradyo/kiyi-kose-istanbul/2026-09-17",
+      "radio_id": "acikradyo",
+      "program_id": 1742,
+      "program_slug": "kiyi-kose-istanbul",
+      "program_name": "Turgay Tuna ile Kıyı Köşe İstanbul",
+      "program_start_time": "10:30",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-17",
+      "aired_at": "2026-09-17",
+      "track_count": 2
+    },
     "acikradyo/kes-bic/2026-09-16": {
       "episode_id": "acikradyo/kes-bic/2026-09-16",
       "radio_id": "acikradyo",
@@ -244,6 +304,18 @@
       "aired_at": "2026-09-05",
       "track_count": 4
     },
+    "acikradyo/funkmatik/2026-09-17": {
+      "episode_id": "acikradyo/funkmatik/2026-09-17",
+      "radio_id": "acikradyo",
+      "program_id": 1744,
+      "program_slug": "funkmatik",
+      "program_name": "Funkmatik",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-17",
+      "aired_at": "2026-09-17",
+      "track_count": 13
+    },
     "acikradyo/funkmatik/2026-09-10": {
       "episode_id": "acikradyo/funkmatik/2026-09-10",
       "radio_id": "acikradyo",
@@ -267,6 +339,18 @@
       "date": "2026-09-03",
       "aired_at": "2026-09-03",
       "track_count": 13
+    },
+    "acikradyo/eldesler/2026-09-17": {
+      "episode_id": "acikradyo/eldesler/2026-09-17",
+      "radio_id": "acikradyo",
+      "program_id": 1735,
+      "program_slug": "eldesler",
+      "program_name": "Eldesler",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 300.0,
+      "date": "2026-09-17",
+      "aired_at": "2026-09-17",
+      "track_count": 4
     },
     "acikradyo/eldesler/2026-09-10": {
       "episode_id": "acikradyo/eldesler/2026-09-10",
@@ -328,6 +412,18 @@
       "aired_at": "2026-09-02",
       "track_count": 3
     },
+    "acikradyo/democracy-now/2026-09-17": {
+      "episode_id": "acikradyo/democracy-now/2026-09-17",
+      "radio_id": "acikradyo",
+      "program_id": 1738,
+      "program_slug": "democracy-now",
+      "program_name": "Democracy Now!",
+      "program_start_time": "06:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-17",
+      "aired_at": "2026-09-17",
+      "track_count": 3
+    },
     "acikradyo/democracy-now/2026-09-16": {
       "episode_id": "acikradyo/democracy-now/2026-09-16",
       "radio_id": "acikradyo",
@@ -387,6 +483,18 @@
       "date": "2026-09-07",
       "aired_at": "2026-09-07",
       "track_count": 20
+    },
+    "acikradyo/apacik-radyo-muzikleri/2026-09-17": {
+      "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-09-17",
+      "radio_id": "acikradyo",
+      "program_id": 1737,
+      "program_slug": "apacik-radyo-muzikleri",
+      "program_name": "Apaçık Radyo Müzikleri",
+      "program_start_time": "02:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-17",
+      "aired_at": "2026-09-17",
+      "track_count": 24
     },
     "acikradyo/apacik-radyo-muzikleri/2026-09-16": {
       "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-09-16",
