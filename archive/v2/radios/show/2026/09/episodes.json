@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-17T10:41:49.327848+00:00",
+  "generated_at": "2026-09-18T10:17:17.734331+00:00",
   "radio_id": "show",
   "month": "2026-09",
   "episodes": {
+    "show/show-radyoda-yeni-gun/2026-09-18": {
+      "episode_id": "show/show-radyoda-yeni-gun/2026-09-18",
+      "radio_id": "show",
+      "program_id": 13074,
+      "program_slug": "show-radyoda-yeni-gun",
+      "program_name": "Show Radyo'da Yeni Gün",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-18",
+      "aired_at": "2026-09-18",
+      "track_count": 55
+    },
     "show/show-radyoda-yeni-gun/2026-09-17": {
       "episode_id": "show/show-radyoda-yeni-gun/2026-09-17",
       "radio_id": "show",
@@ -111,6 +123,18 @@
       "date": "2026-09-07",
       "aired_at": "2026-09-07",
       "track_count": 13
+    },
+    "show/muzik-show/2026-09-18": {
+      "episode_id": "show/muzik-show/2026-09-18",
+      "radio_id": "show",
+      "program_id": 13073,
+      "program_slug": "muzik-show",
+      "program_name": "Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 300.0,
+      "date": "2026-09-18",
+      "aired_at": "2026-09-18",
+      "track_count": 218
     },
     "show/muzik-show/2026-09-17": {
       "episode_id": "show/muzik-show/2026-09-17",
@@ -243,6 +267,18 @@
       "date": "2026-09-06",
       "aired_at": "2026-09-06",
       "track_count": 25
+    },
+    "show/hit-muzik/2026-09-18": {
+      "episode_id": "show/hit-muzik/2026-09-18",
+      "radio_id": "show",
+      "program_id": 13075,
+      "program_slug": "hit-muzik",
+      "program_name": "Hit Müzik",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-18",
+      "aired_at": "2026-09-18",
+      "track_count": 122
     },
     "show/hit-muzik/2026-09-17": {
       "episode_id": "show/hit-muzik/2026-09-17",
