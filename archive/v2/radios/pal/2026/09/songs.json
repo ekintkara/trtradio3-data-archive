@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-18T10:17:17.734331+00:00",
+  "generated_at": "2026-09-19T09:59:41.620679+00:00",
   "radio_id": "pal",
   "month": "2026-09",
   "songs": {
@@ -218,6 +218,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "oVDzP4oK8ic",
+      "alternatives": []
+    },
+    "0b0fc1346f8e095a70e7": {
+      "song_id": "0b0fc1346f8e095a70e7",
+      "title": "Hosuna Gider Mi",
+      "artist": "Nilufer",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "72lXvpsMC5Q",
       "alternatives": []
     },
     "0bb0b34f4e63bd86a1ca": {
@@ -1132,6 +1144,18 @@
       "youtube_video_id": "5tagYL3W1rk",
       "alternatives": []
     },
+    "370a6da559e4ffa18dbd": {
+      "song_id": "370a6da559e4ffa18dbd",
+      "title": "Ben Guzelden Anlarim",
+      "artist": "Kenan Dogulu",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "BBZneZ36xzQ",
+      "alternatives": []
+    },
     "373bd7f0091bf4bb9047": {
       "song_id": "373bd7f0091bf4bb9047",
       "title": "GITMEM LAZIM",
@@ -1213,7 +1237,7 @@
       "work": "",
       "mbid": "",
       "genre": "",
-      "youtube_video_id": "",
+      "youtube_video_id": "P4gHtUm7_6g",
       "alternatives": []
     },
     "39816fefcf3a6271d21b": {
@@ -1418,6 +1442,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "NA7YC_EH8E4",
+      "alternatives": []
+    },
+    "4082bc8274b4cd03a724": {
+      "song_id": "4082bc8274b4cd03a724",
+      "title": "ALEYHI.ME",
+      "artist": "Bengu",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "N0jP1x8n3a8",
       "alternatives": []
     },
     "4091fba644e98727d5b8": {
@@ -1768,6 +1804,18 @@
       "youtube_video_id": "C9vSPrEtr04",
       "alternatives": []
     },
+    "4e70408865c971cb499b": {
+      "song_id": "4e70408865c971cb499b",
+      "title": "Tavla",
+      "artist": "Mirkelam",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "4wOuhFtpF7c",
+      "alternatives": []
+    },
     "4e9958c3fe2aa0ca5260": {
       "song_id": "4e9958c3fe2aa0ca5260",
       "title": "Canim Olmaz ki",
@@ -2044,6 +2092,18 @@
       "youtube_video_id": "69L-nKRY3ac",
       "alternatives": []
     },
+    "585fdf4d71b0f3c7cb96": {
+      "song_id": "585fdf4d71b0f3c7cb96",
+      "title": "OLACAK OLACAK",
+      "artist": "DEMET AKALIN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Gq2H9myl6kU",
+      "alternatives": []
+    },
     "588c07113328f2ab9b68": {
       "song_id": "588c07113328f2ab9b68",
       "title": "RU?YA",
@@ -2164,6 +2224,18 @@
       "youtube_video_id": "lSX1nRaGi2c",
       "alternatives": []
     },
+    "5d277cdae7fa486cddad": {
+      "song_id": "5d277cdae7fa486cddad",
+      "title": "Olmazsan Olmaz",
+      "artist": "Burcu Gunes",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "wTzjMgOgkZw",
+      "alternatives": []
+    },
     "5d8815816a95aa66b3c6": {
       "song_id": "5d8815816a95aa66b3c6",
       "title": "Yine Seni Severdim",
@@ -2174,6 +2246,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "NIvPHeA5hTo",
+      "alternatives": []
+    },
+    "5d8e86a3337f076e899c": {
+      "song_id": "5d8e86a3337f076e899c",
+      "title": "Sana Neler Edecegim",
+      "artist": "Ajda Pekkan",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "v12EYL1TMUI",
       "alternatives": []
     },
     "5dcfc722ac05f7c169be": {
@@ -2848,6 +2932,18 @@
       "youtube_video_id": "LJ9FpMXJmwY",
       "alternatives": []
     },
+    "7ed9b8c3c780330caa48": {
+      "song_id": "7ed9b8c3c780330caa48",
+      "title": "Son Mektup ('84)",
+      "artist": "Zerrin Ozer",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "WmTMJDyx9Lc",
+      "alternatives": []
+    },
     "7f3b0447fb503aa97360": {
       "song_id": "7f3b0447fb503aa97360",
       "title": "Onumuz YAZ",
@@ -2930,6 +3026,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "BsDwgqeO9R8",
+      "alternatives": []
+    },
+    "81b6abe97f6c375ad8ae": {
+      "song_id": "81b6abe97f6c375ad8ae",
+      "title": "tebrikler",
+      "artist": "Merve Ozbey",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "mutMMzU_XcM",
       "alternatives": []
     },
     "82d5b10a4b1773be85ee": {
@@ -3664,6 +3772,18 @@
       "youtube_video_id": "Q38NhXhDoys",
       "alternatives": []
     },
+    "9db0c8104b235f0112c3": {
+      "song_id": "9db0c8104b235f0112c3",
+      "title": "Mor",
+      "artist": "Hande Yener",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "i1cl71a7uSA",
+      "alternatives": []
+    },
     "9e82ecb33865b53b3f43": {
       "song_id": "9e82ecb33865b53b3f43",
       "title": "Feveran",
@@ -3794,6 +3914,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "ztW7o23dHLA",
+      "alternatives": []
+    },
+    "a394c6e1af7b96629a6c": {
+      "song_id": "a394c6e1af7b96629a6c",
+      "title": "Ask beni yendi",
+      "artist": "Oguzhan Koc",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "cyBX3N1RJOw",
       "alternatives": []
     },
     "a49672460f4b13bc7ca0": {
@@ -4216,6 +4348,30 @@
       "youtube_video_id": "gS74QxJYiUg",
       "alternatives": []
     },
+    "b1f6829981b1cf5c559a": {
+      "song_id": "b1f6829981b1cf5c559a",
+      "title": "Yok Gerekcem",
+      "artist": "Mustafa Sandal",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "O6EmVwqc9jE",
+      "alternatives": []
+    },
+    "b2a84b9120a24d387041": {
+      "song_id": "b2a84b9120a24d387041",
+      "title": "BEBEK",
+      "artist": "DEMET AKALIN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "bVOQfKgMLCg",
+      "alternatives": []
+    },
     "b3b894dfb24b8b32bc71": {
       "song_id": "b3b894dfb24b8b32bc71",
       "title": "Haydi Gel Benimle Ol",
@@ -4346,6 +4502,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Qwfl2M67xCI",
+      "alternatives": []
+    },
+    "ba2e1bcac7abc167c559": {
+      "song_id": "ba2e1bcac7abc167c559",
+      "title": "Degmez",
+      "artist": "Yalin",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "LYJZAhFNbcg",
       "alternatives": []
     },
     "ba5a9887d62f478a39d8": {
@@ -4480,6 +4648,18 @@
       "youtube_video_id": "hoiT3tgRHbM",
       "alternatives": []
     },
+    "bfa423a3d7b8ff8a1916": {
+      "song_id": "bfa423a3d7b8ff8a1916",
+      "title": "NASIL DIYE SORMA",
+      "artist": "Emre Kaya",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "9sg8yXEhNKs",
+      "alternatives": []
+    },
     "c066ef2019db6f2e12db": {
       "song_id": "c066ef2019db6f2e12db",
       "title": "Korkumdan Agladim",
@@ -4538,6 +4718,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "piP-k2EhZnE",
+      "alternatives": []
+    },
+    "c28acd0f7c83d9258e12": {
+      "song_id": "c28acd0f7c83d9258e12",
+      "title": "katakulli",
+      "artist": "Ayse Hatun Onal",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "KOHvPg8B_Lo",
       "alternatives": []
     },
     "c2e03d85b32b79612a81": {
@@ -4864,6 +5056,18 @@
       "youtube_video_id": "cBlJutfDccs",
       "alternatives": []
     },
+    "ccdcd77967c7bc9b2032": {
+      "song_id": "ccdcd77967c7bc9b2032",
+      "title": "SEN YOKKEN",
+      "artist": "hande unsal",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "V5vC9gQdzNw",
+      "alternatives": []
+    },
     "ccfbea9f11be7a9dbe09": {
       "song_id": "ccfbea9f11be7a9dbe09",
       "title": "Oyunbaz",
@@ -4996,6 +5200,18 @@
       "youtube_video_id": "zDe4b5l5oek",
       "alternatives": []
     },
+    "d3e2b293cc606e77c9ea": {
+      "song_id": "d3e2b293cc606e77c9ea",
+      "title": "Yerle Yeksan",
+      "artist": "Merve Ozbey",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "qCOBzc29Bec",
+      "alternatives": []
+    },
     "d452592bb502c13db0fa": {
       "song_id": "d452592bb502c13db0fa",
       "title": "Beni Baskasiyla Bir Tutamazsin",
@@ -5090,6 +5306,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "8cfcqAGt_-Y",
+      "alternatives": []
+    },
+    "db5c9897e9105240b63f": {
+      "song_id": "db5c9897e9105240b63f",
+      "title": "Hasretinle Yaniyorum",
+      "artist": "Rafet El Roman",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "n7SNdUzPy9o",
       "alternatives": []
     },
     "dc1613b1e1779dfe7a07": {
@@ -5354,6 +5582,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "cOewK9n9WIM",
+      "alternatives": []
+    },
+    "e82c10fe63f4ab35deb7": {
+      "song_id": "e82c10fe63f4ab35deb7",
+      "title": "Zehir Gibi",
+      "artist": "Zeynep Dizdar",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "tC31iyis1uM",
       "alternatives": []
     },
     "e831174b733c00bd410c": {

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-18T10:17:17.734331+00:00",
+  "generated_at": "2026-09-19T09:59:41.620679+00:00",
   "radio_id": "standardfm",
   "month": "2026-09",
   "episodes": {
@@ -375,6 +375,18 @@
       "date": "2026-09-06",
       "aired_at": "2026-09-06",
       "track_count": 25
+    },
+    "standardfm/gece-yayini/2026-09-19": {
+      "episode_id": "standardfm/gece-yayini/2026-09-19",
+      "radio_id": "standardfm",
+      "program_id": 1616,
+      "program_slug": "gece-yayini",
+      "program_name": "Gece Yayını",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 300.0,
+      "date": "2026-09-19",
+      "aired_at": "2026-09-19",
+      "track_count": 37
     },
     "standardfm/gece-yayini/2026-09-18": {
       "episode_id": "standardfm/gece-yayini/2026-09-18",

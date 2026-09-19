@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-18T10:17:17.734331+00:00",
+  "generated_at": "2026-09-19T09:59:41.620679+00:00",
   "radio_id": "viva",
   "month": "2026-09",
   "episodes": {
@@ -447,6 +447,18 @@
       "date": "2026-09-06",
       "aired_at": "2026-09-06",
       "track_count": 25
+    },
+    "viva/canli-yayin-viva/2026-09-19": {
+      "episode_id": "viva/canli-yayin-viva/2026-09-19",
+      "radio_id": "viva",
+      "program_id": 7295,
+      "program_slug": "canli-yayin-viva",
+      "program_name": "Canlı Yayın",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 300.0,
+      "date": "2026-09-19",
+      "aired_at": "2026-09-19",
+      "track_count": 262
     },
     "viva/canli-yayin-viva/2026-09-12": {
       "episode_id": "viva/canli-yayin-viva/2026-09-12",

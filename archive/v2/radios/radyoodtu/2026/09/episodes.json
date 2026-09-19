@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-18T10:17:17.734331+00:00",
+  "generated_at": "2026-09-19T09:59:41.620679+00:00",
   "radio_id": "radyoodtu",
   "month": "2026-09",
   "episodes": {
@@ -795,6 +795,18 @@
       "date": "2026-09-01",
       "aired_at": "2026-09-01",
       "track_count": 18
+    },
+    "radyoodtu/gunes-gozlugu/2026-09-19": {
+      "episode_id": "radyoodtu/gunes-gozlugu/2026-09-19",
+      "radio_id": "radyoodtu",
+      "program_id": 7,
+      "program_slug": "gunes-gozlugu",
+      "program_name": "Güneş Gözlüğü",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 300.0,
+      "date": "2026-09-19",
+      "aired_at": "2026-09-19",
+      "track_count": 127
     },
     "radyoodtu/gunes-gozlugu/2026-09-18": {
       "episode_id": "radyoodtu/gunes-gozlugu/2026-09-18",

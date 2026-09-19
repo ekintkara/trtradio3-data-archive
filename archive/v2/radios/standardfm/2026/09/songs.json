@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-18T10:17:17.734331+00:00",
+  "generated_at": "2026-09-19T09:59:41.620679+00:00",
   "radio_id": "standardfm",
   "month": "2026-09",
   "songs": {
@@ -859,6 +859,18 @@
       "youtube_video_id": "Qwvf2ilsogo",
       "alternatives": []
     },
+    "0a61ae61203a38c5b237": {
+      "song_id": "0a61ae61203a38c5b237",
+      "title": "No escucho opiniones",
+      "artist": "Movi Beats",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "fDOLbuIuFjs",
+      "alternatives": []
+    },
     "0a93659c60d3551980c9": {
       "song_id": "0a93659c60d3551980c9",
       "title": "Dreaming a Dream (Disco) [Disco]",
@@ -1120,6 +1132,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "P7HBhjCMhbE",
+      "alternatives": []
+    },
+    "0cf843d68d1d625a3b06": {
+      "song_id": "0cf843d68d1d625a3b06",
+      "title": "WARFARE PADS",
+      "artist": "The Days Of Nigel",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "1TU1s_-UZJQ",
       "alternatives": []
     },
     "0d47e62bb8fa6ae84d2a": {
@@ -1422,6 +1446,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "tFGs7HP15d4",
+      "alternatives": []
+    },
+    "0fe219ec449b2e7230ea": {
+      "song_id": "0fe219ec449b2e7230ea",
+      "title": "x-ray eyes",
+      "artist": "LCD Soundsystem",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "_PK1OcXp1t8",
       "alternatives": []
     },
     "0ff22db20d102f5fe5e7": {
@@ -3423,6 +3459,18 @@
       "youtube_video_id": "B5MJUnrTmCM",
       "alternatives": []
     },
+    "232a58aa4078697472f1": {
+      "song_id": "232a58aa4078697472f1",
+      "title": "The Bottle",
+      "artist": "Don Arcadio & Gil Scott-Heron",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "EdhoX1Xu6ZI",
+      "alternatives": []
+    },
     "232d565f459aaa014a94": {
       "song_id": "232d565f459aaa014a94",
       "title": "Palaces of Montezuma",
@@ -3689,6 +3737,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "y8OtzJtp-EM",
+      "alternatives": []
+    },
+    "25848754f6f9bdc13c42": {
+      "song_id": "25848754f6f9bdc13c42",
+      "title": "Spacer",
+      "artist": "Sheila",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "8rwaIeMDLxI",
       "alternatives": []
     },
     "25925f3d6417e53db928": {
@@ -4157,6 +4217,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "dyZdLtcw388",
+      "alternatives": []
+    },
+    "29e8f926911d7e4999b8": {
+      "song_id": "29e8f926911d7e4999b8",
+      "title": "Control",
+      "artist": "Janet Jackson",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "LH8xbDGv7oY",
       "alternatives": []
     },
     "29f2696caa1b49f2c987": {
@@ -4683,6 +4755,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "a502RejLz8s",
+      "alternatives": []
+    },
+    "2e847bf77e8a4c43ad96": {
+      "song_id": "2e847bf77e8a4c43ad96",
+      "title": "Drone Logic",
+      "artist": "Daniel Avery",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "eS0CO-yPmO4",
       "alternatives": []
     },
     "2e897037d5e71bde3d49": {
@@ -5331,6 +5415,25 @@
       "youtube_video_id": "-29-GLbA-80",
       "alternatives": []
     },
+    "35645c463b244e733ac1": {
+      "song_id": "35645c463b244e733ac1",
+      "title": "Night Crawler",
+      "artist": "DJ Paradox",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "9cxMkrmqD8g",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Don't Worry Be Happy",
+          "artist": "Bobby McFerrin",
+          "confidence": 0.7
+        }
+      ]
+    },
     "356a9e7c2e0153b09075": {
       "song_id": "356a9e7c2e0153b09075",
       "title": "Waltz in A Minor, Op. 34",
@@ -5879,6 +5982,30 @@
       "youtube_video_id": "mBorHyVCNug",
       "alternatives": []
     },
+    "3a64cf696bdf6989b589": {
+      "song_id": "3a64cf696bdf6989b589",
+      "title": "Collapsing New People",
+      "artist": "Fad Gadget",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; electronic; industrial",
+      "youtube_video_id": "ypINKMapdE0",
+      "alternatives": []
+    },
+    "3a65bd2f533665e5b696": {
+      "song_id": "3a65bd2f533665e5b696",
+      "title": "Scenario",
+      "artist": "A Tribe Called Quest",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Q6TLWqn82J4",
+      "alternatives": []
+    },
     "3ae258d9675670a74d53": {
       "song_id": "3ae258d9675670a74d53",
       "title": "A Distorted Reality Is Now a Necessity To Be Free",
@@ -5913,6 +6040,18 @@
       "mbid": "",
       "genre": "pop; rock; pop rock",
       "youtube_video_id": "79fzeNUqQbQ",
+      "alternatives": []
+    },
+    "3b1fe34097b6cadf27ce": {
+      "song_id": "3b1fe34097b6cadf27ce",
+      "title": "Spacer (Dave Lee Disco Fantasy Special Edit)",
+      "artist": "Sheila",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ThJFE0luqv4",
       "alternatives": []
     },
     "3b2895909e79e7a370a8": {
@@ -6453,6 +6592,18 @@
       "youtube_video_id": "Wr5SLpDOveE",
       "alternatives": []
     },
+    "40d3733ac26924e8602d": {
+      "song_id": "40d3733ac26924e8602d",
+      "title": "Passion (Naked Edit)",
+      "artist": "Gat Decor",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "A1ifDRRTyK0",
+      "alternatives": []
+    },
     "40d4918091726e01c591": {
       "song_id": "40d4918091726e01c591",
       "title": "Cathy's Clown",
@@ -6523,6 +6674,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "cDakhsaPTE0",
+      "alternatives": []
+    },
+    "4140a6e4eae2eb11a392": {
+      "song_id": "4140a6e4eae2eb11a392",
+      "title": "I've Been Thinking About You",
+      "artist": "Londonbeat",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "dGw3w_njQ4g",
       "alternatives": []
     },
     "415544222cde314f80c5": {
@@ -7108,6 +7271,18 @@
       "youtube_video_id": "dVpAY_Pm1o0",
       "alternatives": []
     },
+    "46f8d5901181c7793c16": {
+      "song_id": "46f8d5901181c7793c16",
+      "title": "Groove Is In the Heart",
+      "artist": "Deee-Lite",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "etviGf1uWlg",
+      "alternatives": []
+    },
     "4743cb78bddf2521512d": {
       "song_id": "4743cb78bddf2521512d",
       "title": "You Send Me",
@@ -7178,6 +7353,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "hrxVqACw8ow",
+      "alternatives": []
+    },
+    "47c2714f335dabd38ca3": {
+      "song_id": "47c2714f335dabd38ca3",
+      "title": "Love Can't Turn Around",
+      "artist": "Farley \"Jackmaster\" Funk",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "LDtbXxemnPw",
       "alternatives": []
     },
     "47f08f1d58410c1e0111": {
@@ -7988,6 +8175,18 @@
       "youtube_video_id": "CkKJy4UaPHM",
       "alternatives": []
     },
+    "505df38827a946b8e9ad": {
+      "song_id": "505df38827a946b8e9ad",
+      "title": "Endatay",
+      "artist": "Milly Wessy",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "6KVnPBsdz8I",
+      "alternatives": []
+    },
     "50678a8d9744a9699025": {
       "song_id": "50678a8d9744a9699025",
       "title": "When Will I Be Loved",
@@ -8118,6 +8317,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Y3ywicffOj4",
+      "alternatives": []
+    },
+    "51aeef9532d9bc625edc": {
+      "song_id": "51aeef9532d9bc625edc",
+      "title": "The Bottle",
+      "artist": "DJ \"S\"",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Ou2-zLdjvPM",
       "alternatives": []
     },
     "51daf50413999f82e1c7": {
@@ -10383,6 +10594,18 @@
       "youtube_video_id": "Rr4vxqbQyZ4",
       "alternatives": []
     },
+    "68c6d7945b662ce339d1": {
+      "song_id": "68c6d7945b662ce339d1",
+      "title": "Passion (Naked Mix)",
+      "artist": "Gat Decor",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "8jR-TD8NWSE",
+      "alternatives": []
+    },
     "68e4ce8fe377c1d9f2d2": {
       "song_id": "68e4ce8fe377c1d9f2d2",
       "title": "Batucada Surgiu",
@@ -10693,6 +10916,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "AlCwa-siLx8",
+      "alternatives": []
+    },
+    "6bea9d57b7c3f67f4e23": {
+      "song_id": "6bea9d57b7c3f67f4e23",
+      "title": "No Shuffle",
+      "artist": "Front 242",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ECQxrFYYk2g",
       "alternatives": []
     },
     "6bf52df421fe31a04fad": {
@@ -11709,6 +11944,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Fo5s0ZbG-Mk",
+      "alternatives": []
+    },
+    "766bc17dc6e558048df1": {
+      "song_id": "766bc17dc6e558048df1",
+      "title": "Theme from S'Express",
+      "artist": "S'Express",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "IpeRShWMdYM",
       "alternatives": []
     },
     "76712a9321442ae5eb3a": {
@@ -13506,6 +13753,18 @@
       "youtube_video_id": "pbxQSNbLBFk",
       "alternatives": []
     },
+    "89e2a97571b142cba997": {
+      "song_id": "89e2a97571b142cba997",
+      "title": "The First Big Weekend",
+      "artist": "Arab Strap",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "c7iGUQ9W1qs",
+      "alternatives": []
+    },
     "89ed7eddc22a78c617c7": {
       "song_id": "89ed7eddc22a78c617c7",
       "title": "Cool Cat Walk",
@@ -13963,6 +14222,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "NtDSJn3eXHc",
+      "alternatives": []
+    },
+    "8dc1bb9689dffbfc7569": {
+      "song_id": "8dc1bb9689dffbfc7569",
+      "title": "The Wizard",
+      "artist": "Myd",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "mzsMAiPBXF0",
       "alternatives": []
     },
     "8dde8e6bd4e74ce10d5e": {
@@ -17136,6 +17407,18 @@
       "youtube_video_id": "-9_d-sFhmRM",
       "alternatives": []
     },
+    "ab513bb3d6d180020288": {
+      "song_id": "ab513bb3d6d180020288",
+      "title": "To Cut A Long Story Short",
+      "artist": "Spandau Ballet",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "JE2sCISQmpE",
+      "alternatives": []
+    },
     "ab5d33ddb39c7ca5904e": {
       "song_id": "ab5d33ddb39c7ca5904e",
       "title": "Break Down the Door (Harry Romero Vocal Mix)",
@@ -19121,6 +19404,18 @@
       "youtube_video_id": "Jpk2rFXZYi0",
       "alternatives": []
     },
+    "bb77db3a176e36622a64": {
+      "song_id": "bb77db3a176e36622a64",
+      "title": "Poison Lips",
+      "artist": "Vitalic",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "I2dfGC1oziE",
+      "alternatives": []
+    },
     "bb93bfe5fe60751e9bf5": {
       "song_id": "bb93bfe5fe60751e9bf5",
       "title": "I Saw the Light",
@@ -19366,6 +19661,18 @@
       "mbid": "",
       "genre": "rock; classic rock; aor",
       "youtube_video_id": "jhdFe3evXpk",
+      "alternatives": []
+    },
+    "bd5b74097fade1cd65fa": {
+      "song_id": "bd5b74097fade1cd65fa",
+      "title": "Give It Away",
+      "artist": "Red Hot Chili Peppers",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Mr_uHJPUlO8",
       "alternatives": []
     },
     "bd797c5f476b518445c3": {
@@ -20620,6 +20927,18 @@
       "youtube_video_id": "tbU3zdAgiX8",
       "alternatives": []
     },
+    "c9c19695db72b799218a": {
+      "song_id": "c9c19695db72b799218a",
+      "title": "Rock da House (Club Mix Remastered)",
+      "artist": "The Beatmasters",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "eEgJv4Qn1JM",
+      "alternatives": []
+    },
     "c9c311a64d4bc7bab78f": {
       "song_id": "c9c311a64d4bc7bab78f",
       "title": "Maybe I Got It Wrong",
@@ -21277,6 +21596,18 @@
       "youtube_video_id": "yAslukS6fBU",
       "alternatives": []
     },
+    "cf515939c16f0e49e2c3": {
+      "song_id": "cf515939c16f0e49e2c3",
+      "title": "Cruel Intentions",
+      "artist": "Simian Mobile Disco",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "HIofSxwkkQE",
+      "alternatives": []
+    },
     "cf74b816bc422dc237b5": {
       "song_id": "cf74b816bc422dc237b5",
       "title": "Poor Little Fool",
@@ -21498,6 +21829,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "iFbwOhV137Q",
+      "alternatives": []
+    },
+    "d0e104029b616ce40e02": {
+      "song_id": "d0e104029b616ce40e02",
+      "title": "This Corrosion",
+      "artist": "The Sisters of Mercy",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "dark wave; gothic; gothic rock",
+      "youtube_video_id": "aArkIaPqV3c",
       "alternatives": []
     },
     "d0ffd02ba3ede4eed047": {
@@ -21993,6 +22336,18 @@
       "youtube_video_id": "xiuuSoPphxI",
       "alternatives": []
     },
+    "d5bdfe0cfc6e762cdb71": {
+      "song_id": "d5bdfe0cfc6e762cdb71",
+      "title": "Love Can't Turn Around",
+      "artist": "Jesse Saunders",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ojyFD8FwShE",
+      "alternatives": []
+    },
     "d5f656416148dcec0147": {
       "song_id": "d5f656416148dcec0147",
       "title": "Hang Me, Oh Hang Me",
@@ -22065,6 +22420,18 @@
       "youtube_video_id": "LnKUD_OztRE",
       "alternatives": []
     },
+    "d616961b4dbba1538335": {
+      "song_id": "d616961b4dbba1538335",
+      "title": "Milkshake",
+      "artist": "Kelis",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "6AwXKJoKJz4",
+      "alternatives": []
+    },
     "d61d23995284506ecdb9": {
       "song_id": "d61d23995284506ecdb9",
       "title": "Babaloop (Extended)",
@@ -22075,6 +22442,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "rynDZGy-poM",
+      "alternatives": []
+    },
+    "d666f59b736995d36f43": {
+      "song_id": "d666f59b736995d36f43",
+      "title": "Disco Energy I",
+      "artist": "Universal Energy",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "vhHTjBVFSD0",
       "alternatives": []
     },
     "d685c844471dadb852a0": {
@@ -26351,6 +26730,18 @@
       "mbid": "",
       "genre": "brazil",
       "youtube_video_id": "Vj7-tNmIjMs",
+      "alternatives": []
+    },
+    "ff1e3e44a039d46fad42": {
+      "song_id": "ff1e3e44a039d46fad42",
+      "title": "Night of the Living Dead, Pt. 3 (feat. Duane Jones, George A. Romero, Karl Hardman & George Kosana)",
+      "artist": "Jack Meakin",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
       "alternatives": []
     },
     "ff4662788336b8ad8c4c": {
