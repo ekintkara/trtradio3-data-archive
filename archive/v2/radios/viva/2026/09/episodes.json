@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-19T09:59:41.620679+00:00",
+  "generated_at": "2026-09-20T10:19:47.594516+00:00",
   "radio_id": "viva",
   "month": "2026-09",
   "episodes": {
@@ -124,6 +124,18 @@
       "aired_at": "2026-09-07",
       "track_count": 13
     },
+    "viva/viva-nostalji/2026-09-20": {
+      "episode_id": "viva/viva-nostalji/2026-09-20",
+      "radio_id": "viva",
+      "program_id": 10195,
+      "program_slug": "viva-nostalji",
+      "program_name": "Viva Nostalji",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-20",
+      "aired_at": "2026-09-20",
+      "track_count": 24
+    },
     "viva/viva-nostalji/2026-09-13": {
       "episode_id": "viva/viva-nostalji/2026-09-13",
       "radio_id": "viva",
@@ -147,6 +159,18 @@
       "date": "2026-09-06",
       "aired_at": "2026-09-06",
       "track_count": 7
+    },
+    "viva/turkce-muzigin-keyfi/2026-09-20": {
+      "episode_id": "viva/turkce-muzigin-keyfi/2026-09-20",
+      "radio_id": "viva",
+      "program_id": 10196,
+      "program_slug": "turkce-muzigin-keyfi",
+      "program_name": "Türkçe Müziğin Keyfi",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-20",
+      "aired_at": "2026-09-20",
+      "track_count": 49
     },
     "viva/turkce-muzigin-keyfi/2026-09-18": {
       "episode_id": "viva/turkce-muzigin-keyfi/2026-09-18",
@@ -303,6 +327,18 @@
       "date": "2026-09-06",
       "aired_at": "2026-09-06",
       "track_count": 13
+    },
+    "viva/muzik-viva/2026-09-20": {
+      "episode_id": "viva/muzik-viva/2026-09-20",
+      "radio_id": "viva",
+      "program_id": 10193,
+      "program_slug": "muzik-viva",
+      "program_name": "Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 300.0,
+      "date": "2026-09-20",
+      "aired_at": "2026-09-20",
+      "track_count": 143
     },
     "viva/muzik-viva/2026-09-18": {
       "episode_id": "viva/muzik-viva/2026-09-18",

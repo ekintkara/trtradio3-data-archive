@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-19T09:59:41.620679+00:00",
+  "generated_at": "2026-09-20T10:19:47.594516+00:00",
   "radio_id": "acikradyo",
   "month": "2026-09",
   "episodes": {
@@ -63,6 +63,18 @@
       "date": "2026-09-02",
       "aired_at": "2026-09-02",
       "track_count": 15
+    },
+    "acikradyo/uc-melek/2026-09-20": {
+      "episode_id": "acikradyo/uc-melek/2026-09-20",
+      "radio_id": "acikradyo",
+      "program_id": 1798,
+      "program_slug": "uc-melek",
+      "program_name": "13 Melek",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-20",
+      "aired_at": "2026-09-20",
+      "track_count": 2
     },
     "acikradyo/tunanin-beri-yani/2026-09-16": {
       "episode_id": "acikradyo/tunanin-beri-yani/2026-09-16",
@@ -267,6 +279,30 @@
       "date": "2026-09-18",
       "aired_at": "2026-09-18",
       "track_count": 11
+    },
+    "acikradyo/manin-tinisi/2026-09-20": {
+      "episode_id": "acikradyo/manin-tinisi/2026-09-20",
+      "radio_id": "acikradyo",
+      "program_id": 1805,
+      "program_slug": "manin-tinisi",
+      "program_name": "Ma'nın Tınısı",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-20",
+      "aired_at": "2026-09-20",
+      "track_count": 4
+    },
+    "acikradyo/lovaj/2026-09-20": {
+      "episode_id": "acikradyo/lovaj/2026-09-20",
+      "radio_id": "acikradyo",
+      "program_id": 1797,
+      "program_slug": "lovaj",
+      "program_name": "Lovaj",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 300.0,
+      "date": "2026-09-20",
+      "aired_at": "2026-09-20",
+      "track_count": 15
     },
     "acikradyo/klang/2026-09-14": {
       "episode_id": "acikradyo/klang/2026-09-14",
@@ -520,6 +556,18 @@
       "aired_at": "2026-09-16",
       "track_count": 2
     },
+    "acikradyo/come-sunday/2026-09-20": {
+      "episode_id": "acikradyo/come-sunday/2026-09-20",
+      "radio_id": "acikradyo",
+      "program_id": 1800,
+      "program_slug": "come-sunday",
+      "program_name": "Come Sunday",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-20",
+      "aired_at": "2026-09-20",
+      "track_count": 7
+    },
     "acikradyo/caz-turbulans/2026-09-19": {
       "episode_id": "acikradyo/caz-turbulans/2026-09-19",
       "radio_id": "acikradyo",
@@ -579,6 +627,18 @@
       "date": "2026-09-07",
       "aired_at": "2026-09-07",
       "track_count": 20
+    },
+    "acikradyo/apacik-radyo-muzikleri/2026-09-20": {
+      "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-09-20",
+      "radio_id": "acikradyo",
+      "program_id": 1799,
+      "program_slug": "apacik-radyo-muzikleri",
+      "program_name": "Apaçık Radyo Müzikleri",
+      "program_start_time": "02:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-20",
+      "aired_at": "2026-09-20",
+      "track_count": 59
     },
     "acikradyo/apacik-radyo-muzikleri/2026-09-19": {
       "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-09-19",
@@ -771,6 +831,18 @@
       "date": "2026-09-01",
       "aired_at": "2026-09-01",
       "track_count": 38
+    },
+    "acikradyo/agora/2026-09-20": {
+      "episode_id": "acikradyo/agora/2026-09-20",
+      "radio_id": "acikradyo",
+      "program_id": 1804,
+      "program_slug": "agora",
+      "program_name": "Agora",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-20",
+      "aired_at": "2026-09-20",
+      "track_count": 4
     },
     "acikradyo/acik-kabin/2026-09-19": {
       "episode_id": "acikradyo/acik-kabin/2026-09-19",
