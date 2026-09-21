@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-20T10:19:47.594516+00:00",
+  "generated_at": "2026-09-21T11:31:03.814695+00:00",
   "radio_id": "trt",
   "month": "2026-09",
   "songs": {
@@ -220,6 +220,18 @@
       "youtube_video_id": "t1Pyl6PIVd0",
       "alternatives": []
     },
+    "02e426cb84150cfacfd2": {
+      "song_id": "02e426cb84150cfacfd2",
+      "title": "See The Lights",
+      "artist": "Simple Minds",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "MmKTMAak710",
+      "alternatives": []
+    },
     "034fe50a81f32dcda17f": {
       "song_id": "034fe50a81f32dcda17f",
       "title": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": III. Presto agitato",
@@ -298,6 +310,25 @@
       "genre": "",
       "youtube_video_id": "Y2OmGWCHZ-s",
       "alternatives": []
+    },
+    "0506684af33db3dc27da": {
+      "song_id": "0506684af33db3dc27da",
+      "title": "Piano Concerto No. 4 in G, Op. 58: III. Rondo (Vivace)",
+      "artist": "Krystian Zimerman, Vienna Philharmonic & Leonard Bernstein",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "hp-GI9jhxAY",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 4 in G, Op. 58: III. Rondo (Vivace)",
+          "artist": "Christoph Eschenbach, Orchestre De Paris & Lang Lang",
+          "confidence": 0.55
+        }
+      ]
     },
     "054bcaab7644431c6e21": {
       "song_id": "054bcaab7644431c6e21",
@@ -835,6 +866,18 @@
       "youtube_video_id": "2PY2hwzACvA",
       "alternatives": []
     },
+    "0d87211d1205c5d3734b": {
+      "song_id": "0d87211d1205c5d3734b",
+      "title": "A New Wave, New Travel (Original Mix)",
+      "artist": "AFT Gang",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ZG3AjAv6ONQ",
+      "alternatives": []
+    },
     "0dfa0ecebfa0cb01fa8f": {
       "song_id": "0dfa0ecebfa0cb01fa8f",
       "title": "Don't Let It Go",
@@ -1013,6 +1056,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "yBd1TWLefqA",
+      "alternatives": []
+    },
+    "12680a4e80578c6528be": {
+      "song_id": "12680a4e80578c6528be",
+      "title": "Humoreske in B-Flat Major, Op. 20",
+      "artist": "Alicja Fiderkiewicz",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "UDx9rqGUoJs",
       "alternatives": []
     },
     "127eeaa03d3e410c52e6": {
@@ -1574,6 +1629,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "7VGoVSyELWY",
+      "alternatives": []
+    },
+    "1a677e463e89c4fb1b3d": {
+      "song_id": "1a677e463e89c4fb1b3d",
+      "title": "A Midsummer Night's Dream, Op. 21: Overture",
+      "artist": "Vienna Philharmonic & Christian Thielemann",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "NweAzmBg5Wo",
       "alternatives": []
     },
     "1a7ef40382a4eac6715d": {
@@ -2316,6 +2383,18 @@
       "youtube_video_id": "wBl2QGAIx1s",
       "alternatives": []
     },
+    "23fdd40f4a118468c2c3": {
+      "song_id": "23fdd40f4a118468c2c3",
+      "title": "Sonata for Violin Solo No. 2 in A Minor, BWV 1003: IV. Allegro",
+      "artist": "Arthur Grumiaux",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "qsSTKAPCNsA",
+      "alternatives": []
+    },
     "240b9515f4d470dfb91f": {
       "song_id": "240b9515f4d470dfb91f",
       "title": "Pas sans toi",
@@ -2810,6 +2889,18 @@
       "youtube_video_id": "XZRjuRoP0l4",
       "alternatives": []
     },
+    "2ae9cf00e30d1bf4799d": {
+      "song_id": "2ae9cf00e30d1bf4799d",
+      "title": "VEIL",
+      "artist": "Vibe Soundzzz Therapy",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "4tIoCwgbHOM",
+      "alternatives": []
+    },
     "2b0438958e5a2ee00410": {
       "song_id": "2b0438958e5a2ee00410",
       "title": "Cascada",
@@ -2917,6 +3008,25 @@
       "genre": "",
       "youtube_video_id": "9E6b3swbnWg",
       "alternatives": []
+    },
+    "2d5ab24e908551d8baf3": {
+      "song_id": "2d5ab24e908551d8baf3",
+      "title": "Piano Concerto No. 4 in G Major, Op. 58: I. Allegro moderato (Live at Philharmonie, Berlin, 1992)",
+      "artist": "Maurizio Pollini, Berlin Philharmonic & Claudio Abbado",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "BkIiWOqzIpk",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 4 in G Major, Op. 58: I. Allegro moderato",
+          "artist": "Van Cliburn, Fritz Reiner & Chicago Symphony Orchestra",
+          "confidence": 0.55
+        }
+      ]
     },
     "2d771ef02c67c6ed77b4": {
       "song_id": "2d771ef02c67c6ed77b4",
@@ -3439,6 +3549,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "53q_MEhwPBU",
+      "alternatives": []
+    },
+    "3471824b19e27025b97d": {
+      "song_id": "3471824b19e27025b97d",
+      "title": "Overture (William Tell)",
+      "artist": "Andrew Philip Swarbrick & Tom Julian",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "XRE5DmmXqtE",
+      "alternatives": []
+    },
+    "347e2b63a9dbd4bc4f9a": {
+      "song_id": "347e2b63a9dbd4bc4f9a",
+      "title": "Piano Sonata in C Major, K. 330 (300h): I. Allegro moderato",
+      "artist": "Glenn Gould",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "z5qi6fig1tM",
       "alternatives": []
     },
     "349bf6cefc78a26e892f": {
@@ -4262,6 +4396,18 @@
       "youtube_video_id": "LQkhQQ6K-sE",
       "alternatives": []
     },
+    "42b131f89b4274f94162": {
+      "song_id": "42b131f89b4274f94162",
+      "title": "Back Home (Original Mix)",
+      "artist": "Babasmas",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "N8kzfXvnG-8",
+      "alternatives": []
+    },
     "42e21f46d6d5b0da024e": {
       "song_id": "42e21f46d6d5b0da024e",
       "title": "Remember The Future, Pt. 1",
@@ -4484,6 +4630,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Wyohl9Lshp4",
+      "alternatives": []
+    },
+    "47c0f11621b6360db971": {
+      "song_id": "47c0f11621b6360db971",
+      "title": "All On Me",
+      "artist": "heart4trap",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "sNZjgWJzDx4",
       "alternatives": []
     },
     "47d7dd5c7e86ae511c30": {
@@ -4755,6 +4913,18 @@
       "mbid": "",
       "genre": "pop; vocal",
       "youtube_video_id": "Onvof8RueLo",
+      "alternatives": []
+    },
+    "4ce70a44ae5e6e884e35": {
+      "song_id": "4ce70a44ae5e6e884e35",
+      "title": "Tides of Harmony",
+      "artist": "Clayton Park Stevenson",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "tlVvwO15cbQ",
       "alternatives": []
     },
     "4d0ad4012010b377f5fa": {
@@ -5101,6 +5271,18 @@
         }
       ]
     },
+    "53f7e1f7a687eed199a9": {
+      "song_id": "53f7e1f7a687eed199a9",
+      "title": "LES SAISONS Juin, barcarolle",
+      "artist": "Edda Erlendsdottir",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "PjMd_LrVUwc",
+      "alternatives": []
+    },
     "5409de95a88097886150": {
       "song_id": "5409de95a88097886150",
       "title": "i love you, but don't come back",
@@ -5287,6 +5469,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "i9YiyOGEcKY",
+      "alternatives": []
+    },
+    "5787ef5db51c735548f8": {
+      "song_id": "5787ef5db51c735548f8",
+      "title": "Sonata No. 26 in E-Flat Major, Op. 81a: I. Das Lebewohl (Adagio - Allegro)",
+      "artist": "Wilhelm Kempff",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Sp4qR6zrbAY",
       "alternatives": []
     },
     "5797f473760efff14457": {
@@ -5634,6 +5828,18 @@
       "youtube_video_id": "Ire0SumHPHU",
       "alternatives": []
     },
+    "5de12561cf8976668224": {
+      "song_id": "5de12561cf8976668224",
+      "title": "Around",
+      "artist": "Romain Dubois",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "wFn6Iow0M9U",
+      "alternatives": []
+    },
     "5e557fca3b43fa94dd41": {
       "song_id": "5e557fca3b43fa94dd41",
       "title": "Under His Wings I Find Refuge",
@@ -5891,6 +6097,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Ai6G6eqjvjA",
+      "alternatives": []
+    },
+    "60f9e59d98d7ff21a5af": {
+      "song_id": "60f9e59d98d7ff21a5af",
+      "title": "If You Ever Did Believe (Remaster)",
+      "artist": "Stevie Nicks",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "89IE9m1ZRHk",
       "alternatives": []
     },
     "610fd169883d10e40011": {
@@ -6641,6 +6859,18 @@
       "youtube_video_id": "fq5v7ipsIuc",
       "alternatives": []
     },
+    "6d9c96aa74d677325fbc": {
+      "song_id": "6d9c96aa74d677325fbc",
+      "title": "Lifelines (MTV Unplugged)",
+      "artist": "a-ha",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "GxgFPLl7eE4",
+      "alternatives": []
+    },
     "6dabaa085c4a63d82f8e": {
       "song_id": "6dabaa085c4a63d82f8e",
       "title": "Piano Quintet In E-Flat Major, Op. 16: I. Grave - Allegro Ma non Troppo",
@@ -6759,6 +6989,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "ybyZv68DwUE",
+      "alternatives": []
+    },
+    "6e3e4627d84b6353f22a": {
+      "song_id": "6e3e4627d84b6353f22a",
+      "title": "Scherzo No. 2 in C Minor, Op. 14",
+      "artist": "Isata Kanneh-Mason",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "c7f9SoDuHjY",
       "alternatives": []
     },
     "6e49378e75a614b057c1": {
@@ -6891,6 +7133,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "MD6pXl8Q9YE",
+      "alternatives": []
+    },
+    "70d5eee9faacd09a3e7f": {
+      "song_id": "70d5eee9faacd09a3e7f",
+      "title": "Bubble",
+      "artist": "retox44",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "glEuGoBtw9k",
       "alternatives": []
     },
     "7104276ca17097b59d8b": {
@@ -7472,6 +7726,18 @@
       "youtube_video_id": "XYn9Qzj7rRU",
       "alternatives": []
     },
+    "78c5386a745fab70e4b0": {
+      "song_id": "78c5386a745fab70e4b0",
+      "title": "Every Picture Tells A Story",
+      "artist": "Rod Stewart",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "GmyGa29zIqk",
+      "alternatives": []
+    },
     "78cd2632ebf8e1277aee": {
       "song_id": "78cd2632ebf8e1277aee",
       "title": "Dancing With A Stranger",
@@ -7893,6 +8159,18 @@
       "youtube_video_id": "4rNpxRRv9bw",
       "alternatives": []
     },
+    "7f6a78fa0ee1c0bd4cc6": {
+      "song_id": "7f6a78fa0ee1c0bd4cc6",
+      "title": "Chopin: Noctures No.17 E Flat Major Op.09-2 (쇼팽l 야상곡 17번 내림마장조 D.09-2)",
+      "artist": "SOODUN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
+      "alternatives": []
+    },
     "7fd71969cb9ff0c69d3a": {
       "song_id": "7fd71969cb9ff0c69d3a",
       "title": "Mefistofele, Act I: Son lo spirito che nega",
@@ -8205,6 +8483,18 @@
       "youtube_video_id": "lAiZ_nWYOI0",
       "alternatives": []
     },
+    "855f6c9310f5a444e287": {
+      "song_id": "855f6c9310f5a444e287",
+      "title": "Drumming Song (MTV Unplugged, 2012 / Live)",
+      "artist": "Florence + the Machine",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "JnUjEPeZ9-c",
+      "alternatives": []
+    },
     "85bdaea0170e4316ac37": {
       "song_id": "85bdaea0170e4316ac37",
       "title": "Piano Concerto No. 2, Allegro,Opus 102",
@@ -8264,6 +8554,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "9x4W-DC78q4",
+      "alternatives": []
+    },
+    "8668d7c9585549b4339b": {
+      "song_id": "8668d7c9585549b4339b",
+      "title": "Solidão",
+      "artist": "Sandra de Sá",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Q3kXg_Tl9bU",
       "alternatives": []
     },
     "86b01998931b64a7056d": {
@@ -8337,6 +8639,25 @@
       "genre": "",
       "youtube_video_id": "wt04T1Qlo_8",
       "alternatives": []
+    },
+    "876ffa9667a5e5bf503f": {
+      "song_id": "876ffa9667a5e5bf503f",
+      "title": "Humoreske, Op. 20",
+      "artist": "Richard Goode",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "YIyb_xFfcHI",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Humoreske, Op. 20",
+          "artist": "András Schiff",
+          "confidence": 0.55
+        }
+      ]
     },
     "8794db7a497083f5f20d": {
       "song_id": "8794db7a497083f5f20d",
@@ -9013,6 +9334,18 @@
       "youtube_video_id": "MVkfG-IAcVo",
       "alternatives": []
     },
+    "9262aff2b9f30bf9ccd8": {
+      "song_id": "9262aff2b9f30bf9ccd8",
+      "title": "Nocturne in E-flat Major, Op.9-2",
+      "artist": "Sarah S.A.S",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "LqLgeiJRuJQ",
+      "alternatives": []
+    },
     "928f5a7bfa99b30670b6": {
       "song_id": "928f5a7bfa99b30670b6",
       "title": "Oriental Deep House Mix Hypnotic Arabic",
@@ -9373,6 +9706,18 @@
       "youtube_video_id": "ptVQ-ue7SxM",
       "alternatives": []
     },
+    "979f055bdf989ad94bcc": {
+      "song_id": "979f055bdf989ad94bcc",
+      "title": "III. Rondo (Vivace)",
+      "artist": "Alfred Brendel, Sir Simon Rattle & Vienna Philharmonic",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ovKNpCm_pkg",
+      "alternatives": []
+    },
     "9811a993f846a1556bb3": {
       "song_id": "9811a993f846a1556bb3",
       "title": "La Última Noche",
@@ -9455,6 +9800,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "4A_9MXUdRdQ",
+      "alternatives": []
+    },
+    "99c4b1cab8ee6e5f102d": {
+      "song_id": "99c4b1cab8ee6e5f102d",
+      "title": "Flow State Vol. 2 – Melodic Chillstep & Deep Future Garage for Deep Focus",
+      "artist": "Glitch In The 3cho",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "11Q0IhJ0u0Q",
       "alternatives": []
     },
     "99c83f9063f05500e488": {
@@ -9548,6 +9905,18 @@
       "youtube_video_id": "9VnNhAoHnyQ",
       "alternatives": []
     },
+    "9a6ede9bca2a595711b8": {
+      "song_id": "9a6ede9bca2a595711b8",
+      "title": "Beethoven Sonatas No. 22, 24, And 26",
+      "artist": "Robert Silverman",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "fbrB9SZ7zJA",
+      "alternatives": []
+    },
     "9a728d1e0edec9aee54e": {
       "song_id": "9a728d1e0edec9aee54e",
       "title": "Missing Piece",
@@ -9582,6 +9951,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "DzUidEjPnLs",
+      "alternatives": []
+    },
+    "9aa21105374aa940031e": {
+      "song_id": "9aa21105374aa940031e",
+      "title": "Piano Sonata in C Minor, D.958: Allegro",
+      "artist": "Leif Ove Andsnes",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "LZTSTAZDQvs",
       "alternatives": []
     },
     "9aef61b38dcc4db8f81a": {
@@ -9833,6 +10214,18 @@
       "youtube_video_id": "SCwcyLXb6z8",
       "alternatives": []
     },
+    "9e2d6e1e8d230cc10486": {
+      "song_id": "9e2d6e1e8d230cc10486",
+      "title": "Le départ",
+      "artist": "Comtesse de Segur",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "QpPnDYtHn4Q",
+      "alternatives": []
+    },
     "9e48b7460fcf7c6c9e9f": {
       "song_id": "9e48b7460fcf7c6c9e9f",
       "title": "Domani, Domani",
@@ -9891,6 +10284,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "W0FNO7wpyP8",
+      "alternatives": []
+    },
+    "9ef778507d9b6d469e9e": {
+      "song_id": "9ef778507d9b6d469e9e",
+      "title": "Serenade for Strings in E Major, Op. 22, B. 52: II. Tempo di Valse",
+      "artist": "Festival Strings Lucerne & Daniel Dodds",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "JbimAJ8FmL4",
       "alternatives": []
     },
     "9f4ee81265399f7bc1c3": {
@@ -10619,6 +11024,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Tuxu77XekMQ",
+      "alternatives": []
+    },
+    "a9432fd67a8a2e9d5b46": {
+      "song_id": "a9432fd67a8a2e9d5b46",
+      "title": "Piano Concerto No. 4: I. Allegro - moderato",
+      "artist": "Iván Fischer, Budapest Festival Orchestra & Richard Goode",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "jqrFJV0oaIc",
       "alternatives": []
     },
     "a9905880e6a2044bd2cd": {
@@ -11701,6 +12118,18 @@
       "youtube_video_id": "GSm4KakrvPQ",
       "alternatives": []
     },
+    "bd2d735ec1771b9bf6ef": {
+      "song_id": "bd2d735ec1771b9bf6ef",
+      "title": "I. Allegro Moderato",
+      "artist": "Sir Simon Rattle, Vienna Philharmonic & Alfred Brendel",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "AWt5ySuOBzk",
+      "alternatives": []
+    },
     "bd55d334be4d92eba3a6": {
       "song_id": "bd55d334be4d92eba3a6",
       "title": "Background Music",
@@ -12406,6 +12835,18 @@
         }
       ]
     },
+    "c6d09c98f448e3f0b9e3": {
+      "song_id": "c6d09c98f448e3f0b9e3",
+      "title": "Piano Sonata No. 26 in E-Flat Major, Op. 81a 'Les Adieux': I. Les adieux",
+      "artist": "Wilhelm Kempff",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "JyMmuZiKpJk",
+      "alternatives": []
+    },
     "c6f0cf3ea5dabdb78fc0": {
       "song_id": "c6f0cf3ea5dabdb78fc0",
       "title": "Forever Amo'r (JJ Flores and Troy Guy Mix)",
@@ -12440,6 +12881,18 @@
       "mbid": "",
       "genre": "electronic; house; hip hop",
       "youtube_video_id": "3hRCpzZUjRA",
+      "alternatives": []
+    },
+    "c7947a7c999d7300eb32": {
+      "song_id": "c7947a7c999d7300eb32",
+      "title": "Twinkle Stars",
+      "artist": "キュアコスモ(CV:上坂すみれ), キュアスター(CV.成瀬瑛美), キュアセレーネ(CV.小松未可子), キュアソレイユ(CV.安野希世乃) & キュアミルキー(CV.小原好美)",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
       "alternatives": []
     },
     "c79814f44e566a16a316": {
@@ -12500,6 +12953,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "kcpvCBKRGrA",
+      "alternatives": []
+    },
+    "c8b58634e962cea2a1c8": {
+      "song_id": "c8b58634e962cea2a1c8",
+      "title": "Innocent",
+      "artist": "Frostburn Exd",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "WL2qg15_iwc",
       "alternatives": []
     },
     "c8b5c7970045f390153f": {
@@ -12802,6 +13267,18 @@
       "youtube_video_id": "--IRJr_AsPU",
       "alternatives": []
     },
+    "cd9ff1ecbe869765e984": {
+      "song_id": "cd9ff1ecbe869765e984",
+      "title": "Celtic Highland",
+      "artist": "Rob Nisga",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "PB4Yiztat-s",
+      "alternatives": []
+    },
     "cde30ca220c006c30c6e": {
       "song_id": "cde30ca220c006c30c6e",
       "title": "No Limit",
@@ -12813,6 +13290,25 @@
       "genre": "",
       "youtube_video_id": "DbvQU45Ukok",
       "alternatives": []
+    },
+    "cdeedb46990e1a405703": {
+      "song_id": "cdeedb46990e1a405703",
+      "title": "Piano Concerto No. 4 in G Major, Op. 58: III. Rondo. Vivace",
+      "artist": "Leon Fleisher, George Szell & The Cleveland Orchestra",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "lDuZW1Y6WGQ",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 4 in G Major, Op. 58: III. Rondo. Vivace (Live)",
+          "artist": "Claudio Arrau, Symphonieorchester des Bayerischen Rundfunks & Leonard Bernstein",
+          "confidence": 0.55
+        }
+      ]
     },
     "cdef25c6288f19ea779c": {
       "song_id": "cdef25c6288f19ea779c",
@@ -13259,6 +13755,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "4w3v3SHJW0I",
+      "alternatives": []
+    },
+    "d72cb6746ef2d95443f1": {
+      "song_id": "d72cb6746ef2d95443f1",
+      "title": "Concerto for Piano and Orchestra No. 4 in G Op. 58 (1996 Remastered Version): III. Rondo (Vivace)",
+      "artist": "Emil Gilels, The Cleveland Orchestra & George Szell",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "4SlNA81LLCQ",
       "alternatives": []
     },
     "d77b8a2e65783c8e129e": {
@@ -14012,6 +14520,18 @@
       "youtube_video_id": "NOYE-1F9DvI",
       "alternatives": []
     },
+    "e204fe4c2ee07916d0ab": {
+      "song_id": "e204fe4c2ee07916d0ab",
+      "title": "Mariage d'amour",
+      "artist": "Richard Clayderman",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "1ej1SI4BRv8",
+      "alternatives": []
+    },
     "e20836866a4d34d1a148": {
       "song_id": "e20836866a4d34d1a148",
       "title": "Forever",
@@ -14022,6 +14542,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "TpDvgO9fQi4",
+      "alternatives": []
+    },
+    "e209c1fef6356d5cc680": {
+      "song_id": "e209c1fef6356d5cc680",
+      "title": "Festive Overture, Op. 96",
+      "artist": "Neeme Järvi & Royal Scottish National Orchestra",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "e2DViFGoEvQ",
       "alternatives": []
     },
     "e27a6475e70666c27089": {
@@ -14840,6 +15372,18 @@
       "youtube_video_id": "",
       "alternatives": []
     },
+    "f100ed24c753b40259e4": {
+      "song_id": "f100ed24c753b40259e4",
+      "title": "Yesterday",
+      "artist": "Moonlight Jazz Blue",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "2Dk9dujVeWE",
+      "alternatives": []
+    },
     "f1144bff3e8af2aee7bb": {
       "song_id": "f1144bff3e8af2aee7bb",
       "title": "Child of Our Times (b)",
@@ -15046,6 +15590,18 @@
       "youtube_video_id": "s_ST3hzMsVE",
       "alternatives": []
     },
+    "f3775cbfccf14561eb96": {
+      "song_id": "f3775cbfccf14561eb96",
+      "title": "Space & Time",
+      "artist": "Richard Ashcroft",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "RNna3Zezltg",
+      "alternatives": []
+    },
     "f37d20a383eb7ea7b0f5": {
       "song_id": "f37d20a383eb7ea7b0f5",
       "title": "Fusion (Live) [Radio Edit]",
@@ -15081,6 +15637,25 @@
       "genre": "",
       "youtube_video_id": "6pMBUfXMuqk",
       "alternatives": []
+    },
+    "f44e738a93066125cef8": {
+      "song_id": "f44e738a93066125cef8",
+      "title": "Fantaisie in F Minor, Op. 49",
+      "artist": "Arthur Rubinstein",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "1M7CqNkh2Cs",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Fantaisie in F Minor, Op. 49",
+          "artist": "Wilhelm Kempff",
+          "confidence": 0.55
+        }
+      ]
     },
     "f46867fea702e67b836e": {
       "song_id": "f46867fea702e67b836e",
@@ -15140,6 +15715,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "R9jAgjSDHqw",
+      "alternatives": []
+    },
+    "f5052ca21e5e3720684a": {
+      "song_id": "f5052ca21e5e3720684a",
+      "title": "Who I Am",
+      "artist": "Arvy Nacht",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "4aZHNqRjtO8",
       "alternatives": []
     },
     "f56cabc9aaf26be67c3e": {

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-20T10:19:47.594516+00:00",
+  "generated_at": "2026-09-21T11:31:03.814695+00:00",
   "radio_id": "trt",
   "month": "2026-09",
   "episodes": {
@@ -279,6 +279,18 @@
       "date": "2026-09-05",
       "aired_at": "2026-09-05",
       "track_count": 3
+    },
+    "trt/radyo-3-sabah/2026-09-21": {
+      "episode_id": "trt/radyo-3-sabah/2026-09-21",
+      "radio_id": "trt",
+      "program_id": -11373,
+      "program_slug": "radyo-3-sabah",
+      "program_name": "Radyo 3 Sabah",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-21",
+      "aired_at": "2026-09-21",
+      "track_count": 6
     },
     "trt/radyo-3-sabah/2026-09-20": {
       "episode_id": "trt/radyo-3-sabah/2026-09-20",
@@ -663,6 +675,18 @@
       "date": "2026-09-01",
       "aired_at": "2026-09-01",
       "track_count": 6
+    },
+    "trt/piyano-forte/2026-09-21": {
+      "episode_id": "trt/piyano-forte/2026-09-21",
+      "radio_id": "trt",
+      "program_id": -22982,
+      "program_slug": "piyano-forte",
+      "program_name": "Piyano Forte",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-21",
+      "aired_at": "2026-09-21",
+      "track_count": 18
     },
     "trt/piyano-forte/2026-09-14": {
       "episode_id": "trt/piyano-forte/2026-09-14",
@@ -1180,6 +1204,18 @@
       "aired_at": "2026-09-04",
       "track_count": 12
     },
+    "trt/klasik-dunya/2026-09-21": {
+      "episode_id": "trt/klasik-dunya/2026-09-21",
+      "radio_id": "trt",
+      "program_id": -11595,
+      "program_slug": "klasik-dunya",
+      "program_name": "Klasik Dünya",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-21",
+      "aired_at": "2026-09-21",
+      "track_count": 0
+    },
     "trt/klasik-dunya/2026-09-14": {
       "episode_id": "trt/klasik-dunya/2026-09-14",
       "radio_id": "trt",
@@ -1240,6 +1276,18 @@
       "aired_at": "2026-09-04",
       "track_count": 13
     },
+    "trt/hakikatin-hikayesi/2026-09-21": {
+      "episode_id": "trt/hakikatin-hikayesi/2026-09-21",
+      "radio_id": "trt",
+      "program_id": 1657,
+      "program_slug": "hakikatin-hikayesi",
+      "program_name": "Hakikatin Hikâyesi",
+      "program_start_time": "14:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-21",
+      "aired_at": "2026-09-21",
+      "track_count": 0
+    },
     "trt/guneyde-bir-yer/2026-09-10": {
       "episode_id": "trt/guneyde-bir-yer/2026-09-10",
       "radio_id": "trt",
@@ -1299,6 +1347,18 @@
       "date": "2026-09-05",
       "aired_at": "2026-09-05",
       "track_count": 3
+    },
+    "trt/gece-ve-muzik/2026-09-21": {
+      "episode_id": "trt/gece-ve-muzik/2026-09-21",
+      "radio_id": "trt",
+      "program_id": -12662,
+      "program_slug": "gece-ve-muzik",
+      "program_name": "Gece ve Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 240.0,
+      "date": "2026-09-21",
+      "aired_at": "2026-09-21",
+      "track_count": 10
     },
     "trt/gece-ve-muzik/2026-09-20": {
       "episode_id": "trt/gece-ve-muzik/2026-09-20",
@@ -1612,6 +1672,18 @@
       "aired_at": "2026-09-06",
       "track_count": 6
     },
+    "trt/ebu-euroclassic-notturno/2026-09-21": {
+      "episode_id": "trt/ebu-euroclassic-notturno/2026-09-21",
+      "radio_id": "trt",
+      "program_id": -2246,
+      "program_slug": "ebu-euroclassic-notturno",
+      "program_name": "Ebu Euroclassıc Notturno",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-21",
+      "aired_at": "2026-09-21",
+      "track_count": 16
+    },
     "trt/ebu-euroclassic-notturno/2026-09-20": {
       "episode_id": "trt/ebu-euroclassic-notturno/2026-09-20",
       "radio_id": "trt",
@@ -1852,6 +1924,18 @@
       "aired_at": "2026-09-01",
       "track_count": 29
     },
+    "trt/duygularin-muzigi/2026-09-21": {
+      "episode_id": "trt/duygularin-muzigi/2026-09-21",
+      "radio_id": "trt",
+      "program_id": -99427,
+      "program_slug": "duygularin-muzigi",
+      "program_name": "Duyguların Müziği",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-21",
+      "aired_at": "2026-09-21",
+      "track_count": 3
+    },
     "trt/duygularin-muzigi/2026-09-14": {
       "episode_id": "trt/duygularin-muzigi/2026-09-14",
       "radio_id": "trt",
@@ -2080,6 +2164,18 @@
       "aired_at": "2026-09-05",
       "track_count": 0
     },
+    "trt/armonik-tinilar/2026-09-21": {
+      "episode_id": "trt/armonik-tinilar/2026-09-21",
+      "radio_id": "trt",
+      "program_id": -43417,
+      "program_slug": "armonik-tinilar",
+      "program_name": "Armonik Tınılar",
+      "program_start_time": "14:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-21",
+      "aired_at": "2026-09-21",
+      "track_count": 1
+    },
     "trt/armonik-tinilar/2026-09-14": {
       "episode_id": "trt/armonik-tinilar/2026-09-14",
       "radio_id": "trt",
@@ -2103,6 +2199,18 @@
       "date": "2026-09-07",
       "aired_at": "2026-09-07",
       "track_count": 0
+    },
+    "trt/allegro/2026-09-21": {
+      "episode_id": "trt/allegro/2026-09-21",
+      "radio_id": "trt",
+      "program_id": 225,
+      "program_slug": "allegro",
+      "program_name": "Allegro",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 1740.0,
+      "date": "2026-09-21",
+      "aired_at": "2026-09-21",
+      "track_count": 3
     },
     "trt/allegro/2026-09-14": {
       "episode_id": "trt/allegro/2026-09-14",
