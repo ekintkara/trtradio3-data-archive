@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-22T10:38:01.973287+00:00",
+  "generated_at": "2026-09-23T10:30:27.204276+00:00",
   "radio_id": "standardfm",
   "month": "2026-09",
   "songs": {
@@ -874,6 +874,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "LJzCYSdrHMI",
+      "alternatives": []
+    },
+    "08e5904f3da43c57acd4": {
+      "song_id": "08e5904f3da43c57acd4",
+      "title": "Water of Love",
+      "artist": "Dire Straits",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "TT30jj_L1Dc",
       "alternatives": []
     },
     "08e66ebf48b2a5ca940b": {
