@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-24T10:47:35.010450+00:00",
+  "generated_at": "2026-09-25T10:52:07.386927+00:00",
   "radio_id": "radyoodtu",
   "month": "2026-09",
   "episodes": {
@@ -736,6 +736,18 @@
       "aired_at": "2026-09-16",
       "track_count": 32
     },
+    "radyoodtu/muzik-yayini/2026-09-25": {
+      "episode_id": "radyoodtu/muzik-yayini/2026-09-25",
+      "radio_id": "radyoodtu",
+      "program_id": 53,
+      "program_slug": "muzik-yayini",
+      "program_name": "Müzik Yayını",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 9480.0,
+      "date": "2026-09-25",
+      "aired_at": "2026-09-25",
+      "track_count": 23
+    },
     "radyoodtu/muzik-yayini/2026-09-18": {
       "episode_id": "radyoodtu/muzik-yayini/2026-09-18",
       "radio_id": "radyoodtu",
@@ -1011,6 +1023,18 @@
       "date": "2026-09-01",
       "aired_at": "2026-09-01",
       "track_count": 18
+    },
+    "radyoodtu/gunes-gozlugu/2026-09-25": {
+      "episode_id": "radyoodtu/gunes-gozlugu/2026-09-25",
+      "radio_id": "radyoodtu",
+      "program_id": 6,
+      "program_slug": "gunes-gozlugu",
+      "program_name": "Güneş Gözlüğü",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 180.0,
+      "date": "2026-09-25",
+      "aired_at": "2026-09-25",
+      "track_count": 130
     },
     "radyoodtu/gunes-gozlugu/2026-09-24": {
       "episode_id": "radyoodtu/gunes-gozlugu/2026-09-24",
@@ -1311,6 +1335,18 @@
       "date": "2026-09-05",
       "aired_at": "2026-09-05",
       "track_count": 1
+    },
+    "radyoodtu/bazilari-sinema-sever-ege-yildizhan-ve-cinar-tasci/2026-09-25": {
+      "episode_id": "radyoodtu/bazilari-sinema-sever-ege-yildizhan-ve-cinar-tasci/2026-09-25",
+      "radio_id": "radyoodtu",
+      "program_id": 76,
+      "program_slug": "bazilari-sinema-sever-ege-yildizhan-ve-cinar-tasci",
+      "program_name": "Bazıları Sinema Sever (Ege Yıldızhan ve Çınar Taşcı)",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-25",
+      "aired_at": "2026-09-25",
+      "track_count": 16
     }
   }
 }
