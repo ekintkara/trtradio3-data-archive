@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-25T10:52:07.386927+00:00",
+  "generated_at": "2026-09-26T10:32:51.359749+00:00",
   "radio_id": "acikradyo",
   "month": "2026-09",
   "episodes": {
@@ -14,6 +14,18 @@
       "recording_start_offset_sec": 0.0,
       "date": "2026-09-23",
       "aired_at": "2026-09-23",
+      "track_count": 6
+    },
+    "acikradyo/yeni-seyler-rejimi/2026-09-26": {
+      "episode_id": "acikradyo/yeni-seyler-rejimi/2026-09-26",
+      "radio_id": "acikradyo",
+      "program_id": 1784,
+      "program_slug": "yeni-seyler-rejimi",
+      "program_name": "Yeni Şeyler Rejimi",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-26",
+      "aired_at": "2026-09-26",
       "track_count": 6
     },
     "acikradyo/yeni-seyler-rejimi/2026-09-12": {
@@ -640,6 +652,18 @@
       "aired_at": "2026-09-18",
       "track_count": 14
     },
+    "acikradyo/harici-bellek/2026-09-26": {
+      "episode_id": "acikradyo/harici-bellek/2026-09-26",
+      "radio_id": "acikradyo",
+      "program_id": 1785,
+      "program_slug": "harici-bellek",
+      "program_name": "Harici Bellek",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-26",
+      "aired_at": "2026-09-26",
+      "track_count": 5
+    },
     "acikradyo/harici-bellek/2026-09-19": {
       "episode_id": "acikradyo/harici-bellek/2026-09-19",
       "radio_id": "acikradyo",
@@ -952,6 +976,18 @@
       "aired_at": "2026-09-20",
       "track_count": 7
     },
+    "acikradyo/caz-turbulans/2026-09-26": {
+      "episode_id": "acikradyo/caz-turbulans/2026-09-26",
+      "radio_id": "acikradyo",
+      "program_id": 1779,
+      "program_slug": "caz-turbulans",
+      "program_name": "Caz Türbülans",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 180.0,
+      "date": "2026-09-26",
+      "aired_at": "2026-09-26",
+      "track_count": 4
+    },
     "acikradyo/caz-turbulans/2026-09-19": {
       "episode_id": "acikradyo/caz-turbulans/2026-09-19",
       "radio_id": "acikradyo",
@@ -1035,6 +1071,18 @@
       "date": "2026-09-21",
       "aired_at": "2026-09-21",
       "track_count": 9
+    },
+    "acikradyo/apacik-radyo-muzikleri/2026-09-26": {
+      "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-09-26",
+      "radio_id": "acikradyo",
+      "program_id": 1781,
+      "program_slug": "apacik-radyo-muzikleri",
+      "program_name": "Apaçık Radyo Müzikleri",
+      "program_start_time": "02:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-26",
+      "aired_at": "2026-09-26",
+      "track_count": 25
     },
     "acikradyo/apacik-radyo-muzikleri/2026-09-25": {
       "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-09-25",
@@ -1347,6 +1395,18 @@
       "date": "2026-09-23",
       "aired_at": "2026-09-23",
       "track_count": 1
+    },
+    "acikradyo/acik-kabin/2026-09-26": {
+      "episode_id": "acikradyo/acik-kabin/2026-09-26",
+      "radio_id": "acikradyo",
+      "program_id": 1780,
+      "program_slug": "acik-kabin",
+      "program_name": "Açık Kabin",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-26",
+      "aired_at": "2026-09-26",
+      "track_count": 3
     },
     "acikradyo/acik-kabin/2026-09-19": {
       "episode_id": "acikradyo/acik-kabin/2026-09-19",

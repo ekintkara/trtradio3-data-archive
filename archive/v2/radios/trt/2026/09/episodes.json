@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-25T10:52:07.386927+00:00",
+  "generated_at": "2026-09-26T10:32:51.359749+00:00",
   "radio_id": "trt",
   "month": "2026-09",
   "episodes": {
@@ -350,6 +350,18 @@
       "recording_start_offset_sec": 0.0,
       "date": "2026-09-05",
       "aired_at": "2026-09-05",
+      "track_count": 3
+    },
+    "trt/radyo-3-sabah/2026-09-26": {
+      "episode_id": "trt/radyo-3-sabah/2026-09-26",
+      "radio_id": "trt",
+      "program_id": -74698,
+      "program_slug": "radyo-3-sabah",
+      "program_name": "Radyo 3 Sabah",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-26",
+      "aired_at": "2026-09-26",
       "track_count": 3
     },
     "trt/radyo-3-sabah/2026-09-25": {
@@ -1336,6 +1348,18 @@
       "aired_at": "2026-09-04",
       "track_count": 1
     },
+    "trt/laterna/2026-09-26": {
+      "episode_id": "trt/laterna/2026-09-26",
+      "radio_id": "trt",
+      "program_id": -16362,
+      "program_slug": "laterna",
+      "program_name": "Laterna",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-26",
+      "aired_at": "2026-09-26",
+      "track_count": 0
+    },
     "trt/laterna/2026-09-19": {
       "episode_id": "trt/laterna/2026-09-19",
       "radio_id": "trt",
@@ -1611,6 +1635,18 @@
       "date": "2026-09-05",
       "aired_at": "2026-09-05",
       "track_count": 3
+    },
+    "trt/gece-ve-muzik/2026-09-26": {
+      "episode_id": "trt/gece-ve-muzik/2026-09-26",
+      "radio_id": "trt",
+      "program_id": -36535,
+      "program_slug": "gece-ve-muzik",
+      "program_name": "Gece ve Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 180.0,
+      "date": "2026-09-26",
+      "aired_at": "2026-09-26",
+      "track_count": 11
     },
     "trt/gece-ve-muzik/2026-09-25": {
       "episode_id": "trt/gece-ve-muzik/2026-09-25",
@@ -1995,6 +2031,18 @@
       "date": "2026-09-06",
       "aired_at": "2026-09-06",
       "track_count": 6
+    },
+    "trt/ebu-euroclassic-notturno/2026-09-26": {
+      "episode_id": "trt/ebu-euroclassic-notturno/2026-09-26",
+      "radio_id": "trt",
+      "program_id": -310,
+      "program_slug": "ebu-euroclassic-notturno",
+      "program_name": "Ebu Euroclassıc Notturno",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-26",
+      "aired_at": "2026-09-26",
+      "track_count": 14
     },
     "trt/ebu-euroclassic-notturno/2026-09-25": {
       "episode_id": "trt/ebu-euroclassic-notturno/2026-09-25",
@@ -2559,6 +2607,18 @@
       "date": "2026-09-02",
       "aired_at": "2026-09-02",
       "track_count": 2
+    },
+    "trt/basrolde-kadinlar/2026-09-26": {
+      "episode_id": "trt/basrolde-kadinlar/2026-09-26",
+      "radio_id": "trt",
+      "program_id": -24951,
+      "program_slug": "basrolde-kadinlar",
+      "program_name": "Başrolde Kadınlar",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-26",
+      "aired_at": "2026-09-26",
+      "track_count": 0
     },
     "trt/basrolde-kadinlar/2026-09-19": {
       "episode_id": "trt/basrolde-kadinlar/2026-09-19",

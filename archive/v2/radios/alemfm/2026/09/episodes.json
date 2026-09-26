@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-25T10:52:07.386927+00:00",
+  "generated_at": "2026-09-26T10:32:51.359749+00:00",
   "radio_id": "alemfm",
   "month": "2026-09",
   "episodes": {
@@ -220,6 +220,18 @@
       "aired_at": "2026-09-07",
       "track_count": 15
     },
+    "alemfm/canli-yayin-alemfm/2026-09-26": {
+      "episode_id": "alemfm/canli-yayin-alemfm/2026-09-26",
+      "radio_id": "alemfm",
+      "program_id": 7292,
+      "program_slug": "canli-yayin-alemfm",
+      "program_name": "Canlı Yayın",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 180.0,
+      "date": "2026-09-26",
+      "aired_at": "2026-09-26",
+      "track_count": 206
+    },
     "alemfm/canli-yayin-alemfm/2026-09-19": {
       "episode_id": "alemfm/canli-yayin-alemfm/2026-09-19",
       "radio_id": "alemfm",
@@ -243,6 +255,18 @@
       "date": "2026-09-12",
       "aired_at": "2026-09-12",
       "track_count": 176
+    },
+    "alemfm/alemin-en-iyileri/2026-09-26": {
+      "episode_id": "alemfm/alemin-en-iyileri/2026-09-26",
+      "radio_id": "alemfm",
+      "program_id": 7447,
+      "program_slug": "alemin-en-iyileri",
+      "program_name": "Alem’in En İyileri",
+      "program_start_time": "02:00",
+      "recording_start_offset_sec": 19680.0,
+      "date": "2026-09-26",
+      "aired_at": "2026-09-26",
+      "track_count": 96
     },
     "alemfm/alemin-en-iyileri/2026-09-25": {
       "episode_id": "alemfm/alemin-en-iyileri/2026-09-25",
