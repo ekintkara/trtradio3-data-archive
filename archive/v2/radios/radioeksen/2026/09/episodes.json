@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-26T10:32:51.359749+00:00",
+  "generated_at": "2026-09-27T11:04:25.925156+00:00",
   "radio_id": "radioeksen",
   "month": "2026-09",
   "episodes": {
+    "radioeksen/radyo-eksen--oldies/2026-09-27": {
+      "episode_id": "radioeksen/radyo-eksen--oldies/2026-09-27",
+      "radio_id": "radioeksen",
+      "program_id": 1642,
+      "program_slug": "radyo-eksen--oldies",
+      "program_name": "RADYO EKSEN -OLDIES",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 4080.0,
+      "date": "2026-09-27",
+      "aired_at": "2026-09-27",
+      "track_count": 33
+    },
     "radioeksen/radyo-eksen--oldies/2026-09-26": {
       "episode_id": "radioeksen/radyo-eksen--oldies/2026-09-26",
       "radio_id": "radioeksen",
@@ -87,6 +99,18 @@
       "date": "2026-09-05",
       "aired_at": "2026-09-05",
       "track_count": 46
+    },
+    "radioeksen/guven-yildiz--trio/2026-09-27": {
+      "episode_id": "radioeksen/guven-yildiz--trio/2026-09-27",
+      "radio_id": "radioeksen",
+      "program_id": -90435,
+      "program_slug": "guven-yildiz--trio",
+      "program_name": "GÜVEN YILDIZ -TRIO",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-27",
+      "aired_at": "2026-09-27",
+      "track_count": 13
     },
     "radioeksen/guven-yildiz--trio/2026-09-20": {
       "episode_id": "radioeksen/guven-yildiz--trio/2026-09-20",
@@ -579,6 +603,18 @@
       "date": "2026-09-01",
       "aired_at": "2026-09-01",
       "track_count": 38
+    },
+    "radioeksen/eksen-muzik/2026-09-27": {
+      "episode_id": "radioeksen/eksen-muzik/2026-09-27",
+      "radio_id": "radioeksen",
+      "program_id": -47869,
+      "program_slug": "eksen-muzik",
+      "program_name": "Eksen Müzik",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-27",
+      "aired_at": "2026-09-27",
+      "track_count": 31
     },
     "radioeksen/eksen-muzik/2026-09-26": {
       "episode_id": "radioeksen/eksen-muzik/2026-09-26",
