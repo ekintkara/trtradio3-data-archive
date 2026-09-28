@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-27T11:04:25.925156+00:00",
+  "generated_at": "2026-09-28T12:25:50.104237+00:00",
   "radio_id": "trt",
   "month": "2026-09",
   "songs": {
@@ -338,6 +338,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "jPSwsjB1ZA8",
+      "alternatives": []
+    },
+    "040ab6460d688339dece": {
+      "song_id": "040ab6460d688339dece",
+      "title": "Fire of His Presence",
+      "artist": "Jacob Agendia",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "BYcQxI8q4hM",
       "alternatives": []
     },
     "0456f5f4851f026702a6": {
@@ -3129,6 +3141,18 @@
       "youtube_video_id": "CbwfT0Fs3nM",
       "alternatives": []
     },
+    "26ece45657b7a7c766b8": {
+      "song_id": "26ece45657b7a7c766b8",
+      "title": "March In D Major, K. 335, No. 1",
+      "artist": "Cappella Coloniensis & Joshua Rifkin",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "nL6MpOd1vs0",
+      "alternatives": []
+    },
     "276e537e041e35870275": {
       "song_id": "276e537e041e35870275",
       "title": "Sonata 'Moonlight' 1st Mm-Beethoven",
@@ -3458,6 +3482,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "4tIoCwgbHOM",
+      "alternatives": []
+    },
+    "2af48c4836f8836b3104": {
+      "song_id": "2af48c4836f8836b3104",
+      "title": "Relaxing Piano Music 1 Hr, Vol. 1",
+      "artist": "Christine Hye-Su Kim",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "pjJm6uveeyg",
       "alternatives": []
     },
     "2b0438958e5a2ee00410": {
@@ -4103,6 +4139,18 @@
       "youtube_video_id": "ZPY1OzQrb3I",
       "alternatives": []
     },
+    "33802148d523aa1411f1": {
+      "song_id": "33802148d523aa1411f1",
+      "title": "Girl of My Best Friend",
+      "artist": "Bryan Ferry",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "prIxFXUYwWs",
+      "alternatives": []
+    },
     "339696954f6446607028": {
       "song_id": "339696954f6446607028",
       "title": "Find Yourself (Cosmic Gate Remix;Asot Podcast 084)",
@@ -4638,6 +4686,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "jLlCn_pndq4",
+      "alternatives": []
+    },
+    "39fa094b9deaaa384c63": {
+      "song_id": "39fa094b9deaaa384c63",
+      "title": "MHEPO PT2",
+      "artist": "Tichy",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "_tB0NZ0wxw0",
+      "alternatives": []
+    },
+    "3a2d1fffa434610b7570": {
+      "song_id": "3a2d1fffa434610b7570",
+      "title": "Take It Back",
+      "artist": "Norah Jones",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "dJQxoSCH-zk",
       "alternatives": []
     },
     "3a9b44ff1ae0bc431982": {
@@ -5286,6 +5358,18 @@
       "youtube_video_id": "FOTlk4Db3pc",
       "alternatives": []
     },
+    "431c233e8ebf82706924": {
+      "song_id": "431c233e8ebf82706924",
+      "title": "Waltzes Nos. 1-14: Waltz No. 1 in E-Flat Major, Op. 18, \"Grande valse brillante\"",
+      "artist": "Géza Anda",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "5lsVOxRePCI",
+      "alternatives": []
+    },
     "4365e46eb0cd0f77dd3b": {
       "song_id": "4365e46eb0cd0f77dd3b",
       "title": "Shattered Drugs",
@@ -5356,7 +5440,14 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "OAIQIwpLGlo",
-      "alternatives": []
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Sonata No. 13 in B Flat, K.333: I. Allegro",
+          "artist": "Daniel Barenboim",
+          "confidence": 0.55
+        }
+      ]
     },
     "4426a882ec1a6cc6a9a2": {
       "song_id": "4426a882ec1a6cc6a9a2",
@@ -5392,6 +5483,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "JpWT2vJZvj8",
+      "alternatives": []
+    },
+    "4500829e1db488e61298": {
+      "song_id": "4500829e1db488e61298",
+      "title": "Happy Feelings",
+      "artist": "After12",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "72AHWASTiCc",
+      "alternatives": []
+    },
+    "456fcb52f19e54392eaf": {
+      "song_id": "456fcb52f19e54392eaf",
+      "title": "Dieci ragioni per vivere",
+      "artist": "Michele Zarrillo",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "S6zxqsWHgBQ",
       "alternatives": []
     },
     "45920de791caecc20669": {
@@ -5810,6 +5925,25 @@
       "youtube_video_id": "",
       "alternatives": []
     },
+    "4a14fbfc4aaaef88e0b0": {
+      "song_id": "4a14fbfc4aaaef88e0b0",
+      "title": "Piano Sonata No. 13 in B Flat, K.333: III. Allegretto grazioso",
+      "artist": "Daniel Barenboim",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "EWqxH3bxuLE",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Sonata No. 13 in B-Flat Major, K. 333: III. Allegretto grazioso",
+          "artist": "András Schiff",
+          "confidence": 0.55
+        }
+      ]
+    },
     "4a907c449ef9404d6d34": {
       "song_id": "4a907c449ef9404d6d34",
       "title": "Whenever You Call",
@@ -5820,6 +5954,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "VjXzWrgHSWk",
+      "alternatives": []
+    },
+    "4b2e99ff03e7b41716b9": {
+      "song_id": "4b2e99ff03e7b41716b9",
+      "title": "Long Cool Girl",
+      "artist": "Mark Knopfler",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; folk; blues rock",
+      "youtube_video_id": "NBhd5EaxuYI",
       "alternatives": []
     },
     "4b40608da976155f7fe2": {
@@ -5947,6 +6093,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "cPdaIVV_eLg",
+      "alternatives": []
+    },
+    "4d5c846c7f186a3659dd": {
+      "song_id": "4d5c846c7f186a3659dd",
+      "title": "Sonata No. 3 In B Flat Major, K.281 II.",
+      "artist": "Wolfgang Amadeus Mozart & Vadim Chaimovich",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "xRCGxDeKTTM",
       "alternatives": []
     },
     "4d7d18140e06eb6db53b": {
@@ -6304,6 +6462,18 @@
       "youtube_video_id": "52ldZHL69bQ",
       "alternatives": []
     },
+    "53341740f112c42fe36a": {
+      "song_id": "53341740f112c42fe36a",
+      "title": "Burn it Down Riddim (Instrumental)",
+      "artist": "Kemar McGregor & Stephan Warren",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "X-gVFtHy87c",
+      "alternatives": []
+    },
     "5368960b03b9e144fb02": {
       "song_id": "5368960b03b9e144fb02",
       "title": "Secret Flame",
@@ -6423,6 +6593,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "2fefhf5dMFo",
+      "alternatives": []
+    },
+    "54d343a518f78475e22f": {
+      "song_id": "54d343a518f78475e22f",
+      "title": "Your Eyes",
+      "artist": "Vladimir Cosma & Cook da Books",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "5hYXy6yQPo0",
       "alternatives": []
     },
     "54ddfef57a21a1b58343": {
@@ -6811,6 +6993,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "mtGm-mWVH9c",
+      "alternatives": []
+    },
+    "59a67fbefaee16b7710d": {
+      "song_id": "59a67fbefaee16b7710d",
+      "title": "i",
+      "artist": "GreenMan",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ToBYkFeOWqA",
       "alternatives": []
     },
     "59bac9a71b0bab84ea75": {
@@ -7688,6 +7882,18 @@
       "youtube_video_id": "fB7Vm-t5oHs",
       "alternatives": []
     },
+    "63e3a29d3f4db12f510d": {
+      "song_id": "63e3a29d3f4db12f510d",
+      "title": "Hiro (feat. Indila)",
+      "artist": "Soprano",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "VLPRQUbhIT0",
+      "alternatives": []
+    },
     "640e4d3dc432192d7c1e": {
       "song_id": "640e4d3dc432192d7c1e",
       "title": "Scherzo No.4 in E major, Op.54",
@@ -7710,6 +7916,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "hr-Ug1RAdpg",
+      "alternatives": []
+    },
+    "645f05c1b02533bbd9e7": {
+      "song_id": "645f05c1b02533bbd9e7",
+      "title": "Sonata Grill",
+      "artist": "Edu Gospel",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "qjk-YRuQZDE",
       "alternatives": []
     },
     "646c3e3cb5ea2ce77547": {
@@ -7818,6 +8036,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "z142HK8V-hE",
+      "alternatives": []
+    },
+    "65cd4e308210e2cc6c2a": {
+      "song_id": "65cd4e308210e2cc6c2a",
+      "title": "虞兮叹",
+      "artist": "闻人听书_",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "bUjuowPASe0",
       "alternatives": []
     },
     "65d135db1b5158a1d5ee": {
@@ -8836,6 +9066,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Vu4D8CHCkcw",
+      "alternatives": []
+    },
+    "72c33bf4ac674efeee51": {
+      "song_id": "72c33bf4ac674efeee51",
+      "title": "Suite for Cello and Piano Jazz Trio: VI. Cello Fan",
+      "artist": "Andrzej Wrobel, Paweł Perliński, Andrzej Lukasik & Adam Lewandowski",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "WHPxVVX2pFE",
       "alternatives": []
     },
     "72c41ba8972dc5dd6154": {
@@ -10750,6 +10992,18 @@
       "youtube_video_id": "XccPZPy-b40",
       "alternatives": []
     },
+    "8b75832e2903483a17a1": {
+      "song_id": "8b75832e2903483a17a1",
+      "title": "Separate Tables (97 Version)",
+      "artist": "Chris de Burgh",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ah_qWlzmk68",
+      "alternatives": []
+    },
     "8bcc19b9035e29f800b5": {
       "song_id": "8bcc19b9035e29f800b5",
       "title": "Carol Of The Bells (10th Anniversary Edition)",
@@ -11120,6 +11374,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "UuQdEyz6b6w",
+      "alternatives": []
+    },
+    "9090b3d3fe3451c7ff9e": {
+      "song_id": "9090b3d3fe3451c7ff9e",
+      "title": "Do You Remember?",
+      "artist": "Phil Collins",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "hhfx1MdjnZc",
       "alternatives": []
     },
     "90a40ef99adb804d928f": {
@@ -13013,6 +13279,18 @@
       "youtube_video_id": "bbIOb1sUzco",
       "alternatives": []
     },
+    "a6575226e736284ffa96": {
+      "song_id": "a6575226e736284ffa96",
+      "title": "Fonte do Amor (Playback)",
+      "artist": "Ns",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "aTwCDxa3y8k",
+      "alternatives": []
+    },
     "a685cd31ab61940110d7": {
       "song_id": "a685cd31ab61940110d7",
       "title": "Show Me More Holy Spirit",
@@ -13252,6 +13530,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "te7bbWBXusk",
+      "alternatives": []
+    },
+    "a92cec711f154bc32390": {
+      "song_id": "a92cec711f154bc32390",
+      "title": "Close Your Eyes",
+      "artist": "Lily Allen",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "vxIfzxUqLjc",
       "alternatives": []
     },
     "a9432fd67a8a2e9d5b46": {
@@ -13990,6 +14280,18 @@
       "youtube_video_id": "AqT3wbySybQ",
       "alternatives": []
     },
+    "b407c6e9fed723ee96ad": {
+      "song_id": "b407c6e9fed723ee96ad",
+      "title": "Suite für Orchester Nr. 2 h-moll, BWV 1067: Menuett - Badinerie",
+      "artist": "Neues Bachsches Collegium Musicum Leipzig & Max Pommer",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ntGvClyrtXw",
+      "alternatives": []
+    },
     "b40a17a04468ad29ef46": {
       "song_id": "b40a17a04468ad29ef46",
       "title": "A Place In The Sun",
@@ -14141,6 +14443,26 @@
         }
       ]
     },
+    "b6877ce4830ce9c54869": {
+      "song_id": "b6877ce4830ce9c54869",
+      "title": "Prelude and Fugue in E-Flat Major Op. 99, No. 3",
+      "artist": "Robert Delcamp",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "DkC2x_hnnbk",
+      "alternatives": [
+        {
+          "source": "audd",
+          "title": "Passacaglia & Fugue in C Minor, BWV 582: Passacaglia",
+          "artist": "E. Power Biggs",
+          "confidence": 0.85,
+          "album": "Bach: Works for Organ"
+        }
+      ]
+    },
     "b6c7534f4e667f18ad2d": {
       "song_id": "b6c7534f4e667f18ad2d",
       "title": "Home To Me",
@@ -14211,6 +14533,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "TYTfTRsa3Lw",
+      "alternatives": []
+    },
+    "b760809cc76cad44dd70": {
+      "song_id": "b760809cc76cad44dd70",
+      "title": "Sonata No. 14 C# Minor (Moonlight) Opus 27,2 3 Ali",
+      "artist": "I Like Beethoven",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "H-LhX32UsdY",
       "alternatives": []
     },
     "b7e0c8426e49ad4003b5": {
@@ -14767,6 +15101,18 @@
       "youtube_video_id": "VX5TIDJSs5k",
       "alternatives": []
     },
+    "bf18dcbe94e26eab9857": {
+      "song_id": "bf18dcbe94e26eab9857",
+      "title": "Piano Sonata No. 13 in B-Flat Major, K. 333: II. Andante cantabile",
+      "artist": "Ingrid Haebler",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "x1xdqcT3hck",
+      "alternatives": []
+    },
     "bf1f2954ba77d6f06968": {
       "song_id": "bf1f2954ba77d6f06968",
       "title": "Impromptus, Op. 90 D. 899: No. 3 en sol bémol majeur",
@@ -14897,6 +15243,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "m5l1hvpUe_k",
+      "alternatives": []
+    },
+    "c0e73902a12bcc2dd379": {
+      "song_id": "c0e73902a12bcc2dd379",
+      "title": "Variations and Fugue on a Theme by Handel, Op. 24",
+      "artist": "Claudio Arrau",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "MAln8yjQSoU",
       "alternatives": []
     },
     "c1076ea45956b7912681": {
@@ -16130,6 +16488,18 @@
       "youtube_video_id": "O5Q2j7srAHs",
       "alternatives": []
     },
+    "cfe3ab25d0d9068bcd01": {
+      "song_id": "cfe3ab25d0d9068bcd01",
+      "title": "Dreamy Lake (Extended Version)",
+      "artist": "Hills of Freedom",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "mm0QSsRwzUo",
+      "alternatives": []
+    },
     "cff1897c1ea5e0aea7e5": {
       "song_id": "cff1897c1ea5e0aea7e5",
       "title": "Symphony No. 1 in D Major: I. Langsam. Schleppend",
@@ -16140,6 +16510,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "V6kIEhlHGZ8",
+      "alternatives": []
+    },
+    "d01c53b72b7ec45e4101": {
+      "song_id": "d01c53b72b7ec45e4101",
+      "title": "Take My Breath",
+      "artist": "The Weeknd",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "rhTl_OyehF8",
       "alternatives": []
     },
     "d01f3ae94c18ff80a272": {
@@ -16528,6 +16910,18 @@
         }
       ]
     },
+    "d63cebffd623136e7de7": {
+      "song_id": "d63cebffd623136e7de7",
+      "title": "BLUE JEANS",
+      "artist": "LANA DEL REY",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "JRWox-i6aAk",
+      "alternatives": []
+    },
     "d649d8de9850db47dba4": {
       "song_id": "d649d8de9850db47dba4",
       "title": "Because We Believe",
@@ -16826,6 +17220,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "0GlEfM-SLWk",
+      "alternatives": []
+    },
+    "da171839792f7aeca31f": {
+      "song_id": "da171839792f7aeca31f",
+      "title": "Sonata In F Minor, K. 466-Andante Moderato",
+      "artist": "Master Of Learning",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "5neQMIDHbgs",
       "alternatives": []
     },
     "da8a05b95e378855382c": {
@@ -17624,6 +18030,18 @@
       "youtube_video_id": "wcJNLZY5FhY",
       "alternatives": []
     },
+    "e39db3f4306df09a6f87": {
+      "song_id": "e39db3f4306df09a6f87",
+      "title": "Northern Glow",
+      "artist": "321fly",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
+      "alternatives": []
+    },
     "e3f094a2ff494491768b": {
       "song_id": "e3f094a2ff494491768b",
       "title": "Nacionales Nº 1",
@@ -17942,6 +18360,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "JE0-YwNEJq4",
+      "alternatives": []
+    },
+    "e8a082349ab9f10a9a7c": {
+      "song_id": "e8a082349ab9f10a9a7c",
+      "title": "Endurance Run Music",
+      "artist": "Sandy Khippal",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "6cRlBG9YcHk",
       "alternatives": []
     },
     "e8c43b8dd2b4c85b949a": {
@@ -18452,6 +18882,18 @@
       "youtube_video_id": "kwj226N-Ghs",
       "alternatives": []
     },
+    "ef45a7c5fa2af2efce1f": {
+      "song_id": "ef45a7c5fa2af2efce1f",
+      "title": "ONLY LOVE",
+      "artist": "BEN HOWARD",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "OWlKZ6C7cDY",
+      "alternatives": []
+    },
     "f00fd3c1e499906ea2e2": {
       "song_id": "f00fd3c1e499906ea2e2",
       "title": "Black Is Black / Skinnie Minnie / Sheila / Baby Come Back / I Get So Excited",
@@ -18917,6 +19359,18 @@
       "youtube_video_id": "vs_HxJ6FQII",
       "alternatives": []
     },
+    "f4c5e071680babeb34a7": {
+      "song_id": "f4c5e071680babeb34a7",
+      "title": "Sonata in E Minor: III. Scherzo (Allegro)",
+      "artist": "Cole Burger",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "3wJOwoqK14w",
+      "alternatives": []
+    },
     "f4f4ea50074edc55ee75": {
       "song_id": "f4f4ea50074edc55ee75",
       "title": "No Boat With Oars (Key of David)",
@@ -18939,6 +19393,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "4aZHNqRjtO8",
+      "alternatives": []
+    },
+    "f55bdfc27ffb2ad8b429": {
+      "song_id": "f55bdfc27ffb2ad8b429",
+      "title": "Das wohltemperierte Klavier, Buch I, BWV 846-869: Nos. 1-5",
+      "artist": "Pavica Gvozdić",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
       "alternatives": []
     },
     "f56cabc9aaf26be67c3e": {
@@ -19836,6 +20302,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "pslseurRklw",
+      "alternatives": []
+    },
+    "ffa790659fc13440d320": {
+      "song_id": "ffa790659fc13440d320",
+      "title": "Hand to Mouth",
+      "artist": "George Michael",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "G-dEqEfw1yI",
       "alternatives": []
     },
     "fff7ad7ccaa1ee78deee": {
