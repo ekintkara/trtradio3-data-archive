@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-28T12:25:50.104237+00:00",
+  "generated_at": "2026-09-29T11:51:07.371590+00:00",
   "radio_id": "trt",
   "month": "2026-09",
   "episodes": {
+    "trt/zamanin-ruhu/2026-09-29": {
+      "episode_id": "trt/zamanin-ruhu/2026-09-29",
+      "radio_id": "trt",
+      "program_id": 1645,
+      "program_slug": "zamanin-ruhu",
+      "program_name": "Zamanın Ruhu",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-29",
+      "aired_at": "2026-09-29",
+      "track_count": 5
+    },
     "trt/zamanin-ruhu/2026-09-22": {
       "episode_id": "trt/zamanin-ruhu/2026-09-22",
       "radio_id": "trt",
@@ -388,6 +400,18 @@
       "aired_at": "2026-09-05",
       "track_count": 3
     },
+    "trt/radyo-3-sabah/2026-09-29": {
+      "episode_id": "trt/radyo-3-sabah/2026-09-29",
+      "radio_id": "trt",
+      "program_id": -80967,
+      "program_slug": "radyo-3-sabah",
+      "program_name": "Radyo 3 Sabah",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-29",
+      "aired_at": "2026-09-29",
+      "track_count": 5
+    },
     "trt/radyo-3-sabah/2026-09-28": {
       "episode_id": "trt/radyo-3-sabah/2026-09-28",
       "radio_id": "trt",
@@ -724,6 +748,18 @@
       "aired_at": "2026-09-01",
       "track_count": 5
     },
+    "trt/radyo-3-gunisigi/2026-09-29": {
+      "episode_id": "trt/radyo-3-gunisigi/2026-09-29",
+      "radio_id": "trt",
+      "program_id": -50949,
+      "program_slug": "radyo-3-gunisigi",
+      "program_name": "Radyo 3 Günışığı",
+      "program_start_time": "07:05",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-29",
+      "aired_at": "2026-09-29",
+      "track_count": 3
+    },
     "trt/radyo-3-gunisigi/2026-09-25": {
       "episode_id": "trt/radyo-3-gunisigi/2026-09-25",
       "radio_id": "trt",
@@ -1036,6 +1072,18 @@
       "aired_at": "2026-09-03",
       "track_count": 6
     },
+    "trt/odadan-dunyaya/2026-09-29": {
+      "episode_id": "trt/odadan-dunyaya/2026-09-29",
+      "radio_id": "trt",
+      "program_id": -96852,
+      "program_slug": "odadan-dunyaya",
+      "program_name": "Odadan Dünyaya",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-29",
+      "aired_at": "2026-09-29",
+      "track_count": 3
+    },
     "trt/odadan-dunyaya/2026-09-22": {
       "episode_id": "trt/odadan-dunyaya/2026-09-22",
       "radio_id": "trt",
@@ -1180,6 +1228,18 @@
       "aired_at": "2026-09-06",
       "track_count": 9
     },
+    "trt/muzikli-gunce/2026-09-29": {
+      "episode_id": "trt/muzikli-gunce/2026-09-29",
+      "radio_id": "trt",
+      "program_id": 142,
+      "program_slug": "muzikli-gunce",
+      "program_name": "Müzikli Günce",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-29",
+      "aired_at": "2026-09-29",
+      "track_count": 13
+    },
     "trt/muzikli-gunce/2026-09-22": {
       "episode_id": "trt/muzikli-gunce/2026-09-22",
       "radio_id": "trt",
@@ -1263,6 +1323,18 @@
       "date": "2026-09-02",
       "aired_at": "2026-09-02",
       "track_count": 9
+    },
+    "trt/muzigin-rotasi/2026-09-29": {
+      "episode_id": "trt/muzigin-rotasi/2026-09-29",
+      "radio_id": "trt",
+      "program_id": -68074,
+      "program_slug": "muzigin-rotasi",
+      "program_name": "Müziğin Rotası",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-29",
+      "aired_at": "2026-09-29",
+      "track_count": 4
     },
     "trt/muzigin-rotasi/2026-09-22": {
       "episode_id": "trt/muzigin-rotasi/2026-09-22",
@@ -1684,6 +1756,18 @@
       "aired_at": "2026-09-21",
       "track_count": 0
     },
+    "trt/gunumuzu-dinlemek/2026-09-29": {
+      "episode_id": "trt/gunumuzu-dinlemek/2026-09-29",
+      "radio_id": "trt",
+      "program_id": -67631,
+      "program_slug": "gunumuzu-dinlemek",
+      "program_name": "Günümüzü Dinlemek",
+      "program_start_time": "14:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-29",
+      "aired_at": "2026-09-29",
+      "track_count": 0
+    },
     "trt/guneyde-bir-yer/2026-09-24": {
       "episode_id": "trt/guneyde-bir-yer/2026-09-24",
       "radio_id": "trt",
@@ -1755,6 +1839,18 @@
       "date": "2026-09-05",
       "aired_at": "2026-09-05",
       "track_count": 3
+    },
+    "trt/gece-ve-muzik/2026-09-29": {
+      "episode_id": "trt/gece-ve-muzik/2026-09-29",
+      "radio_id": "trt",
+      "program_id": -62015,
+      "program_slug": "gece-ve-muzik",
+      "program_name": "Gece ve Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 180.0,
+      "date": "2026-09-29",
+      "aired_at": "2026-09-29",
+      "track_count": 12
     },
     "trt/gece-ve-muzik/2026-09-28": {
       "episode_id": "trt/gece-ve-muzik/2026-09-28",
@@ -2175,6 +2271,18 @@
       "date": "2026-09-06",
       "aired_at": "2026-09-06",
       "track_count": 6
+    },
+    "trt/ebu-euroclassic-notturno/2026-09-29": {
+      "episode_id": "trt/ebu-euroclassic-notturno/2026-09-29",
+      "radio_id": "trt",
+      "program_id": -40523,
+      "program_slug": "ebu-euroclassic-notturno",
+      "program_name": "Ebu Euroclassıc Notturno",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-29",
+      "aired_at": "2026-09-29",
+      "track_count": 15
     },
     "trt/ebu-euroclassic-notturno/2026-09-28": {
       "episode_id": "trt/ebu-euroclassic-notturno/2026-09-28",
@@ -2943,6 +3051,18 @@
       "date": "2026-09-07",
       "aired_at": "2026-09-07",
       "track_count": 18
+    },
+    "trt/akdeniz-melodileri/2026-09-29": {
+      "episode_id": "trt/akdeniz-melodileri/2026-09-29",
+      "radio_id": "trt",
+      "program_id": -53633,
+      "program_slug": "akdeniz-melodileri",
+      "program_name": "Akdeniz Melodileri",
+      "program_start_time": "12:05",
+      "recording_start_offset_sec": 3120.0,
+      "date": "2026-09-29",
+      "aired_at": "2026-09-29",
+      "track_count": 1
     },
     "trt/akdeniz-melodileri/2026-09-22": {
       "episode_id": "trt/akdeniz-melodileri/2026-09-22",

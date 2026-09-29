@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-28T12:25:50.104237+00:00",
+  "generated_at": "2026-09-29T11:51:07.371590+00:00",
   "radio_id": "acikradyo",
   "month": "2026-09",
   "episodes": {
@@ -147,6 +147,18 @@
       "date": "2026-09-02",
       "aired_at": "2026-09-02",
       "track_count": 1
+    },
+    "acikradyo/sevgili-gunluk/2026-09-29": {
+      "episode_id": "acikradyo/sevgili-gunluk/2026-09-29",
+      "radio_id": "acikradyo",
+      "program_id": 1696,
+      "program_slug": "sevgili-gunluk",
+      "program_name": "Sevgili Günlük",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-29",
+      "aired_at": "2026-09-29",
+      "track_count": 3
     },
     "acikradyo/sevgili-gunluk/2026-09-28": {
       "episode_id": "acikradyo/sevgili-gunluk/2026-09-28",
@@ -364,6 +376,18 @@
       "aired_at": "2026-09-17",
       "track_count": 20
     },
+    "acikradyo/rock-rock/2026-09-29": {
+      "episode_id": "acikradyo/rock-rock/2026-09-29",
+      "radio_id": "acikradyo",
+      "program_id": 1690,
+      "program_slug": "rock-rock",
+      "program_name": "Rock on Rock",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 180.0,
+      "date": "2026-09-29",
+      "aired_at": "2026-09-29",
+      "track_count": 5
+    },
     "acikradyo/rock-rock/2026-09-22": {
       "episode_id": "acikradyo/rock-rock/2026-09-22",
       "radio_id": "acikradyo",
@@ -423,6 +447,18 @@
       "date": "2026-09-05",
       "aired_at": "2026-09-05",
       "track_count": 16
+    },
+    "acikradyo/polikrom/2026-09-29": {
+      "episode_id": "acikradyo/polikrom/2026-09-29",
+      "radio_id": "acikradyo",
+      "program_id": 1699,
+      "program_slug": "polikrom",
+      "program_name": "Polikrom",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-29",
+      "aired_at": "2026-09-29",
+      "track_count": 4
     },
     "acikradyo/polikrom/2026-09-22": {
       "episode_id": "acikradyo/polikrom/2026-09-22",
@@ -855,6 +891,18 @@
       "date": "2026-09-03",
       "aired_at": "2026-09-03",
       "track_count": 13
+    },
+    "acikradyo/fransiz-opucugu/2026-09-29": {
+      "episode_id": "acikradyo/fransiz-opucugu/2026-09-29",
+      "radio_id": "acikradyo",
+      "program_id": 1700,
+      "program_slug": "fransiz-opucugu",
+      "program_name": "Fransız Öpücüğü",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-29",
+      "aired_at": "2026-09-29",
+      "track_count": 2
     },
     "acikradyo/fransiz-opucugu/2026-09-22": {
       "episode_id": "acikradyo/fransiz-opucugu/2026-09-22",
@@ -1527,6 +1575,30 @@
       "date": "2026-09-01",
       "aired_at": "2026-09-01",
       "track_count": 38
+    },
+    "acikradyo/anne-babalar-icin-medya-kullanma-kilavuzu/2026-09-29": {
+      "episode_id": "acikradyo/anne-babalar-icin-medya-kullanma-kilavuzu/2026-09-29",
+      "radio_id": "acikradyo",
+      "program_id": 1691,
+      "program_slug": "anne-babalar-icin-medya-kullanma-kilavuzu",
+      "program_name": "Kılavuz",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-29",
+      "aired_at": "2026-09-29",
+      "track_count": 2
+    },
+    "acikradyo/ahsaptan-betona-mecidiyeden-jetona/2026-09-29": {
+      "episode_id": "acikradyo/ahsaptan-betona-mecidiyeden-jetona/2026-09-29",
+      "radio_id": "acikradyo",
+      "program_id": 1697,
+      "program_slug": "ahsaptan-betona-mecidiyeden-jetona",
+      "program_name": "Ahşaptan Betona, Mecidiyeden Jetona",
+      "program_start_time": "10:30",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-09-29",
+      "aired_at": "2026-09-29",
+      "track_count": 2
     },
     "acikradyo/ahsaptan-betona-mecidiyeden-jetona/2026-09-22": {
       "episode_id": "acikradyo/ahsaptan-betona-mecidiyeden-jetona/2026-09-22",
