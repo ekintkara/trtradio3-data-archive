@@ -1,0 +1,140 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-10-01T12:06:38.918152+00:00",
+  "radio_id": "acikradyo",
+  "month": "2026-10",
+  "episodes": {
+    "acikradyo/sevgili-gunluk/2026-10-01": {
+      "episode_id": "acikradyo/sevgili-gunluk/2026-10-01",
+      "radio_id": "acikradyo",
+      "program_id": 1741,
+      "program_slug": "sevgili-gunluk",
+      "program_name": "Sevgili Günlük",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-01",
+      "aired_at": "2026-10-01",
+      "track_count": 3
+    },
+    "acikradyo/seoul-express/2026-10-01": {
+      "episode_id": "acikradyo/seoul-express/2026-10-01",
+      "radio_id": "acikradyo",
+      "program_id": 1745,
+      "program_slug": "seoul-express",
+      "program_name": "Seoul Express",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-01",
+      "aired_at": "2026-10-01",
+      "track_count": 13
+    },
+    "acikradyo/sabahlik/2026-10-01": {
+      "episode_id": "acikradyo/sabahlik/2026-10-01",
+      "radio_id": "acikradyo",
+      "program_id": 1739,
+      "program_slug": "sabahlik",
+      "program_name": "Sabahlık",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 1380.0,
+      "date": "2026-10-01",
+      "aired_at": "2026-10-01",
+      "track_count": 7
+    },
+    "acikradyo/notalarla-sohbet/2026-10-01": {
+      "episode_id": "acikradyo/notalarla-sohbet/2026-10-01",
+      "radio_id": "acikradyo",
+      "program_id": 1747,
+      "program_slug": "notalarla-sohbet",
+      "program_name": "Notalarla Sohbet",
+      "program_start_time": "14:30",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-01",
+      "aired_at": "2026-10-01",
+      "track_count": 7
+    },
+    "acikradyo/neu/2026-10-01": {
+      "episode_id": "acikradyo/neu/2026-10-01",
+      "radio_id": "acikradyo",
+      "program_id": 1736,
+      "program_slug": "neu",
+      "program_name": "NEU",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-01",
+      "aired_at": "2026-10-01",
+      "track_count": 11
+    },
+    "acikradyo/kiyi-kose-istanbul/2026-10-01": {
+      "episode_id": "acikradyo/kiyi-kose-istanbul/2026-10-01",
+      "radio_id": "acikradyo",
+      "program_id": 1742,
+      "program_slug": "kiyi-kose-istanbul",
+      "program_name": "Turgay Tuna ile Kıyı Köşe İstanbul",
+      "program_start_time": "10:30",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-01",
+      "aired_at": "2026-10-01",
+      "track_count": 1
+    },
+    "acikradyo/gunun-ve-guncelin-edebiyati/2026-10-01": {
+      "episode_id": "acikradyo/gunun-ve-guncelin-edebiyati/2026-10-01",
+      "radio_id": "acikradyo",
+      "program_id": 1746,
+      "program_slug": "gunun-ve-guncelin-edebiyati",
+      "program_name": "Günün ve Güncelin Edebiyatı",
+      "program_start_time": "14:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-01",
+      "aired_at": "2026-10-01",
+      "track_count": 1
+    },
+    "acikradyo/funkmatik/2026-10-01": {
+      "episode_id": "acikradyo/funkmatik/2026-10-01",
+      "radio_id": "acikradyo",
+      "program_id": 1744,
+      "program_slug": "funkmatik",
+      "program_name": "Funkmatik",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-01",
+      "aired_at": "2026-10-01",
+      "track_count": 4
+    },
+    "acikradyo/eldesler/2026-10-01": {
+      "episode_id": "acikradyo/eldesler/2026-10-01",
+      "radio_id": "acikradyo",
+      "program_id": 1735,
+      "program_slug": "eldesler",
+      "program_name": "Eldesler",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 180.0,
+      "date": "2026-10-01",
+      "aired_at": "2026-10-01",
+      "track_count": 13
+    },
+    "acikradyo/apacik-radyo-muzikleri/2026-10-01": {
+      "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-10-01",
+      "radio_id": "acikradyo",
+      "program_id": 1737,
+      "program_slug": "apacik-radyo-muzikleri",
+      "program_name": "Apaçık Radyo Müzikleri",
+      "program_start_time": "02:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-01",
+      "aired_at": "2026-10-01",
+      "track_count": 6
+    },
+    "acikradyo/acik-mimarlik/2026-10-01": {
+      "episode_id": "acikradyo/acik-mimarlik/2026-10-01",
+      "radio_id": "acikradyo",
+      "program_id": 1743,
+      "program_slug": "acik-mimarlik",
+      "program_name": "Açık Mimarlık",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-01",
+      "aired_at": "2026-10-01",
+      "track_count": 1
+    }
+  }
+}
