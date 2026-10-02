@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-01T12:06:38.918152+00:00",
+  "generated_at": "2026-10-02T11:37:30.510058+00:00",
   "radio_id": "radyoodtu",
   "month": "2026-10",
   "episodes": {
@@ -52,6 +52,18 @@
       "aired_at": "2026-10-01",
       "track_count": 33
     },
+    "radyoodtu/muzik-yayini/2026-10-02": {
+      "episode_id": "radyoodtu/muzik-yayini/2026-10-02",
+      "radio_id": "radyoodtu",
+      "program_id": 53,
+      "program_slug": "muzik-yayini",
+      "program_name": "Müzik Yayını",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 300.0,
+      "date": "2026-10-02",
+      "aired_at": "2026-10-02",
+      "track_count": 33
+    },
     "radyoodtu/ikinci-alarm/2026-10-01": {
       "episode_id": "radyoodtu/ikinci-alarm/2026-10-01",
       "radio_id": "radyoodtu",
@@ -64,6 +76,18 @@
       "aired_at": "2026-10-01",
       "track_count": 17
     },
+    "radyoodtu/gunes-gozlugu/2026-10-02": {
+      "episode_id": "radyoodtu/gunes-gozlugu/2026-10-02",
+      "radio_id": "radyoodtu",
+      "program_id": 6,
+      "program_slug": "gunes-gozlugu",
+      "program_name": "Güneş Gözlüğü",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 240.0,
+      "date": "2026-10-02",
+      "aired_at": "2026-10-02",
+      "track_count": 10
+    },
     "radyoodtu/gunes-gozlugu/2026-10-01": {
       "episode_id": "radyoodtu/gunes-gozlugu/2026-10-01",
       "radio_id": "radyoodtu",
@@ -75,6 +99,18 @@
       "date": "2026-10-01",
       "aired_at": "2026-10-01",
       "track_count": 9
+    },
+    "radyoodtu/bazilari-sinema-sever-ege-yildizhan-ve-cinar-tasci/2026-10-02": {
+      "episode_id": "radyoodtu/bazilari-sinema-sever-ege-yildizhan-ve-cinar-tasci/2026-10-02",
+      "radio_id": "radyoodtu",
+      "program_id": 76,
+      "program_slug": "bazilari-sinema-sever-ege-yildizhan-ve-cinar-tasci",
+      "program_name": "Bazıları Sinema Sever (Ege Yıldızhan ve Çınar Taşcı)",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-02",
+      "aired_at": "2026-10-02",
+      "track_count": 18
     }
   }
 }

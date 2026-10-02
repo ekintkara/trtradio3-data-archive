@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-01T12:06:38.918152+00:00",
+  "generated_at": "2026-10-02T11:37:30.510058+00:00",
   "radio_id": "radioeksen",
   "month": "2026-10",
   "songs": {
+    "0148d7424af5544742e3": {
+      "song_id": "0148d7424af5544742e3",
+      "title": "MARIA QUIET",
+      "artist": "ASTRUD GILBERTO",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "XH7JdtXrWQM",
+      "alternatives": []
+    },
     "0219963d87f7da517b6f": {
       "song_id": "0219963d87f7da517b6f",
       "title": "TO SOME DEGREE (FEAT. MICHAEL KIWANUKA)",
@@ -14,6 +26,90 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "P4MwWW-60UY",
+      "alternatives": []
+    },
+    "041bf46dbd2ce1b0d780": {
+      "song_id": "041bf46dbd2ce1b0d780",
+      "title": "PINS",
+      "artist": "GURRIERS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "sbz1QKfcTgY",
+      "alternatives": []
+    },
+    "045d114189b40048134d": {
+      "song_id": "045d114189b40048134d",
+      "title": "96 TEARS",
+      "artist": "QUESTION MARK AND THE MYSTERIANS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "R7uC5m-IRns",
+      "alternatives": []
+    },
+    "04ea19601e29639bffd7": {
+      "song_id": "04ea19601e29639bffd7",
+      "title": "HOLD ON I'M COMIN'",
+      "artist": "SAM & DAVE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "6JElrEbAcwY",
+      "alternatives": []
+    },
+    "05c325b416340dcf25d0": {
+      "song_id": "05c325b416340dcf25d0",
+      "title": "SPOONFUL",
+      "artist": "THE SHADOWS OF KNIGHT",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; psychedelic rock; blues rock",
+      "youtube_video_id": "zxw7RPObBrM",
+      "alternatives": []
+    },
+    "07790f930899b144bf9c": {
+      "song_id": "07790f930899b144bf9c",
+      "title": "LIKE CLOCKWORK",
+      "artist": "BOOMTOWN RATS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "BtDhMScCkcQ",
+      "alternatives": []
+    },
+    "08bad6e196460639712c": {
+      "song_id": "08bad6e196460639712c",
+      "title": "IN MY ROOM",
+      "artist": "THE WALKER BROTHERS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "8APhRURcQSc",
+      "alternatives": []
+    },
+    "0a27c8883f9e2ac54c5c": {
+      "song_id": "0a27c8883f9e2ac54c5c",
+      "title": "Eleanor Rigby",
+      "artist": "The Beatles",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "HuS5NuXRb5Y",
       "alternatives": []
     },
     "0cd189110ef5fbcf5d5b": {
@@ -100,6 +196,30 @@
       "youtube_video_id": "wae9iDJQHIs",
       "alternatives": []
     },
+    "127f970a7c1b1fbd573b": {
+      "song_id": "127f970a7c1b1fbd573b",
+      "title": "MOVING ON",
+      "artist": "BLOC PARTY",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "3gpEhswrdJY",
+      "alternatives": []
+    },
+    "12b6e674cc740ae16073": {
+      "song_id": "12b6e674cc740ae16073",
+      "title": "LITTLE WING",
+      "artist": "LITA FORD",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "FV82mBQ5mng",
+      "alternatives": []
+    },
     "149bd4be3e0b595c4021": {
       "song_id": "149bd4be3e0b595c4021",
       "title": "AQUARIUS / LET THE SUNSHINE IN",
@@ -124,6 +244,18 @@
       "youtube_video_id": "uLUzTbZcxG8",
       "alternatives": []
     },
+    "158c48ae62e17737768d": {
+      "song_id": "158c48ae62e17737768d",
+      "title": "THESE BOOTS ARE MADE FOR WALKING",
+      "artist": "NANCY SINATRA",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "9Qp_SrTgBBs",
+      "alternatives": []
+    },
     "15bd67481021e96ffbe0": {
       "song_id": "15bd67481021e96ffbe0",
       "title": "IT'S TIME",
@@ -134,6 +266,42 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "qXDd9SLyIi0",
+      "alternatives": []
+    },
+    "15d3a76430d18879c393": {
+      "song_id": "15d3a76430d18879c393",
+      "title": "SEASON OF THE WITCH",
+      "artist": "DONOVAN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "GU35oCHGhJ0",
+      "alternatives": []
+    },
+    "183de7a7e88a8ff5dcc9": {
+      "song_id": "183de7a7e88a8ff5dcc9",
+      "title": "I'LL TAKE THE RAIN",
+      "artist": "R.E.M",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "JlIj6BxUS6E",
+      "alternatives": []
+    },
+    "191234aa8171ee2d181e": {
+      "song_id": "191234aa8171ee2d181e",
+      "title": "Bad Medicine",
+      "artist": "Bon Jovi",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "eOUtsybozjg",
       "alternatives": []
     },
     "19da1c5fd4024e53e6ea": {
@@ -160,6 +328,42 @@
       "youtube_video_id": "bDMCwSP5nf0",
       "alternatives": []
     },
+    "1e5c5089962fbaa1d579": {
+      "song_id": "1e5c5089962fbaa1d579",
+      "title": "IS THIS MY DESTINY",
+      "artist": "JOHNNY CASH",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Feh3PDQ6x0Q",
+      "alternatives": []
+    },
+    "1f314f6a4a820863db18": {
+      "song_id": "1f314f6a4a820863db18",
+      "title": "BRINGIN' ON THE HEARTBREAK",
+      "artist": "DEF LEPPARD",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "f_X5A-BYjO8",
+      "alternatives": []
+    },
+    "2026ca38837877c28282": {
+      "song_id": "2026ca38837877c28282",
+      "title": "Just Like a Woman",
+      "artist": "Bob Dylan",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "dRLXZVojdhQ",
+      "alternatives": []
+    },
     "207c78ff4d206dfaa58e": {
       "song_id": "207c78ff4d206dfaa58e",
       "title": "LOS",
@@ -170,6 +374,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "TXYFFXZWp24",
+      "alternatives": []
+    },
+    "22734345c9f2990f34ac": {
+      "song_id": "22734345c9f2990f34ac",
+      "title": "San Tropez",
+      "artist": "Pink Floyd",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "progressive rock; rock; classic rock",
+      "youtube_video_id": "mjNYO-OI2Fo",
+      "alternatives": []
+    },
+    "229eebc03e9e5abb3308": {
+      "song_id": "229eebc03e9e5abb3308",
+      "title": "ANN WANTS TO DANCE",
+      "artist": "PAPOOZ",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "pop; ballad",
+      "youtube_video_id": "C7L0eNPge98",
       "alternatives": []
     },
     "248fa7100c15db927697": {
@@ -220,6 +448,30 @@
       "youtube_video_id": "hic-dnps6MU",
       "alternatives": []
     },
+    "2795f14f936a694a9067": {
+      "song_id": "2795f14f936a694a9067",
+      "title": "FFUNNY FFRENDS",
+      "artist": "UNKNOWN MORTAL ORCHESTRA",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "c-36lCKovBg",
+      "alternatives": []
+    },
+    "2a355b0e4d3f7893aa97": {
+      "song_id": "2a355b0e4d3f7893aa97",
+      "title": "CHANGES",
+      "artist": "CHARLES BRADLEY",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "xi49yirJiEA",
+      "alternatives": []
+    },
     "2a4d0424a74d95b39d8f": {
       "song_id": "2a4d0424a74d95b39d8f",
       "title": "NEW BEGINNINGS",
@@ -230,6 +482,42 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "7AwpsbQRgVI",
+      "alternatives": []
+    },
+    "2a97dec702ee6b21ab8d": {
+      "song_id": "2a97dec702ee6b21ab8d",
+      "title": "In These Arms",
+      "artist": "Bon Jovi",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "59NoqP02ZYM",
+      "alternatives": []
+    },
+    "2c813921fe7d3cd8b61a": {
+      "song_id": "2c813921fe7d3cd8b61a",
+      "title": "FROM THE EDGE OF THE DEEP GREEN SEA",
+      "artist": "THE CURE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "olNQWNrKxn8",
+      "alternatives": []
+    },
+    "2cb2951cf49d881c2b98": {
+      "song_id": "2cb2951cf49d881c2b98",
+      "title": "CANDY MAN",
+      "artist": "MISSISSIPPI JOHN HURT",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "blues; delta blues; classic blues",
+      "youtube_video_id": "bMG_6xa0qRA",
       "alternatives": []
     },
     "2dd04ca95ac9c873bdcd": {
@@ -256,6 +544,90 @@
       "youtube_video_id": "cV4g0o7wSV0",
       "alternatives": []
     },
+    "2ed2204a728b001dd04c": {
+      "song_id": "2ed2204a728b001dd04c",
+      "title": "UNDER MY THUMB",
+      "artist": "THE ROLLING STONES & MICK JAGGER",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "UHcR648Cg3I",
+      "alternatives": []
+    },
+    "334fda3c86c4b5986899": {
+      "song_id": "334fda3c86c4b5986899",
+      "title": "MEN'S NEEDS",
+      "artist": "THE CRIBS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "UeSDJy9hYzE",
+      "alternatives": []
+    },
+    "34011c5c7897524597cb": {
+      "song_id": "34011c5c7897524597cb",
+      "title": "Caught By The River",
+      "artist": "Doves",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "indie rock; easy listening",
+      "youtube_video_id": "lrsMpTgWnHk",
+      "alternatives": []
+    },
+    "3516ec57b1c62be08532": {
+      "song_id": "3516ec57b1c62be08532",
+      "title": "LAST TRAIN TO CLARKSVILLE",
+      "artist": "THE MONKEES",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "zSzsyqzQNeQ",
+      "alternatives": []
+    },
+    "355dcaf3f8e60680a2b0": {
+      "song_id": "355dcaf3f8e60680a2b0",
+      "title": "SUNNY AFTERNOON",
+      "artist": "THE KINKS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; classic rock",
+      "youtube_video_id": "TYIl6n_SRCI",
+      "alternatives": []
+    },
+    "3775a8b3c2463c1ee459": {
+      "song_id": "3775a8b3c2463c1ee459",
+      "title": "PRETTY FLY (FOR A WHITE GUY)",
+      "artist": "OFFSPRING",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "QtTR-_Klcq8",
+      "alternatives": []
+    },
+    "381f7f8043438f8ebdb1": {
+      "song_id": "381f7f8043438f8ebdb1",
+      "title": "SAHARA",
+      "artist": "SONGHOY BLUES, IGGY POP",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "VrTXSrGYL7U",
+      "alternatives": []
+    },
     "39d2159c0881838d8936": {
       "song_id": "39d2159c0881838d8936",
       "title": "AHLAN WA SAHLAN",
@@ -268,6 +640,18 @@
       "youtube_video_id": "VD-J_f3nnKY",
       "alternatives": []
     },
+    "3ad0e41c3066f36c3385": {
+      "song_id": "3ad0e41c3066f36c3385",
+      "title": "I CAN'T SEE YOU",
+      "artist": "TIM BUCKLEY",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "c7bUMaT70KQ",
+      "alternatives": []
+    },
     "4002b28e821ea3cbabae": {
       "song_id": "4002b28e821ea3cbabae",
       "title": "AFTERLIFE",
@@ -278,6 +662,78 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "VoBcINvQAYQ",
+      "alternatives": []
+    },
+    "42651edb8f455492b551": {
+      "song_id": "42651edb8f455492b551",
+      "title": "CARNATION",
+      "artist": "LIAM GALLAGHER",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "EUQhdF_kAFI",
+      "alternatives": []
+    },
+    "4c49e9acbfeeca2b051c": {
+      "song_id": "4c49e9acbfeeca2b051c",
+      "title": "LES CACTUS",
+      "artist": "JACQUES DUTRONC",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "anrhMwxkxPQ",
+      "alternatives": []
+    },
+    "4c505172a0ea53a5a5c8": {
+      "song_id": "4c505172a0ea53a5a5c8",
+      "title": "UPTIGHT (EVERYTHING'S ALRIGHT)",
+      "artist": "STEVIE WONDER",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "kZf3Byq8oLA",
+      "alternatives": []
+    },
+    "4eec9e2de4a91a9868ba": {
+      "song_id": "4eec9e2de4a91a9868ba",
+      "title": "MY THIEVING HEART",
+      "artist": "SIVERT HOYEM & MARIE MUNROE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "lz9h1oz4h8Y",
+      "alternatives": []
+    },
+    "503d77a2bf16c498807f": {
+      "song_id": "503d77a2bf16c498807f",
+      "title": "LA BOHEME",
+      "artist": "CHARLES AZNAVOUR",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "fVfnEyLOkrM",
+      "alternatives": []
+    },
+    "5174fa1210408c5079ef": {
+      "song_id": "5174fa1210408c5079ef",
+      "title": "MARIANA TRENCH",
+      "artist": "BRIGHT EYES",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "K4vO8gh6xdM",
       "alternatives": []
     },
     "57155c09b569f16459aa": {
@@ -304,6 +760,54 @@
       "youtube_video_id": "1jGT1UvmBi0",
       "alternatives": []
     },
+    "59f7c2d34d9ee8ff19ab": {
+      "song_id": "59f7c2d34d9ee8ff19ab",
+      "title": "YOU CAN'T CATCH ME",
+      "artist": "THE BLUES PROJECT",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Zr5gqkDdr6I",
+      "alternatives": []
+    },
+    "5b6ec2bce2fccf50f225": {
+      "song_id": "5b6ec2bce2fccf50f225",
+      "title": "THESE DAYS",
+      "artist": "FOO FIGHTERS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "alternative rock; rock; hard rock",
+      "youtube_video_id": "YDVAQI-4lto",
+      "alternatives": []
+    },
+    "5b91d3d7b257eca391cb": {
+      "song_id": "5b91d3d7b257eca391cb",
+      "title": "ONE BOURBON ONE SCOTCH ONE BEER",
+      "artist": "JOHN LEE HOOKER",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "z4A6o-yf-ao",
+      "alternatives": []
+    },
+    "5ba305c50be185a84837": {
+      "song_id": "5ba305c50be185a84837",
+      "title": "Strangers In The Night",
+      "artist": "Frank Sinatra",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Sek1vLw3s20",
+      "alternatives": []
+    },
     "5ce32719a0ae74728ac7": {
       "song_id": "5ce32719a0ae74728ac7",
       "title": "PAINKILLER (FEAT. DENZEL CURRY)",
@@ -314,6 +818,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "lz1R_bQqjiA",
+      "alternatives": []
+    },
+    "5e15efc7726ce05b7c87": {
+      "song_id": "5e15efc7726ce05b7c87",
+      "title": "THE MALCONTENT (THE MODERN WORLD)",
+      "artist": "FASTBALL",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Ndadewr3e2o",
+      "alternatives": []
+    },
+    "5ea662a0643019705467": {
+      "song_id": "5ea662a0643019705467",
+      "title": "MICHELLE",
+      "artist": "FOUR TOPS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "GMaAzxUkYI0",
       "alternatives": []
     },
     "5fd2b5bcc8d9a8e65a78": {
@@ -328,6 +856,78 @@
       "youtube_video_id": "HP3V0kJ5nVc",
       "alternatives": []
     },
+    "6029ae963bc36d499259": {
+      "song_id": "6029ae963bc36d499259",
+      "title": "VOYAGER",
+      "artist": "DAFT PUNK",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "CqZgd6-xQl8",
+      "alternatives": []
+    },
+    "63c67f26c3d3908538ee": {
+      "song_id": "63c67f26c3d3908538ee",
+      "title": "UNDERWATER BOI",
+      "artist": "TURNSTILE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "LH4DMwJAugA",
+      "alternatives": []
+    },
+    "652db22942162765cae9": {
+      "song_id": "652db22942162765cae9",
+      "title": "MATILDA",
+      "artist": "ALT-J",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; pop; indie pop",
+      "youtube_video_id": "Q06wFUi5OM8",
+      "alternatives": []
+    },
+    "67042e70ed74d08233fa": {
+      "song_id": "67042e70ed74d08233fa",
+      "title": "THE SOUND OF SILENCE",
+      "artist": "SIMON & GARFUNKEL & PAUL SIMON",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "NAEppFUWLfc",
+      "alternatives": []
+    },
+    "67290efd4d53a74c7219": {
+      "song_id": "67290efd4d53a74c7219",
+      "title": "11TH DIMENSION",
+      "artist": "JULIAN CASABLANCAS & THE STROKES",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "pl15PlIXHIk",
+      "alternatives": []
+    },
+    "6922fb17e84b44b2ba65": {
+      "song_id": "6922fb17e84b44b2ba65",
+      "title": "STOP THE WORLD (AND LET ME OFF)",
+      "artist": "WAYLON JENNINGS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "KR5QbdjKp8k",
+      "alternatives": []
+    },
     "69269c92f7c4f0f5270a": {
       "song_id": "69269c92f7c4f0f5270a",
       "title": "YESTERDAYS",
@@ -338,6 +938,42 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "NDOPlpH6NZM",
+      "alternatives": []
+    },
+    "6a9ca10ce5d51cd33b41": {
+      "song_id": "6a9ca10ce5d51cd33b41",
+      "title": "CHAPTERS",
+      "artist": "SAY SHE SHE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "NEDgG0xurVQ",
+      "alternatives": []
+    },
+    "6c89ac69519f30de2c8b": {
+      "song_id": "6c89ac69519f30de2c8b",
+      "title": "Light My Fire",
+      "artist": "The Doors",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; psychedelic rock; classic rock",
+      "youtube_video_id": "qoX6AKuYWL8",
+      "alternatives": []
+    },
+    "6cdd82348371ace34b48": {
+      "song_id": "6cdd82348371ace34b48",
+      "title": "THE FIRE",
+      "artist": "THE SOUND",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "WrRMUZquAvQ",
       "alternatives": []
     },
     "6d681b22b115a12330fc": {
@@ -376,6 +1012,114 @@
       "youtube_video_id": "QDgADEU3bvU",
       "alternatives": []
     },
+    "6e6b3388725454b5cdfb": {
+      "song_id": "6e6b3388725454b5cdfb",
+      "title": "I FOUGHT THE LAW",
+      "artist": "BOBBY FULLER FOUR",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "pop rock",
+      "youtube_video_id": "OgtQj8O92eI",
+      "alternatives": []
+    },
+    "700c261b34897532112f": {
+      "song_id": "700c261b34897532112f",
+      "title": "ALL YOUR LOVE",
+      "artist": "JOHN MAYALL & THE BLUESBREAKERS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "blues; blues rock; rock",
+      "youtube_video_id": "OkedAcAAcU4",
+      "alternatives": []
+    },
+    "725b047a2f243a349e42": {
+      "song_id": "725b047a2f243a349e42",
+      "title": "SCHISM",
+      "artist": "TOOL",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "MM62wjLrgmA",
+      "alternatives": []
+    },
+    "73398423a6307b8d1564": {
+      "song_id": "73398423a6307b8d1564",
+      "title": "TONGUE",
+      "artist": "FONTAINES D.C.",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "5OsIwKHppho",
+      "alternatives": []
+    },
+    "73d1ddbfb90cc94ee655": {
+      "song_id": "73d1ddbfb90cc94ee655",
+      "title": "Love Me Or Leave Me",
+      "artist": "Nina Simone",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "5cnZjClf6zM",
+      "alternatives": []
+    },
+    "75e0c261fe257606e73d": {
+      "song_id": "75e0c261fe257606e73d",
+      "title": "SPARTAK",
+      "artist": "SHAME",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "u4G3_9UFLDc",
+      "alternatives": []
+    },
+    "778a39f6d86644d58a47": {
+      "song_id": "778a39f6d86644d58a47",
+      "title": "CONGRATULATIONS TO ME",
+      "artist": "EELS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "JL8s2l8dOLQ",
+      "alternatives": []
+    },
+    "77a9c96198b69374a162": {
+      "song_id": "77a9c96198b69374a162",
+      "title": "DON'T SIT DOWN 'CAUSE I'VE MOVED YOUR CHAIR",
+      "artist": "ARCTIC MONKEYS & THE LAST SHADOW PUPPETS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "h1vYbHHhqYE",
+      "alternatives": []
+    },
+    "78c3edd994998e8fe378": {
+      "song_id": "78c3edd994998e8fe378",
+      "title": "TALK",
+      "artist": "TWO DOOR CINEMA CLUB",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Zsaz72OBT9s",
+      "alternatives": []
+    },
     "7b147d4e5bbb721d1e84": {
       "song_id": "7b147d4e5bbb721d1e84",
       "title": "ASK FOR WATER",
@@ -400,6 +1144,18 @@
       "youtube_video_id": "V_YlZ1JdcVk",
       "alternatives": []
     },
+    "7cdf16b1204a56ce155f": {
+      "song_id": "7cdf16b1204a56ce155f",
+      "title": "MERCY MERCY ME I WANT YOU (1991)",
+      "artist": "ROBERT PALMER",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "1q77P4mXnPQ",
+      "alternatives": []
+    },
     "7d389efff1fa0b073a61": {
       "song_id": "7d389efff1fa0b073a61",
       "title": "This Is The Life",
@@ -410,6 +1166,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "iRYvuS9OxdA",
+      "alternatives": []
+    },
+    "7df7fb19a98e5c307678": {
+      "song_id": "7df7fb19a98e5c307678",
+      "title": "TRIBULATIONS",
+      "artist": "LCD SOUNDSYSTEM",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "1e51W--w2Fk",
       "alternatives": []
     },
     "7e06d9b2c7cfe311652c": {
@@ -424,6 +1192,18 @@
       "youtube_video_id": "ULLsuL0y-Fk",
       "alternatives": []
     },
+    "7e2d46ff91da3258a343": {
+      "song_id": "7e2d46ff91da3258a343",
+      "title": "California Dreamin'",
+      "artist": "The Mamas & The Papas",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "N-aK6JnyFmk",
+      "alternatives": []
+    },
     "838792dbe5efa556685f": {
       "song_id": "838792dbe5efa556685f",
       "title": "SERIOUSLY",
@@ -434,6 +1214,78 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Lpxqp3ClBnY",
+      "alternatives": []
+    },
+    "83b80db21176fd7a050c": {
+      "song_id": "83b80db21176fd7a050c",
+      "title": "DEAD MEAT",
+      "artist": "SEAN LENNON",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; indie; pop",
+      "youtube_video_id": "yBe2ZSQm95A",
+      "alternatives": []
+    },
+    "84d643ec4335ca83bba6": {
+      "song_id": "84d643ec4335ca83bba6",
+      "title": "IT TAKES TWO",
+      "artist": "MARVIN GAYE AND KIM WESTON",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "cB5sCP6s120",
+      "alternatives": []
+    },
+    "8680be7ba48a9082ea4e": {
+      "song_id": "8680be7ba48a9082ea4e",
+      "title": "NEW GOLD DREAM",
+      "artist": "SIMPLE MINDS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "vo_iotqFTLQ",
+      "alternatives": []
+    },
+    "86d73a85fd8648c039d5": {
+      "song_id": "86d73a85fd8648c039d5",
+      "title": "TELL HIM",
+      "artist": "SONNY & CHER",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "pop; folk-rock; am pop",
+      "youtube_video_id": "FzJzmzvlQQQ",
+      "alternatives": []
+    },
+    "887e3d9124061c355da0": {
+      "song_id": "887e3d9124061c355da0",
+      "title": "HUMAN TOUCH",
+      "artist": "BRUCE SPRINGSTEEN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "85cNRQo1m3A",
+      "alternatives": []
+    },
+    "8a86fadcd8803c1abf09": {
+      "song_id": "8a86fadcd8803c1abf09",
+      "title": "REASON TO BELIEVE",
+      "artist": "TIM HARDIN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "-bW6VZi0ICs",
       "alternatives": []
     },
     "8c63eb1dc7cb16a4a12b": {
@@ -460,6 +1312,30 @@
       "youtube_video_id": "rHaqeaFIE4Y",
       "alternatives": []
     },
+    "8f3f35c481f9c231be77": {
+      "song_id": "8f3f35c481f9c231be77",
+      "title": "I'M SO TIRED (OF LIVING IN THE CITY)",
+      "artist": "THE MYSTERY LIGHTS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Qbw9FAXLou8",
+      "alternatives": []
+    },
+    "8ff27fbd05ac1aa8bd2c": {
+      "song_id": "8ff27fbd05ac1aa8bd2c",
+      "title": "Marianne",
+      "artist": "Fontaines D.C.",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "lWNxWy012Ro",
+      "alternatives": []
+    },
     "924cf78099417f284147": {
       "song_id": "924cf78099417f284147",
       "title": "LOVIN' YOU",
@@ -470,6 +1346,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "TU94RaHyxJM",
+      "alternatives": []
+    },
+    "931d1dc63d35fad5dbb6": {
+      "song_id": "931d1dc63d35fad5dbb6",
+      "title": "GRAVITY'S PULL",
+      "artist": "SOFT LOFT",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "FcYX85ZzzQY",
       "alternatives": []
     },
     "93ccce6ebca97d9a2b55": {
@@ -508,6 +1396,30 @@
       "youtube_video_id": "bVJVX7KJrFM",
       "alternatives": []
     },
+    "9553202c3b1a05849b49": {
+      "song_id": "9553202c3b1a05849b49",
+      "title": "ANYTHING ANYTHING (I'LL GIVE YOU)",
+      "artist": "DRAMARAMA",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "yFhx6FLxGxQ",
+      "alternatives": []
+    },
+    "9558e0cd673dcf8bbe0d": {
+      "song_id": "9558e0cd673dcf8bbe0d",
+      "title": "A BANDA",
+      "artist": "CHICO BUARQUE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "mpb; latin; brazilian",
+      "youtube_video_id": "mdm6Lys9Agg",
+      "alternatives": []
+    },
     "959b268d5e72f126c231": {
       "song_id": "959b268d5e72f126c231",
       "title": "EVERYBODY NEEDS SOMEBODY",
@@ -518,6 +1430,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "EHV0zs0kVGg",
+      "alternatives": []
+    },
+    "97f6dea15d9ed8973459": {
+      "song_id": "97f6dea15d9ed8973459",
+      "title": "CRUEL",
+      "artist": "ST VINCENT",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "alternative; indie pop; pop/rock",
+      "youtube_video_id": "4sQkx8giymc",
       "alternatives": []
     },
     "98a10562546e91b320f0": {
@@ -532,6 +1456,18 @@
       "youtube_video_id": "8DyziWtkfBw",
       "alternatives": []
     },
+    "99d6b808986d87500fbd": {
+      "song_id": "99d6b808986d87500fbd",
+      "title": "TEMPO DE AMOR",
+      "artist": "BADEN POWELL, VINICIUS DE MORAES",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "NkCjGjt4e_4",
+      "alternatives": []
+    },
     "9e32e0e25f2bf36f1ac9": {
       "song_id": "9e32e0e25f2bf36f1ac9",
       "title": "THIS IS MY LIFE",
@@ -542,6 +1478,66 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "yCRqK8_w6EI",
+      "alternatives": []
+    },
+    "a0ab115e3b2413009b05": {
+      "song_id": "a0ab115e3b2413009b05",
+      "title": "I JUST WANT TO WAKE UP WITH YOU",
+      "artist": "HELADO NEGRO",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "JL9VYE9IWLc",
+      "alternatives": []
+    },
+    "a1555a57777c3df78248": {
+      "song_id": "a1555a57777c3df78248",
+      "title": "You're Dead",
+      "artist": "Norma Tanega",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "cF7BwkCLmAU",
+      "alternatives": []
+    },
+    "a18c04a4796a05272572": {
+      "song_id": "a18c04a4796a05272572",
+      "title": "AQUALONG",
+      "artist": "JETHRO TULL",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "N4zPu3ISCGs",
+      "alternatives": []
+    },
+    "a1f26086ed315d5e07c6": {
+      "song_id": "a1f26086ed315d5e07c6",
+      "title": "THE GOOD, THE BAD AND THE UGLY",
+      "artist": "ENNIO MORRICONE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "enuOArEfqGo",
+      "alternatives": []
+    },
+    "a22634afbb5cb60cb48c": {
+      "song_id": "a22634afbb5cb60cb48c",
+      "title": "PAINT IT BLACK",
+      "artist": "THE STANDELLS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "r9hLsTnY6fY",
       "alternatives": []
     },
     "a32219388a60ca3244ab": {
@@ -556,6 +1552,54 @@
       "youtube_video_id": "GO2hmMlOSVQ",
       "alternatives": []
     },
+    "a34ac2ace4597f13d93f": {
+      "song_id": "a34ac2ace4597f13d93f",
+      "title": "A TRICK OF THE LIGHT",
+      "artist": "VILLAGERS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "G7Xqo6dvDmM",
+      "alternatives": []
+    },
+    "a391de92910f8cd33e9b": {
+      "song_id": "a391de92910f8cd33e9b",
+      "title": "SUMMER IN THE CITY",
+      "artist": "THE LOVING SPOONFOOL",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "5YgevxRGXIU",
+      "alternatives": []
+    },
+    "a4fc6649f442aeab7fb2": {
+      "song_id": "a4fc6649f442aeab7fb2",
+      "title": "BLACK SUMMER",
+      "artist": "RED HOT CHILI PEPPERS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "OS8taasZl8k",
+      "alternatives": []
+    },
+    "a56cf802db5a32e8c91c": {
+      "song_id": "a56cf802db5a32e8c91c",
+      "title": "Damaged Goods",
+      "artist": "Gang of Four",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "F_7BVaDIAbA",
+      "alternatives": []
+    },
     "a5b671ea12a319c45cbb": {
       "song_id": "a5b671ea12a319c45cbb",
       "title": "JUST ANOTHER LOVE SONG",
@@ -566,6 +1610,54 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "gX4zwQIGK-w",
+      "alternatives": []
+    },
+    "ab270814178300c61060": {
+      "song_id": "ab270814178300c61060",
+      "title": "BRING IT ON",
+      "artist": "GOMEZ",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "F2vJBaq6zlE",
+      "alternatives": []
+    },
+    "aed592abee631778ed8b": {
+      "song_id": "aed592abee631778ed8b",
+      "title": "YOU'RE GONNA MISS ME",
+      "artist": "THE THIRTEENTH FLOOR ELEVATORS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ZClJYCZp1SI",
+      "alternatives": []
+    },
+    "afbe44dd679de8db06df": {
+      "song_id": "afbe44dd679de8db06df",
+      "title": "JOHNNY THE FOX MEETS JIMMY THE WEED",
+      "artist": "THIN LIZZY",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "kbZpaVRfqzM",
+      "alternatives": []
+    },
+    "b44f14d92a950a3a9dc8": {
+      "song_id": "b44f14d92a950a3a9dc8",
+      "title": "WHATCHA GONNA DO ABOUT IT",
+      "artist": "SMALL FACES",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "sah6C87QsGo",
       "alternatives": []
     },
     "b4cf9a355b5d7845ab5f": {
@@ -590,6 +1682,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "1reSpJWbuYE",
+      "alternatives": []
+    },
+    "b8ab3a34cfa64c627b67": {
+      "song_id": "b8ab3a34cfa64c627b67",
+      "title": "BREAKING UP IS BREAKING MY HEART",
+      "artist": "ROY ORBISON, ALEX ORBISON, CHUCK TURNER",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "eYksZ_GGHLk",
       "alternatives": []
     },
     "b911cb78d74ef3716f84": {
@@ -640,6 +1744,42 @@
       "youtube_video_id": "BzgUs3c9QHY",
       "alternatives": []
     },
+    "bd97e09eeb3422f1a072": {
+      "song_id": "bd97e09eeb3422f1a072",
+      "title": "MY WORLD IS EMPTY WITHOUT YOU",
+      "artist": "THE SUPREMES",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Z14qfKkfUV0",
+      "alternatives": []
+    },
+    "be4c6764b1a0cee9bcd7": {
+      "song_id": "be4c6764b1a0cee9bcd7",
+      "title": "RUN AWAY",
+      "artist": "BECK",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "qWUABdLVW1c",
+      "alternatives": []
+    },
+    "c237cb3f597cb05a959f": {
+      "song_id": "c237cb3f597cb05a959f",
+      "title": "THE GIRL FROM IPANEMA",
+      "artist": "SERGIO MENDES",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "KU3EytVMUSM",
+      "alternatives": []
+    },
     "c3b1ca2bcbbbf4b1db45": {
       "song_id": "c3b1ca2bcbbbf4b1db45",
       "title": "You Should Be Dancing",
@@ -650,6 +1790,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "1sqE6P3XyiQ",
+      "alternatives": []
+    },
+    "c5aa2404675461954d92": {
+      "song_id": "c5aa2404675461954d92",
+      "title": "LOOSE FIT",
+      "artist": "HAPPY MONDAYS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "xfF4k6TxFno",
+      "alternatives": []
+    },
+    "c66aea54deb2ad21a1f6": {
+      "song_id": "c66aea54deb2ad21a1f6",
+      "title": "NO LIGHT, NO LIGHT",
+      "artist": "FLORENCE & THE MACHINE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "HGH-4jQZRcc",
       "alternatives": []
     },
     "ca59822db925457a4f8f": {
@@ -676,6 +1840,42 @@
       "youtube_video_id": "S0Qxp0R1S9o",
       "alternatives": []
     },
+    "cdd92c959d10696ce166": {
+      "song_id": "cdd92c959d10696ce166",
+      "title": "FURTHER UP ON THE ROAD",
+      "artist": "JOHNNY CASH",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "HMCQgWtST5c",
+      "alternatives": []
+    },
+    "ce9e93bc3b0dc023571d": {
+      "song_id": "ce9e93bc3b0dc023571d",
+      "title": "Solitary Man",
+      "artist": "Neil Diamond",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "pop; rock; soft rock",
+      "youtube_video_id": "yLilTP5WAU0",
+      "alternatives": []
+    },
+    "cf22203108ad6b6566ba": {
+      "song_id": "cf22203108ad6b6566ba",
+      "title": "Psychotic Reaction",
+      "artist": "Count Five",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "lrsGz6mQuN4",
+      "alternatives": []
+    },
     "d0197157b67294816e98": {
       "song_id": "d0197157b67294816e98",
       "title": "Such Great Heights",
@@ -700,6 +1900,18 @@
       "youtube_video_id": "jSPpbOGnFgk",
       "alternatives": []
     },
+    "d1ad450cba9c0aa763d6": {
+      "song_id": "d1ad450cba9c0aa763d6",
+      "title": "RODA",
+      "artist": "ELIS REGINA",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "mpb; bossa nova; latin",
+      "youtube_video_id": "YGxuay9XAK8",
+      "alternatives": []
+    },
     "d31e585ca9ab6795ad12": {
       "song_id": "d31e585ca9ab6795ad12",
       "title": "KEEP A SECRET",
@@ -712,6 +1924,18 @@
       "youtube_video_id": "WdHupvNfQqk",
       "alternatives": []
     },
+    "d44b86e7cd30e6d02057": {
+      "song_id": "d44b86e7cd30e6d02057",
+      "title": "RIDE ON",
+      "artist": "THE SHIVAS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "THztDXBDK8M",
+      "alternatives": []
+    },
     "d51547b08a071af845eb": {
       "song_id": "d51547b08a071af845eb",
       "title": "SCHOOL'S OUT ANOTHER BRICK IN THE WALL",
@@ -722,6 +1946,78 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "6S3XqD2WiJQ",
+      "alternatives": []
+    },
+    "d6d2ca7a02f798220145": {
+      "song_id": "d6d2ca7a02f798220145",
+      "title": "WE DO WIE DU",
+      "artist": "THE MONKS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "garage rock; rock; psychedelic rock",
+      "youtube_video_id": "zTTWjz2VQo4",
+      "alternatives": []
+    },
+    "d6e4513d92f3f02ff6e7": {
+      "song_id": "d6e4513d92f3f02ff6e7",
+      "title": "FRIENDS",
+      "artist": "ALABAMA SHAKES",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "STceuUaMdw4",
+      "alternatives": []
+    },
+    "d89faf0ee10f6b23434f": {
+      "song_id": "d89faf0ee10f6b23434f",
+      "title": "REWIND THE FILM",
+      "artist": "MANIC STREET PREACHERS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "PwwtOd3pMlk",
+      "alternatives": []
+    },
+    "d8cb69b6f1f13bb5b419": {
+      "song_id": "d8cb69b6f1f13bb5b419",
+      "title": "Gracias a la Vida",
+      "artist": "Violeta Parra",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "w67-hlaUSIs",
+      "alternatives": []
+    },
+    "d9654699f0b8c30abd98": {
+      "song_id": "d9654699f0b8c30abd98",
+      "title": "I Melt With You",
+      "artist": "Modern English",
+      "album": "I Melt with You",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "LuN6gs0AJls",
+      "alternatives": []
+    },
+    "d9be019ac42e06a7924f": {
+      "song_id": "d9be019ac42e06a7924f",
+      "title": "GOD ONLY KNOWS",
+      "artist": "BEACH BOYS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "NADx3-qRxek",
       "alternatives": []
     },
     "da67966bf8427a185759": {
@@ -748,6 +2044,30 @@
       "youtube_video_id": "zyuQwCUkFRY",
       "alternatives": []
     },
+    "dc08ca8e644484ed024f": {
+      "song_id": "dc08ca8e644484ed024f",
+      "title": "She's the One",
+      "artist": "World Party",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "8rXQ5Ye-ZwI",
+      "alternatives": []
+    },
+    "de4bb337546f9c0bdf8f": {
+      "song_id": "de4bb337546f9c0bdf8f",
+      "title": "CALL IT WHAT YOU WANT",
+      "artist": "FAT DOG",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "7_SXxLLdYLM",
+      "alternatives": []
+    },
     "deac5f0e5f70820cbf62": {
       "song_id": "deac5f0e5f70820cbf62",
       "title": "Lonely Boy",
@@ -772,6 +2092,78 @@
       "youtube_video_id": "AVS55EzWTMs",
       "alternatives": []
     },
+    "e5572d817e3f5d9909da": {
+      "song_id": "e5572d817e3f5d9909da",
+      "title": "THE MODERN WORLD",
+      "artist": "THE JAM",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "J_h8MtU5Xyc",
+      "alternatives": []
+    },
+    "e802a5cafc740d5deca3": {
+      "song_id": "e802a5cafc740d5deca3",
+      "title": "SLOW DOWN",
+      "artist": "THE RASCALS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "aBFFvdTcHnY",
+      "alternatives": []
+    },
+    "e896fcbecdf36bb27463": {
+      "song_id": "e896fcbecdf36bb27463",
+      "title": "DAYDREAM",
+      "artist": "THE LOVING SPOONFOOL",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Lt5Jy983uTE",
+      "alternatives": []
+    },
+    "ea6d76eb2806a3a460d1": {
+      "song_id": "ea6d76eb2806a3a460d1",
+      "title": "AMSTERDAM",
+      "artist": "JACQUES BREL",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "-Z0UGGvb4sQ",
+      "alternatives": []
+    },
+    "ead062f8acc79ac029ce": {
+      "song_id": "ead062f8acc79ac029ce",
+      "title": "LILAC WINE",
+      "artist": "NINA SIMONE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "jazz; vocal jazz; soul jazz",
+      "youtube_video_id": "o7TuGz5H7kE",
+      "alternatives": []
+    },
+    "ecd2162f3fba994b41e8": {
+      "song_id": "ecd2162f3fba994b41e8",
+      "title": "MAMA DON'T",
+      "artist": "JJ CALE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "blues; rock; pop",
+      "youtube_video_id": "88tA5zql6CQ",
+      "alternatives": []
+    },
     "f08816ea19d9b5561c85": {
       "song_id": "f08816ea19d9b5561c85",
       "title": "LET'S TWIST AGAIN",
@@ -782,6 +2174,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "xncyDs1C8qY",
+      "alternatives": []
+    },
+    "f1eb8fc9653272f0472f": {
+      "song_id": "f1eb8fc9653272f0472f",
+      "title": "SAME OLD SCENE",
+      "artist": "ROXY MUSIC",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "vXOgQN1a7bE",
       "alternatives": []
     },
     "f48fc88570f75c4f2497": {
@@ -796,6 +2200,18 @@
       "youtube_video_id": "V_6qQEyCSv8",
       "alternatives": []
     },
+    "f55b042b11e86611fe40": {
+      "song_id": "f55b042b11e86611fe40",
+      "title": "MR. FARMER",
+      "artist": "THE SEEDS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "avAWk2wRnxo",
+      "alternatives": []
+    },
     "f6a4cc5e719fe218c927": {
       "song_id": "f6a4cc5e719fe218c927",
       "title": "Clover Over Dover",
@@ -808,6 +2224,30 @@
       "youtube_video_id": "bNXPpbN3BkE",
       "alternatives": []
     },
+    "f9dc18dbcef6d78e0fbf": {
+      "song_id": "f9dc18dbcef6d78e0fbf",
+      "title": "AND I LOVE HER",
+      "artist": "JOHN DENVER",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "country",
+      "youtube_video_id": "1RB_dtMEFRM",
+      "alternatives": []
+    },
+    "fa87644f7d10b1727466": {
+      "song_id": "fa87644f7d10b1727466",
+      "title": "WE RE NOT IN ORBIT YET...",
+      "artist": "BROKEN BELLS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "7hyDWVyjuxU",
+      "alternatives": []
+    },
     "fdaa51d5cef13fed599d": {
       "song_id": "fdaa51d5cef13fed599d",
       "title": "LA BAIE",
@@ -818,6 +2258,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "ZLzjYXzkvWU",
+      "alternatives": []
+    },
+    "ffa21845ce2e489a79d6": {
+      "song_id": "ffa21845ce2e489a79d6",
+      "title": "I Feel Free",
+      "artist": "Cream",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "gJktf4aTNvk",
       "alternatives": []
     }
   }
