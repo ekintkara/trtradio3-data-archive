@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-02T11:37:30.510058+00:00",
+  "generated_at": "2026-10-03T10:51:04.339525+00:00",
   "radio_id": "acikradyo",
   "month": "2026-10",
   "episodes": {
+    "acikradyo/yeni-seyler-rejimi/2026-10-03": {
+      "episode_id": "acikradyo/yeni-seyler-rejimi/2026-10-03",
+      "radio_id": "acikradyo",
+      "program_id": 1784,
+      "program_slug": "yeni-seyler-rejimi",
+      "program_name": "Yeni Şeyler Rejimi",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-03",
+      "aired_at": "2026-10-03",
+      "track_count": 11
+    },
     "acikradyo/sevgili-gunluk/2026-10-01": {
       "episode_id": "acikradyo/sevgili-gunluk/2026-10-01",
       "radio_id": "acikradyo",
@@ -136,6 +148,18 @@
       "aired_at": "2026-10-02",
       "track_count": 19
     },
+    "acikradyo/harici-bellek/2026-10-03": {
+      "episode_id": "acikradyo/harici-bellek/2026-10-03",
+      "radio_id": "acikradyo",
+      "program_id": 1785,
+      "program_slug": "harici-bellek",
+      "program_name": "Harici Bellek",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-03",
+      "aired_at": "2026-10-03",
+      "track_count": 10
+    },
     "acikradyo/gunun-ve-guncelin-edebiyati/2026-10-01": {
       "episode_id": "acikradyo/gunun-ve-guncelin-edebiyati/2026-10-01",
       "radio_id": "acikradyo",
@@ -196,6 +220,18 @@
       "aired_at": "2026-10-02",
       "track_count": 5
     },
+    "acikradyo/caz-turbulans/2026-10-03": {
+      "episode_id": "acikradyo/caz-turbulans/2026-10-03",
+      "radio_id": "acikradyo",
+      "program_id": 1779,
+      "program_slug": "caz-turbulans",
+      "program_name": "Caz Türbülans",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 240.0,
+      "date": "2026-10-03",
+      "aired_at": "2026-10-03",
+      "track_count": 7
+    },
     "acikradyo/apacik-radyo-muzikleri/2026-10-02": {
       "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-10-02",
       "radio_id": "acikradyo",
@@ -231,6 +267,18 @@
       "date": "2026-10-01",
       "aired_at": "2026-10-01",
       "track_count": 1
+    },
+    "acikradyo/acik-kabin/2026-10-03": {
+      "episode_id": "acikradyo/acik-kabin/2026-10-03",
+      "radio_id": "acikradyo",
+      "program_id": 1780,
+      "program_slug": "acik-kabin",
+      "program_name": "Açık Kabin",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-03",
+      "aired_at": "2026-10-03",
+      "track_count": 6
     },
     "acikradyo/acik-gazete/2026-10-02": {
       "episode_id": "acikradyo/acik-gazete/2026-10-02",

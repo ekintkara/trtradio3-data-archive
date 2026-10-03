@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-02T11:37:30.510058+00:00",
+  "generated_at": "2026-10-03T10:51:04.339525+00:00",
   "radio_id": "radyoodtu",
   "month": "2026-10",
   "episodes": {
@@ -64,6 +64,18 @@
       "aired_at": "2026-10-02",
       "track_count": 33
     },
+    "radyoodtu/latin-estetik-guven-gunes/2026-10-03": {
+      "episode_id": "radyoodtu/latin-estetik-guven-gunes/2026-10-03",
+      "radio_id": "radyoodtu",
+      "program_id": 61,
+      "program_slug": "latin-estetik-guven-gunes",
+      "program_name": "Latin Estetik (Güven Güneş)",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-03",
+      "aired_at": "2026-10-03",
+      "track_count": 12
+    },
     "radyoodtu/ikinci-alarm/2026-10-01": {
       "episode_id": "radyoodtu/ikinci-alarm/2026-10-01",
       "radio_id": "radyoodtu",
@@ -75,6 +87,18 @@
       "date": "2026-10-01",
       "aired_at": "2026-10-01",
       "track_count": 17
+    },
+    "radyoodtu/gunes-gozlugu/2026-10-03": {
+      "episode_id": "radyoodtu/gunes-gozlugu/2026-10-03",
+      "radio_id": "radyoodtu",
+      "program_id": 7,
+      "program_slug": "gunes-gozlugu",
+      "program_name": "Güneş Gözlüğü",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 240.0,
+      "date": "2026-10-03",
+      "aired_at": "2026-10-03",
+      "track_count": 11
     },
     "radyoodtu/gunes-gozlugu/2026-10-02": {
       "episode_id": "radyoodtu/gunes-gozlugu/2026-10-02",
