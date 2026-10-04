@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-03T10:51:04.339525+00:00",
+  "generated_at": "2026-10-04T11:33:26.027760+00:00",
   "radio_id": "acikradyo",
   "month": "2026-10",
   "episodes": {
@@ -15,6 +15,18 @@
       "date": "2026-10-03",
       "aired_at": "2026-10-03",
       "track_count": 11
+    },
+    "acikradyo/uc-melek/2026-10-04": {
+      "episode_id": "acikradyo/uc-melek/2026-10-04",
+      "radio_id": "acikradyo",
+      "program_id": 1798,
+      "program_slug": "uc-melek",
+      "program_name": "13 Melek",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-04",
+      "aired_at": "2026-10-04",
+      "track_count": 3
     },
     "acikradyo/sevgili-gunluk/2026-10-01": {
       "episode_id": "acikradyo/sevgili-gunluk/2026-10-01",
@@ -111,6 +123,18 @@
       "date": "2026-10-02",
       "aired_at": "2026-10-02",
       "track_count": 9
+    },
+    "acikradyo/lovaj/2026-10-04": {
+      "episode_id": "acikradyo/lovaj/2026-10-04",
+      "radio_id": "acikradyo",
+      "program_id": 1797,
+      "program_slug": "lovaj",
+      "program_name": "Lovaj",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 240.0,
+      "date": "2026-10-04",
+      "aired_at": "2026-10-04",
+      "track_count": 19
     },
     "acikradyo/kopuk-baglar/2026-10-02": {
       "episode_id": "acikradyo/kopuk-baglar/2026-10-02",
@@ -220,6 +244,18 @@
       "aired_at": "2026-10-02",
       "track_count": 5
     },
+    "acikradyo/come-sunday/2026-10-04": {
+      "episode_id": "acikradyo/come-sunday/2026-10-04",
+      "radio_id": "acikradyo",
+      "program_id": 1800,
+      "program_slug": "come-sunday",
+      "program_name": "Come Sunday",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-04",
+      "aired_at": "2026-10-04",
+      "track_count": 7
+    },
     "acikradyo/caz-turbulans/2026-10-03": {
       "episode_id": "acikradyo/caz-turbulans/2026-10-03",
       "radio_id": "acikradyo",
@@ -231,6 +267,30 @@
       "date": "2026-10-03",
       "aired_at": "2026-10-03",
       "track_count": 7
+    },
+    "acikradyo/bir-varmis-hic-yokmus/2026-10-04": {
+      "episode_id": "acikradyo/bir-varmis-hic-yokmus/2026-10-04",
+      "radio_id": "acikradyo",
+      "program_id": 1801,
+      "program_slug": "bir-varmis-hic-yokmus",
+      "program_name": "Bir Varmış, Hiç Yokmuş",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-04",
+      "aired_at": "2026-10-04",
+      "track_count": 3
+    },
+    "acikradyo/apacik-radyo-muzikleri/2026-10-04": {
+      "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-10-04",
+      "radio_id": "acikradyo",
+      "program_id": 1799,
+      "program_slug": "apacik-radyo-muzikleri",
+      "program_name": "Apaçık Radyo Müzikleri",
+      "program_start_time": "02:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-04",
+      "aired_at": "2026-10-04",
+      "track_count": 67
     },
     "acikradyo/apacik-radyo-muzikleri/2026-10-02": {
       "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-10-02",
@@ -255,6 +315,18 @@
       "date": "2026-10-01",
       "aired_at": "2026-10-01",
       "track_count": 6
+    },
+    "acikradyo/agora/2026-10-04": {
+      "episode_id": "acikradyo/agora/2026-10-04",
+      "radio_id": "acikradyo",
+      "program_id": 1804,
+      "program_slug": "agora",
+      "program_name": "Agora",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-04",
+      "aired_at": "2026-10-04",
+      "track_count": 1
     },
     "acikradyo/acik-mimarlik/2026-10-01": {
       "episode_id": "acikradyo/acik-mimarlik/2026-10-01",
