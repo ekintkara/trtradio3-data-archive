@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-05T13:06:10.109475+00:00",
+  "generated_at": "2026-10-06T12:28:27.229601+00:00",
   "radio_id": "radyoodtu",
   "month": "2026-10",
   "episodes": {
+    "radyoodtu/ogle-tatili/2026-10-06": {
+      "episode_id": "radyoodtu/ogle-tatili/2026-10-06",
+      "radio_id": "radyoodtu",
+      "program_id": 25,
+      "program_slug": "ogle-tatili",
+      "program_name": "Öğle Tatili",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-06",
+      "aired_at": "2026-10-06",
+      "track_count": 1
+    },
     "radyoodtu/ogle-tatili/2026-10-05": {
       "episode_id": "radyoodtu/ogle-tatili/2026-10-05",
       "radio_id": "radyoodtu",
@@ -100,6 +112,18 @@
       "aired_at": "2026-10-01",
       "track_count": 4
     },
+    "radyoodtu/odtu-gelistirme-vakfi-okullarinin-sundugu-sabah-rutini/2026-10-06": {
+      "episode_id": "radyoodtu/odtu-gelistirme-vakfi-okullarinin-sundugu-sabah-rutini/2026-10-06",
+      "radio_id": "radyoodtu",
+      "program_id": 15,
+      "program_slug": "odtu-gelistirme-vakfi-okullarinin-sundugu-sabah-rutini",
+      "program_name": "ODTÜ Geliştirme Vakfı Okulları'nın Sunduğu Sabah Rutini",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-06",
+      "aired_at": "2026-10-06",
+      "track_count": 1
+    },
     "radyoodtu/odtu-gelistirme-vakfi-okullarinin-sundugu-sabah-rutini/2026-10-05": {
       "episode_id": "radyoodtu/odtu-gelistirme-vakfi-okullarinin-sundugu-sabah-rutini/2026-10-05",
       "radio_id": "radyoodtu",
@@ -160,6 +184,18 @@
       "aired_at": "2026-10-03",
       "track_count": 12
     },
+    "radyoodtu/ikinci-alarm/2026-10-06": {
+      "episode_id": "radyoodtu/ikinci-alarm/2026-10-06",
+      "radio_id": "radyoodtu",
+      "program_id": 10,
+      "program_slug": "ikinci-alarm",
+      "program_name": "İkinci Alarm",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-06",
+      "aired_at": "2026-10-06",
+      "track_count": 8
+    },
     "radyoodtu/ikinci-alarm/2026-10-05": {
       "episode_id": "radyoodtu/ikinci-alarm/2026-10-05",
       "radio_id": "radyoodtu",
@@ -195,6 +231,18 @@
       "date": "2026-10-01",
       "aired_at": "2026-10-01",
       "track_count": 17
+    },
+    "radyoodtu/gunes-gozlugu/2026-10-06": {
+      "episode_id": "radyoodtu/gunes-gozlugu/2026-10-06",
+      "radio_id": "radyoodtu",
+      "program_id": 3,
+      "program_slug": "gunes-gozlugu",
+      "program_name": "Güneş Gözlüğü",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 240.0,
+      "date": "2026-10-06",
+      "aired_at": "2026-10-06",
+      "track_count": 112
     },
     "radyoodtu/gunes-gozlugu/2026-10-05": {
       "episode_id": "radyoodtu/gunes-gozlugu/2026-10-05",
