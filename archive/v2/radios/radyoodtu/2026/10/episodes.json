@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-06T12:28:27.229601+00:00",
+  "generated_at": "2026-10-07T12:21:37.047516+00:00",
   "radio_id": "radyoodtu",
   "month": "2026-10",
   "episodes": {
+    "radyoodtu/ogle-tatili/2026-10-07": {
+      "episode_id": "radyoodtu/ogle-tatili/2026-10-07",
+      "radio_id": "radyoodtu",
+      "program_id": 26,
+      "program_slug": "ogle-tatili",
+      "program_name": "Öğle Tatili",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 3480.0,
+      "date": "2026-10-07",
+      "aired_at": "2026-10-07",
+      "track_count": 1
+    },
     "radyoodtu/ogle-tatili/2026-10-06": {
       "episode_id": "radyoodtu/ogle-tatili/2026-10-06",
       "radio_id": "radyoodtu",
@@ -52,6 +64,18 @@
       "aired_at": "2026-10-01",
       "track_count": 17
     },
+    "radyoodtu/ogle-sonrasi-kusagi/2026-10-07": {
+      "episode_id": "radyoodtu/ogle-sonrasi-kusagi/2026-10-07",
+      "radio_id": "radyoodtu",
+      "program_id": 31,
+      "program_slug": "ogle-sonrasi-kusagi",
+      "program_name": "Öğle Sonrası Kuşağı",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 300.0,
+      "date": "2026-10-07",
+      "aired_at": "2026-10-07",
+      "track_count": 36
+    },
     "radyoodtu/ogle-sonrasi-kusagi/2026-10-04": {
       "episode_id": "radyoodtu/ogle-sonrasi-kusagi/2026-10-04",
       "radio_id": "radyoodtu",
@@ -75,6 +99,18 @@
       "date": "2026-10-01",
       "aired_at": "2026-10-01",
       "track_count": 1
+    },
+    "radyoodtu/ofis-kackini/2026-10-07": {
+      "episode_id": "radyoodtu/ofis-kackini/2026-10-07",
+      "radio_id": "radyoodtu",
+      "program_id": 21,
+      "program_slug": "ofis-kackini",
+      "program_name": "Ofis Kaçkını",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 2280.0,
+      "date": "2026-10-07",
+      "aired_at": "2026-10-07",
+      "track_count": 23
     },
     "radyoodtu/ofis-kackini/2026-10-05": {
       "episode_id": "radyoodtu/ofis-kackini/2026-10-05",
@@ -111,6 +147,18 @@
       "date": "2026-10-01",
       "aired_at": "2026-10-01",
       "track_count": 4
+    },
+    "radyoodtu/odtu-gelistirme-vakfi-okullarinin-sundugu-sabah-rutini/2026-10-07": {
+      "episode_id": "radyoodtu/odtu-gelistirme-vakfi-okullarinin-sundugu-sabah-rutini/2026-10-07",
+      "radio_id": "radyoodtu",
+      "program_id": 16,
+      "program_slug": "odtu-gelistirme-vakfi-okullarinin-sundugu-sabah-rutini",
+      "program_name": "ODTÜ Geliştirme Vakfı Okulları'nın Sunduğu Sabah Rutini",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 360.0,
+      "date": "2026-10-07",
+      "aired_at": "2026-10-07",
+      "track_count": 32
     },
     "radyoodtu/odtu-gelistirme-vakfi-okullarinin-sundugu-sabah-rutini/2026-10-06": {
       "episode_id": "radyoodtu/odtu-gelistirme-vakfi-okullarinin-sundugu-sabah-rutini/2026-10-06",
@@ -184,6 +232,18 @@
       "aired_at": "2026-10-03",
       "track_count": 12
     },
+    "radyoodtu/ikinci-alarm/2026-10-07": {
+      "episode_id": "radyoodtu/ikinci-alarm/2026-10-07",
+      "radio_id": "radyoodtu",
+      "program_id": 11,
+      "program_slug": "ikinci-alarm",
+      "program_name": "İkinci Alarm",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-07",
+      "aired_at": "2026-10-07",
+      "track_count": 17
+    },
     "radyoodtu/ikinci-alarm/2026-10-06": {
       "episode_id": "radyoodtu/ikinci-alarm/2026-10-06",
       "radio_id": "radyoodtu",
@@ -231,6 +291,18 @@
       "date": "2026-10-01",
       "aired_at": "2026-10-01",
       "track_count": 17
+    },
+    "radyoodtu/gunes-gozlugu/2026-10-07": {
+      "episode_id": "radyoodtu/gunes-gozlugu/2026-10-07",
+      "radio_id": "radyoodtu",
+      "program_id": 4,
+      "program_slug": "gunes-gozlugu",
+      "program_name": "Güneş Gözlüğü",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 60.0,
+      "date": "2026-10-07",
+      "aired_at": "2026-10-07",
+      "track_count": 112
     },
     "radyoodtu/gunes-gozlugu/2026-10-06": {
       "episode_id": "radyoodtu/gunes-gozlugu/2026-10-06",

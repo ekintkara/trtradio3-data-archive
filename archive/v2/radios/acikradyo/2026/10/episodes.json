@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-06T12:28:27.229601+00:00",
+  "generated_at": "2026-10-07T12:21:37.047516+00:00",
   "radio_id": "acikradyo",
   "month": "2026-10",
   "episodes": {
@@ -28,6 +28,18 @@
       "aired_at": "2026-10-03",
       "track_count": 11
     },
+    "acikradyo/walkman/2026-10-07": {
+      "episode_id": "acikradyo/walkman/2026-10-07",
+      "radio_id": "acikradyo",
+      "program_id": 1722,
+      "program_slug": "walkman",
+      "program_name": "Walkman",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-07",
+      "aired_at": "2026-10-07",
+      "track_count": 15
+    },
     "acikradyo/uc-melek/2026-10-04": {
       "episode_id": "acikradyo/uc-melek/2026-10-04",
       "radio_id": "acikradyo",
@@ -39,6 +51,18 @@
       "date": "2026-10-04",
       "aired_at": "2026-10-04",
       "track_count": 3
+    },
+    "acikradyo/sevgili-gunluk/2026-10-07": {
+      "episode_id": "acikradyo/sevgili-gunluk/2026-10-07",
+      "radio_id": "acikradyo",
+      "program_id": 1719,
+      "program_slug": "sevgili-gunluk",
+      "program_name": "Sevgili Günlük",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-07",
+      "aired_at": "2026-10-07",
+      "track_count": 6
     },
     "acikradyo/sevgili-gunluk/2026-10-06": {
       "episode_id": "acikradyo/sevgili-gunluk/2026-10-06",
@@ -99,6 +123,18 @@
       "date": "2026-10-05",
       "aired_at": "2026-10-05",
       "track_count": 2
+    },
+    "acikradyo/sabahlik/2026-10-07": {
+      "episode_id": "acikradyo/sabahlik/2026-10-07",
+      "radio_id": "acikradyo",
+      "program_id": 1717,
+      "program_slug": "sabahlik",
+      "program_name": "Sabahlık",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-07",
+      "aired_at": "2026-10-07",
+      "track_count": 18
     },
     "acikradyo/sabahlik/2026-10-06": {
       "episode_id": "acikradyo/sabahlik/2026-10-06",
@@ -304,6 +340,18 @@
       "aired_at": "2026-10-01",
       "track_count": 1
     },
+    "acikradyo/kes-bic/2026-10-07": {
+      "episode_id": "acikradyo/kes-bic/2026-10-07",
+      "radio_id": "acikradyo",
+      "program_id": 1714,
+      "program_slug": "kes-bic",
+      "program_name": "Kes / Biç",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-07",
+      "aired_at": "2026-10-07",
+      "track_count": 11
+    },
     "acikradyo/headroom/2026-10-02": {
       "episode_id": "acikradyo/headroom/2026-10-02",
       "radio_id": "acikradyo",
@@ -388,6 +436,18 @@
       "aired_at": "2026-10-01",
       "track_count": 13
     },
+    "acikradyo/egzotik-yeralti/2026-10-07": {
+      "episode_id": "acikradyo/egzotik-yeralti/2026-10-07",
+      "radio_id": "acikradyo",
+      "program_id": 1713,
+      "program_slug": "egzotik-yeralti",
+      "program_name": "Egzotik Yeraltı",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 60.0,
+      "date": "2026-10-07",
+      "aired_at": "2026-10-07",
+      "track_count": 6
+    },
     "acikradyo/eclectic-dreams/2026-10-02": {
       "episode_id": "acikradyo/eclectic-dreams/2026-10-02",
       "radio_id": "acikradyo",
@@ -411,6 +471,18 @@
       "date": "2026-10-06",
       "aired_at": "2026-10-06",
       "track_count": 2
+    },
+    "acikradyo/democracy-now/2026-10-07": {
+      "episode_id": "acikradyo/democracy-now/2026-10-07",
+      "radio_id": "acikradyo",
+      "program_id": 1716,
+      "program_slug": "democracy-now",
+      "program_name": "Democracy Now!",
+      "program_start_time": "06:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-07",
+      "aired_at": "2026-10-07",
+      "track_count": 6
     },
     "acikradyo/democracy-now/2026-10-05": {
       "episode_id": "acikradyo/democracy-now/2026-10-05",
@@ -495,6 +567,18 @@
       "date": "2026-10-05",
       "aired_at": "2026-10-05",
       "track_count": 6
+    },
+    "acikradyo/apacik-radyo-muzikleri/2026-10-07": {
+      "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-10-07",
+      "radio_id": "acikradyo",
+      "program_id": 1715,
+      "program_slug": "apacik-radyo-muzikleri",
+      "program_name": "Apaçık Radyo Müzikleri",
+      "program_start_time": "02:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-07",
+      "aired_at": "2026-10-07",
+      "track_count": 42
     },
     "acikradyo/apacik-radyo-muzikleri/2026-10-06": {
       "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-10-06",
