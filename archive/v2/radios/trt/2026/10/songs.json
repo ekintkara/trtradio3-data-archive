@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-08T12:30:52.891688+00:00",
+  "generated_at": "2026-10-09T12:19:47.790102+00:00",
   "radio_id": "trt",
   "month": "2026-10",
   "songs": {
@@ -161,6 +161,18 @@
       "youtube_video_id": "zFrhrMP3mLI",
       "alternatives": []
     },
+    "0442a58d2d6fbe405452": {
+      "song_id": "0442a58d2d6fbe405452",
+      "title": "Burning the Keepsakes of Our Love Once Again",
+      "artist": "Dog on acid",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "MTkl4HR7vCk",
+      "alternatives": []
+    },
     "04f9df5c88e21d8a981b": {
       "song_id": "04f9df5c88e21d8a981b",
       "title": "Clarinet Concerto No. 1 in F Minor, Op. 73: III. Rondo",
@@ -183,6 +195,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "C2xiIdFoQjs",
+      "alternatives": []
+    },
+    "056f0509712f377753ab": {
+      "song_id": "056f0509712f377753ab",
+      "title": "A Song for You",
+      "artist": "Amy Winehouse",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "pop; soul; soul-jazz",
+      "youtube_video_id": "i29azEAKxXQ",
       "alternatives": []
     },
     "057aa80fa5f3eb00c0fa": {
@@ -255,6 +279,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "LmmcpA7Hlyw",
+      "alternatives": []
+    },
+    "0741971d3cfbb39d1e78": {
+      "song_id": "0741971d3cfbb39d1e78",
+      "title": "The Last Autumn Leaf",
+      "artist": "Shane Gordon",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "71NAvfJUZZ0",
       "alternatives": []
     },
     "0766bab7b473028749e0": {
@@ -339,6 +375,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "C3TUWU_yg4s",
+      "alternatives": []
+    },
+    "09589ad8330216574807": {
+      "song_id": "09589ad8330216574807",
+      "title": "Totentanz, S. 525",
+      "artist": "Krystian Zimerman, Boston Symphony Orchestra, Boston Pops Orchestra & Seiji Ozawa",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "0rp6l_msKqQ",
+      "alternatives": []
+    },
+    "09d65a6c270bc48540f8": {
+      "song_id": "09d65a6c270bc48540f8",
+      "title": "Nothing Left to Say",
+      "artist": "Mint Condition",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "7bv6g67nJYA",
       "alternatives": []
     },
     "0a5b921433ce37fd8181": {
@@ -563,6 +623,25 @@
       "genre": "",
       "youtube_video_id": "2MT_AA38-7g",
       "alternatives": []
+    },
+    "11b7a30b63a186dfbca9": {
+      "song_id": "11b7a30b63a186dfbca9",
+      "title": "Partita for Violin Solo No. 3 in E, BWV 1006: I. Preludio",
+      "artist": "Gidon Kremer",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "0F9V0osogMI",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Violin Partita No. 3 in E Major, BWV 1006: I. Preludio",
+          "artist": "Susanne Lautenbacher",
+          "confidence": 0.55
+        }
+      ]
     },
     "11bad453f793587a4a9a": {
       "song_id": "11bad453f793587a4a9a",
@@ -1178,6 +1257,18 @@
       "youtube_video_id": "Ht0lPunQrTo",
       "alternatives": []
     },
+    "2166e569cfb207ce0794": {
+      "song_id": "2166e569cfb207ce0794",
+      "title": "Sarabande in E Minor Pizzicato",
+      "artist": "Frederic Sans",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "xjOodZ5Yw9M",
+      "alternatives": []
+    },
     "24091169ee843ad3551e": {
       "song_id": "24091169ee843ad3551e",
       "title": "Is It Just Me?",
@@ -1272,6 +1363,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "jFLkasBuM3U",
+      "alternatives": []
+    },
+    "25d9179c32d4ed898dcd": {
+      "song_id": "25d9179c32d4ed898dcd",
+      "title": "The Days",
+      "artist": "DJ Quantem S",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Uw1nEP-rPH4",
       "alternatives": []
     },
     "263bf0a314cccf1dd339": {
@@ -1442,6 +1545,18 @@
       "youtube_video_id": "_79m9q-248g",
       "alternatives": []
     },
+    "2b9cbee955060aa5cd10": {
+      "song_id": "2b9cbee955060aa5cd10",
+      "title": "Piano Concerto No. 2 in B-Flat Major, Op. 19: I. Allegro con brio",
+      "artist": "Rudolf Buchbinder, Bavarian Radio Symphony Orchestra & Mariss Jansons",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "4L1Z3Bmjgec",
+      "alternatives": []
+    },
     "2ba9bc6ebdcb30787d93": {
       "song_id": "2ba9bc6ebdcb30787d93",
       "title": "Time",
@@ -1465,6 +1580,31 @@
       "genre": "",
       "youtube_video_id": "UI3127tEVjs",
       "alternatives": []
+    },
+    "2c502559428b6b64d955": {
+      "song_id": "2c502559428b6b64d955",
+      "title": "Piano Concerto No.2 in G Minor, Op. 22 : III. Presto",
+      "artist": "Tbilisi Symphony Orchestra",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "r7GLIfSjG38",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 2 in G Minor, Op. 22, R. 190: III. Presto",
+          "artist": "Alexandre Kantorow, Tapiola Sinfonietta & Jean-Jacques Kantorow",
+          "confidence": 0.55
+        },
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 2 in G Minor, Op. 22: III. Presto",
+          "artist": "Andrew von Oeyen, PKF - Prague Philharmonia & Emmanuel Villaume",
+          "confidence": 0.55
+        }
+      ]
     },
     "2dc1ecf742095ddd99a5": {
       "song_id": "2dc1ecf742095ddd99a5",
@@ -1501,6 +1641,25 @@
       "genre": "",
       "youtube_video_id": "_NUcxfiESMY",
       "alternatives": []
+    },
+    "2eae8b2e3caccaeedfb6": {
+      "song_id": "2eae8b2e3caccaeedfb6",
+      "title": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": I. Allegro",
+      "artist": "Arthur Rubinstein, Boston Symphony Orchestra & Erich Leinsdorf",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "uWLj7yOa4iY",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 5 in E-Flat Major, Op. 73 - \"Emperor\": I. Allegro",
+          "artist": "Krystian Zimerman, Leonard Bernstein & Vienna Philharmonic",
+          "confidence": 0.55
+        }
+      ]
     },
     "2f37660bcb5f19475c6c": {
       "song_id": "2f37660bcb5f19475c6c",
@@ -1622,6 +1781,18 @@
       "youtube_video_id": "Ujo6z3Js7Os",
       "alternatives": []
     },
+    "36dd010664feb249f235": {
+      "song_id": "36dd010664feb249f235",
+      "title": "Les Feuilles Mortes",
+      "artist": "Livia Blanc",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "BHhVw_tRwC0",
+      "alternatives": []
+    },
     "3716f52daee3c96c963b": {
       "song_id": "3716f52daee3c96c963b",
       "title": "Children",
@@ -1670,6 +1841,18 @@
       "youtube_video_id": "oE9FSZhXueQ",
       "alternatives": []
     },
+    "3b2bc293de3c6ed4af8c": {
+      "song_id": "3b2bc293de3c6ed4af8c",
+      "title": "Violin Concerto No. 1 in F-Sharp Minor, Op. 14: II. Preghiera. Larghetto",
+      "artist": "HIMARI, Berlin Philharmonic Orchestra & Sebastian Weigle",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "7Qgtx3wGDxw",
+      "alternatives": []
+    },
     "3c19f458e7ff10d0ac4d": {
       "song_id": "3c19f458e7ff10d0ac4d",
       "title": "Pavane in F-Sharp Minor, Op. 50, N 100c",
@@ -1716,6 +1899,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "zklNQV7CxqA",
+      "alternatives": []
+    },
+    "3e1b2e78e49255a659dc": {
+      "song_id": "3e1b2e78e49255a659dc",
+      "title": "Sete Pedaços De Vento",
+      "artist": "Cristina Branco",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "qTl1EjDxgDU",
       "alternatives": []
     },
     "3e43ad6de35ffb2dbaa7": {
@@ -2041,6 +2236,18 @@
       "youtube_video_id": "1MMM2M3Z5eM",
       "alternatives": []
     },
+    "48d75db6a1e467d659b6": {
+      "song_id": "48d75db6a1e467d659b6",
+      "title": "NonStopMusic, Pt. 5",
+      "artist": "KorgStyle Life",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "GQjgdusXSh0",
+      "alternatives": []
+    },
     "48ec69c02edca9dd3b4b": {
       "song_id": "48ec69c02edca9dd3b4b",
       "title": "Carmen, Act I: L'amour est un oiseau rebelle",
@@ -2077,6 +2284,18 @@
       "youtube_video_id": "ZKzNQHyaXn0",
       "alternatives": []
     },
+    "49554d9c5151593bc586": {
+      "song_id": "49554d9c5151593bc586",
+      "title": "Into The Blue (Jayeson Andel Remix;Mix Cut)",
+      "artist": "Hazem Beltagui",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "wB_hFSAfGwY",
+      "alternatives": []
+    },
     "49f5a37755e3f7a9be6a": {
       "song_id": "49f5a37755e3f7a9be6a",
       "title": "El Shaddai (Soaking Instrumental)",
@@ -2087,6 +2306,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "x504rBg1TWY",
+      "alternatives": []
+    },
+    "4a6a6083ae855b286d06": {
+      "song_id": "4a6a6083ae855b286d06",
+      "title": "Ruslan and Lyudmila: Eastern Dances in the Black Sea Castle",
+      "artist": "Moscow Radio Symphony Orchestra & Mark Ermler",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
       "alternatives": []
     },
     "4c1e2089137a43eba629": {
@@ -2123,6 +2354,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "zNpeK7sDLzE",
+      "alternatives": []
+    },
+    "4e962b5fea956331b651": {
+      "song_id": "4e962b5fea956331b651",
+      "title": "The One I Gave My Heart To",
+      "artist": "Aaliyah",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "contemporary r&b; r&b; pop",
+      "youtube_video_id": "GmyuhLRHKcs",
       "alternatives": []
     },
     "4f0e36528787a894b294": {
@@ -2408,6 +2651,18 @@
       "youtube_video_id": "yQK-H7Lyf_w",
       "alternatives": []
     },
+    "598a1092303f7f4cf2bb": {
+      "song_id": "598a1092303f7f4cf2bb",
+      "title": "Feuille D'automne",
+      "artist": "Indila",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "VLqeGeqmDww",
+      "alternatives": []
+    },
     "59a8c471cdc53b0ee6ef": {
       "song_id": "59a8c471cdc53b0ee6ef",
       "title": "Bon Trip (Extended)",
@@ -2540,6 +2795,18 @@
       "youtube_video_id": "pHOMsJPOAro",
       "alternatives": []
     },
+    "5e8066dadf04581edcd8": {
+      "song_id": "5e8066dadf04581edcd8",
+      "title": "Emotion",
+      "artist": "Destiny's Child",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "xWKdMmH0B-E",
+      "alternatives": []
+    },
     "5e8c2cb8df24690758ea": {
       "song_id": "5e8c2cb8df24690758ea",
       "title": "Harry Hood",
@@ -2562,6 +2829,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Gxd23UVID7k",
+      "alternatives": []
+    },
+    "5eb20ba4677c0225c666": {
+      "song_id": "5eb20ba4677c0225c666",
+      "title": "Concerto No. 2 for Piano and Orchestra in G Minor, Op. 22: Andante sostenuto",
+      "artist": "Arthur Rubinstein, The Philadelphia Orchestra & Eugene Ormandy",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "3ZPeLD2Ablk",
       "alternatives": []
     },
     "5f2828b0438fa50b7794": {
@@ -2648,6 +2927,18 @@
       "youtube_video_id": "Zp1aDnVySf8",
       "alternatives": []
     },
+    "61fb1af62d691850eac8": {
+      "song_id": "61fb1af62d691850eac8",
+      "title": "Piano Concerto No. 1 in E-Flat, S. 124: IV. Allegro marziale animato",
+      "artist": "Claire-Marie Le Guay, Orchestre Philharmonique de Liège & Louis Langrée",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
+      "alternatives": []
+    },
     "62becbee65f84ed4b0dc": {
       "song_id": "62becbee65f84ed4b0dc",
       "title": "Sleep Again",
@@ -2730,6 +3021,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "aE_XOssIRHA",
+      "alternatives": []
+    },
+    "6581308017463a922a2b": {
+      "song_id": "6581308017463a922a2b",
+      "title": "Piano Concerto No. 1 in E-Flat, S. 124: I. Allegro maestoso",
+      "artist": "Krystian Zimerman, Boston Symphony Orchestra, Boston Pops Orchestra & Seiji Ozawa",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
       "alternatives": []
     },
     "6594ec06b3b5d9a78d68": {
@@ -2864,6 +3167,18 @@
       "mbid": "",
       "genre": "classical",
       "youtube_video_id": "_W4PJUOeVYw",
+      "alternatives": []
+    },
+    "6a799a8b0e20267ed066": {
+      "song_id": "6a799a8b0e20267ed066",
+      "title": "Asshole",
+      "artist": "Δlchimist",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "2fIxBZsDbrc",
       "alternatives": []
     },
     "6b04504ba27dd8d047d9": {
@@ -3432,6 +3747,18 @@
       "youtube_video_id": "sGqaeUeTzj0",
       "alternatives": []
     },
+    "8206d07cb41ffc5810e0": {
+      "song_id": "8206d07cb41ffc5810e0",
+      "title": "Violin Concerto No. 1 in F-Sharp Minor, Op. 14: I. Allegro moderato",
+      "artist": "HIMARI, Berlin Philharmonic & Sebastian Weigle",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "jheYEcUMd9A",
+      "alternatives": []
+    },
     "8227085f83a4ba46b494": {
       "song_id": "8227085f83a4ba46b494",
       "title": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": III. Presto agitato",
@@ -3960,6 +4287,18 @@
       "youtube_video_id": "rxe307swSf8",
       "alternatives": []
     },
+    "929c280be60c9089d238": {
+      "song_id": "929c280be60c9089d238",
+      "title": "The Point of It All",
+      "artist": "Anthony Hamilton",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "yLLj2DvNGog",
+      "alternatives": []
+    },
     "93450c5e1f69c0cc947f": {
       "song_id": "93450c5e1f69c0cc947f",
       "title": "Elise (Alle Farben Remix)",
@@ -4190,6 +4529,18 @@
       "youtube_video_id": "m_OazsImOiI",
       "alternatives": []
     },
+    "9cc51ff70fc978416d16": {
+      "song_id": "9cc51ff70fc978416d16",
+      "title": "Variations Abegg, Op. 1",
+      "artist": "Katia Skanavi",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "OYxDYkBT908",
+      "alternatives": []
+    },
     "9ce8a0dd283cd581863e": {
       "song_id": "9ce8a0dd283cd581863e",
       "title": "12 Variations in C, K. 265 On \"Ah, vous dirai-je Maman\"",
@@ -4219,6 +4570,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Fgbfo7lxjYI",
+      "alternatives": []
+    },
+    "9df77af3711da0d00a5a": {
+      "song_id": "9df77af3711da0d00a5a",
+      "title": "Just Like Me",
+      "artist": "Amerie",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "hip hop; soul; r&b",
+      "youtube_video_id": "GcMSCulWQa4",
       "alternatives": []
     },
     "9e48615455183c69bf0f": {
@@ -4327,6 +4690,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Dv9iLR5Cqio",
+      "alternatives": []
+    },
+    "a165c5019a6f6b79a82a": {
+      "song_id": "a165c5019a6f6b79a82a",
+      "title": "Bechet's Fantasy",
+      "artist": "Wynton Marsalis",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "9b9nRtvjZKI",
       "alternatives": []
     },
     "a21cfbe1183fc1bb47c7": {
@@ -4547,6 +4922,18 @@
       "youtube_video_id": "H0t6k1ImPqo",
       "alternatives": []
     },
+    "a83a40abcda335941058": {
+      "song_id": "a83a40abcda335941058",
+      "title": "Idea 10",
+      "artist": "Clavier",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "AxOdWsekRns",
+      "alternatives": []
+    },
     "a9531c325750743df518": {
       "song_id": "a9531c325750743df518",
       "title": "Keyboard Sonata in F Minor, Kk. 466",
@@ -4698,6 +5085,18 @@
       "youtube_video_id": "",
       "alternatives": []
     },
+    "ae4c61bfd9837472a5fc": {
+      "song_id": "ae4c61bfd9837472a5fc",
+      "title": "Danse macabre, Op. 40",
+      "artist": "Joachim Carr & Mathias Halvorsen",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "RohNYIsUnsU",
+      "alternatives": []
+    },
     "aec42c9f65bf2de54f34": {
       "song_id": "aec42c9f65bf2de54f34",
       "title": "Fulfilled Dreams",
@@ -4804,6 +5203,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "qJdL-CIM30A",
+      "alternatives": []
+    },
+    "b34ce321a746204c7be9": {
+      "song_id": "b34ce321a746204c7be9",
+      "title": "I Believe I Can Fly",
+      "artist": "R. Kelly",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "G4YF_bUrmf8",
       "alternatives": []
     },
     "b37e9dd38ced14bc97ea": {
@@ -4936,6 +5347,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "UZzfb0wVSNE",
+      "alternatives": []
+    },
+    "b727740970d20a512028": {
+      "song_id": "b727740970d20a512028",
+      "title": "Sweet Lady",
+      "artist": "Tyrese",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "gSlLFx2U4qo",
       "alternatives": []
     },
     "b79326fec6a9bb3be139": {
@@ -5384,6 +5807,30 @@
       "youtube_video_id": "BV9FcHP9iOo",
       "alternatives": []
     },
+    "c57129c54ae13883b54d": {
+      "song_id": "c57129c54ae13883b54d",
+      "title": "Музыкальная история. Симфонический оркестр, Часть 2",
+      "artist": "Сергей Некрасов",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "GCjYICt0Zoo",
+      "alternatives": []
+    },
+    "c5a0146ebab773aecf76": {
+      "song_id": "c5a0146ebab773aecf76",
+      "title": "Walz No.7 in C-Sharp Minor, Op.64-2",
+      "artist": "Dang Thai Son",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "WRMI5VsbI64",
+      "alternatives": []
+    },
     "c5f3ad30b2f2c0e8819a": {
       "song_id": "c5f3ad30b2f2c0e8819a",
       "title": "Lights Off",
@@ -5567,6 +6014,18 @@
       "youtube_video_id": "llTsCd5gqpE",
       "alternatives": []
     },
+    "cf020910cb1450186e87": {
+      "song_id": "cf020910cb1450186e87",
+      "title": "True",
+      "artist": "Brandy",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "soul; r&b; pop",
+      "youtube_video_id": "pO1A_kRPVi4",
+      "alternatives": []
+    },
     "cf1af37d6238e932dcfc": {
       "song_id": "cf1af37d6238e932dcfc",
       "title": "Gesunder Tiefschlaf",
@@ -5730,6 +6189,18 @@
       "youtube_video_id": "9QjDrAEczyo",
       "alternatives": []
     },
+    "d538f7809371b09addf0": {
+      "song_id": "d538f7809371b09addf0",
+      "title": "Castillo De Mersin",
+      "artist": "Thomas Carlo Gerundo",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Oer__SCfrSw",
+      "alternatives": []
+    },
     "d5c21303dfaeba9c1f9c": {
       "song_id": "d5c21303dfaeba9c1f9c",
       "title": "Novelletten, Op. 21: No. 2 in D Major. Äußerst rasch und mit Bravour",
@@ -5776,6 +6247,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "7Ej6g3KhinM",
+      "alternatives": []
+    },
+    "d7262926eb5f599e029a": {
+      "song_id": "d7262926eb5f599e029a",
+      "title": "Symphony No. 21 in F-Sharp Minor, Op. 51",
+      "artist": "Evgeny Svetlanov & USSR State Symphony Orchestra",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "tXy_km74cIY",
       "alternatives": []
     },
     "d7a32937a9bbc20d76e1": {
@@ -5982,6 +6465,18 @@
       "youtube_video_id": "pKvNoC0SRoY",
       "alternatives": []
     },
+    "dca8038d12c8b46af25b": {
+      "song_id": "dca8038d12c8b46af25b",
+      "title": "The River",
+      "artist": "DappyTKeys",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "GfvO_M6--aU",
+      "alternatives": []
+    },
     "dd448a33f353e26b687d": {
       "song_id": "dd448a33f353e26b687d",
       "title": "Romero",
@@ -6078,6 +6573,18 @@
       "youtube_video_id": "4U-qgr8FG_c",
       "alternatives": []
     },
+    "e0acb2d23592ce0ae498": {
+      "song_id": "e0acb2d23592ce0ae498",
+      "title": "Nobody Knows Tomorrow",
+      "artist": "Tambwe Dongo Pecos",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "NHiwB_il6wM",
+      "alternatives": []
+    },
     "e0f26253e6da834daf7e": {
       "song_id": "e0f26253e6da834daf7e",
       "title": "Concentration Music for Learning",
@@ -6100,6 +6607,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "K1Wfh0MPBXY",
+      "alternatives": []
+    },
+    "e1885c4ff01fc7a13c44": {
+      "song_id": "e1885c4ff01fc7a13c44",
+      "title": "Ruslan and Lyudmila, Act III: No. 15, Dances",
+      "artist": "Evgeny Svetlanov & USSR State Symphony Orchestra",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "3-Ez2YEKiBY",
       "alternatives": []
     },
     "e295e2127b2d542d90eb": {
@@ -6201,6 +6720,18 @@
       "youtube_video_id": "an4ySOlsUMY",
       "alternatives": []
     },
+    "e5a9b2fda5d5c65d5bea": {
+      "song_id": "e5a9b2fda5d5c65d5bea",
+      "title": "Piano Concerto No. 1 in E-Flat, S. 124: II. Quasi adagio - Allegretto vivace - Allegro animato",
+      "artist": "Krystian Zimerman, Boston Symphony Orchestra, Boston Pops Orchestra & Seiji Ozawa",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
+      "alternatives": []
+    },
     "e609139326d1bceafbdf": {
       "song_id": "e609139326d1bceafbdf",
       "title": "One Tear (Adam Nickey Remix)",
@@ -6273,6 +6804,18 @@
       "youtube_video_id": "hbvpCkDleDo",
       "alternatives": []
     },
+    "ecdb55ce727d928351e0": {
+      "song_id": "ecdb55ce727d928351e0",
+      "title": "Turning Tables",
+      "artist": "Adele",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "3SojhAemf34",
+      "alternatives": []
+    },
     "ecf48b645eea8b9e2387": {
       "song_id": "ecf48b645eea8b9e2387",
       "title": "Fantasiestücke, Op. 12",
@@ -6291,6 +6834,18 @@
           "confidence": 0.55
         }
       ]
+    },
+    "ed218d7ddabac4e4cad6": {
+      "song_id": "ed218d7ddabac4e4cad6",
+      "title": "NEVER SAY NEVER",
+      "artist": "THREE LIGHTS DOWN KINGS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "C2L1OlvbQTs",
+      "alternatives": []
     },
     "ed63563a63f0b923af41": {
       "song_id": "ed63563a63f0b923af41",
@@ -6327,6 +6882,31 @@
       "genre": "",
       "youtube_video_id": "Ng-2heFLUrs",
       "alternatives": []
+    },
+    "ee3ecb7c71927e0703c9": {
+      "song_id": "ee3ecb7c71927e0703c9",
+      "title": "Piano Concerto No. 2 in G Minor, Op. 22: Allegro scherzando",
+      "artist": "Arthur Rubinstein, Dimitri Mitropoulos & New York Philharmonic",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "WcbPU8nWxhA",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 2 in G Minor, Op. 22: Presto",
+          "artist": "Arthur Rubinstein, Dimitri Mitropoulos & New York Philharmonic",
+          "confidence": 0.55
+        },
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 2 in G Minor, Op. 22: Presto",
+          "artist": "Arthur Rubinstein, Dimitri Mitropoulos & New York Philharmonic",
+          "confidence": 0.55
+        }
+      ]
     },
     "ef304590c15d9dc898c0": {
       "song_id": "ef304590c15d9dc898c0",
@@ -6399,6 +6979,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "09Q3HFjYvFo",
+      "alternatives": []
+    },
+    "f1548331c8b7cff398fb": {
+      "song_id": "f1548331c8b7cff398fb",
+      "title": "Purple Rain",
+      "artist": "Prince & The Revolution",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "uW1UIDYmYyI",
       "alternatives": []
     },
     "f1b0bdabcc01c8a3c708": {
@@ -6485,6 +7077,18 @@
       "youtube_video_id": "Cv9NSR-2DwM",
       "alternatives": []
     },
+    "f42ee664a2802d84edf0": {
+      "song_id": "f42ee664a2802d84edf0",
+      "title": "Violin Concerto No. 1 in F-Sharp Minor, Op. 14: III. Rondo. Allegro giocoso",
+      "artist": "HIMARI, Berlin Philharmonic Orchestra & Sebastian Weigle",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "8M3N2LcOKT0",
+      "alternatives": []
+    },
     "f4a7bbe2ece15197667c": {
       "song_id": "f4a7bbe2ece15197667c",
       "title": "Say Something",
@@ -6540,6 +7144,18 @@
       "youtube_video_id": "2lAGiJ3fJoQ",
       "alternatives": []
     },
+    "f59f137ed0566a934139": {
+      "song_id": "f59f137ed0566a934139",
+      "title": "Meditation for Concentration",
+      "artist": "Meditation Chakra Music",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "OeYi8UomCiY",
+      "alternatives": []
+    },
     "f5e29d13fd97163ad94e": {
       "song_id": "f5e29d13fd97163ad94e",
       "title": "Her Smell Theme",
@@ -6574,6 +7190,18 @@
       "mbid": "",
       "genre": "neo-soul; acoustic; soul",
       "youtube_video_id": "wYzf1meZcV8",
+      "alternatives": []
+    },
+    "f681dcbf01394312d064": {
+      "song_id": "f681dcbf01394312d064",
+      "title": "Blue",
+      "artist": "BIGBANG",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "2GRP1rkE4O0",
       "alternatives": []
     },
     "f6bb6e859bd8f8dd9881": {
@@ -6634,6 +7262,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "5fD4bCYalEc",
+      "alternatives": []
+    },
+    "f99ceff3a767838a7f1c": {
+      "song_id": "f99ceff3a767838a7f1c",
+      "title": "Don't Let Me Be The Last To Know (Azza Remix)",
+      "artist": "Britney Spears",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Y40sG6BBLe0",
       "alternatives": []
     },
     "f9a45d8003b9941397e3": {
@@ -6708,6 +7348,18 @@
       "youtube_video_id": "bT7cCkruSTk",
       "alternatives": []
     },
+    "fb74209e09844b4bcc2f": {
+      "song_id": "fb74209e09844b4bcc2f",
+      "title": "The School",
+      "artist": "Gia Ionesco",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "9oVQ-50ZyaQ",
+      "alternatives": []
+    },
     "fb8341776a289cfd89cd": {
       "song_id": "fb8341776a289cfd89cd",
       "title": "Ballade No. 1, Op. 23 In G Minor",
@@ -6742,6 +7394,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "d5vD9Gm35LQ",
+      "alternatives": []
+    },
+    "fce44d8e70eb45c1198d": {
+      "song_id": "fce44d8e70eb45c1198d",
+      "title": "Les Préludes, Symphonic Poem No. 3, S. 97 (after Lamartine)",
+      "artist": "Berlin Philharmonic Orchestra & Herbert von Karajan",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Ka5ClgzJCI4",
+      "alternatives": []
+    },
+    "fd7b68d061b5a535c827": {
+      "song_id": "fd7b68d061b5a535c827",
+      "title": "Ruslan and Lyudmila, Act IV: No. 19, Chernomor's March",
+      "artist": "Evgeny Svetlanov & USSR State Symphony Orchestra",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "yF_eSzrxGsE",
       "alternatives": []
     },
     "fdc5eabaf62af5f31974": {
