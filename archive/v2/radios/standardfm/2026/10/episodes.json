@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-09T12:19:47.790102+00:00",
+  "generated_at": "2026-10-10T11:37:52.123758+00:00",
   "radio_id": "standardfm",
   "month": "2026-10",
   "episodes": {
@@ -87,6 +87,18 @@
       "date": "2026-10-01",
       "aired_at": "2026-10-01",
       "track_count": 49
+    },
+    "standardfm/klasik-muzik/2026-10-10": {
+      "episode_id": "standardfm/klasik-muzik/2026-10-10",
+      "radio_id": "standardfm",
+      "program_id": 1617,
+      "program_slug": "klasik-muzik",
+      "program_name": "Klasik Müzik",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-10",
+      "aired_at": "2026-10-10",
+      "track_count": 11
     },
     "standardfm/klasik-muzik/2026-10-09": {
       "episode_id": "standardfm/klasik-muzik/2026-10-09",
@@ -207,6 +219,18 @@
       "date": "2026-10-04",
       "aired_at": "2026-10-04",
       "track_count": 55
+    },
+    "standardfm/gece-yayini/2026-10-10": {
+      "episode_id": "standardfm/gece-yayini/2026-10-10",
+      "radio_id": "standardfm",
+      "program_id": 1616,
+      "program_slug": "gece-yayini",
+      "program_name": "Gece Yayını",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 180.0,
+      "date": "2026-10-10",
+      "aired_at": "2026-10-10",
+      "track_count": 101
     },
     "standardfm/gece-yayini/2026-10-09": {
       "episode_id": "standardfm/gece-yayini/2026-10-09",

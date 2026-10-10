@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-09T12:19:47.790102+00:00",
+  "generated_at": "2026-10-10T11:37:52.123758+00:00",
   "radio_id": "pal",
   "month": "2026-10",
   "songs": {
+    "00b3cc79e26dfc0bd9b8": {
+      "song_id": "00b3cc79e26dfc0bd9b8",
+      "title": "Hay Allah",
+      "artist": "Murda",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Lp7JKbTKx6M",
+      "alternatives": []
+    },
     "00b7642c15977ba874c2": {
       "song_id": "00b7642c15977ba874c2",
       "title": "Niyetim Saf",
@@ -554,6 +566,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "0IgpuBshTE0",
+      "alternatives": []
+    },
+    "1d080e6ab9766e034643": {
+      "song_id": "1d080e6ab9766e034643",
+      "title": "Ne Bileyim Ben",
+      "artist": "Mazhar Fuat Ozkan",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "J-0SsscmjZI",
       "alternatives": []
     },
     "1de8f9b3321bbdf9a002": {
@@ -3050,6 +3074,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "RvZzNVjtMzU",
+      "alternatives": []
+    },
+    "87a85bb3df1cc1dce960": {
+      "song_id": "87a85bb3df1cc1dce960",
+      "title": "Kandirman Lazim",
+      "artist": "Ozgun",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "4BjMg8KpJlY",
       "alternatives": []
     },
     "8892340db1ecdf003307": {

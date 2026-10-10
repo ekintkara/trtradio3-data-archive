@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-09T12:19:47.790102+00:00",
+  "generated_at": "2026-10-10T11:37:52.123758+00:00",
   "radio_id": "viva",
   "month": "2026-10",
   "episodes": {
@@ -99,6 +99,18 @@
       "date": "2026-10-04",
       "aired_at": "2026-10-04",
       "track_count": 18
+    },
+    "viva/turkce-muzigin-keyfi/2026-10-10": {
+      "episode_id": "viva/turkce-muzigin-keyfi/2026-10-10",
+      "radio_id": "viva",
+      "program_id": 7455,
+      "program_slug": "turkce-muzigin-keyfi",
+      "program_name": "Türkçe Müziğin Keyfi",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 3000.0,
+      "date": "2026-10-10",
+      "aired_at": "2026-10-10",
+      "track_count": 17
     },
     "viva/turkce-muzigin-keyfi/2026-10-09": {
       "episode_id": "viva/turkce-muzigin-keyfi/2026-10-09",
@@ -363,6 +375,18 @@
       "date": "2026-10-01",
       "aired_at": "2026-10-01",
       "track_count": 1
+    },
+    "viva/canli-yayin-viva/2026-10-10": {
+      "episode_id": "viva/canli-yayin-viva/2026-10-10",
+      "radio_id": "viva",
+      "program_id": 7295,
+      "program_slug": "canli-yayin-viva",
+      "program_name": "Canlı Yayın",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 180.0,
+      "date": "2026-10-10",
+      "aired_at": "2026-10-10",
+      "track_count": 201
     },
     "viva/canli-yayin-viva/2026-10-03": {
       "episode_id": "viva/canli-yayin-viva/2026-10-03",

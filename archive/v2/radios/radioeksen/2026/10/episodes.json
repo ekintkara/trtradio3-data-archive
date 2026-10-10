@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-09T12:19:47.790102+00:00",
+  "generated_at": "2026-10-10T11:37:52.123758+00:00",
   "radio_id": "radioeksen",
   "month": "2026-10",
   "episodes": {
@@ -219,6 +219,18 @@
       "date": "2026-10-01",
       "aired_at": "2026-10-01",
       "track_count": 30
+    },
+    "radioeksen/eksen-muzik/2026-10-10": {
+      "episode_id": "radioeksen/eksen-muzik/2026-10-10",
+      "radio_id": "radioeksen",
+      "program_id": -51370,
+      "program_slug": "eksen-muzik",
+      "program_name": "Eksen Müzik",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-10",
+      "aired_at": "2026-10-10",
+      "track_count": 14
     },
     "radioeksen/eksen-muzik/2026-10-09": {
       "episode_id": "radioeksen/eksen-muzik/2026-10-09",

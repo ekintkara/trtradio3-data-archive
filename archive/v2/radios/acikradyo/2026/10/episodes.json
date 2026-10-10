@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-09T12:19:47.790102+00:00",
+  "generated_at": "2026-10-10T11:37:52.123758+00:00",
   "radio_id": "acikradyo",
   "month": "2026-10",
   "episodes": {
@@ -532,6 +532,18 @@
       "aired_at": "2026-10-06",
       "track_count": 15
     },
+    "acikradyo/fizan-ekspresi/2026-10-10": {
+      "episode_id": "acikradyo/fizan-ekspresi/2026-10-10",
+      "radio_id": "acikradyo",
+      "program_id": 1787,
+      "program_slug": "fizan-ekspresi",
+      "program_name": "Fizan Ekspresi",
+      "program_start_time": "14:00",
+      "recording_start_offset_sec": 360.0,
+      "date": "2026-10-10",
+      "aired_at": "2026-10-10",
+      "track_count": 5
+    },
     "acikradyo/eldesler/2026-10-08": {
       "episode_id": "acikradyo/eldesler/2026-10-08",
       "radio_id": "acikradyo",
@@ -676,6 +688,18 @@
       "aired_at": "2026-10-04",
       "track_count": 7
     },
+    "acikradyo/caz-turbulans/2026-10-10": {
+      "episode_id": "acikradyo/caz-turbulans/2026-10-10",
+      "radio_id": "acikradyo",
+      "program_id": 1779,
+      "program_slug": "caz-turbulans",
+      "program_name": "Caz Türbülans",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 180.0,
+      "date": "2026-10-10",
+      "aired_at": "2026-10-10",
+      "track_count": 7
+    },
     "acikradyo/caz-turbulans/2026-10-03": {
       "episode_id": "acikradyo/caz-turbulans/2026-10-03",
       "radio_id": "acikradyo",
@@ -723,6 +747,18 @@
       "date": "2026-10-05",
       "aired_at": "2026-10-05",
       "track_count": 6
+    },
+    "acikradyo/apacik-radyo-muzikleri/2026-10-10": {
+      "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-10-10",
+      "radio_id": "acikradyo",
+      "program_id": 1781,
+      "program_slug": "apacik-radyo-muzikleri",
+      "program_name": "Apaçık Radyo Müzikleri",
+      "program_start_time": "02:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-10",
+      "aired_at": "2026-10-10",
+      "track_count": 29
     },
     "acikradyo/apacik-radyo-muzikleri/2026-10-09": {
       "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-10-09",
@@ -892,6 +928,18 @@
       "aired_at": "2026-10-01",
       "track_count": 1
     },
+    "acikradyo/acik-kabin/2026-10-10": {
+      "episode_id": "acikradyo/acik-kabin/2026-10-10",
+      "radio_id": "acikradyo",
+      "program_id": 1780,
+      "program_slug": "acik-kabin",
+      "program_name": "Açık Kabin",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-10",
+      "aired_at": "2026-10-10",
+      "track_count": 13
+    },
     "acikradyo/acik-kabin/2026-10-03": {
       "episode_id": "acikradyo/acik-kabin/2026-10-03",
       "radio_id": "acikradyo",
@@ -927,6 +975,18 @@
       "date": "2026-10-02",
       "aired_at": "2026-10-02",
       "track_count": 10
+    },
+    "acikradyo/acik-deniz/2026-10-10": {
+      "episode_id": "acikradyo/acik-deniz/2026-10-10",
+      "radio_id": "acikradyo",
+      "program_id": 1786,
+      "program_slug": "acik-deniz",
+      "program_name": "Açık Deniz",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 1980.0,
+      "date": "2026-10-10",
+      "aired_at": "2026-10-10",
+      "track_count": 3
     }
   }
 }

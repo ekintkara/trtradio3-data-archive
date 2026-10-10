@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-09T12:19:47.790102+00:00",
+  "generated_at": "2026-10-10T11:37:52.123758+00:00",
   "radio_id": "alemfm",
   "month": "2026-10",
   "songs": {
@@ -14,6 +14,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "2l3bRSWdh6s",
+      "alternatives": []
+    },
+    "002a271cc59772f5ff00": {
+      "song_id": "002a271cc59772f5ff00",
+      "title": "ANLATMA",
+      "artist": "YONCA LODİ",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "lz_mpQ_Mly4",
       "alternatives": []
     },
     "00e93bd8f913e7c9b96f": {
@@ -64,6 +76,18 @@
       "youtube_video_id": "A7ShtPRP2Mc",
       "alternatives": []
     },
+    "01bcdc36962d591294aa": {
+      "song_id": "01bcdc36962d591294aa",
+      "title": "GEL ÇAREM",
+      "artist": "GÜLŞEN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "YKJdsPrvMgg",
+      "alternatives": []
+    },
     "031dbfbd5e28a7a89f20": {
       "song_id": "031dbfbd5e28a7a89f20",
       "title": "CANAVAR",
@@ -86,6 +110,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "t0Tt2QkNGi4",
+      "alternatives": []
+    },
+    "035d400a976be0b15712": {
+      "song_id": "035d400a976be0b15712",
+      "title": "HERKES AYNI HAYATTA",
+      "artist": "MEHMET ERDEM",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "9U2CSiklIpo",
       "alternatives": []
     },
     "03cf0db2f537b107f4c9": {
@@ -122,6 +158,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "P7dhNaM-tFA",
+      "alternatives": []
+    },
+    "061d34a65fd31f879680": {
+      "song_id": "061d34a65fd31f879680",
+      "title": "EL ADAMI",
+      "artist": "YILDIZ TİLBE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "veTfjfpkV6I",
       "alternatives": []
     },
     "07419c1e6682e812c3cc": {
@@ -220,6 +268,18 @@
       "youtube_video_id": "FQRCrKmN-dA",
       "alternatives": []
     },
+    "0ac3533fc4124af2c336": {
+      "song_id": "0ac3533fc4124af2c336",
+      "title": "PİŞMANIM",
+      "artist": "ASYA",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "oO8mBHaZBkA",
+      "alternatives": []
+    },
     "0b79cd6e828d989d8dfa": {
       "song_id": "0b79cd6e828d989d8dfa",
       "title": "FARKIMIZ VAR",
@@ -266,6 +326,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "i9OqUDR-Y9g",
+      "alternatives": []
+    },
+    "0d4bb64306afc667a90f": {
+      "song_id": "0d4bb64306afc667a90f",
+      "title": "ZOR AŞK",
+      "artist": "HALUK LEVENT",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "qErA4k-YTNE",
       "alternatives": []
     },
     "0fefb3377f86e48acb0e": {
@@ -412,6 +484,18 @@
       "youtube_video_id": "zqSF8vAvvkM",
       "alternatives": []
     },
+    "1346324c33e4dffd7254": {
+      "song_id": "1346324c33e4dffd7254",
+      "title": "BU GECE SON",
+      "artist": "LEVENT YÜKSEL",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "A_gPDK73fBU",
+      "alternatives": []
+    },
     "142766d45155ec3b0b76": {
       "song_id": "142766d45155ec3b0b76",
       "title": "ÇELİŞKİ",
@@ -506,6 +590,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "QPXU_mvj2dg",
+      "alternatives": []
+    },
+    "169745d788c44ee4f668": {
+      "song_id": "169745d788c44ee4f668",
+      "title": "CANIN SAĞ OLSUN",
+      "artist": "SEMİCENK FEAT. RAST",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "KDV_-rXGy7A",
       "alternatives": []
     },
     "1699c0a3526e8ffb7e0a": {
@@ -628,6 +724,18 @@
       "youtube_video_id": "4goQBlcdVUk",
       "alternatives": []
     },
+    "1b2036a788625310b919": {
+      "song_id": "1b2036a788625310b919",
+      "title": "GÜM",
+      "artist": "ERSAY ÜNER",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ISGcBuSEIQ0",
+      "alternatives": []
+    },
     "1bec5ddf702abff56c90": {
       "song_id": "1bec5ddf702abff56c90",
       "title": "CAN KENARIM",
@@ -676,6 +784,42 @@
       "youtube_video_id": "pQAJ8r-CC_A",
       "alternatives": []
     },
+    "1cd01c57325bdd5bd445": {
+      "song_id": "1cd01c57325bdd5bd445",
+      "title": "YAKAR BENİ",
+      "artist": "MUSTAFA MERT KOÇ FEAT. SAYGUN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "k4qEdopDrlA",
+      "alternatives": []
+    },
+    "1d611fedff7d9bf4a3d6": {
+      "song_id": "1d611fedff7d9bf4a3d6",
+      "title": "SENİ SEVMİYORUM ARTIK",
+      "artist": "BURAY",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "8lpU_PbzT9A",
+      "alternatives": []
+    },
+    "1d62f0462f412b9ddb08": {
+      "song_id": "1d62f0462f412b9ddb08",
+      "title": "AYRILIK",
+      "artist": "SONER ARICA",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "CFJbY8LSkwI",
+      "alternatives": []
+    },
     "1dd3dc9a2166ef53063e": {
       "song_id": "1dd3dc9a2166ef53063e",
       "title": "SON ARZUM NOSTALGİA SESSİONS",
@@ -710,6 +854,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "1g13BsZCNUg",
+      "alternatives": []
+    },
+    "1e35b3a03c8554425a81": {
+      "song_id": "1e35b3a03c8554425a81",
+      "title": "OLSUN",
+      "artist": "SERTAB ERENER",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "_v98All94pc",
       "alternatives": []
     },
     "1ee5ddd70831e11c09f0": {
@@ -928,6 +1084,18 @@
       "youtube_video_id": "riwF4OyxKys",
       "alternatives": []
     },
+    "2568ca8aef9d5f26eddf": {
+      "song_id": "2568ca8aef9d5f26eddf",
+      "title": "LEYLİM YAR",
+      "artist": "CANBAY FEAT. WOLKER",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "DOuWjI5qABk",
+      "alternatives": []
+    },
     "26339707a00d5cc43dd9": {
       "song_id": "26339707a00d5cc43dd9",
       "title": "GÜNAHLAR",
@@ -1084,6 +1252,18 @@
       "youtube_video_id": "V6FVHQCEPT8",
       "alternatives": []
     },
+    "2ae7ea6b83ebde9228fa": {
+      "song_id": "2ae7ea6b83ebde9228fa",
+      "title": "SU MİSALİ",
+      "artist": "ORHAN ÖLMEZ",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ELFlyI7ZGWY",
+      "alternatives": []
+    },
     "2b3e70808082a2553df4": {
       "song_id": "2b3e70808082a2553df4",
       "title": "ÇAYIR ÇİMEN GEZE GEZE",
@@ -1094,6 +1274,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "x3u9bgT6XnE",
+      "alternatives": []
+    },
+    "2b4312397b656d15d680": {
+      "song_id": "2b4312397b656d15d680",
+      "title": "BİRİ VAR",
+      "artist": "BENDENİZ",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "bg6Lk9thwdE",
       "alternatives": []
     },
     "2b67153926c729a60274": {
@@ -1130,6 +1322,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "rSRTpc-TVlY",
+      "alternatives": []
+    },
+    "2ba4089160f2b4c5f088": {
+      "song_id": "2ba4089160f2b4c5f088",
+      "title": "BELKİ ÜSTÜMÜZDEN BİR KUŞ GEÇER",
+      "artist": "YÜKSEK SADAKAT",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "72nGwgu3JDg",
       "alternatives": []
     },
     "2be7d06b83c6f4c5e408": {
@@ -1348,6 +1552,18 @@
       "youtube_video_id": "ItISVW3o0X0",
       "alternatives": []
     },
+    "3233ae0df69f03a9122f": {
+      "song_id": "3233ae0df69f03a9122f",
+      "title": "BELKİ BİR GÜN ÖZLERSİN",
+      "artist": "EMRE AYDIN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "zywPHKcMfDc",
+      "alternatives": []
+    },
     "32cbc27c035b16b44402": {
       "song_id": "32cbc27c035b16b44402",
       "title": "BİR DE BANA SOR",
@@ -1420,6 +1636,18 @@
       "youtube_video_id": "sJErmTiiCEo",
       "alternatives": []
     },
+    "36385206fcba17e135ae": {
+      "song_id": "36385206fcba17e135ae",
+      "title": "HAYDİ SÖYLE",
+      "artist": "KALBEN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "CVHHLh99B3Q",
+      "alternatives": []
+    },
     "367ee788d77e6f31622b": {
       "song_id": "367ee788d77e6f31622b",
       "title": "CRUSH",
@@ -1466,6 +1694,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "05GVlrNg4Ew",
+      "alternatives": []
+    },
+    "388a40659e446d74e518": {
+      "song_id": "388a40659e446d74e518",
+      "title": "NASİIHAT",
+      "artist": "DENİZ SEKİ",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "PC1MvEfJaYM",
       "alternatives": []
     },
     "391d294b9ae485c4f7f7": {
@@ -1612,6 +1852,18 @@
       "youtube_video_id": "zENuPqdSxj0",
       "alternatives": []
     },
+    "3d91dbd5e01f33ebfd9f": {
+      "song_id": "3d91dbd5e01f33ebfd9f",
+      "title": "OLMASA MEKTUBUN",
+      "artist": "YENİ TÜRKÜ",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "2kxGlgr6X1I",
+      "alternatives": []
+    },
     "3de178990d33f2cb121c": {
       "song_id": "3de178990d33f2cb121c",
       "title": "BENİ AL",
@@ -1634,6 +1886,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "syow8Z-mRjw",
+      "alternatives": []
+    },
+    "3e3d65089e016594f07b": {
+      "song_id": "3e3d65089e016594f07b",
+      "title": "YARALIYIM",
+      "artist": "FERDA ANIL YARKIN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "j3azs-NRLo4",
       "alternatives": []
     },
     "3e90594b90d41135da08": {
@@ -1768,6 +2032,18 @@
       "youtube_video_id": "KhsOMirwuFU",
       "alternatives": []
     },
+    "436b386cf1bc37f7d8ab": {
+      "song_id": "436b386cf1bc37f7d8ab",
+      "title": "ÇATI KATI",
+      "artist": "GÖKHAN TÜRKMEN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "40AQBO2JVWo",
+      "alternatives": []
+    },
     "4378f28a7fbd9b1dadc7": {
       "song_id": "4378f28a7fbd9b1dadc7",
       "title": "BEN DE YOLUMA GİDERİM",
@@ -1814,6 +2090,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "FVY4be1yFFY",
+      "alternatives": []
+    },
+    "443b7d73b8828ca9e8e6": {
+      "song_id": "443b7d73b8828ca9e8e6",
+      "title": "BİRTANESİSİN",
+      "artist": "GÖKHAN ÖZEN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "CVLMo4NohPQ",
       "alternatives": []
     },
     "4483f0d3ab93a21991cf": {
@@ -1874,6 +2162,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "ySjUV1rd-Kg",
+      "alternatives": []
+    },
+    "4559bc28614da18c485a": {
+      "song_id": "4559bc28614da18c485a",
+      "title": "OYUNCAK GİBİ",
+      "artist": "ALEYNA TİLKİ",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "WZkX8PG-SOc",
       "alternatives": []
     },
     "4684665e5d5e20aebbbb": {
@@ -1996,6 +2296,18 @@
       "youtube_video_id": "i13qcAl8p-s",
       "alternatives": []
     },
+    "4aabd5730a0620a549db": {
+      "song_id": "4aabd5730a0620a549db",
+      "title": "14 BAHAR",
+      "artist": "MELİH GÖRGÜN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "doqukJeQ7iM",
+      "alternatives": []
+    },
     "4ab29810cfc80aaf67dd": {
       "song_id": "4ab29810cfc80aaf67dd",
       "title": "KOPARILAN ÇİÇEKLER",
@@ -2006,6 +2318,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "VtJtCj8TNJU",
+      "alternatives": []
+    },
+    "4aea708ff9f5be4d8e11": {
+      "song_id": "4aea708ff9f5be4d8e11",
+      "title": "DÖN BANA",
+      "artist": "CEM ÖZKAN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "lzVGkmXangQ",
       "alternatives": []
     },
     "4b404611ad82caefa768": {
@@ -2092,6 +2416,18 @@
       "youtube_video_id": "mV-jGj9F7Sc",
       "alternatives": []
     },
+    "4db93df77bb0b83fe271": {
+      "song_id": "4db93df77bb0b83fe271",
+      "title": "ZOR",
+      "artist": "NEV",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "fCGlVahIFm0",
+      "alternatives": []
+    },
     "4dec7df781ba5a050cba": {
       "song_id": "4dec7df781ba5a050cba",
       "title": "GECE PUSLU",
@@ -2162,6 +2498,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "kXmNAIwwVGA",
+      "alternatives": []
+    },
+    "50946bc1a45024aa6916": {
+      "song_id": "50946bc1a45024aa6916",
+      "title": "SANA BAYILIYORUM",
+      "artist": "ZEYNEP BASTIK",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "jLWyuD4i4KE",
       "alternatives": []
     },
     "51287bcf3832b17f74f0": {
@@ -2332,6 +2680,18 @@
       "youtube_video_id": "uwwTwuqxedM",
       "alternatives": []
     },
+    "57ac77fe14ae496d64b1": {
+      "song_id": "57ac77fe14ae496d64b1",
+      "title": "KOLTUK",
+      "artist": "DEMET AKALIN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Ntc99gibwVo",
+      "alternatives": []
+    },
     "582594cc2f02cc34122d": {
       "song_id": "582594cc2f02cc34122d",
       "title": "DÖNMEM MESELA",
@@ -2392,6 +2752,18 @@
       "youtube_video_id": "WS3PIHygZMc",
       "alternatives": []
     },
+    "5a49533222123c92aeeb": {
+      "song_id": "5a49533222123c92aeeb",
+      "title": "YEMEZLER VERS 1",
+      "artist": "GÖKHAN ÖZEN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "oiOHDjHGyNc",
+      "alternatives": []
+    },
     "5aac72de00b6ca8957ce": {
       "song_id": "5aac72de00b6ca8957ce",
       "title": "UTANIR İNSAN",
@@ -2402,6 +2774,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "9sXLcbl3xCk",
+      "alternatives": []
+    },
+    "5af8afc6d95cbba95f76": {
+      "song_id": "5af8afc6d95cbba95f76",
+      "title": "İŞİM OLMAZ",
+      "artist": "SERDAR ORTAÇ",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "vcyKFX2436o",
       "alternatives": []
     },
     "5afa80f351e6bbc96e14": {
@@ -2438,6 +2822,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "ip4GdaU634A",
+      "alternatives": []
+    },
+    "5c04f77e75ae37aa3fb4": {
+      "song_id": "5c04f77e75ae37aa3fb4",
+      "title": "ŞAKASI YOK",
+      "artist": "NEDİM ZEPER",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "eNACak1dO24",
       "alternatives": []
     },
     "5c82e31f5f2337d840c6": {
@@ -2498,6 +2894,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "jWh-7JGuxTo",
+      "alternatives": []
+    },
+    "5dbfacef977cc96794be": {
+      "song_id": "5dbfacef977cc96794be",
+      "title": "HARAM GECELER",
+      "artist": "NİLÜFER",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Bco67TlT9p0",
       "alternatives": []
     },
     "5dc0cc549a58eb500dcc": {
@@ -2594,6 +3002,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "DOm28vXsEw4",
+      "alternatives": []
+    },
+    "5f8f00508ed725a15b5c": {
+      "song_id": "5f8f00508ed725a15b5c",
+      "title": "CESARETİN VAR MI",
+      "artist": "GÜLAY",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "veMliSBk9sk",
       "alternatives": []
     },
     "60551b7e83e6e17941a5": {
@@ -2726,6 +3146,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "9a2hhdfmLbo",
+      "alternatives": []
+    },
+    "649c654dcf4e0a9ab8ef": {
+      "song_id": "649c654dcf4e0a9ab8ef",
+      "title": "EFEM",
+      "artist": "BEYAZ",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "_eGrn8XvkYM",
       "alternatives": []
     },
     "64c885bccc26350e8d1d": {
@@ -2884,6 +3316,18 @@
       "youtube_video_id": "CMhPDxh8cgE",
       "alternatives": []
     },
+    "6965023a40cafb824c32": {
+      "song_id": "6965023a40cafb824c32",
+      "title": "SÖZ",
+      "artist": "GÖKHAN TEPE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "GdwhgrTHKvk",
+      "alternatives": []
+    },
     "69cc8ebcf9a7c2f62e8d": {
       "song_id": "69cc8ebcf9a7c2f62e8d",
       "title": "ARIZA",
@@ -2992,6 +3436,18 @@
       "youtube_video_id": "y5A2NmlFbOY",
       "alternatives": []
     },
+    "6dfaf43b06434092d09c": {
+      "song_id": "6dfaf43b06434092d09c",
+      "title": "DÜLDÜL",
+      "artist": "MABEL MATİZ FEAT. MELİKE ŞAHİN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "eaO75nbAseU",
+      "alternatives": []
+    },
     "6e0c56f6fde38d81c943": {
       "song_id": "6e0c56f6fde38d81c943",
       "title": "NAÇAR",
@@ -3014,6 +3470,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "trPYYMQKjYw",
+      "alternatives": []
+    },
+    "6e6ed0e37b0fd7777d09": {
+      "song_id": "6e6ed0e37b0fd7777d09",
+      "title": "GİDİYORUM",
+      "artist": "KIRAÇ",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "PQtVLarZCEo",
       "alternatives": []
     },
     "6e7143045b60426eb5dc": {
@@ -3074,6 +3542,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "oL7nN4gUnTc",
+      "alternatives": []
+    },
+    "72485e9b28b664e1fe17": {
+      "song_id": "72485e9b28b664e1fe17",
+      "title": "ELİMDE DEĞİL",
+      "artist": "RAFET EL ROMAN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "e3TmRKvEOYw",
       "alternatives": []
     },
     "725741a54e8d9f2559cb": {
@@ -3256,6 +3736,18 @@
       "youtube_video_id": "9MqPbgeyTpw",
       "alternatives": []
     },
+    "76d3fe91f1a3cb2596ba": {
+      "song_id": "76d3fe91f1a3cb2596ba",
+      "title": "BİR GARİP SERÇE",
+      "artist": "KAYAHAN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "_MwD48XmKW8",
+      "alternatives": []
+    },
     "76e6262321f0fae2a0d0": {
       "song_id": "76e6262321f0fae2a0d0",
       "title": "CAN DOSTUM",
@@ -3278,6 +3770,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "FqYGPibjjcg",
+      "alternatives": []
+    },
+    "785856d91e70aa30d4cd": {
+      "song_id": "785856d91e70aa30d4cd",
+      "title": "SÖZÜM SÖZ",
+      "artist": "HANDE ÜNSAL",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "B0zH4HZyF_s",
       "alternatives": []
     },
     "78594ebb9eb5342c984a": {
@@ -3568,6 +4072,18 @@
       "youtube_video_id": "rZWeR8bQlaE",
       "alternatives": []
     },
+    "7ea5c71999718c7ec4d7": {
+      "song_id": "7ea5c71999718c7ec4d7",
+      "title": "YALGIZAM",
+      "artist": "EZGİNİN GÜNLÜĞÜ",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "lSVKg2znA1U",
+      "alternatives": []
+    },
     "7eaff41e0043f4845f08": {
       "song_id": "7eaff41e0043f4845f08",
       "title": "SAYIN HER ŞEYİ BİLEN",
@@ -3602,6 +4118,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "J8EbgCzphtM",
+      "alternatives": []
+    },
+    "80c4dec9c97465d196fe": {
+      "song_id": "80c4dec9c97465d196fe",
+      "title": "HEP BANA",
+      "artist": "DİLEMNA",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "v_XBsiNZJgk",
       "alternatives": []
     },
     "80e6ac59af746c82a66e": {
@@ -3760,6 +4288,18 @@
       "youtube_video_id": "nT-gokLAsEE",
       "alternatives": []
     },
+    "84afafd1be7218ece5f3": {
+      "song_id": "84afafd1be7218ece5f3",
+      "title": "SEYRE DURSUN AŞK",
+      "artist": "GÜLŞEN FEAT. OZAN ÇOLAKOĞLU",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "BiAqvXAnEVw",
+      "alternatives": []
+    },
     "84f5ac3d47d094ec175e": {
       "song_id": "84f5ac3d47d094ec175e",
       "title": "GIYBET",
@@ -3880,6 +4420,30 @@
       "youtube_video_id": "wLUutR8gIBg",
       "alternatives": []
     },
+    "8a6a8780afa940aa869f": {
+      "song_id": "8a6a8780afa940aa869f",
+      "title": "YERİN DOLMUYOR",
+      "artist": "SALMAN TİN FEAT. FATMA TURGUT",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "UhkSyEwCOzs",
+      "alternatives": []
+    },
+    "8aa21d3ff854c96e0d17": {
+      "song_id": "8aa21d3ff854c96e0d17",
+      "title": "TUTUŞMAYAN KALMASIN",
+      "artist": "EMİR",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "jVL2FFEkFdk",
+      "alternatives": []
+    },
     "8b0b1be1972b13a0ad71": {
       "song_id": "8b0b1be1972b13a0ad71",
       "title": "MİSAFİR",
@@ -3904,6 +4468,18 @@
       "youtube_video_id": "QDQUXQdeSVA",
       "alternatives": []
     },
+    "8c8b25a4186d93922bb6": {
+      "song_id": "8c8b25a4186d93922bb6",
+      "title": "ŞİMDİ HAYALLERDESİN",
+      "artist": "CEMALİ",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "8EuanQLLxpM",
+      "alternatives": []
+    },
     "8c8b45c0f4fe762797a6": {
       "song_id": "8c8b45c0f4fe762797a6",
       "title": "SAR ZAMANIMIZI GERİYE",
@@ -3914,6 +4490,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "EQBVjwXZ7GY",
+      "alternatives": []
+    },
+    "8c96459dade3fc85022f": {
+      "song_id": "8c96459dade3fc85022f",
+      "title": "DÖN DEMEYİ UNUTTUM",
+      "artist": "SILA",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "UiAaUdV-Wl8",
       "alternatives": []
     },
     "8d3d0a28c3bf9d3f9870": {
@@ -4000,6 +4588,30 @@
       "youtube_video_id": "3OGl69sY9Ys",
       "alternatives": []
     },
+    "900d12e57a31a6fdbe8e": {
+      "song_id": "900d12e57a31a6fdbe8e",
+      "title": "AYNI PERDE",
+      "artist": "TANER",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "MHPxZNthkOo",
+      "alternatives": []
+    },
+    "90273ef06a15b6cfdbdd": {
+      "song_id": "90273ef06a15b6cfdbdd",
+      "title": "AŞK YARASI",
+      "artist": "BURCU GÜNEŞ",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "rQtZvPrNLFQ",
+      "alternatives": []
+    },
     "9062f0105476208f2ee6": {
       "song_id": "9062f0105476208f2ee6",
       "title": "ÖYLE KOLAYSA",
@@ -4060,6 +4672,30 @@
       "youtube_video_id": "7WozCMClE0I",
       "alternatives": []
     },
+    "91367a1c8992a7bb02c1": {
+      "song_id": "91367a1c8992a7bb02c1",
+      "title": "BULMACA",
+      "artist": "MURAT BOZ",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "7cIyRWOWt1U",
+      "alternatives": []
+    },
+    "9143a4a248ed5f54fde5": {
+      "song_id": "9143a4a248ed5f54fde5",
+      "title": "ELLERİMDE ÇİÇEKLER",
+      "artist": "KENAN DOĞULU",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "SxHt-6rEO4c",
+      "alternatives": []
+    },
     "914eaac91a29cd4f4250": {
       "song_id": "914eaac91a29cd4f4250",
       "title": "Son Durak",
@@ -4106,6 +4742,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "KvJ1wBdOBng",
+      "alternatives": []
+    },
+    "93288aa12e2cdc90c2c0": {
+      "song_id": "93288aa12e2cdc90c2c0",
+      "title": "ALIŞAMIYORUM",
+      "artist": "CEM BELEVİ",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "NK2aBYQxru0",
       "alternatives": []
     },
     "93432648042e190eadb8": {
@@ -4190,6 +4838,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "rbgVQjRdRHc",
+      "alternatives": []
+    },
+    "95657b57f1f1328b5f10": {
+      "song_id": "95657b57f1f1328b5f10",
+      "title": "AYYAŞ",
+      "artist": "EDİS FEAT. BARAN MENGÜÇ",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "qWF-b5-BeV8",
       "alternatives": []
     },
     "95e08c38761cd43071d3": {
@@ -4298,6 +4958,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Cm8TJot5qXo",
+      "alternatives": []
+    },
+    "97a477d9371da4357506": {
+      "song_id": "97a477d9371da4357506",
+      "title": "ARA BENİ LÜTFEN",
+      "artist": "KENAN DOĞULU",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "PHG83uTG3-8",
       "alternatives": []
     },
     "97bee04ce7fd22159245": {
@@ -4576,6 +5248,18 @@
       "youtube_video_id": "9czAgP5QEY8",
       "alternatives": []
     },
+    "9f740708b4aa0c0344c5": {
+      "song_id": "9f740708b4aa0c0344c5",
+      "title": "CEVAPSIZ ÇINLAMA",
+      "artist": "ALEYNA TİLKİ FEAT. EMRAH KARADUMAN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "GcGPedcPsOs",
+      "alternatives": []
+    },
     "9fa33e6d6bab06b472a9": {
       "song_id": "9fa33e6d6bab06b472a9",
       "title": "KINALI BEBEK",
@@ -4610,6 +5294,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "QzbSqWGhMdU",
+      "alternatives": []
+    },
+    "a051c4bd20d862337460": {
+      "song_id": "a051c4bd20d862337460",
+      "title": "BULUTLARA ESİR OLDUK",
+      "artist": "OĞUZHAN KOÇ",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "uWPhVk_lHdM",
       "alternatives": []
     },
     "a0707f577bcada8e6cd4": {
@@ -4670,6 +5366,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "t4UdbmfIFAc",
+      "alternatives": []
+    },
+    "a1ca9289e028116bc79f": {
+      "song_id": "a1ca9289e028116bc79f",
+      "title": "HER İKİ DURUMDA",
+      "artist": "SONER SARIKABADAYI FEAT. SEFO",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "7plvaIPtO04",
       "alternatives": []
     },
     "a1de1b519c6909d0a2d1": {
@@ -4876,6 +5584,18 @@
       "youtube_video_id": "KBzwsawhfQ8",
       "alternatives": []
     },
+    "a927ca93077005b5f1be": {
+      "song_id": "a927ca93077005b5f1be",
+      "title": "YERLI PLAKA",
+      "artist": "CEZA",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Tzi_nl0XKgk",
+      "alternatives": []
+    },
     "a96e7985cb485a9055ca": {
       "song_id": "a96e7985cb485a9055ca",
       "title": "Yokluğunda",
@@ -4960,6 +5680,18 @@
       "youtube_video_id": "ZQcaVtMC0X0",
       "alternatives": []
     },
+    "acbbc165466fb379bff5": {
+      "song_id": "acbbc165466fb379bff5",
+      "title": "YA TUTARSA",
+      "artist": "GÜLŞEN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "z6QWhDZTyP0",
+      "alternatives": []
+    },
     "acbf214c46b43b9ab0c6": {
       "song_id": "acbf214c46b43b9ab0c6",
       "title": "UNUT SEVME",
@@ -4982,6 +5714,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Zrw-4bMBwAA",
+      "alternatives": []
+    },
+    "adb5ac2247b1154d8abd": {
+      "song_id": "adb5ac2247b1154d8abd",
+      "title": "UNUTAMADIM",
+      "artist": "BARIŞ MANÇO",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "KMu5OfRUqFc",
       "alternatives": []
     },
     "adb8631bb2ed9e1d51f3": {
@@ -5044,6 +5788,18 @@
       "youtube_video_id": "icZ-OlVSvb4",
       "alternatives": []
     },
+    "b069292adcd0bd76540b": {
+      "song_id": "b069292adcd0bd76540b",
+      "title": "ÇOK YAZIK",
+      "artist": "ÇAĞAN ŞENGÜL",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Pl7--yxZjng",
+      "alternatives": []
+    },
     "b0e8e6ad356978a0a192": {
       "song_id": "b0e8e6ad356978a0a192",
       "title": "HAVALI YARİM",
@@ -5056,6 +5812,18 @@
       "youtube_video_id": "nbWFQIp1ku4",
       "alternatives": []
     },
+    "b0f01cd351ff7be47207": {
+      "song_id": "b0f01cd351ff7be47207",
+      "title": "O SEVİŞMELER",
+      "artist": "TARKAN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
+      "alternatives": []
+    },
     "b1264371bde045aca9e3": {
       "song_id": "b1264371bde045aca9e3",
       "title": "ZÜMRÜDÜANKAM",
@@ -5066,6 +5834,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "cJnTrIEu4Pg",
+      "alternatives": []
+    },
+    "b211338f8be4c6686071": {
+      "song_id": "b211338f8be4c6686071",
+      "title": "AMAN AMAN",
+      "artist": "ÇELİK",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "eYL-mZ-OlzY",
       "alternatives": []
     },
     "b28c9a7fa36df98259de": {
@@ -5090,6 +5870,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "6vNHHKmhZo0",
+      "alternatives": []
+    },
+    "b3268ad92c0a3ff20b6b": {
+      "song_id": "b3268ad92c0a3ff20b6b",
+      "title": "ALDIRMA GÖNÜL",
+      "artist": "EDİP AKBAYRAM",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "QU1W_LVvKxA",
       "alternatives": []
     },
     "b35671778fa31f5d0380": {
@@ -5186,6 +5978,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Yoj-VLuCZvA",
+      "alternatives": []
+    },
+    "b5de1f05987ab9d9db0d": {
+      "song_id": "b5de1f05987ab9d9db0d",
+      "title": "HEPSİ SENİN Mİ",
+      "artist": "TARKAN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "AsL8sViwGgo",
       "alternatives": []
     },
     "b60bbb8e9cab1b28cdb6": {
@@ -5392,6 +6196,18 @@
       "youtube_video_id": "yc3nWTunOhs",
       "alternatives": []
     },
+    "bde678a179529ea6440d": {
+      "song_id": "bde678a179529ea6440d",
+      "title": "ÇOCUKLAR GİBİ",
+      "artist": "SEZEN AKSU",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "OZ-W9sKJKHg",
+      "alternatives": []
+    },
     "bec9b5ba9bc7a80bd758": {
       "song_id": "bec9b5ba9bc7a80bd758",
       "title": "OLMAZLARA VURULUYORUM",
@@ -5426,6 +6242,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "xZYllV0TvfI",
+      "alternatives": []
+    },
+    "c09f48e2bc7adfd9153f": {
+      "song_id": "c09f48e2bc7adfd9153f",
+      "title": "İNCİR",
+      "artist": "İLYAS YALÇINTAŞ",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "9pZs5RQMVlE",
       "alternatives": []
     },
     "c0e2e4b199d605c6e122": {
@@ -5680,6 +6508,18 @@
       "youtube_video_id": "2je-qO8jYtg",
       "alternatives": []
     },
+    "c978c495075ce52f6a2c": {
+      "song_id": "c978c495075ce52f6a2c",
+      "title": "AMAN BE",
+      "artist": "AYŞEN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "6icmMM1hpAg",
+      "alternatives": []
+    },
     "c97aab32ab67d93364f4": {
       "song_id": "c97aab32ab67d93364f4",
       "title": "SEN BİLMEZSİN",
@@ -5752,6 +6592,18 @@
       "youtube_video_id": "1SWmDejZ7gk",
       "alternatives": []
     },
+    "ca62085505e851c7baa6": {
+      "song_id": "ca62085505e851c7baa6",
+      "title": "YÜREĞİM MESKENDİR",
+      "artist": "ŞAHSENEM",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "crqRppz6C3Q",
+      "alternatives": []
+    },
     "ca8b3a82106503f45474": {
       "song_id": "ca8b3a82106503f45474",
       "title": "TUTUN SEN BANA",
@@ -5762,6 +6614,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "5js3o07eyWk",
+      "alternatives": []
+    },
+    "ca9754a05ee9a5fc2af2": {
+      "song_id": "ca9754a05ee9a5fc2af2",
+      "title": "DELİ",
+      "artist": "ZİYNET SALİ",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "nMW4mBVJtLk",
       "alternatives": []
     },
     "cb0e3bdb2d70dc844d3e": {
@@ -5834,6 +6698,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Q7NEddtWbBA",
+      "alternatives": []
+    },
+    "cc9695c1ad76dbe509a4": {
+      "song_id": "cc9695c1ad76dbe509a4",
+      "title": "ETEĞİ BELİNDE",
+      "artist": "MANUŞ BABA",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "vyXOEGyjQ0Q",
+      "alternatives": []
+    },
+    "cccf4f86f434b5b91951": {
+      "song_id": "cccf4f86f434b5b91951",
+      "title": "XL",
+      "artist": "NİL KARAİBRAHİMGİL",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "49Y_X3kE2So",
       "alternatives": []
     },
     "ccdee377fee162f0592a": {
@@ -6064,6 +6952,18 @@
       "youtube_video_id": "HsC2PIr4BXs",
       "alternatives": []
     },
+    "d4ceb4de0a95a6352a7a": {
+      "song_id": "d4ceb4de0a95a6352a7a",
+      "title": "YANSIMA",
+      "artist": "DERYA ULUĞ FEAT. ASİL GÖK",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "GF9C_hIBeyU",
+      "alternatives": []
+    },
     "d515e450ac43907ad79f": {
       "song_id": "d515e450ac43907ad79f",
       "title": "DİLERİM Kİ",
@@ -6196,6 +7096,18 @@
       "youtube_video_id": "ZaGhbXX0grI",
       "alternatives": []
     },
+    "d797f3797d7b976f2008": {
+      "song_id": "d797f3797d7b976f2008",
+      "title": "BUZ",
+      "artist": "SONER SARIKABADAYI",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "9B94U6DpDEA",
+      "alternatives": []
+    },
     "d93135346703fe4eee8a": {
       "song_id": "d93135346703fe4eee8a",
       "title": "AĞLA AĞLA",
@@ -6206,6 +7118,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "JU3yAxXD59I",
+      "alternatives": []
+    },
+    "da5d24c37dccfe93319f": {
+      "song_id": "da5d24c37dccfe93319f",
+      "title": "YALNIZLIK ÖMÜR BOYU",
+      "artist": "MFÖ",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "DOLyvlAG8T8",
       "alternatives": []
     },
     "da6fab8948ad25872fd3": {
@@ -6388,6 +7312,18 @@
       "youtube_video_id": "nand_qmlR3c",
       "alternatives": []
     },
+    "dd65b36eff5c660ec10f": {
+      "song_id": "dd65b36eff5c660ec10f",
+      "title": "GİDERKEN",
+      "artist": "CEM YENEL",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "QlGkepirjWA",
+      "alternatives": []
+    },
     "dd700486cfa80f539202": {
       "song_id": "dd700486cfa80f539202",
       "title": "PIRLANTA",
@@ -6410,6 +7346,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "icF6KWf3aiE",
+      "alternatives": []
+    },
+    "de8ff637125466639f3f": {
+      "song_id": "de8ff637125466639f3f",
+      "title": "DURUM ÇOK ACİL",
+      "artist": "İREM DERİCİ",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Tfz-PmS9fb0",
       "alternatives": []
     },
     "debc33cd555ba7ae0ea8": {
@@ -6760,6 +7708,18 @@
       "youtube_video_id": "ts4ZI9pUvqY",
       "alternatives": []
     },
+    "eabfd85794b8ee208ad0": {
+      "song_id": "eabfd85794b8ee208ad0",
+      "title": "GALAKSİ",
+      "artist": "ECE MUMAY",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "BVzsT0Apa5I",
+      "alternatives": []
+    },
     "eb0edabae59e15a3878f": {
       "song_id": "eb0edabae59e15a3878f",
       "title": "BEN DEĞİLİM",
@@ -6964,6 +7924,18 @@
       "youtube_video_id": "OnCh5Df1ytw",
       "alternatives": []
     },
+    "f27cda0e0fd66091952a": {
+      "song_id": "f27cda0e0fd66091952a",
+      "title": "HAYAT ÖPÜCÜĞÜ",
+      "artist": "MURAT BOZ",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "pbEMo2r6U20",
+      "alternatives": []
+    },
     "f27d0272f69c63b45e8c": {
       "song_id": "f27d0272f69c63b45e8c",
       "title": "GEL EY SEHER",
@@ -6986,6 +7958,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "0CZuWwxI4cw",
+      "alternatives": []
+    },
+    "f34633d7c6ddb48fc8ad": {
+      "song_id": "f34633d7c6ddb48fc8ad",
+      "title": "HELE Bİ GEL",
+      "artist": "PİNHANİ",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "CWQAaft11zs",
       "alternatives": []
     },
     "f376d043dd0337bd8a7d": {
@@ -7046,6 +8030,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "2mFtDJxSgvk",
+      "alternatives": []
+    },
+    "f42a494883801f0f91a6": {
+      "song_id": "f42a494883801f0f91a6",
+      "title": "BUNUN ADINA YÜREK DERLER",
+      "artist": "DOĞUŞ",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "R1tpfPguAWw",
       "alternatives": []
     },
     "f4eab3a7879a72b16184": {
@@ -7142,6 +8138,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "ta1clMMLreI",
+      "alternatives": []
+    },
+    "f7c4c1f62b3c31a5cb18": {
+      "song_id": "f7c4c1f62b3c31a5cb18",
+      "title": "BEN SANA GELEMEM",
+      "artist": "MELA BEDEL",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "BYT3jrQJOe8",
+      "alternatives": []
+    },
+    "f7c8de53d97b4890c566": {
+      "song_id": "f7c8de53d97b4890c566",
+      "title": "KÜLE DÖNMÜŞSÜN",
+      "artist": "SEMİCENK FEAT. DOĞU SWAG",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "neFfixTy3Hs",
       "alternatives": []
     },
     "f8594c14dffb820e5305": {
@@ -7348,6 +8368,18 @@
       "youtube_video_id": "dskhUIFleMs",
       "alternatives": []
     },
+    "fd96d81b8966519022f7": {
+      "song_id": "fd96d81b8966519022f7",
+      "title": "SULTAN SÜLEYMAN",
+      "artist": "MABEL MATİZ",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "BlmzHf6ywkQ",
+      "alternatives": []
+    },
     "fdf9d67c3c5d731ae066": {
       "song_id": "fdf9d67c3c5d731ae066",
       "title": "HEY",
@@ -7382,6 +8414,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "u2GJQO4twao",
+      "alternatives": []
+    },
+    "feb51db4797678f09b0b": {
+      "song_id": "feb51db4797678f09b0b",
+      "title": "KIŞ GÜNEŞİ",
+      "artist": "TARKAN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "-CxauCeQ_SQ",
+      "alternatives": []
+    },
+    "fee0bdee9cfcd0a85c47": {
+      "song_id": "fee0bdee9cfcd0a85c47",
+      "title": "RENKLENSİN",
+      "artist": "REYNMEN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "bmFaaLLF56c",
       "alternatives": []
     },
     "ff088bfa69dd6c0fb22f": {

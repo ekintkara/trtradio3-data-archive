@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-09T12:19:47.790102+00:00",
+  "generated_at": "2026-10-10T11:37:52.123758+00:00",
   "radio_id": "show",
   "month": "2026-10",
   "episodes": {
@@ -196,6 +196,18 @@
       "aired_at": "2026-10-01",
       "track_count": 209
     },
+    "show/hit-muzik/2026-10-10": {
+      "episode_id": "show/hit-muzik/2026-10-10",
+      "radio_id": "show",
+      "program_id": 7449,
+      "program_slug": "hit-muzik",
+      "program_name": "Hit Müzik",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 3000.0,
+      "date": "2026-10-10",
+      "aired_at": "2026-10-10",
+      "track_count": 28
+    },
     "show/hit-muzik/2026-10-09": {
       "episode_id": "show/hit-muzik/2026-10-09",
       "radio_id": "show",
@@ -387,6 +399,18 @@
       "date": "2026-10-01",
       "aired_at": "2026-10-01",
       "track_count": 27
+    },
+    "show/canli-yayin-show/2026-10-10": {
+      "episode_id": "show/canli-yayin-show/2026-10-10",
+      "radio_id": "show",
+      "program_id": 7293,
+      "program_slug": "canli-yayin-show",
+      "program_name": "Canlı Yayın",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 180.0,
+      "date": "2026-10-10",
+      "aired_at": "2026-10-10",
+      "track_count": 317
     },
     "show/canli-yayin-show/2026-10-03": {
       "episode_id": "show/canli-yayin-show/2026-10-03",

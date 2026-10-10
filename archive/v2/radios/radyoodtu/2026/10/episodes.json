@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-09T12:19:47.790102+00:00",
+  "generated_at": "2026-10-10T11:37:52.123758+00:00",
   "radio_id": "radyoodtu",
   "month": "2026-10",
   "episodes": {
@@ -256,6 +256,18 @@
       "aired_at": "2026-10-01",
       "track_count": 33
     },
+    "radyoodtu/muzik-yayini/2026-10-10": {
+      "episode_id": "radyoodtu/muzik-yayini/2026-10-10",
+      "radio_id": "radyoodtu",
+      "program_id": 60,
+      "program_slug": "muzik-yayini",
+      "program_name": "Müzik Yayını",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 1980.0,
+      "date": "2026-10-10",
+      "aired_at": "2026-10-10",
+      "track_count": 4
+    },
     "radyoodtu/muzik-yayini/2026-10-09": {
       "episode_id": "radyoodtu/muzik-yayini/2026-10-09",
       "radio_id": "radyoodtu",
@@ -375,6 +387,18 @@
       "date": "2026-10-01",
       "aired_at": "2026-10-01",
       "track_count": 17
+    },
+    "radyoodtu/gunes-gozlugu/2026-10-10": {
+      "episode_id": "radyoodtu/gunes-gozlugu/2026-10-10",
+      "radio_id": "radyoodtu",
+      "program_id": 7,
+      "program_slug": "gunes-gozlugu",
+      "program_name": "Güneş Gözlüğü",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 180.0,
+      "date": "2026-10-10",
+      "aired_at": "2026-10-10",
+      "track_count": 128
     },
     "radyoodtu/gunes-gozlugu/2026-10-09": {
       "episode_id": "radyoodtu/gunes-gozlugu/2026-10-09",

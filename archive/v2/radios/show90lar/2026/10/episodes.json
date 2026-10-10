@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-09T12:19:47.790102+00:00",
+  "generated_at": "2026-10-10T11:37:52.123758+00:00",
   "radio_id": "show90lar",
   "month": "2026-10",
   "episodes": {
+    "show90lar/canli-yayin-show90lar/2026-10-10": {
+      "episode_id": "show90lar/canli-yayin-show90lar/2026-10-10",
+      "radio_id": "show90lar",
+      "program_id": 7297,
+      "program_slug": "canli-yayin-show90lar",
+      "program_name": "Canlı Yayın",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 21780.0,
+      "date": "2026-10-10",
+      "aired_at": "2026-10-10",
+      "track_count": 17
+    },
     "show90lar/canli-yayin-show90lar/2026-10-09": {
       "episode_id": "show90lar/canli-yayin-show90lar/2026-10-09",
       "radio_id": "show90lar",
