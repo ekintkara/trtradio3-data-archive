@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-10T11:37:52.123758+00:00",
+  "generated_at": "2026-10-11T11:51:12.955227+00:00",
   "radio_id": "radioeksen",
   "month": "2026-10",
   "episodes": {
@@ -27,6 +27,18 @@
       "date": "2026-10-03",
       "aired_at": "2026-10-03",
       "track_count": 46
+    },
+    "radioeksen/guven-yildiz--trio/2026-10-11": {
+      "episode_id": "radioeksen/guven-yildiz--trio/2026-10-11",
+      "radio_id": "radioeksen",
+      "program_id": -90435,
+      "program_slug": "guven-yildiz--trio",
+      "program_name": "GÜVEN YILDIZ -TRIO",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-11",
+      "aired_at": "2026-10-11",
+      "track_count": 16
     },
     "radioeksen/guven-yildiz--trio/2026-10-04": {
       "episode_id": "radioeksen/guven-yildiz--trio/2026-10-04",
@@ -219,6 +231,18 @@
       "date": "2026-10-01",
       "aired_at": "2026-10-01",
       "track_count": 30
+    },
+    "radioeksen/eksen-muzik/2026-10-11": {
+      "episode_id": "radioeksen/eksen-muzik/2026-10-11",
+      "radio_id": "radioeksen",
+      "program_id": -47869,
+      "program_slug": "eksen-muzik",
+      "program_name": "Eksen Müzik",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-11",
+      "aired_at": "2026-10-11",
+      "track_count": 42
     },
     "radioeksen/eksen-muzik/2026-10-10": {
       "episode_id": "radioeksen/eksen-muzik/2026-10-10",

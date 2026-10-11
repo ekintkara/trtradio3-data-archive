@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-10T11:37:52.123758+00:00",
+  "generated_at": "2026-10-11T11:51:12.955227+00:00",
   "radio_id": "acikradyo",
   "month": "2026-10",
   "episodes": {
@@ -39,6 +39,18 @@
       "date": "2026-10-07",
       "aired_at": "2026-10-07",
       "track_count": 15
+    },
+    "acikradyo/uc-melek/2026-10-11": {
+      "episode_id": "acikradyo/uc-melek/2026-10-11",
+      "radio_id": "acikradyo",
+      "program_id": 1798,
+      "program_slug": "uc-melek",
+      "program_name": "13 Melek",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-11",
+      "aired_at": "2026-10-11",
+      "track_count": 5
     },
     "acikradyo/uc-melek/2026-10-04": {
       "episode_id": "acikradyo/uc-melek/2026-10-04",
@@ -352,6 +364,30 @@
       "aired_at": "2026-10-02",
       "track_count": 9
     },
+    "acikradyo/manin-tinisi/2026-10-11": {
+      "episode_id": "acikradyo/manin-tinisi/2026-10-11",
+      "radio_id": "acikradyo",
+      "program_id": 1805,
+      "program_slug": "manin-tinisi",
+      "program_name": "Ma'nın Tınısı",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-11",
+      "aired_at": "2026-10-11",
+      "track_count": 10
+    },
+    "acikradyo/lovaj/2026-10-11": {
+      "episode_id": "acikradyo/lovaj/2026-10-11",
+      "radio_id": "acikradyo",
+      "program_id": 1797,
+      "program_slug": "lovaj",
+      "program_name": "Lovaj",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 60.0,
+      "date": "2026-10-11",
+      "aired_at": "2026-10-11",
+      "track_count": 10
+    },
     "acikradyo/lovaj/2026-10-04": {
       "episode_id": "acikradyo/lovaj/2026-10-04",
       "radio_id": "acikradyo",
@@ -616,6 +652,18 @@
       "aired_at": "2026-10-06",
       "track_count": 2
     },
+    "acikradyo/dilden-dile-titresimler/2026-10-11": {
+      "episode_id": "acikradyo/dilden-dile-titresimler/2026-10-11",
+      "radio_id": "acikradyo",
+      "program_id": 1806,
+      "program_slug": "dilden-dile-titresimler",
+      "program_name": "Dilden Dile Titreşimler",
+      "program_start_time": "14:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-11",
+      "aired_at": "2026-10-11",
+      "track_count": 1
+    },
     "acikradyo/democracy-now/2026-10-09": {
       "episode_id": "acikradyo/democracy-now/2026-10-09",
       "radio_id": "acikradyo",
@@ -676,6 +724,18 @@
       "aired_at": "2026-10-02",
       "track_count": 5
     },
+    "acikradyo/come-sunday/2026-10-11": {
+      "episode_id": "acikradyo/come-sunday/2026-10-11",
+      "radio_id": "acikradyo",
+      "program_id": 1800,
+      "program_slug": "come-sunday",
+      "program_name": "Come Sunday",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-11",
+      "aired_at": "2026-10-11",
+      "track_count": 10
+    },
     "acikradyo/come-sunday/2026-10-04": {
       "episode_id": "acikradyo/come-sunday/2026-10-04",
       "radio_id": "acikradyo",
@@ -712,6 +772,30 @@
       "aired_at": "2026-10-03",
       "track_count": 7
     },
+    "acikradyo/botanitopya/2026-10-11": {
+      "episode_id": "acikradyo/botanitopya/2026-10-11",
+      "radio_id": "acikradyo",
+      "program_id": 1802,
+      "program_slug": "botanitopya",
+      "program_name": "Botanitopya",
+      "program_start_time": "10:30",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-11",
+      "aired_at": "2026-10-11",
+      "track_count": 7
+    },
+    "acikradyo/bir-varmis-hic-yokmus/2026-10-11": {
+      "episode_id": "acikradyo/bir-varmis-hic-yokmus/2026-10-11",
+      "radio_id": "acikradyo",
+      "program_id": 1801,
+      "program_slug": "bir-varmis-hic-yokmus",
+      "program_name": "Bir Varmış, Hiç Yokmuş",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-11",
+      "aired_at": "2026-10-11",
+      "track_count": 2
+    },
     "acikradyo/bir-varmis-hic-yokmus/2026-10-04": {
       "episode_id": "acikradyo/bir-varmis-hic-yokmus/2026-10-04",
       "radio_id": "acikradyo",
@@ -747,6 +831,18 @@
       "date": "2026-10-05",
       "aired_at": "2026-10-05",
       "track_count": 6
+    },
+    "acikradyo/apacik-radyo-muzikleri/2026-10-11": {
+      "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-10-11",
+      "radio_id": "acikradyo",
+      "program_id": 1799,
+      "program_slug": "apacik-radyo-muzikleri",
+      "program_name": "Apaçık Radyo Müzikleri",
+      "program_start_time": "02:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-11",
+      "aired_at": "2026-10-11",
+      "track_count": 80
     },
     "acikradyo/apacik-radyo-muzikleri/2026-10-10": {
       "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-10-10",
@@ -879,6 +975,18 @@
       "date": "2026-10-06",
       "aired_at": "2026-10-06",
       "track_count": 3
+    },
+    "acikradyo/agora/2026-10-11": {
+      "episode_id": "acikradyo/agora/2026-10-11",
+      "radio_id": "acikradyo",
+      "program_id": 1804,
+      "program_slug": "agora",
+      "program_name": "Agora",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-11",
+      "aired_at": "2026-10-11",
+      "track_count": 8
     },
     "acikradyo/agora/2026-10-04": {
       "episode_id": "acikradyo/agora/2026-10-04",
