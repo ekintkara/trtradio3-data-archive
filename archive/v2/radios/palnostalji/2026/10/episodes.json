@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-15T10:36:10.387317+00:00",
+  "generated_at": "2026-10-16T10:22:43.813840+00:00",
   "radio_id": "palnostalji",
   "month": "2026-10",
   "episodes": {
+    "palnostalji/canli-yayin-palnostalji/2026-10-16": {
+      "episode_id": "palnostalji/canli-yayin-palnostalji/2026-10-16",
+      "radio_id": "palnostalji",
+      "program_id": 13088,
+      "program_slug": "canli-yayin-palnostalji",
+      "program_name": "Canlı Yayın",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 60.0,
+      "date": "2026-10-16",
+      "aired_at": "2026-10-16",
+      "track_count": 235
+    },
     "palnostalji/canli-yayin-palnostalji/2026-10-15": {
       "episode_id": "palnostalji/canli-yayin-palnostalji/2026-10-15",
       "radio_id": "palnostalji",
