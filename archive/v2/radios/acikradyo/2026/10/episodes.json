@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-17T09:55:25.612012+00:00",
+  "generated_at": "2026-10-18T10:08:11.420667+00:00",
   "radio_id": "acikradyo",
   "month": "2026-10",
   "episodes": {
@@ -87,6 +87,18 @@
       "date": "2026-10-07",
       "aired_at": "2026-10-07",
       "track_count": 15
+    },
+    "acikradyo/uc-melek/2026-10-18": {
+      "episode_id": "acikradyo/uc-melek/2026-10-18",
+      "radio_id": "acikradyo",
+      "program_id": 1798,
+      "program_slug": "uc-melek",
+      "program_name": "13 Melek",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-18",
+      "aired_at": "2026-10-18",
+      "track_count": 4
     },
     "acikradyo/uc-melek/2026-10-11": {
       "episode_id": "acikradyo/uc-melek/2026-10-11",
@@ -651,6 +663,18 @@
       "date": "2026-10-11",
       "aired_at": "2026-10-11",
       "track_count": 10
+    },
+    "acikradyo/lovaj/2026-10-18": {
+      "episode_id": "acikradyo/lovaj/2026-10-18",
+      "radio_id": "acikradyo",
+      "program_id": 1797,
+      "program_slug": "lovaj",
+      "program_name": "Lovaj",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 60.0,
+      "date": "2026-10-18",
+      "aired_at": "2026-10-18",
+      "track_count": 14
     },
     "acikradyo/lovaj/2026-10-11": {
       "episode_id": "acikradyo/lovaj/2026-10-11",
@@ -1228,6 +1252,18 @@
       "aired_at": "2026-10-02",
       "track_count": 5
     },
+    "acikradyo/come-sunday/2026-10-18": {
+      "episode_id": "acikradyo/come-sunday/2026-10-18",
+      "radio_id": "acikradyo",
+      "program_id": 1800,
+      "program_slug": "come-sunday",
+      "program_name": "Come Sunday",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-18",
+      "aired_at": "2026-10-18",
+      "track_count": 12
+    },
     "acikradyo/come-sunday/2026-10-11": {
       "episode_id": "acikradyo/come-sunday/2026-10-11",
       "radio_id": "acikradyo",
@@ -1371,6 +1407,18 @@
       "date": "2026-10-05",
       "aired_at": "2026-10-05",
       "track_count": 6
+    },
+    "acikradyo/apacik-radyo-muzikleri/2026-10-18": {
+      "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-10-18",
+      "radio_id": "acikradyo",
+      "program_id": 1799,
+      "program_slug": "apacik-radyo-muzikleri",
+      "program_name": "Apaçık Radyo Müzikleri",
+      "program_start_time": "02:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-18",
+      "aired_at": "2026-10-18",
+      "track_count": 83
     },
     "acikradyo/apacik-radyo-muzikleri/2026-10-17": {
       "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-10-17",
@@ -1611,6 +1659,18 @@
       "date": "2026-10-06",
       "aired_at": "2026-10-06",
       "track_count": 3
+    },
+    "acikradyo/agora/2026-10-18": {
+      "episode_id": "acikradyo/agora/2026-10-18",
+      "radio_id": "acikradyo",
+      "program_id": 1804,
+      "program_slug": "agora",
+      "program_name": "Agora",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-18",
+      "aired_at": "2026-10-18",
+      "track_count": 7
     },
     "acikradyo/agora/2026-10-11": {
       "episode_id": "acikradyo/agora/2026-10-11",
