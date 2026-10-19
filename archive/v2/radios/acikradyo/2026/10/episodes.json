@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-18T10:08:11.420667+00:00",
+  "generated_at": "2026-10-19T11:38:37.588702+00:00",
   "radio_id": "acikradyo",
   "month": "2026-10",
   "episodes": {
@@ -135,6 +135,18 @@
       "date": "2026-10-14",
       "aired_at": "2026-10-14",
       "track_count": 1
+    },
+    "acikradyo/sevgili-gunluk/2026-10-19": {
+      "episode_id": "acikradyo/sevgili-gunluk/2026-10-19",
+      "radio_id": "acikradyo",
+      "program_id": 1652,
+      "program_slug": "sevgili-gunluk",
+      "program_name": "Sevgili Günlük",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-19",
+      "aired_at": "2026-10-19",
+      "track_count": 6
     },
     "acikradyo/sevgili-gunluk/2026-10-15": {
       "episode_id": "acikradyo/sevgili-gunluk/2026-10-15",
@@ -291,6 +303,18 @@
       "date": "2026-10-05",
       "aired_at": "2026-10-05",
       "track_count": 2
+    },
+    "acikradyo/sabahlik/2026-10-19": {
+      "episode_id": "acikradyo/sabahlik/2026-10-19",
+      "radio_id": "acikradyo",
+      "program_id": 1650,
+      "program_slug": "sabahlik",
+      "program_name": "Sabahlık",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-19",
+      "aired_at": "2026-10-19",
+      "track_count": 13
     },
     "acikradyo/sabahlik/2026-10-16": {
       "episode_id": "acikradyo/sabahlik/2026-10-16",
@@ -520,6 +544,18 @@
       "aired_at": "2026-10-02",
       "track_count": 3
     },
+    "acikradyo/okul-zili/2026-10-19": {
+      "episode_id": "acikradyo/okul-zili/2026-10-19",
+      "radio_id": "acikradyo",
+      "program_id": 1653,
+      "program_slug": "okul-zili",
+      "program_name": "Okul Zili",
+      "program_start_time": "10:30",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-19",
+      "aired_at": "2026-10-19",
+      "track_count": 3
+    },
     "acikradyo/okul-zili/2026-10-12": {
       "episode_id": "acikradyo/okul-zili/2026-10-12",
       "radio_id": "acikradyo",
@@ -591,6 +627,18 @@
       "date": "2026-10-01",
       "aired_at": "2026-10-01",
       "track_count": 11
+    },
+    "acikradyo/munakasa/2026-10-19": {
+      "episode_id": "acikradyo/munakasa/2026-10-19",
+      "radio_id": "acikradyo",
+      "program_id": 1647,
+      "program_slug": "munakasa",
+      "program_name": "Münakaşa",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-19",
+      "aired_at": "2026-10-19",
+      "track_count": 6
     },
     "acikradyo/munakasa/2026-10-12": {
       "episode_id": "acikradyo/munakasa/2026-10-12",
@@ -723,6 +771,18 @@
       "date": "2026-10-02",
       "aired_at": "2026-10-02",
       "track_count": 1
+    },
+    "acikradyo/klang/2026-10-19": {
+      "episode_id": "acikradyo/klang/2026-10-19",
+      "radio_id": "acikradyo",
+      "program_id": 1646,
+      "program_slug": "klang",
+      "program_name": "Klang",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 60.0,
+      "date": "2026-10-19",
+      "aired_at": "2026-10-19",
+      "track_count": 2
     },
     "acikradyo/klang/2026-10-12": {
       "episode_id": "acikradyo/klang/2026-10-12",
@@ -1132,6 +1192,18 @@
       "aired_at": "2026-10-11",
       "track_count": 1
     },
+    "acikradyo/democracy-now/2026-10-19": {
+      "episode_id": "acikradyo/democracy-now/2026-10-19",
+      "radio_id": "acikradyo",
+      "program_id": 1649,
+      "program_slug": "democracy-now",
+      "program_name": "Democracy Now!",
+      "program_start_time": "06:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-19",
+      "aired_at": "2026-10-19",
+      "track_count": 5
+    },
     "acikradyo/democracy-now/2026-10-16": {
       "episode_id": "acikradyo/democracy-now/2026-10-16",
       "radio_id": "acikradyo",
@@ -1360,6 +1432,18 @@
       "aired_at": "2026-10-04",
       "track_count": 3
     },
+    "acikradyo/banttan-buluta/2026-10-19": {
+      "episode_id": "acikradyo/banttan-buluta/2026-10-19",
+      "radio_id": "acikradyo",
+      "program_id": 1655,
+      "program_slug": "banttan-buluta",
+      "program_name": "Banttan Buluta",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-19",
+      "aired_at": "2026-10-19",
+      "track_count": 10
+    },
     "acikradyo/banttan-buluta/2026-10-12": {
       "episode_id": "acikradyo/banttan-buluta/2026-10-12",
       "radio_id": "acikradyo",
@@ -1384,6 +1468,18 @@
       "aired_at": "2026-10-05",
       "track_count": 10
     },
+    "acikradyo/babilden-sonra/2026-10-19": {
+      "episode_id": "acikradyo/babilden-sonra/2026-10-19",
+      "radio_id": "acikradyo",
+      "program_id": 1656,
+      "program_slug": "babilden-sonra",
+      "program_name": "Babil'den Sonra",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-19",
+      "aired_at": "2026-10-19",
+      "track_count": 8
+    },
     "acikradyo/babilden-sonra/2026-10-12": {
       "episode_id": "acikradyo/babilden-sonra/2026-10-12",
       "radio_id": "acikradyo",
@@ -1407,6 +1503,18 @@
       "date": "2026-10-05",
       "aired_at": "2026-10-05",
       "track_count": 6
+    },
+    "acikradyo/apacik-radyo-muzikleri/2026-10-19": {
+      "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-10-19",
+      "radio_id": "acikradyo",
+      "program_id": 1648,
+      "program_slug": "apacik-radyo-muzikleri",
+      "program_name": "Apaçık Radyo Müzikleri",
+      "program_start_time": "02:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-19",
+      "aired_at": "2026-10-19",
+      "track_count": 60
     },
     "acikradyo/apacik-radyo-muzikleri/2026-10-18": {
       "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-10-18",

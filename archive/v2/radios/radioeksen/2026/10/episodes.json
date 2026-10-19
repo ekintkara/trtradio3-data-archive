@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-18T10:08:11.420667+00:00",
+  "generated_at": "2026-10-19T11:38:37.588702+00:00",
   "radio_id": "radioeksen",
   "month": "2026-10",
   "episodes": {
@@ -123,6 +123,18 @@
       "date": "2026-10-05",
       "aired_at": "2026-10-05",
       "track_count": 2
+    },
+    "radioeksen/gulsah-turgut--paribu-artin-sundugu-gun-ortasi-programi/2026-10-19": {
+      "episode_id": "radioeksen/gulsah-turgut--paribu-artin-sundugu-gun-ortasi-programi/2026-10-19",
+      "radio_id": "radioeksen",
+      "program_id": -98516,
+      "program_slug": "gulsah-turgut--paribu-artin-sundugu-gun-ortasi-programi",
+      "program_name": "GÜLŞAH TURGUT -PARİBU ART'IN SUNDUĞU GÜN ORTASI PROGRAMI",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-19",
+      "aired_at": "2026-10-19",
+      "track_count": 28
     },
     "radioeksen/gulsah-turgut--paribu-artin-sundugu-gun-ortasi-programi/2026-10-16": {
       "episode_id": "radioeksen/gulsah-turgut--paribu-artin-sundugu-gun-ortasi-programi/2026-10-16",
@@ -268,6 +280,18 @@
       "aired_at": "2026-10-01",
       "track_count": 21
     },
+    "radioeksen/gulsah-guray--pozitif-muzikin-sundugu-sabah-sovu/2026-10-19": {
+      "episode_id": "radioeksen/gulsah-guray--pozitif-muzikin-sundugu-sabah-sovu/2026-10-19",
+      "radio_id": "radioeksen",
+      "program_id": -95510,
+      "program_slug": "gulsah-guray--pozitif-muzikin-sundugu-sabah-sovu",
+      "program_name": "GÜLŞAH GÜRAY -POZİTİF MÜZİK'İN SUNDUĞU SABAH ŞOVU",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-19",
+      "aired_at": "2026-10-19",
+      "track_count": 48
+    },
     "radioeksen/gulsah-guray--pozitif-muzikin-sundugu-sabah-sovu/2026-10-16": {
       "episode_id": "radioeksen/gulsah-guray--pozitif-muzikin-sundugu-sabah-sovu/2026-10-16",
       "radio_id": "radioeksen",
@@ -411,6 +435,18 @@
       "date": "2026-10-01",
       "aired_at": "2026-10-01",
       "track_count": 30
+    },
+    "radioeksen/eksen-muzik/2026-10-19": {
+      "episode_id": "radioeksen/eksen-muzik/2026-10-19",
+      "radio_id": "radioeksen",
+      "program_id": -42800,
+      "program_slug": "eksen-muzik",
+      "program_name": "Eksen Müzik",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-19",
+      "aired_at": "2026-10-19",
+      "track_count": 45
     },
     "radioeksen/eksen-muzik/2026-10-18": {
       "episode_id": "radioeksen/eksen-muzik/2026-10-18",
