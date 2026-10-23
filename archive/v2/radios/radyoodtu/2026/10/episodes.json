@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-22T10:53:39.194146+00:00",
+  "generated_at": "2026-10-23T10:44:57.875606+00:00",
   "radio_id": "radyoodtu",
   "month": "2026-10",
   "episodes": {
@@ -856,6 +856,18 @@
       "aired_at": "2026-10-01",
       "track_count": 17
     },
+    "radyoodtu/gunes-gozlugu/2026-10-23": {
+      "episode_id": "radyoodtu/gunes-gozlugu/2026-10-23",
+      "radio_id": "radyoodtu",
+      "program_id": 6,
+      "program_slug": "gunes-gozlugu",
+      "program_name": "Güneş Gözlüğü",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 120.0,
+      "date": "2026-10-23",
+      "aired_at": "2026-10-23",
+      "track_count": 130
+    },
     "radyoodtu/gunes-gozlugu/2026-10-22": {
       "episode_id": "radyoodtu/gunes-gozlugu/2026-10-22",
       "radio_id": "radyoodtu",
@@ -1119,6 +1131,18 @@
       "date": "2026-10-01",
       "aired_at": "2026-10-01",
       "track_count": 9
+    },
+    "radyoodtu/bazilari-sinema-sever-ege-yildizhan-ve-cinar-tasci/2026-10-23": {
+      "episode_id": "radyoodtu/bazilari-sinema-sever-ege-yildizhan-ve-cinar-tasci/2026-10-23",
+      "radio_id": "radyoodtu",
+      "program_id": 76,
+      "program_slug": "bazilari-sinema-sever-ege-yildizhan-ve-cinar-tasci",
+      "program_name": "Bazıları Sinema Sever (Ege Yıldızhan ve Çınar Taşcı)",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-23",
+      "aired_at": "2026-10-23",
+      "track_count": 17
     },
     "radyoodtu/bazilari-sinema-sever-ege-yildizhan-ve-cinar-tasci/2026-10-16": {
       "episode_id": "radyoodtu/bazilari-sinema-sever-ege-yildizhan-ve-cinar-tasci/2026-10-16",
