@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-23T10:44:57.875606+00:00",
+  "generated_at": "2026-10-24T10:02:01.689442+00:00",
   "radio_id": "acikradyo",
   "month": "2026-10",
   "songs": {
@@ -14,6 +14,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "jFdw_J0Nrbk",
+      "alternatives": []
+    },
+    "00350f9f733e7dc0ddb8": {
+      "song_id": "00350f9f733e7dc0ddb8",
+      "title": "Bekledim Yine",
+      "artist": "Alpay Nazikioğlu",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Jdf1DW--TXg",
       "alternatives": []
     },
     "004a3c6ef280d7413827": {
@@ -928,6 +940,18 @@
       "youtube_video_id": "BnKGjSSu2xU",
       "alternatives": []
     },
+    "091e5af6ecfef3b2c3e6": {
+      "song_id": "091e5af6ecfef3b2c3e6",
+      "title": "Rainmaker (Extended Club Mix)",
+      "artist": "George Ellinas",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "d2Gy7b16KDY",
+      "alternatives": []
+    },
     "0958d30338e100ecd8d8": {
       "song_id": "0958d30338e100ecd8d8",
       "title": "Yéyé (feat. The Solar System) [2010 Remastered Edition]",
@@ -950,6 +974,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "3HdtZQCZc08",
+      "alternatives": []
+    },
+    "098a0c05176b3cba7145": {
+      "song_id": "098a0c05176b3cba7145",
+      "title": "Mazi Kalbimde Bir Yaradım",
+      "artist": "Alpay",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "-iyMpsUeI8k",
       "alternatives": []
     },
     "09a6b6111581728de753": {
@@ -1382,6 +1418,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "TeTLgZUcW7s",
+      "alternatives": []
+    },
+    "0e4167e82d1d76e94a4d": {
+      "song_id": "0e4167e82d1d76e94a4d",
+      "title": "Our Love Is Driftin'",
+      "artist": "The Paul Butterfield Blues Band",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "blues; blues rock; rock",
+      "youtube_video_id": "9SKFX7DHyMM",
       "alternatives": []
     },
     "0e443c6322129863fb78": {
@@ -1852,6 +1900,18 @@
       "youtube_video_id": "OnG5p8iEhZ0",
       "alternatives": []
     },
+    "12a7234ed41dc612d76f": {
+      "song_id": "12a7234ed41dc612d76f",
+      "title": "Angel Eyes",
+      "artist": "Art Blakey & The Jazz Messengers",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "XD2syevGP1o",
+      "alternatives": []
+    },
     "12d605f94289893af506": {
       "song_id": "12d605f94289893af506",
       "title": "Electric Rain",
@@ -1910,6 +1970,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "0p_1QSUsbsM",
+      "alternatives": []
+    },
+    "13a0fb541429ab57c57f": {
+      "song_id": "13a0fb541429ab57c57f",
+      "title": "The Labyrinth Song",
+      "artist": "Asaf Avidan",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "oiL9ItjmHRw",
       "alternatives": []
     },
     "13e05ceda0ffbc791515": {
@@ -2068,6 +2140,18 @@
       "youtube_video_id": "lL8mUIBWVRY",
       "alternatives": []
     },
+    "1539ed6e3736a7cc6b24": {
+      "song_id": "1539ed6e3736a7cc6b24",
+      "title": "Lifeline (Extended Mix)",
+      "artist": "Falden",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "wFflMeVDyWw",
+      "alternatives": []
+    },
     "156c28eceb2d4cf37f72": {
       "song_id": "156c28eceb2d4cf37f72",
       "title": "Cold",
@@ -2091,6 +2175,25 @@
       "genre": "",
       "youtube_video_id": "aKfL-Qoc7Kk",
       "alternatives": []
+    },
+    "15bf9d7d19b19ff191b9": {
+      "song_id": "15bf9d7d19b19ff191b9",
+      "title": "Sonate pour piano No. 11 in A Major, K. 331: III. Rondo alla Turca. Allegretto",
+      "artist": "Wilhelm Kempff",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "n2Tru4Qa3pc",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Sonata No. 11 in A Major, K. 331: III. Alla turca. Allegretto",
+          "artist": "Noriko Ogawa",
+          "confidence": 0.55
+        }
+      ]
     },
     "15d5e75762439517ffcb": {
       "song_id": "15d5e75762439517ffcb",
@@ -2126,6 +2229,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "0Zi6mUW1ecg",
+      "alternatives": []
+    },
+    "15f3c0d00b39f34847fd": {
+      "song_id": "15f3c0d00b39f34847fd",
+      "title": "There's Always Something There to Remind Me",
+      "artist": "Frankie Valli & The Four Seasons",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ICOVtkcL_os",
       "alternatives": []
     },
     "160cc015f6d743d852a1": {
@@ -2764,6 +2879,18 @@
       "youtube_video_id": "",
       "alternatives": []
     },
+    "1d89fe58dc2f027781f1": {
+      "song_id": "1d89fe58dc2f027781f1",
+      "title": "Season of the Witch",
+      "artist": "The Blues Brothers & Dr John",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "dNQ-jbkuueQ",
+      "alternatives": []
+    },
     "1d9ac50743a938920589": {
       "song_id": "1d9ac50743a938920589",
       "title": "I'm On The Outside (Looking In)",
@@ -3256,6 +3383,18 @@
       "youtube_video_id": "mGCIh-Ln-DQ",
       "alternatives": []
     },
+    "231b7d26185373dac3e3": {
+      "song_id": "231b7d26185373dac3e3",
+      "title": "Yaniyorum",
+      "artist": "Kardeş Türküler",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "H6IzLZvkp1w",
+      "alternatives": []
+    },
     "232075756c7b27c1c437": {
       "song_id": "232075756c7b27c1c437",
       "title": "CONNAISSAIS DE FACE",
@@ -3542,6 +3681,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "BjmiLvIaeZE",
+      "alternatives": []
+    },
+    "26ac52a54655ed18f6c3": {
+      "song_id": "26ac52a54655ed18f6c3",
+      "title": "Justice",
+      "artist": "Gareth Wyn",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "progressive house; party",
+      "youtube_video_id": "0yMLcY9Dwy0",
       "alternatives": []
     },
     "26bb9ab28d56df0ca57a": {
@@ -4180,6 +4331,18 @@
       "youtube_video_id": "_9Szb0yn0gQ",
       "alternatives": []
     },
+    "2d8ae548b8ad6d40beb8": {
+      "song_id": "2d8ae548b8ad6d40beb8",
+      "title": "Don't Wanna Go Home (feat. Joe Bonamassa)",
+      "artist": "Eric Gales",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "e6UR-_4HDF4",
+      "alternatives": []
+    },
     "2d9a7585d7d3ad46a6f7": {
       "song_id": "2d9a7585d7d3ad46a6f7",
       "title": "Essential Hits",
@@ -4622,6 +4785,18 @@
       "mbid": "",
       "genre": "reggae; roots reggae",
       "youtube_video_id": "VPcJ9FnRHvE",
+      "alternatives": []
+    },
+    "312e12530608a1722a19": {
+      "song_id": "312e12530608a1722a19",
+      "title": "Jimmy Mack (Rerecorded)",
+      "artist": "Martha Reeves",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "JeAB8LeGwWQ",
       "alternatives": []
     },
     "31735abd5053eb12013e": {
@@ -5068,6 +5243,18 @@
       "youtube_video_id": "2knr2TxCrBQ",
       "alternatives": []
     },
+    "35af9ecd08fd5991ac25": {
+      "song_id": "35af9ecd08fd5991ac25",
+      "title": "Mutluluktan Ağlarken",
+      "artist": "Alpay",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Sce7_OygFfo",
+      "alternatives": []
+    },
     "35f8bfaadcb0c9f8a9f0": {
       "song_id": "35f8bfaadcb0c9f8a9f0",
       "title": "La Jeteé",
@@ -5174,6 +5361,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "uarCKKhh-SY",
+      "alternatives": []
+    },
+    "376241861dbf4757e21b": {
+      "song_id": "376241861dbf4757e21b",
+      "title": "E2-E4 (A reference to E2-E4 by Manuel Gottsching)",
+      "artist": "Alex Kassian & Manuel Göttsching",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "pUfIqO5arq4",
       "alternatives": []
     },
     "37764b555c997f299aa6": {
@@ -7204,6 +7403,18 @@
       "youtube_video_id": "62tG4iaPGzE",
       "alternatives": []
     },
+    "4c8dbea64b840973e8e3": {
+      "song_id": "4c8dbea64b840973e8e3",
+      "title": "Hey Now Baby",
+      "artist": "Professor Longhair",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "r&b de nueva orleans",
+      "youtube_video_id": "L56fzLLliDo",
+      "alternatives": []
+    },
     "4c95a5b84fe210eab55e": {
       "song_id": "4c95a5b84fe210eab55e",
       "title": "Homecoming (feat. Eniola)",
@@ -7348,6 +7559,18 @@
       "youtube_video_id": "QvlOcUpz-2Y",
       "alternatives": []
     },
+    "4d70895550442ad9146c": {
+      "song_id": "4d70895550442ad9146c",
+      "title": "Come Do It to Me (Dub Version)",
+      "artist": "King Jammy",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "NkdQt00_AIo",
+      "alternatives": []
+    },
     "4d720d17f1335d9350c3": {
       "song_id": "4d720d17f1335d9350c3",
       "title": "The Dead Flag Blues",
@@ -7370,6 +7593,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "o-llwv4pLrg",
+      "alternatives": []
+    },
+    "4d8b0bd622fa58b253e8": {
+      "song_id": "4d8b0bd622fa58b253e8",
+      "title": "You Can't Lose What You Ain't Never Had",
+      "artist": "Muddy Waters",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "TWNgzbgrDe0",
       "alternatives": []
     },
     "4e0a1d4f293d49511b55": {
@@ -7454,6 +7689,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "6qjuI5GM0T4",
+      "alternatives": []
+    },
+    "4f1a3af76952baa29b56": {
+      "song_id": "4f1a3af76952baa29b56",
+      "title": "Dream Mall Radio",
+      "artist": "Calm Breeze",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "DGl2G6Nnnk0",
       "alternatives": []
     },
     "4f29b4ad36bb13b0a127": {
@@ -7610,6 +7857,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "8X1s0LyXE3A",
+      "alternatives": []
+    },
+    "500737c42ae29e98ddff": {
+      "song_id": "500737c42ae29e98ddff",
+      "title": "These Blues",
+      "artist": "J.J. Cale",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "blues; rock; blues rock",
+      "youtube_video_id": "TI18yu8POoQ",
       "alternatives": []
     },
     "507272089056fa258a24": {
@@ -8032,6 +8291,18 @@
       "youtube_video_id": "RWTds5WDSzU",
       "alternatives": []
     },
+    "5673419f779fc7cd8e60": {
+      "song_id": "5673419f779fc7cd8e60",
+      "title": "Pictures of You",
+      "artist": "Deep Purple",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "G8w638t_MtU",
+      "alternatives": []
+    },
     "568156d86dff63994a26": {
       "song_id": "568156d86dff63994a26",
       "title": "Self Evident",
@@ -8186,6 +8457,18 @@
       "mbid": "",
       "genre": "reggae; roots reggae",
       "youtube_video_id": "UB4rx7YP6Ac",
+      "alternatives": []
+    },
+    "57d77a2d06af110d3261": {
+      "song_id": "57d77a2d06af110d3261",
+      "title": "Ise Owuro",
+      "artist": "Alh. Hassan Ibrahim Omoidunnu",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "b70mQNWPBak",
       "alternatives": []
     },
     "57f8cba80080911010c0": {
@@ -9660,6 +9943,18 @@
       "youtube_video_id": "Rq1nYV3-5lw",
       "alternatives": []
     },
+    "67d7120157bdb1d0f873": {
+      "song_id": "67d7120157bdb1d0f873",
+      "title": "Lessons",
+      "artist": "The Cinematic Orchestra",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "9od_Cm-XD-g",
+      "alternatives": []
+    },
     "67ef98433136dd7e4182": {
       "song_id": "67ef98433136dd7e4182",
       "title": "Vagabond Man",
@@ -11076,6 +11371,18 @@
       "youtube_video_id": "-7Cva8jPKm4",
       "alternatives": []
     },
+    "74d61185c787f08a9076": {
+      "song_id": "74d61185c787f08a9076",
+      "title": "Labor of Love",
+      "artist": "Theodore Shapiro",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "lBzegiTr1Ao",
+      "alternatives": []
+    },
     "74d746b986dfeeb6433c": {
       "song_id": "74d746b986dfeeb6433c",
       "title": "Breach",
@@ -11218,6 +11525,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "0vknQOo1464",
+      "alternatives": []
+    },
+    "765928ba135a14ff5a40": {
+      "song_id": "765928ba135a14ff5a40",
+      "title": "Dark Atmosphere",
+      "artist": "Cyberpunk Cyborg",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "eAqsCU8Z1Lc",
       "alternatives": []
     },
     "7691d1e1e6c74cebf105": {
@@ -11610,6 +11929,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "H4TMToHuu2w",
+      "alternatives": []
+    },
+    "79c45c16382b0bff38d9": {
+      "song_id": "79c45c16382b0bff38d9",
+      "title": "Disconnection (Chillout Mix)",
+      "artist": "Digital Department",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "o7y2ZpY3Ne8",
       "alternatives": []
     },
     "7a2da65e0b5acd6b2e66": {
@@ -12388,6 +12719,18 @@
       "youtube_video_id": "qpf_gXfYL0U",
       "alternatives": []
     },
+    "80bdf8886df7bcdea95c": {
+      "song_id": "80bdf8886df7bcdea95c",
+      "title": "We Are Mirage",
+      "artist": "Eric Prydz & Empire Of The Sun",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "XNebOJbgnIw",
+      "alternatives": []
+    },
     "80ccd86fca5b5523f062": {
       "song_id": "80ccd86fca5b5523f062",
       "title": "Maria Bonita",
@@ -12676,6 +13019,18 @@
       "youtube_video_id": "_tkf5SeDWvA",
       "alternatives": []
     },
+    "844c7adc9e72a7d6d2e3": {
+      "song_id": "844c7adc9e72a7d6d2e3",
+      "title": "Kuna",
+      "artist": "Diamond Platnumz",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "tYpsE-r7NqQ",
+      "alternatives": []
+    },
     "847297794bb657642994": {
       "song_id": "847297794bb657642994",
       "title": "Mystical Electro Harakiri",
@@ -12880,6 +13235,18 @@
       "youtube_video_id": "r6WZ7hWFPRw",
       "alternatives": []
     },
+    "8702fee69b318564f47d": {
+      "song_id": "8702fee69b318564f47d",
+      "title": "Eylül'de Gel Demiştim",
+      "artist": "Alpay",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "D4UhviQdYk8",
+      "alternatives": []
+    },
     "871a9664be497a06215d": {
       "song_id": "871a9664be497a06215d",
       "title": "East-West",
@@ -12950,6 +13317,18 @@
       "mbid": "",
       "genre": "rock",
       "youtube_video_id": "wTP2RUD_cL0",
+      "alternatives": []
+    },
+    "8793e95ecf1097f9f07b": {
+      "song_id": "8793e95ecf1097f9f07b",
+      "title": "Freedom Flight",
+      "artist": "Shuggie Otis",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "jazz; vocal jazz; psychedelic soul",
+      "youtube_video_id": "xkpvklUQpOo",
       "alternatives": []
     },
     "8795ab0a5275e394586b": {
@@ -15076,6 +15455,18 @@
       "youtube_video_id": "BufrCaI-hiY",
       "alternatives": []
     },
+    "9cda3578e813d346dc12": {
+      "song_id": "9cda3578e813d346dc12",
+      "title": "Trying to Get to You",
+      "artist": "Elvis Presley",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "KZ64T6gEdC4",
+      "alternatives": []
+    },
     "9ce6b89bccf961fe5fd2": {
       "song_id": "9ce6b89bccf961fe5fd2",
       "title": "Balla Ba",
@@ -15496,6 +15887,18 @@
       "youtube_video_id": "zj6jgvYNnYI",
       "alternatives": []
     },
+    "a0801ae0152900bdb3b4": {
+      "song_id": "a0801ae0152900bdb3b4",
+      "title": "Sugar Mama",
+      "artist": "John Lee Hooker",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
+      "alternatives": []
+    },
     "a0a2e00df3aa2540b203": {
       "song_id": "a0a2e00df3aa2540b203",
       "title": "BRIMFUL OF ASHA",
@@ -15825,6 +16228,18 @@
       "mbid": "",
       "genre": "blues rock",
       "youtube_video_id": "2_xIStXgQPU",
+      "alternatives": []
+    },
+    "a4d53bb2d0b6af7e5eed": {
+      "song_id": "a4d53bb2d0b6af7e5eed",
+      "title": "Common People",
+      "artist": "Pulp",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "yuTMWgOduFM",
       "alternatives": []
     },
     "a4de7ac7db4d4e51b46c": {
@@ -17483,6 +17898,18 @@
       "youtube_video_id": "4QbMuapSuSg",
       "alternatives": []
     },
+    "b4e1a3a44806478e4312": {
+      "song_id": "b4e1a3a44806478e4312",
+      "title": "Life Is For Living",
+      "artist": "Barclay James Harvest",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "fQMLRCUVoO8",
+      "alternatives": []
+    },
     "b4f07ff69204f6d9e9b5": {
       "song_id": "b4f07ff69204f6d9e9b5",
       "title": "Peer Gynt Suite for Piano Four-Hands, Op. 46, No. 2: Anitra's Dance (Anitras Dans) in A Minor",
@@ -17589,6 +18016,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "urugx_wSBy8",
+      "alternatives": []
+    },
+    "b5fecec350bb63eb283a": {
+      "song_id": "b5fecec350bb63eb283a",
+      "title": "Emotion (Club Mix)",
+      "artist": "Santiago Cortés",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "wmEnUhIXttA",
       "alternatives": []
     },
     "b616217837a65ee4694c": {
@@ -18426,6 +18865,18 @@
       "youtube_video_id": "W8XuMHvdHSE",
       "alternatives": []
     },
+    "beeb29ab10ba90b1f464": {
+      "song_id": "beeb29ab10ba90b1f464",
+      "title": "Driftin'",
+      "artist": "Louisiana Red",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "blues; chicago blues; country blues",
+      "youtube_video_id": "U4mBjeNNU9w",
+      "alternatives": []
+    },
     "bf11209fc5d1685378d8": {
       "song_id": "bf11209fc5d1685378d8",
       "title": "Ne me quitte pas",
@@ -18724,6 +19175,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "QfZZH3McN0A",
+      "alternatives": []
+    },
+    "c194a3155ec1b3bb94d2": {
+      "song_id": "c194a3155ec1b3bb94d2",
+      "title": "Deli Dolu Gönlüm",
+      "artist": "Alpay",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "EJQNiNdBKeo",
       "alternatives": []
     },
     "c1b2aa83a712a7f740c0": {
@@ -19251,7 +19714,7 @@
       "work": "",
       "mbid": "",
       "genre": "",
-      "youtube_video_id": "",
+      "youtube_video_id": "AmAfaqCcNLI",
       "alternatives": []
     },
     "c714b1e0ea72ab6d25ec": {
@@ -19372,6 +19835,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "U-JmjBJAorU",
+      "alternatives": []
+    },
+    "c82de102291c7b4e559b": {
+      "song_id": "c82de102291c7b4e559b",
+      "title": "Hey Bartender",
+      "artist": "Floyd Dixon",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "LWTbNV_gwDk",
       "alternatives": []
     },
     "c843cfec0dcf1982d45b": {
@@ -19732,6 +20207,18 @@
       "mbid": "",
       "genre": "jazz; swing; vocal jazz",
       "youtube_video_id": "P9AtNIcC6oQ",
+      "alternatives": []
+    },
+    "cc36f004013be90fb585": {
+      "song_id": "cc36f004013be90fb585",
+      "title": "Sweet Home Chicago",
+      "artist": "Magic Sam",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "83rkEm7s5es",
       "alternatives": []
     },
     "cc651eedb2c9628cfe73": {
@@ -20142,6 +20629,18 @@
       "youtube_video_id": "tAA53HvFuu0",
       "alternatives": []
     },
+    "d02861c7a1941ee3c5e0": {
+      "song_id": "d02861c7a1941ee3c5e0",
+      "title": "Not Around Anymore",
+      "artist": "Broken Social Scene",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "fJoqT8LPe04",
+      "alternatives": []
+    },
     "d05e65d4d55f11856dcb": {
       "song_id": "d05e65d4d55f11856dcb",
       "title": "GIŃ ZA MNIE",
@@ -20260,6 +20759,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "1gPbL3Eb628",
+      "alternatives": []
+    },
+    "d1a68f2f76d121f058ab": {
+      "song_id": "d1a68f2f76d121f058ab",
+      "title": "Little Sunflower",
+      "artist": "Little Sunflower",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "l18zhSVWEsk",
       "alternatives": []
     },
     "d1cb9cc0d5fb8cc4d41c": {
@@ -20514,6 +21025,25 @@
       "youtube_video_id": "6Ngmuy76ySs",
       "alternatives": []
     },
+    "d4fb5a0d43b222e16850": {
+      "song_id": "d4fb5a0d43b222e16850",
+      "title": "Pavana-Capricho Op. 12",
+      "artist": "Nexus Piano Duo",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Nhn8xR4z8x4",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Pavana-Capricho, Op. 12",
+          "artist": "Alicia de Larrocha",
+          "confidence": 0.55
+        }
+      ]
+    },
     "d509d1afffb7e2625921": {
       "song_id": "d509d1afffb7e2625921",
       "title": "I Will Follow Him",
@@ -20584,6 +21114,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "CFtrrdBYaAw",
+      "alternatives": []
+    },
+    "d5920f4518f012e83941": {
+      "song_id": "d5920f4518f012e83941",
+      "title": "Goin' Down Slow",
+      "artist": "Howlin' Wolf",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "39a-qK75osc",
       "alternatives": []
     },
     "d5d1f4a22b1868654b22": {
@@ -22117,6 +22659,18 @@
       "youtube_video_id": "fa6a_K9TaBY",
       "alternatives": []
     },
+    "e55e83179c7b35bf3ab2": {
+      "song_id": "e55e83179c7b35bf3ab2",
+      "title": "Safe And Sound",
+      "artist": "Capital Cities",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "indie rock; synth-pop; dance-pop",
+      "youtube_video_id": "47dtFZ8CFo8",
+      "alternatives": []
+    },
     "e59c4e24eaaff72f368a": {
       "song_id": "e59c4e24eaaff72f368a",
       "title": "Opus (Regenerate)",
@@ -22271,6 +22825,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "uElfKicidJ8",
+      "alternatives": []
+    },
+    "e72d9617052bc80cad61": {
+      "song_id": "e72d9617052bc80cad61",
+      "title": "Thunder & Lightning",
+      "artist": "Motörhead",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "heavy metal; rock; metal",
+      "youtube_video_id": "Zh_pk02IOnE",
       "alternatives": []
     },
     "e741ceaf4363a8971186": {
@@ -22583,6 +23149,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "-VcgumI4bMM",
+      "alternatives": []
+    },
+    "ea39953050c5ea847b74": {
+      "song_id": "ea39953050c5ea847b74",
+      "title": "Olson-Belar '55",
+      "artist": "Dumpstack",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "RzKCHSLIvWs",
       "alternatives": []
     },
     "ea5c71320e8c9696ce86": {
@@ -23642,6 +24220,18 @@
       "youtube_video_id": "Fb3EMo6Hlnk",
       "alternatives": []
     },
+    "f6409b51c42fad8c528d": {
+      "song_id": "f6409b51c42fad8c528d",
+      "title": "Apollo11-The Mission-1969",
+      "artist": "Uwe Schulze",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "NJDzTX_VrGE",
+      "alternatives": []
+    },
     "f64e2ac6d7ae5def5190": {
       "song_id": "f64e2ac6d7ae5def5190",
       "title": "Take Me Back To Piauí",
@@ -23748,6 +24338,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "dldeuta74BM",
+      "alternatives": []
+    },
+    "f75e84b4bb4a824fd8d5": {
+      "song_id": "f75e84b4bb4a824fd8d5",
+      "title": "St. James Infirmary",
+      "artist": "Dr John",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "h0qrtvcE-EU",
       "alternatives": []
     },
     "f770ce131cdab9c97c43": {

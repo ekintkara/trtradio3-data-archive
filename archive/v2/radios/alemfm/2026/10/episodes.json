@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-23T10:44:57.875606+00:00",
+  "generated_at": "2026-10-24T10:02:01.689442+00:00",
   "radio_id": "alemfm",
   "month": "2026-10",
   "episodes": {
@@ -279,6 +279,18 @@
       "date": "2026-10-01",
       "aired_at": "2026-10-01",
       "track_count": 16
+    },
+    "alemfm/canli-yayin-alemfm/2026-10-24": {
+      "episode_id": "alemfm/canli-yayin-alemfm/2026-10-24",
+      "radio_id": "alemfm",
+      "program_id": 7292,
+      "program_slug": "canli-yayin-alemfm",
+      "program_name": "Canlı Yayın",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 120.0,
+      "date": "2026-10-24",
+      "aired_at": "2026-10-24",
+      "track_count": 199
     },
     "alemfm/canli-yayin-alemfm/2026-10-17": {
       "episode_id": "alemfm/canli-yayin-alemfm/2026-10-17",
