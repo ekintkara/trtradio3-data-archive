@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-24T10:02:01.689442+00:00",
+  "generated_at": "2026-10-25T10:26:39.793019+00:00",
   "radio_id": "radioeksen",
   "month": "2026-10",
   "songs": {
@@ -736,6 +736,18 @@
       "youtube_video_id": "z0vCwGUZe1I",
       "alternatives": []
     },
+    "0942848993d83a7af9af": {
+      "song_id": "0942848993d83a7af9af",
+      "title": "She's So High",
+      "artist": "Tal Bachman",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "_ElORM9O-0U",
+      "alternatives": []
+    },
     "0969b7f45a96c1e15192": {
       "song_id": "0969b7f45a96c1e15192",
       "title": "ADDICTED TO LOVE",
@@ -1468,6 +1480,18 @@
       "youtube_video_id": "wqJxFlBYzOY",
       "alternatives": []
     },
+    "1063dad8ecd412d46e91": {
+      "song_id": "1063dad8ecd412d46e91",
+      "title": "SECOND TIME",
+      "artist": "THE GOA EXPRESS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
+      "alternatives": []
+    },
     "10656d45a855de086a94": {
       "song_id": "10656d45a855de086a94",
       "title": "Nature Boy",
@@ -1814,6 +1838,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "uLUzTbZcxG8",
+      "alternatives": []
+    },
+    "14cfdedda652cd93be2d": {
+      "song_id": "14cfdedda652cd93be2d",
+      "title": "ADVENTURE OF A LIFETIME",
+      "artist": "COLDPLAY",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "QtXby3twMmI",
       "alternatives": []
     },
     "150251380eae498e4080": {
@@ -3232,6 +3268,18 @@
       "youtube_video_id": "jy6No4Xuq_E",
       "alternatives": []
     },
+    "2377183b2f00db97f11d": {
+      "song_id": "2377183b2f00db97f11d",
+      "title": "THE MORE I SEE YOU",
+      "artist": "ETTA JONES",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "w7ldsBHOqe0",
+      "alternatives": []
+    },
     "238567286f3f67cf575c": {
       "song_id": "238567286f3f67cf575c",
       "title": "Venus",
@@ -3351,6 +3399,25 @@
       "genre": "",
       "youtube_video_id": "y8OtzJtp-EM",
       "alternatives": []
+    },
+    "254ddd7ef4e43e7c8034": {
+      "song_id": "254ddd7ef4e43e7c8034",
+      "title": "I Want To Know What Love Is",
+      "artist": "Foreigner",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "r3Pr1_v7hsw",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "I Want To Know What Love Is (Remastered)",
+          "artist": "Foreigner",
+          "confidence": 0.55
+        }
+      ]
     },
     "25801c712c519a28df44": {
       "song_id": "25801c712c519a28df44",
@@ -4055,6 +4122,18 @@
       "youtube_video_id": "mZbeiXZVWbM",
       "alternatives": []
     },
+    "2c67e417a06bb5a8b5a6": {
+      "song_id": "2c67e417a06bb5a8b5a6",
+      "title": "I HEAR MUSIC",
+      "artist": "DAKOTA STATON",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "0LnicUn7Oyo",
+      "alternatives": []
+    },
     "2c737e1fc4968981a5d5": {
       "song_id": "2c737e1fc4968981a5d5",
       "title": "REUNION",
@@ -4737,6 +4816,18 @@
       "mbid": "",
       "genre": "indie rock; easy listening",
       "youtube_video_id": "lrsMpTgWnHk",
+      "alternatives": []
+    },
+    "34148a2f15e4046b9ad5": {
+      "song_id": "34148a2f15e4046b9ad5",
+      "title": "I LET A SONG GO OUT OF MY HEART",
+      "artist": "ALICE BABS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "y_8w48kGDCs",
       "alternatives": []
     },
     "341f94f47d6f6e755d98": {
@@ -5915,6 +6006,18 @@
       "youtube_video_id": "bgkGTFS_UjI",
       "alternatives": []
     },
+    "421e074a8cb2fae2f508": {
+      "song_id": "421e074a8cb2fae2f508",
+      "title": "WE'RE NOT GONNA TAKE IT",
+      "artist": "TWISTED SISTER",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "heavy metal; hard rock; hair metal",
+      "youtube_video_id": "4xmckWVPRaI",
+      "alternatives": []
+    },
     "425088d1cb1e2d2c5e58": {
       "song_id": "425088d1cb1e2d2c5e58",
       "title": "Supernature",
@@ -6753,6 +6856,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "9AtnKPh-hE8",
+      "alternatives": []
+    },
+    "4b1b7a6832e61793e631": {
+      "song_id": "4b1b7a6832e61793e631",
+      "title": "HOLD ME UP (THANK YOU)",
+      "artist": "KHRUANGBIN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "csILUDfmtqM",
       "alternatives": []
     },
     "4b29a623a8b4635097c8": {
@@ -8923,6 +9038,18 @@
       "youtube_video_id": "bDmA8qQKhMY",
       "alternatives": []
     },
+    "60c2dfbfdaf38ec4be72": {
+      "song_id": "60c2dfbfdaf38ec4be72",
+      "title": "FAMOUS",
+      "artist": "PARCELS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "WBf7f2hQcLk",
+      "alternatives": []
+    },
     "60d98bfbf8da1690cf68": {
       "song_id": "60d98bfbf8da1690cf68",
       "title": "LOVE AND AFFECTION",
@@ -9041,6 +9168,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "l6g0gDrCUi8",
+      "alternatives": []
+    },
+    "61f3c2a44c7193c618b8": {
+      "song_id": "61f3c2a44c7193c618b8",
+      "title": "THREAT OF JOY",
+      "artist": "THE STROKES",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Qvhcs93C2x8",
       "alternatives": []
     },
     "62080fc1bf906341b8ef": {
@@ -9907,6 +10046,18 @@
       "youtube_video_id": "GmWjRqJoCe0",
       "alternatives": []
     },
+    "6b56b471b2cc789594bf": {
+      "song_id": "6b56b471b2cc789594bf",
+      "title": "PENSATIVA",
+      "artist": "ART BLAKEY & THE JAZZ MESSENGERS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "-gJOSoSbba4",
+      "alternatives": []
+    },
     "6bf95b5dff9758285d54": {
       "song_id": "6bf95b5dff9758285d54",
       "title": "I GET AROUND",
@@ -10265,6 +10416,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "pyUOSaQZmxw",
+      "alternatives": []
+    },
+    "6ea8a1e366a3ca50bf87": {
+      "song_id": "6ea8a1e366a3ca50bf87",
+      "title": "YELLOW OCHRE PT. 1",
+      "artist": "VELS TRIO",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "-tYN_b5mWbI",
       "alternatives": []
     },
     "6f08e9ceb5c204a36209": {
@@ -10675,6 +10838,18 @@
       "youtube_video_id": "zbpcTwmh-2E",
       "alternatives": []
     },
+    "732dbcea79c07689fcda": {
+      "song_id": "732dbcea79c07689fcda",
+      "title": "ELEANOR RIGBY",
+      "artist": "ARETHA FRANKLIN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "soul; r&b; gospel",
+      "youtube_video_id": "TlHaX55wG0Y",
+      "alternatives": []
+    },
     "73398423a6307b8d1564": {
       "song_id": "73398423a6307b8d1564",
       "title": "TONGUE",
@@ -10685,6 +10860,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "5OsIwKHppho",
+      "alternatives": []
+    },
+    "7343202810722bea451a": {
+      "song_id": "7343202810722bea451a",
+      "title": "MOUNTAIN",
+      "artist": "ROBOHANDS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "9PPBCLycEDw",
       "alternatives": []
     },
     "73523cbe856668317b03": {
@@ -12235,6 +12422,18 @@
       "youtube_video_id": "Sd2yr12abg8",
       "alternatives": []
     },
+    "840246f4674fa6a1510d": {
+      "song_id": "840246f4674fa6a1510d",
+      "title": "DIAL TONE",
+      "artist": "WILD NOTHING",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "zB6SG6_N8F8",
+      "alternatives": []
+    },
     "8407edcd05da483ce956": {
       "song_id": "8407edcd05da483ce956",
       "title": "MY HEART BELONGS TO DADDY",
@@ -12257,6 +12456,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "3Nx24VAjK6Q",
+      "alternatives": []
+    },
+    "844ef4ed989e12e8232e": {
+      "song_id": "844ef4ed989e12e8232e",
+      "title": "I DON'T MIND",
+      "artist": "LAURA ANGLADE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "T7pqUi2xxPQ",
       "alternatives": []
     },
     "84718d93e3e21590f6bb": {
@@ -14359,6 +14570,18 @@
       "youtube_video_id": "7aRNUsmfeck",
       "alternatives": []
     },
+    "9a7779c8e92745e31fe7": {
+      "song_id": "9a7779c8e92745e31fe7",
+      "title": "Car Wash",
+      "artist": "Rose Royce",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "PkxaunLybuM",
+      "alternatives": []
+    },
     "9afa7d1c3e45c0d898af": {
       "song_id": "9afa7d1c3e45c0d898af",
       "title": "YES I HAVE GHOSTS",
@@ -14645,6 +14868,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "oeAmlUXWTuQ",
+      "alternatives": []
+    },
+    "9dc9f6152d22a4acbc8d": {
+      "song_id": "9dc9f6152d22a4acbc8d",
+      "title": "BLUES FOR BARRY HARRIS",
+      "artist": "LAFAYETTE HARRIS, JR.",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "w2MVMFzbOwg",
       "alternatives": []
     },
     "9dd7aa4f47fa07b57091": {
@@ -15475,6 +15710,18 @@
       "youtube_video_id": "hCuMWrfXG4E",
       "alternatives": []
     },
+    "a62da64c3f7c4cfea604": {
+      "song_id": "a62da64c3f7c4cfea604",
+      "title": "HEY JOE",
+      "artist": "JOHNNY HALLYDAY",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "d7BUXNeAEYE",
+      "alternatives": []
+    },
     "a653db4e9205eb2766b4": {
       "song_id": "a653db4e9205eb2766b4",
       "title": "ZORBA THE GREEK",
@@ -15617,6 +15864,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "DvYca1DFTVI",
+      "alternatives": []
+    },
+    "a7c29e40f9b6940fac0f": {
+      "song_id": "a7c29e40f9b6940fac0f",
+      "title": "SUNSHINE DAY",
+      "artist": "OSIBISA",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "MeH3OdgGHso",
       "alternatives": []
     },
     "a7df130dea5ecd27a930": {
@@ -16001,6 +16260,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "iPwdrIu6W9Y",
+      "alternatives": []
+    },
+    "ab7f74729ee8ae038578": {
+      "song_id": "ab7f74729ee8ae038578",
+      "title": "STOP THIS WORLD",
+      "artist": "DIANA KRALL",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "GN0dT05gl30",
       "alternatives": []
     },
     "ab91c61ff7929aabcb06": {
@@ -16457,6 +16728,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "75wFi5IizQc",
+      "alternatives": []
+    },
+    "b0d2762d620e81e5458c": {
+      "song_id": "b0d2762d620e81e5458c",
+      "title": "CUT & REWIND",
+      "artist": "SAY SHE SHE",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "BN6LKjNwJPc",
       "alternatives": []
     },
     "b0d6543169f46c6be48c": {
@@ -16925,6 +17208,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Yc9PiGy_338",
+      "alternatives": []
+    },
+    "b6957965bc3cdee2419a": {
+      "song_id": "b6957965bc3cdee2419a",
+      "title": "SYMPHONY OF LOVE",
+      "artist": "FAIR CONTROL",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "JZLzk0eWUqk",
       "alternatives": []
     },
     "b6cb77d8633d3bce4318": {
@@ -17875,6 +18170,18 @@
       "youtube_video_id": "KU3EytVMUSM",
       "alternatives": []
     },
+    "c24d47885e83df60ca7c": {
+      "song_id": "c24d47885e83df60ca7c",
+      "title": "WHAT A SHAME",
+      "artist": "THE ROLLING STONES",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "EBMWcRKQRHc",
+      "alternatives": []
+    },
     "c25918e8b674b16c2d01": {
       "song_id": "c25918e8b674b16c2d01",
       "title": "LADY BIRD",
@@ -18149,6 +18456,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "d1acEVmnVhI",
+      "alternatives": []
+    },
+    "c548be5a2ff2825898b7": {
+      "song_id": "c548be5a2ff2825898b7",
+      "title": "SO IT BEGINS",
+      "artist": "GOGO PENGUIN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "2KUmF5dYJXM",
       "alternatives": []
     },
     "c54dfb2713087d3174c3": {
@@ -19314,6 +19633,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "etSbOs3aUqI",
+      "alternatives": []
+    },
+    "d26d0ef7bda6405c6daa": {
+      "song_id": "d26d0ef7bda6405c6daa",
+      "title": "AS THE FLOWERS TURN GREEN",
+      "artist": "KID LOCO",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "MhQzpakkY88",
       "alternatives": []
     },
     "d28def84878bad5f5fc5": {
@@ -20528,6 +20859,18 @@
       "youtube_video_id": "42R1aCIPJCY",
       "alternatives": []
     },
+    "dd7a5f6fd04ee5e6d0c6": {
+      "song_id": "dd7a5f6fd04ee5e6d0c6",
+      "title": "THE END",
+      "artist": "DAVID AND THE CITIZENS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "mD2Ep2_9Gxw",
+      "alternatives": []
+    },
     "dd9f0569402019c94bd9": {
       "song_id": "dd9f0569402019c94bd9",
       "title": "LOSE YOU",
@@ -21716,6 +22059,18 @@
       "youtube_video_id": "iOyleR-jQGk",
       "alternatives": []
     },
+    "e9f895fec3672c2b9846": {
+      "song_id": "e9f895fec3672c2b9846",
+      "title": "A DREAM OF YOU AND ME",
+      "artist": "FUTURE ISLANDS",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "3MrrVb_pf3w",
+      "alternatives": []
+    },
     "e9fadcde12fd0f08e124": {
       "song_id": "e9fadcde12fd0f08e124",
       "title": "LYDIA",
@@ -21750,6 +22105,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "-Z0UGGvb4sQ",
+      "alternatives": []
+    },
+    "ea6fd6b45ca093861548": {
+      "song_id": "ea6fd6b45ca093861548",
+      "title": "BLUES FUNCTION",
+      "artist": "JACKIE MCLEAN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "dnXB_FR00JA",
       "alternatives": []
     },
     "eaadfe8a765fae97c6b5": {
@@ -22676,6 +23043,18 @@
       "youtube_video_id": "eFE78WbrZjc",
       "alternatives": []
     },
+    "f62bd05699becbece167": {
+      "song_id": "f62bd05699becbece167",
+      "title": "Final Voyage",
+      "artist": "Sean Mason",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Q1x5QcIcYL4",
+      "alternatives": []
+    },
     "f643251cc9dec95daed9": {
       "song_id": "f643251cc9dec95daed9",
       "title": "WHAT DO I GET ?",
@@ -23106,6 +23485,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "lL8mUIBWVRY",
+      "alternatives": []
+    },
+    "fafac1d13717df34229f": {
+      "song_id": "fafac1d13717df34229f",
+      "title": "Bitter Taste",
+      "artist": "Billy Idol",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "pop punk",
+      "youtube_video_id": "AFj0qmBMBa4",
       "alternatives": []
     },
     "fafd8a011260a4d4ef3c": {
