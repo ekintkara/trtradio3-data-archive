@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-26T11:56:02.994018+00:00",
+  "generated_at": "2026-10-27T11:18:34.305841+00:00",
   "radio_id": "alemfm",
   "month": "2026-10",
   "episodes": {
@@ -87,6 +87,18 @@
       "date": "2026-10-04",
       "aired_at": "2026-10-04",
       "track_count": 33
+    },
+    "alemfm/fatih-yildirim-umut-bezgin-kafa-acan-uzman/2026-10-27": {
+      "episode_id": "alemfm/fatih-yildirim-umut-bezgin-kafa-acan-uzman/2026-10-27",
+      "radio_id": "alemfm",
+      "program_id": 12379,
+      "program_slug": "fatih-yildirim-umut-bezgin-kafa-acan-uzman",
+      "program_name": "Fatih Yıldırım & Umut Bezgin - Kafa Açan Uzman",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-27",
+      "aired_at": "2026-10-27",
+      "track_count": 17
     },
     "alemfm/fatih-yildirim-umut-bezgin-kafa-acan-uzman/2026-10-26": {
       "episode_id": "alemfm/fatih-yildirim-umut-bezgin-kafa-acan-uzman/2026-10-26",
@@ -351,6 +363,18 @@
       "date": "2026-10-03",
       "aired_at": "2026-10-03",
       "track_count": 211
+    },
+    "alemfm/alemin-en-iyileri/2026-10-27": {
+      "episode_id": "alemfm/alemin-en-iyileri/2026-10-27",
+      "radio_id": "alemfm",
+      "program_id": 12380,
+      "program_slug": "alemin-en-iyileri",
+      "program_name": "Alem’in En İyileri",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-27",
+      "aired_at": "2026-10-27",
+      "track_count": 71
     },
     "alemfm/alemin-en-iyileri/2026-10-26": {
       "episode_id": "alemfm/alemin-en-iyileri/2026-10-26",
