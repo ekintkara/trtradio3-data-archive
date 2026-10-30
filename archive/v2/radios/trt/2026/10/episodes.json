@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-29T12:00:10.488897+00:00",
+  "generated_at": "2026-10-30T11:54:18.706635+00:00",
   "radio_id": "trt",
   "month": "2026-10",
   "episodes": {
@@ -87,6 +87,18 @@
       "date": "2026-10-04",
       "aired_at": "2026-10-04",
       "track_count": 3
+    },
+    "trt/yorumlar-yorumcular/2026-10-30": {
+      "episode_id": "trt/yorumlar-yorumcular/2026-10-30",
+      "radio_id": "trt",
+      "program_id": -29251,
+      "program_slug": "yorumlar-yorumcular",
+      "program_name": "Yorumlar Yorumcular",
+      "program_start_time": "14:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-30",
+      "aired_at": "2026-10-30",
+      "track_count": 0
     },
     "trt/yorumlar-yorumcular/2026-10-09": {
       "episode_id": "trt/yorumlar-yorumcular/2026-10-09",
@@ -364,6 +376,18 @@
       "aired_at": "2026-10-10",
       "track_count": 0
     },
+    "trt/sakli-notalar/2026-10-30": {
+      "episode_id": "trt/sakli-notalar/2026-10-30",
+      "radio_id": "trt",
+      "program_id": -24156,
+      "program_slug": "sakli-notalar",
+      "program_name": "Saklı Notalar",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-30",
+      "aired_at": "2026-10-30",
+      "track_count": 3
+    },
     "trt/sakli-notalar/2026-10-23": {
       "episode_id": "trt/sakli-notalar/2026-10-23",
       "radio_id": "trt",
@@ -435,6 +459,18 @@
       "date": "2026-10-01",
       "aired_at": "2026-10-01",
       "track_count": 0
+    },
+    "trt/radyo-3-sabah/2026-10-30": {
+      "episode_id": "trt/radyo-3-sabah/2026-10-30",
+      "radio_id": "trt",
+      "program_id": -35607,
+      "program_slug": "radyo-3-sabah",
+      "program_name": "Radyo 3 Sabah",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-30",
+      "aired_at": "2026-10-30",
+      "track_count": 7
     },
     "trt/radyo-3-sabah/2026-10-29": {
       "episode_id": "trt/radyo-3-sabah/2026-10-29",
@@ -1348,6 +1384,18 @@
       "aired_at": "2026-10-04",
       "track_count": 8
     },
+    "trt/maestronun-gunlugu/2026-10-30": {
+      "episode_id": "trt/maestronun-gunlugu/2026-10-30",
+      "radio_id": "trt",
+      "program_id": -95249,
+      "program_slug": "maestronun-gunlugu",
+      "program_name": "Maestro'nun Günlüğü",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-30",
+      "aired_at": "2026-10-30",
+      "track_count": 2
+    },
     "trt/maestronun-gunlugu/2026-10-23": {
       "episode_id": "trt/maestronun-gunlugu/2026-10-23",
       "radio_id": "trt",
@@ -1442,6 +1490,18 @@
       "recording_start_offset_sec": 0.0,
       "date": "2026-10-03",
       "aired_at": "2026-10-03",
+      "track_count": 2
+    },
+    "trt/klasik-muzikle-dunya-turu/2026-10-30": {
+      "episode_id": "trt/klasik-muzikle-dunya-turu/2026-10-30",
+      "radio_id": "trt",
+      "program_id": -78904,
+      "program_slug": "klasik-muzikle-dunya-turu",
+      "program_name": "Klasik Müzikle Dünya Turu",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-30",
+      "aired_at": "2026-10-30",
       "track_count": 2
     },
     "trt/klasik-muzikle-dunya-turu/2026-10-23": {
@@ -1551,6 +1611,18 @@
       "date": "2026-10-12",
       "aired_at": "2026-10-12",
       "track_count": 9
+    },
+    "trt/iklimlere-yolculuk/2026-10-30": {
+      "episode_id": "trt/iklimlere-yolculuk/2026-10-30",
+      "radio_id": "trt",
+      "program_id": -74699,
+      "program_slug": "iklimlere-yolculuk",
+      "program_name": "İklimlere Yolculuk",
+      "program_start_time": "12:05",
+      "recording_start_offset_sec": 3120.0,
+      "date": "2026-10-30",
+      "aired_at": "2026-10-30",
+      "track_count": 1
     },
     "trt/iklimlere-yolculuk/2026-10-23": {
       "episode_id": "trt/iklimlere-yolculuk/2026-10-23",
@@ -1743,6 +1815,18 @@
       "date": "2026-10-03",
       "aired_at": "2026-10-03",
       "track_count": 4
+    },
+    "trt/gece-ve-muzik/2026-10-30": {
+      "episode_id": "trt/gece-ve-muzik/2026-10-30",
+      "radio_id": "trt",
+      "program_id": -71341,
+      "program_slug": "gece-ve-muzik",
+      "program_name": "Gece ve Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 120.0,
+      "date": "2026-10-30",
+      "aired_at": "2026-10-30",
+      "track_count": 15
     },
     "trt/gece-ve-muzik/2026-10-29": {
       "episode_id": "trt/gece-ve-muzik/2026-10-29",
@@ -2152,6 +2236,18 @@
       "aired_at": "2026-10-01",
       "track_count": 5
     },
+    "trt/ebu-euroclassic-notturno/2026-10-30": {
+      "episode_id": "trt/ebu-euroclassic-notturno/2026-10-30",
+      "radio_id": "trt",
+      "program_id": -35522,
+      "program_slug": "ebu-euroclassic-notturno",
+      "program_name": "Ebu Euroclassıc Notturno",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-30",
+      "aired_at": "2026-10-30",
+      "track_count": 28
+    },
     "trt/ebu-euroclassic-notturno/2026-10-29": {
       "episode_id": "trt/ebu-euroclassic-notturno/2026-10-29",
       "radio_id": "trt",
@@ -2547,6 +2643,18 @@
       "date": "2026-10-05",
       "aired_at": "2026-10-05",
       "track_count": 2
+    },
+    "trt/dunya-sahne-ve-studyolarindan/2026-10-30": {
+      "episode_id": "trt/dunya-sahne-ve-studyolarindan/2026-10-30",
+      "radio_id": "trt",
+      "program_id": -61363,
+      "program_slug": "dunya-sahne-ve-studyolarindan",
+      "program_name": "Dünya Sahne Ve Stüdyolarından",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-30",
+      "aired_at": "2026-10-30",
+      "track_count": 9
     },
     "trt/dunya-sahne-ve-studyolarindan/2026-10-23": {
       "episode_id": "trt/dunya-sahne-ve-studyolarindan/2026-10-23",
@@ -3015,6 +3123,18 @@
       "date": "2026-10-13",
       "aired_at": "2026-10-13",
       "track_count": 8
+    },
+    "trt/adagiodan-prestoya/2026-10-30": {
+      "episode_id": "trt/adagiodan-prestoya/2026-10-30",
+      "radio_id": "trt",
+      "program_id": 1769,
+      "program_slug": "adagiodan-prestoya",
+      "program_name": "Adagio’dan Presto’ya",
+      "program_start_time": "14:30",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-30",
+      "aired_at": "2026-10-30",
+      "track_count": 0
     },
     "trt/acik-yesil/2026-10-07": {
       "episode_id": "trt/acik-yesil/2026-10-07",

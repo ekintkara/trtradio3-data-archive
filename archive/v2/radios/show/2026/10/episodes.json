@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-29T12:00:10.488897+00:00",
+  "generated_at": "2026-10-30T11:54:18.706635+00:00",
   "radio_id": "show",
   "month": "2026-10",
   "episodes": {
+    "show/show-radyoda-yeni-gun/2026-10-30": {
+      "episode_id": "show/show-radyoda-yeni-gun/2026-10-30",
+      "radio_id": "show",
+      "program_id": 13074,
+      "program_slug": "show-radyoda-yeni-gun",
+      "program_name": "Show Radyo'da Yeni Gün",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-30",
+      "aired_at": "2026-10-30",
+      "track_count": 41
+    },
     "show/show-radyoda-yeni-gun/2026-10-29": {
       "episode_id": "show/show-radyoda-yeni-gun/2026-10-29",
       "radio_id": "show",
@@ -255,6 +267,18 @@
       "date": "2026-10-01",
       "aired_at": "2026-10-01",
       "track_count": 45
+    },
+    "show/muzik-show/2026-10-30": {
+      "episode_id": "show/muzik-show/2026-10-30",
+      "radio_id": "show",
+      "program_id": 13073,
+      "program_slug": "muzik-show",
+      "program_name": "Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 120.0,
+      "date": "2026-10-30",
+      "aired_at": "2026-10-30",
+      "track_count": 148
     },
     "show/muzik-show/2026-10-29": {
       "episode_id": "show/muzik-show/2026-10-29",
@@ -567,6 +591,18 @@
       "date": "2026-10-01",
       "aired_at": "2026-10-01",
       "track_count": 209
+    },
+    "show/hit-muzik/2026-10-30": {
+      "episode_id": "show/hit-muzik/2026-10-30",
+      "radio_id": "show",
+      "program_id": 13075,
+      "program_slug": "hit-muzik",
+      "program_name": "Hit Müzik",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-30",
+      "aired_at": "2026-10-30",
+      "track_count": 96
     },
     "show/hit-muzik/2026-10-29": {
       "episode_id": "show/hit-muzik/2026-10-29",
@@ -903,6 +939,18 @@
       "date": "2026-10-01",
       "aired_at": "2026-10-01",
       "track_count": 1
+    },
+    "show/gunun-en-iyileri/2026-10-30": {
+      "episode_id": "show/gunun-en-iyileri/2026-10-30",
+      "radio_id": "show",
+      "program_id": 13076,
+      "program_slug": "gunun-en-iyileri",
+      "program_name": "Günün En İyileri",
+      "program_start_time": "14:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-30",
+      "aired_at": "2026-10-30",
+      "track_count": 20
     },
     "show/gunun-en-iyileri/2026-10-29": {
       "episode_id": "show/gunun-en-iyileri/2026-10-29",
