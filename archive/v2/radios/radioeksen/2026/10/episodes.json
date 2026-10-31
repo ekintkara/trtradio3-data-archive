@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-30T11:54:18.706635+00:00",
+  "generated_at": "2026-10-31T11:27:36.712801+00:00",
   "radio_id": "radioeksen",
   "month": "2026-10",
   "episodes": {
+    "radioeksen/radyo-eksen--oldies/2026-10-31": {
+      "episode_id": "radioeksen/radyo-eksen--oldies/2026-10-31",
+      "radio_id": "radioeksen",
+      "program_id": -27441,
+      "program_slug": "radyo-eksen--oldies",
+      "program_name": "RADYO EKSEN -OLDIES",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-31",
+      "aired_at": "2026-10-31",
+      "track_count": 52
+    },
     "radioeksen/radyo-eksen--oldies/2026-10-24": {
       "episode_id": "radioeksen/radyo-eksen--oldies/2026-10-24",
       "radio_id": "radioeksen",
@@ -676,6 +688,18 @@
       "aired_at": "2026-10-01",
       "track_count": 30
     },
+    "radioeksen/eksen-muzik/2026-10-31": {
+      "episode_id": "radioeksen/eksen-muzik/2026-10-31",
+      "radio_id": "radioeksen",
+      "program_id": -51370,
+      "program_slug": "eksen-muzik",
+      "program_name": "Eksen Müzik",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-31",
+      "aired_at": "2026-10-31",
+      "track_count": 1
+    },
     "radioeksen/eksen-muzik/2026-10-30": {
       "episode_id": "radioeksen/eksen-muzik/2026-10-30",
       "radio_id": "radioeksen",
@@ -1035,6 +1059,18 @@
       "date": "2026-10-01",
       "aired_at": "2026-10-01",
       "track_count": 18
+    },
+    "radioeksen/aytun---tchibo-gold-selection-ile-keyifli-bir-mola/2026-10-31": {
+      "episode_id": "radioeksen/aytun---tchibo-gold-selection-ile-keyifli-bir-mola/2026-10-31",
+      "radio_id": "radioeksen",
+      "program_id": -31454,
+      "program_slug": "aytun---tchibo-gold-selection-ile-keyifli-bir-mola",
+      "program_name": "AYTUN - TCHIBO GOLD SELECTION İLE KEYİFLİ BİR MOLA",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-10-31",
+      "aired_at": "2026-10-31",
+      "track_count": 2
     },
     "radioeksen/aytun---tchibo-gold-selection-ile-keyifli-bir-mola/2026-10-24": {
       "episode_id": "radioeksen/aytun---tchibo-gold-selection-ile-keyifli-bir-mola/2026-10-24",
