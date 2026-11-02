@@ -1,9 +1,45 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-01T12:22:58.064053+00:00",
+  "generated_at": "2026-11-02T14:17:17.821560+00:00",
   "radio_id": "standardfm",
   "month": "2026-11",
   "songs": {
+    "0051c9d039b107e67751": {
+      "song_id": "0051c9d039b107e67751",
+      "title": "Hi Ho Silver Lining",
+      "artist": "Jeff Beck",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "rb-bKKRl_hw",
+      "alternatives": []
+    },
+    "00bc7d95a308ba67ca65": {
+      "song_id": "00bc7d95a308ba67ca65",
+      "title": "This Is Not America (with Pat Metheny Group)",
+      "artist": "David Bowie",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ubc3o2KZA4w",
+      "alternatives": []
+    },
+    "0170c64c84a5ff370537": {
+      "song_id": "0170c64c84a5ff370537",
+      "title": "What It's Like",
+      "artist": "Everlast",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "qA1nGPM9yHA",
+      "alternatives": []
+    },
     "022c4bc7c6b1aecbe146": {
       "song_id": "022c4bc7c6b1aecbe146",
       "title": "Fresh",
@@ -28,6 +64,18 @@
       "youtube_video_id": "YSuHrTfcikU",
       "alternatives": []
     },
+    "02e56317007c92d1a405": {
+      "song_id": "02e56317007c92d1a405",
+      "title": "Communication Creeping",
+      "artist": "Foxy Dolls",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "59d-hGVG88k",
+      "alternatives": []
+    },
     "042bb0eda7ef005be7a6": {
       "song_id": "042bb0eda7ef005be7a6",
       "title": "Blue Spotted Tail",
@@ -38,6 +86,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Cg5X4CUYVdo",
+      "alternatives": []
+    },
+    "042bf0b8f7062939c505": {
+      "song_id": "042bf0b8f7062939c505",
+      "title": "The Autumn Stone",
+      "artist": "Small Faces",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "82GxBDHYi7I",
       "alternatives": []
     },
     "04c2d760b6fb2f44f0ab": {
@@ -62,6 +122,54 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "o52frxSBt-I",
+      "alternatives": []
+    },
+    "064e0bde3bdcf35ac3a8": {
+      "song_id": "064e0bde3bdcf35ac3a8",
+      "title": "October Love Song (Chris & Cosey Cover)",
+      "artist": "Rework",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "9AkUS_q4b3E",
+      "alternatives": []
+    },
+    "069bb0312f6f77341351": {
+      "song_id": "069bb0312f6f77341351",
+      "title": "Mihrimah",
+      "artist": "Nur Yoldas",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "a4pQirkUv6k",
+      "alternatives": []
+    },
+    "06c5ae8579d045d8e6ba": {
+      "song_id": "06c5ae8579d045d8e6ba",
+      "title": "Don't Turn Around (Karaoke-Version) As Made Famous By: Ace Of Base",
+      "artist": "Studio Group",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ujMQXpuqUKw",
+      "alternatives": []
+    },
+    "070feeffe3c270215814": {
+      "song_id": "070feeffe3c270215814",
+      "title": "Simple Man",
+      "artist": "Lynyrd Skynyrd",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "southern rock",
+      "youtube_video_id": "8eNoms9wsGc",
       "alternatives": []
     },
     "0715ff96ec3a43281fa4": {
@@ -124,6 +232,26 @@
       "youtube_video_id": "Ed1tv_gCOUA",
       "alternatives": []
     },
+    "0b56b3bba714868b889a": {
+      "song_id": "0b56b3bba714868b889a",
+      "title": "Penthouse Samba",
+      "artist": "Marina Zispin",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "UeQd36-rJRE",
+      "alternatives": [
+        {
+          "source": "audd",
+          "title": "Penthouse Samba",
+          "artist": "Marina Zispin, Bianca Scout, Martyn Reid",
+          "confidence": 0.85,
+          "album": "Penthouse Samba"
+        }
+      ]
+    },
     "0b680d46ac4999f92c80": {
       "song_id": "0b680d46ac4999f92c80",
       "title": "Wave of Mutilation",
@@ -160,6 +288,30 @@
       "youtube_video_id": "oqVVhTzcwwY",
       "alternatives": []
     },
+    "0fb1621cdc97cde3e95b": {
+      "song_id": "0fb1621cdc97cde3e95b",
+      "title": "Crimson and Clover",
+      "artist": "Tommy James & The Shondells",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "XS0niyiKlcw",
+      "alternatives": []
+    },
+    "1007c48c1c92393560cc": {
+      "song_id": "1007c48c1c92393560cc",
+      "title": "La Petite Fille De La Mer (Remastered)",
+      "artist": "Vangelis",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "TkGALUCgEw0",
+      "alternatives": []
+    },
     "101e49ce73286acb8d63": {
       "song_id": "101e49ce73286acb8d63",
       "title": "Ponta de Lanca Africano",
@@ -170,6 +322,42 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "lp9uZKy6H7Y",
+      "alternatives": []
+    },
+    "103c1f534be49fcbdc03": {
+      "song_id": "103c1f534be49fcbdc03",
+      "title": "Tomorrow Started (1997 Digital Remaster)",
+      "artist": "Talk Talk",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "F5s0oynBz7M",
+      "alternatives": []
+    },
+    "106eaa081fb6fc18351d": {
+      "song_id": "106eaa081fb6fc18351d",
+      "title": "New Gold Dream (81/82/83/84) [7\" Mix]",
+      "artist": "Simple Minds",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "new wave; rock; pop",
+      "youtube_video_id": "AnFzpYy_3vE",
+      "alternatives": []
+    },
+    "1491f2a7efaf93234dad": {
+      "song_id": "1491f2a7efaf93234dad",
+      "title": "To Love Somebody",
+      "artist": "Bee Gees",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "DWJWWHCFPbE",
       "alternatives": []
     },
     "149c2883841d273dc2af": {
@@ -184,6 +372,90 @@
       "youtube_video_id": "dAEntZxWP-Y",
       "alternatives": []
     },
+    "1570717b9029857d466c": {
+      "song_id": "1570717b9029857d466c",
+      "title": "Bang and Blame",
+      "artist": "R.E.M.",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "4cdZQ41rGAg",
+      "alternatives": []
+    },
+    "177220a69934968e3cea": {
+      "song_id": "177220a69934968e3cea",
+      "title": "Laguna Sunrise",
+      "artist": "Black Sabbath",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "hAEqXqTTRVc",
+      "alternatives": []
+    },
+    "17764b547c752c3c55e1": {
+      "song_id": "17764b547c752c3c55e1",
+      "title": "Run Free",
+      "artist": "Soulwax",
+      "album": "All Systems Are Lying / Run Free",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "SmBg0P079-U",
+      "alternatives": []
+    },
+    "17816fe016896a6f877e": {
+      "song_id": "17816fe016896a6f877e",
+      "title": "Little Fluffy Clouds",
+      "artist": "The Orb",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "2Ng9Pf_p7Fw",
+      "alternatives": []
+    },
+    "1791453b1b06d1e59874": {
+      "song_id": "1791453b1b06d1e59874",
+      "title": "Cosmic Journey Alpha",
+      "artist": "O&M Success Mastery",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "OV5ijFr_vFg",
+      "alternatives": []
+    },
+    "1860e4a8e31a9fd6a3b5": {
+      "song_id": "1860e4a8e31a9fd6a3b5",
+      "title": "Blue Sun Rise Mindful",
+      "artist": "SAANGO",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "k-DlbjTIc00",
+      "alternatives": []
+    },
+    "18f3011c7dc5af90ee88": {
+      "song_id": "18f3011c7dc5af90ee88",
+      "title": "Pineapple Island",
+      "artist": "Raf Reza",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "d8ltSdRqzNU",
+      "alternatives": []
+    },
     "1bace339cb711da32edd": {
       "song_id": "1bace339cb711da32edd",
       "title": "Whisky In the Jar (Full Length Version)",
@@ -194,6 +466,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Hg4dFKTLQyk",
+      "alternatives": []
+    },
+    "1c0e50730f017e25331e": {
+      "song_id": "1c0e50730f017e25331e",
+      "title": "Little Piece of Leather",
+      "artist": "Donnie Elbert",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "_iOIjBrsQ8U",
       "alternatives": []
     },
     "1dfd891c582eef4bfcec": {
@@ -208,6 +492,66 @@
       "youtube_video_id": "oecHq2neweA",
       "alternatives": []
     },
+    "1e2dd4cca1f73bf70a0e": {
+      "song_id": "1e2dd4cca1f73bf70a0e",
+      "title": "Concerto pour piano No. 1 in B-Flat Minor, Op. 23: III. Allegro con fuoco",
+      "artist": "Sviatoslav Richter, Eugène Mravinski & Saint Petersburg Philharmonic Orchestra",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "KzgX22hgR88",
+      "alternatives": []
+    },
+    "21025184b9bbb0c2a469": {
+      "song_id": "21025184b9bbb0c2a469",
+      "title": "Transmission (Armin van Buuren Remix)",
+      "artist": "Eelke Kleijn",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "B1JOlfzTSMo",
+      "alternatives": []
+    },
+    "220bcfe2f0137f76539c": {
+      "song_id": "220bcfe2f0137f76539c",
+      "title": "Taxes",
+      "artist": "Geese",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Phh3oVCtzBg",
+      "alternatives": []
+    },
+    "220ff204b99f2edd8f00": {
+      "song_id": "220ff204b99f2edd8f00",
+      "title": "Sleeping Pills",
+      "artist": "Suede",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "2e5N0tn1-7s",
+      "alternatives": []
+    },
+    "224cce8bf7111ade9543": {
+      "song_id": "224cce8bf7111ade9543",
+      "title": "Sidelines",
+      "artist": "Phoebe Bridgers",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "RtOYYp010lA",
+      "alternatives": []
+    },
     "22734345c9f2990f34ac": {
       "song_id": "22734345c9f2990f34ac",
       "title": "San Tropez",
@@ -218,6 +562,18 @@
       "mbid": "",
       "genre": "progressive rock; rock; classic rock",
       "youtube_video_id": "mjNYO-OI2Fo",
+      "alternatives": []
+    },
+    "23d11ab98a69a6a4ec8f": {
+      "song_id": "23d11ab98a69a6a4ec8f",
+      "title": "Snares",
+      "artist": "bdrmm",
+      "album": "Microtonic",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; electronic; downtempo",
+      "youtube_video_id": "13dAbgItoaE",
       "alternatives": []
     },
     "241c5cff9c0a1f19372d": {
@@ -238,6 +594,18 @@
           "confidence": 0.7
         }
       ]
+    },
+    "249a4b1a2d491dcf2626": {
+      "song_id": "249a4b1a2d491dcf2626",
+      "title": "SUGAR KANE",
+      "artist": "SONIC YOUTH",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "RIIEbrMXs20",
+      "alternatives": []
     },
     "25818d7edf4dec51918a": {
       "song_id": "25818d7edf4dec51918a",
@@ -261,6 +629,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Pg3NWYsY4xQ",
+      "alternatives": []
+    },
+    "269f2cf852d2e410f8a9": {
+      "song_id": "269f2cf852d2e410f8a9",
+      "title": "Possibly Maybe",
+      "artist": "Björk",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "iyqKy5P1Y0Q",
       "alternatives": []
     },
     "278037ba2a5a902d3597": {
@@ -299,6 +679,18 @@
       "youtube_video_id": "OIStwWWu7rI",
       "alternatives": []
     },
+    "299c809ad8dcf17739ae": {
+      "song_id": "299c809ad8dcf17739ae",
+      "title": "Yüce Dağ Başında",
+      "artist": "Selda Bağcan",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "5PsNPsBKrwo",
+      "alternatives": []
+    },
     "29bd34cc8cbf0390db40": {
       "song_id": "29bd34cc8cbf0390db40",
       "title": "Bubble Gum (Mini Mouse Edit)",
@@ -311,6 +703,30 @@
       "youtube_video_id": "eBnmTRSq0DY",
       "alternatives": []
     },
+    "2b512a76556e2574b137": {
+      "song_id": "2b512a76556e2574b137",
+      "title": "Ascension (Radio Edit)",
+      "artist": "Atragun & Second Mars",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "5Izvl1Zfwsc",
+      "alternatives": []
+    },
+    "2bea5f7e9e8d21f93b99": {
+      "song_id": "2bea5f7e9e8d21f93b99",
+      "title": "Penguin",
+      "artist": "Okay Temiz",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "MDwsXOwQP2U",
+      "alternatives": []
+    },
     "2c88c620506c3cf517a1": {
       "song_id": "2c88c620506c3cf517a1",
       "title": "BIRDS OF A FEATHER",
@@ -321,6 +737,42 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "V9PVRfjEBTI",
+      "alternatives": []
+    },
+    "2d698c40a2dd85ff1ec1": {
+      "song_id": "2d698c40a2dd85ff1ec1",
+      "title": "As Tears Go By",
+      "artist": "Marianne Faithfull",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "blues rock; rock; pop",
+      "youtube_video_id": "-efIjZ_1yQg",
+      "alternatives": []
+    },
+    "2e83a4dd5e93efbbd9f3": {
+      "song_id": "2e83a4dd5e93efbbd9f3",
+      "title": "Hungry Heart",
+      "artist": "Bruce Springsteen",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock",
+      "youtube_video_id": "boJhWtw-6Gg",
+      "alternatives": []
+    },
+    "2e8f9c710214e7cded09": {
+      "song_id": "2e8f9c710214e7cded09",
+      "title": "News",
+      "artist": "Dire Straits",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "_KWwvI83-fI",
       "alternatives": []
     },
     "2f66687df2ea49cf26ac": {
@@ -347,6 +799,30 @@
       "youtube_video_id": "0j6-HYjH_Yc",
       "alternatives": []
     },
+    "30fa9c3c7658524e1900": {
+      "song_id": "30fa9c3c7658524e1900",
+      "title": "The Mainline Song / The Lockdown Song",
+      "artist": "Spiritualized",
+      "album": "The Mainline Song / The Lockdown Song",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "hze3Su59kFE",
+      "alternatives": []
+    },
+    "310d5c4657b885a018ac": {
+      "song_id": "310d5c4657b885a018ac",
+      "title": "Falle Le Le Le",
+      "artist": "Falle Nioke",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "sNL1dR34o48",
+      "alternatives": []
+    },
     "3112ca4bc9e6c210a42f": {
       "song_id": "3112ca4bc9e6c210a42f",
       "title": "I Want Your Love",
@@ -369,6 +845,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "CpbI5JxkSR0",
+      "alternatives": []
+    },
+    "350b534e1c4f1c9ce24f": {
+      "song_id": "350b534e1c4f1c9ce24f",
+      "title": "Have You Ever Been Away",
+      "artist": "The Beautiful South",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "pop; alternative and punk; rock",
+      "youtube_video_id": "JPBwzOCpz74",
       "alternatives": []
     },
     "35645c463b244e733ac1": {
@@ -400,6 +888,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "TPbXnwkiTF4",
+      "alternatives": []
+    },
+    "361d969769257181d72b": {
+      "song_id": "361d969769257181d72b",
+      "title": "Ambre",
+      "artist": "Nils Frahm",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "ambient; classical; modern classical",
+      "youtube_video_id": "h2I49P19vTY",
+      "alternatives": []
+    },
+    "3754dc4a40b6da70ac0a": {
+      "song_id": "3754dc4a40b6da70ac0a",
+      "title": "True Colors",
+      "artist": "Cyndi Lauper",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "LPn0KFlbqX8",
       "alternatives": []
     },
     "37db187b9dd346e90a9c": {
@@ -438,6 +950,30 @@
       "youtube_video_id": "aovWL_qMHV0",
       "alternatives": []
     },
+    "3a3d03c662db5611e4de": {
+      "song_id": "3a3d03c662db5611e4de",
+      "title": "BICYCLE RACE",
+      "artist": "QUEEN",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "hard rock; classic rock; rock",
+      "youtube_video_id": "xt0V0_1MS0Q",
+      "alternatives": []
+    },
+    "3a4587bfd35f9e45307d": {
+      "song_id": "3a4587bfd35f9e45307d",
+      "title": "Silly Billy",
+      "artist": "Mary Elliott",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "UCUOtvE_o38",
+      "alternatives": []
+    },
     "3a65bd2f533665e5b696": {
       "song_id": "3a65bd2f533665e5b696",
       "title": "Scenario",
@@ -448,6 +984,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Q6TLWqn82J4",
+      "alternatives": []
+    },
+    "3ca1886475b0ca965966": {
+      "song_id": "3ca1886475b0ca965966",
+      "title": "Pop Oud #2",
+      "artist": "Les Dynamites",
+      "album": "Middle Eastern Grooves (Selected by DJ Kobayashi)",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Rl5RgGXvgS0",
       "alternatives": []
     },
     "3d09fd3fdfc48ce74720": {
@@ -462,6 +1010,30 @@
       "youtube_video_id": "xsN47CT4uTE",
       "alternatives": []
     },
+    "3e15622e685c5445275e": {
+      "song_id": "3e15622e685c5445275e",
+      "title": "I'm So Lonesome I Could Cry",
+      "artist": "Hank Williams",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "4WXYjm74WFI",
+      "alternatives": []
+    },
+    "3e47ffb3e64d37432863": {
+      "song_id": "3e47ffb3e64d37432863",
+      "title": "Caught In the Rain",
+      "artist": "Preston School of Industry",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; indie rock",
+      "youtube_video_id": "Ec_uqUgvb4M",
+      "alternatives": []
+    },
     "41b66458a63454f9bfd2": {
       "song_id": "41b66458a63454f9bfd2",
       "title": "Cicogna",
@@ -472,6 +1044,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "pGPlcTmN3cg",
+      "alternatives": []
+    },
+    "41e5eb0a8dece266b8fe": {
+      "song_id": "41e5eb0a8dece266b8fe",
+      "title": "Electroshock (Michael Urgacz Midnight Shock)",
+      "artist": "Michael Urgacz",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "u6Ym4--QOmk",
       "alternatives": []
     },
     "430644746731224f3bd4": {
@@ -496,6 +1080,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "yWeuUwpEQfs",
+      "alternatives": []
+    },
+    "43c0f1efccc65655a880": {
+      "song_id": "43c0f1efccc65655a880",
+      "title": "Jungle (feat. Dfonq)",
+      "artist": "Tuff We Tuff",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "lhQOddcIeUo",
       "alternatives": []
     },
     "44b1bd7632e4dbcb6214": {
@@ -534,6 +1130,37 @@
       "youtube_video_id": "7B3g1ovVQzc",
       "alternatives": []
     },
+    "45b535313d12187384ab": {
+      "song_id": "45b535313d12187384ab",
+      "title": "White Flag",
+      "artist": "Vince Staples",
+      "album": "Cry Baby",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "uYU1J7QszpU",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "The Worker",
+          "artist": "Fischer-Z",
+          "confidence": 0.7
+        }
+      ]
+    },
+    "463e2c905da7754c4d85": {
+      "song_id": "463e2c905da7754c4d85",
+      "title": "Broken Stones",
+      "artist": "Paul Weller",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "N_M8m4Yr7vc",
+      "alternatives": []
+    },
     "46b631717a587c478a71": {
       "song_id": "46b631717a587c478a71",
       "title": "Venus as a Boy",
@@ -553,6 +1180,30 @@
           "album": "Venus as a Boy"
         }
       ]
+    },
+    "46c2c29a2d34ed1a6454": {
+      "song_id": "46c2c29a2d34ed1a6454",
+      "title": "Dry Spell",
+      "artist": "Kacey Musgraves",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "country pop; contemporary country; billboard hot 100",
+      "youtube_video_id": "NlohfwTunwU",
+      "alternatives": []
+    },
+    "478d832c45e019f7c88b": {
+      "song_id": "478d832c45e019f7c88b",
+      "title": "Dat Dere",
+      "artist": "Art Blakey & The Jazz Messengers",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "_3vpiTgG59A",
+      "alternatives": []
     },
     "487cce11020ce01706eb": {
       "song_id": "487cce11020ce01706eb",
@@ -614,6 +1265,18 @@
       "youtube_video_id": "3_EvOa_A7-Y",
       "alternatives": []
     },
+    "4cfb046bbd4f826ff4c4": {
+      "song_id": "4cfb046bbd4f826ff4c4",
+      "title": "23",
+      "artist": "Blonde Redhead",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; indie rock; indie",
+      "youtube_video_id": "a7FqUNlEdwA",
+      "alternatives": []
+    },
     "4d026823ae421dfbd0a2": {
       "song_id": "4d026823ae421dfbd0a2",
       "title": "Boundless Energy",
@@ -624,6 +1287,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "T0BkJn-sMK8",
+      "alternatives": []
+    },
+    "4d59da48fac27ec7643d": {
+      "song_id": "4d59da48fac27ec7643d",
+      "title": "Hey Gidi Dünya Hey",
+      "artist": "Ali Kocatepe",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "QvlOcUpz-2Y",
       "alternatives": []
     },
     "4d69a466bd731f738d2e": {
@@ -648,6 +1323,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "6Y1Emb7Jyks",
+      "alternatives": []
+    },
+    "4e337595f3788386f1cd": {
+      "song_id": "4e337595f3788386f1cd",
+      "title": "A Method",
+      "artist": "TV on the Radio",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "indie; rock; experimental",
+      "youtube_video_id": "NhvI7iuzMWE",
       "alternatives": []
     },
     "4e4563d0b07ae4aee6e8": {
@@ -675,6 +1362,38 @@
         }
       ]
     },
+    "4fc1aaeba08b08c8527f": {
+      "song_id": "4fc1aaeba08b08c8527f",
+      "title": "Black James Dean",
+      "artist": "Pigeon",
+      "album": "OUTTANATIONAL",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "jVRSopKWirw",
+      "alternatives": [
+        {
+          "source": "audd",
+          "title": "Hocus Pocus",
+          "artist": "Focus",
+          "confidence": 0.85,
+          "album": "Baby Driver (Music from the Motion Picture)"
+        }
+      ]
+    },
+    "50b8081bfc63c6c7317a": {
+      "song_id": "50b8081bfc63c6c7317a",
+      "title": "Set the Controls for the Heart of the Sun",
+      "artist": "Pink Floyd",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "JcfgJrHo9XA",
+      "alternatives": []
+    },
     "512189af6e94a34e8a7e": {
       "song_id": "512189af6e94a34e8a7e",
       "title": "Playground",
@@ -685,6 +1404,42 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "g_ICWul5hqQ",
+      "alternatives": []
+    },
+    "519aa2df198f1d238bd1": {
+      "song_id": "519aa2df198f1d238bd1",
+      "title": "Dreams",
+      "artist": "Fleetwood Mac",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Y3ywicffOj4",
+      "alternatives": []
+    },
+    "52023c86a36a1d3b82e8": {
+      "song_id": "52023c86a36a1d3b82e8",
+      "title": "Insects Are All Around Us",
+      "artist": "Money Mark",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "bqnHFCUhRBs",
+      "alternatives": []
+    },
+    "5206cdee1824f38a2bbc": {
+      "song_id": "5206cdee1824f38a2bbc",
+      "title": "Starting over (Originally Performed by Chris Stapleton) [Karaoke Version]",
+      "artist": "Kara Okee",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "5L7CwtssRRY",
       "alternatives": []
     },
     "521760a05eb802ee5f73": {
@@ -699,6 +1454,54 @@
       "youtube_video_id": "37Y1j_OC6x0",
       "alternatives": []
     },
+    "53e2ce20ab250559e760": {
+      "song_id": "53e2ce20ab250559e760",
+      "title": "Blue Flower",
+      "artist": "Mazzy Star",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "0J1LV5R2ryY",
+      "alternatives": []
+    },
+    "547d425c87b1ead07f9b": {
+      "song_id": "547d425c87b1ead07f9b",
+      "title": "Wind of Change",
+      "artist": "Scorpions",
+      "album": "Comeblack",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "n4RjJKxsamQ",
+      "alternatives": []
+    },
+    "54eb896e94f9dd229edc": {
+      "song_id": "54eb896e94f9dd229edc",
+      "title": "Step Softly",
+      "artist": "Bobby Ellis",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "v-KishlUwbM",
+      "alternatives": []
+    },
+    "5533ce65b4628e2ec992": {
+      "song_id": "5533ce65b4628e2ec992",
+      "title": "Toca's Miracle (2008 Inpetto Radio Mix)",
+      "artist": "Fragma",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "puLMdXCiGhI",
+      "alternatives": []
+    },
     "5563ddc21661dda1ebf2": {
       "song_id": "5563ddc21661dda1ebf2",
       "title": "Annanas",
@@ -709,6 +1512,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "SefAL18PtvM",
+      "alternatives": []
+    },
+    "55d006b05abc87c406fb": {
+      "song_id": "55d006b05abc87c406fb",
+      "title": "Disco's Revenge (Mole Hole Dirty Mix)",
+      "artist": "Gusto",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "KZ7r2kyTfIU",
       "alternatives": []
     },
     "58ec00180e2e2dfbad0f": {
@@ -754,6 +1569,18 @@
       "youtube_video_id": "hVQ_DQHbKpk",
       "alternatives": []
     },
+    "5b262951bec6d410846b": {
+      "song_id": "5b262951bec6d410846b",
+      "title": "Jewel",
+      "artist": "Cranes",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "L8QE4k0T980",
+      "alternatives": []
+    },
     "5b2cce42eefeb179352c": {
       "song_id": "5b2cce42eefeb179352c",
       "title": "Do You Wanna Get Funky With Me (Long Version)",
@@ -790,6 +1617,18 @@
       "youtube_video_id": "zp32JdgG6hg",
       "alternatives": []
     },
+    "5d1c20becc4ac40807f3": {
+      "song_id": "5d1c20becc4ac40807f3",
+      "title": "STRAWBERRY FIELDS FOREVER",
+      "artist": "THE BEATLES",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "HtUH9z_Oey8",
+      "alternatives": []
+    },
     "5dc9a2dc5e25718c1801": {
       "song_id": "5dc9a2dc5e25718c1801",
       "title": "For Whom the Bell Tolls (Remastered)",
@@ -822,6 +1661,18 @@
       "youtube_video_id": "ZUdJQSUcK_Y",
       "alternatives": []
     },
+    "5e70b516a2550e351445": {
+      "song_id": "5e70b516a2550e351445",
+      "title": "Piano Concerto No. 1 in B-Flat Minor, Op. 23: I. Allegro non troppo e molto Maestoso - Allegro con Spirito",
+      "artist": "Sviatoslav Richter, Herbert von Karajan & Vienna Symphony",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "uwjvGKnV3Os",
+      "alternatives": []
+    },
     "5efbdd3b23191daa0c52": {
       "song_id": "5efbdd3b23191daa0c52",
       "title": "Alex Descends Into Hell for a Bottle of Milk / Korova 1",
@@ -832,6 +1683,38 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "cHYR6ILiEMM",
+      "alternatives": []
+    },
+    "5f627e7acda94f1fd518": {
+      "song_id": "5f627e7acda94f1fd518",
+      "title": "Fly With Your Love (Edit Cut)",
+      "artist": "Fabio Martoglio",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "6_m9C6odvOg",
+      "alternatives": [
+        {
+          "source": "audd",
+          "title": "Mistaken Tourist",
+          "artist": "Minotaur Shock",
+          "confidence": 0.85,
+          "album": "Mistaken Tourist"
+        }
+      ]
+    },
+    "5f9c39b1f11a9679be6e": {
+      "song_id": "5f9c39b1f11a9679be6e",
+      "title": "Everyday Is Like Sunday",
+      "artist": "Morrissey",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "d0LeL9BUPtA",
       "alternatives": []
     },
     "5fd7031ba9d55eacd895": {
@@ -846,6 +1729,90 @@
       "youtube_video_id": "hI8A14Qcv68",
       "alternatives": []
     },
+    "621db97dc705f6493a61": {
+      "song_id": "621db97dc705f6493a61",
+      "title": "Soul journey",
+      "artist": "Blue Meditation Music",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "j8ylYMxZHZ0",
+      "alternatives": []
+    },
+    "6223fdddcbe7cc43a495": {
+      "song_id": "6223fdddcbe7cc43a495",
+      "title": "Make Me A Pallet On Your Floor",
+      "artist": "Mississippi John Hurt",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "qC18_XEAe2o",
+      "alternatives": []
+    },
+    "6243319dac25a7a2441c": {
+      "song_id": "6243319dac25a7a2441c",
+      "title": "Do Nothing",
+      "artist": "The Specials",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "0S1BC0XVB6s",
+      "alternatives": []
+    },
+    "6321e15b8defad65ef86": {
+      "song_id": "6321e15b8defad65ef86",
+      "title": "GREETINGS TO THE NEW BRUNETTE",
+      "artist": "BILLY BRAGG",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ePTW_3JOA0s",
+      "alternatives": []
+    },
+    "646718a8836a624090d7": {
+      "song_id": "646718a8836a624090d7",
+      "title": "Caroline",
+      "artist": "Laura Marling",
+      "album": "Patterns in Repeat",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "8QH0bONb7RQ",
+      "alternatives": []
+    },
+    "652d4807a10c073089fb": {
+      "song_id": "652d4807a10c073089fb",
+      "title": "Pelle di luna",
+      "artist": "Piero Umiliani",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "TFpaQu2gjCU",
+      "alternatives": []
+    },
+    "684af08da73ef044c47e": {
+      "song_id": "684af08da73ef044c47e",
+      "title": "Zambezi (feat. Roc Marciano)",
+      "artist": "Action Bronson",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "nRNBm3qKb7Q",
+      "alternatives": []
+    },
     "68ba2bf31c93b13906d0": {
       "song_id": "68ba2bf31c93b13906d0",
       "title": "The 15th",
@@ -856,6 +1823,18 @@
       "mbid": "",
       "genre": "electronic; electroclash; elektro",
       "youtube_video_id": "Rr4vxqbQyZ4",
+      "alternatives": []
+    },
+    "6a07db6c1ea782490bb7": {
+      "song_id": "6a07db6c1ea782490bb7",
+      "title": "Santa Maria",
+      "artist": "DandyLisbon",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "yB0yo8pLRS8",
       "alternatives": []
     },
     "6a326fb7b622d693f4e5": {
@@ -870,6 +1849,30 @@
       "youtube_video_id": "V7GCrTFCXYo",
       "alternatives": []
     },
+    "6cb61c15b17afbee1c7d": {
+      "song_id": "6cb61c15b17afbee1c7d",
+      "title": "Memories",
+      "artist": "Robert Wyatt",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ACVv51C8vbM",
+      "alternatives": []
+    },
+    "6d3fdee92fb3b4ebc088": {
+      "song_id": "6d3fdee92fb3b4ebc088",
+      "title": "Midnight Summer Dream",
+      "artist": "The Stranglers",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; punk; new wave",
+      "youtube_video_id": "HI7CB2UwSj4",
+      "alternatives": []
+    },
     "6d40f407800ad6d8dfaa": {
       "song_id": "6d40f407800ad6d8dfaa",
       "title": "Every Ghetto, Every City",
@@ -880,6 +1883,42 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "oZXWbTCtWPw",
+      "alternatives": []
+    },
+    "6e391cb8b77eb0370d07": {
+      "song_id": "6e391cb8b77eb0370d07",
+      "title": "Tear Garden",
+      "artist": "The Tear Garden",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "electronica dance",
+      "youtube_video_id": "EIZ0ZFgpMpw",
+      "alternatives": []
+    },
+    "6e69130868921dfbdb44": {
+      "song_id": "6e69130868921dfbdb44",
+      "title": "Chasing Rainbows",
+      "artist": "Shed Seven",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "fW3eFT2D2Yk",
+      "alternatives": []
+    },
+    "6f2db20cda5b77ccb7d3": {
+      "song_id": "6f2db20cda5b77ccb7d3",
+      "title": "Concerto For Piano And Orchestra No. 1 In B-Flat Minor, Op. 23: III. Allegro Con Fuoco",
+      "artist": "Sviatoslav Richter",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "g_va9Wp4NsU",
       "alternatives": []
     },
     "6f566fe13aac4fc4e702": {
@@ -894,6 +1933,30 @@
       "youtube_video_id": "ktghYPX4Gjs",
       "alternatives": []
     },
+    "6ffdb67f490cc2e7194e": {
+      "song_id": "6ffdb67f490cc2e7194e",
+      "title": "That'll Be The Day",
+      "artist": "Buddy Holly",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "M4TfFTmITLo",
+      "alternatives": []
+    },
+    "700f7af171dc549bcc57": {
+      "song_id": "700f7af171dc549bcc57",
+      "title": "I Am the Resurrection",
+      "artist": "The Stone Roses",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "vY9g-PgSiGA",
+      "alternatives": []
+    },
     "70840f5043c5d2592b0b": {
       "song_id": "70840f5043c5d2592b0b",
       "title": "Time (You and I)",
@@ -904,6 +1967,18 @@
       "mbid": "",
       "genre": "blues",
       "youtube_video_id": "oc50wHexbwg",
+      "alternatives": []
+    },
+    "708e14975b5781c97bab": {
+      "song_id": "708e14975b5781c97bab",
+      "title": "Ben de Özledim",
+      "artist": "Ferdi Tayfur",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "liSwz73JbmE",
       "alternatives": []
     },
     "70dbfa0e8d5b158ce99c": {
@@ -930,6 +2005,18 @@
       "youtube_video_id": "1lyf2liY3IA",
       "alternatives": []
     },
+    "71313775e64031530595": {
+      "song_id": "71313775e64031530595",
+      "title": "Ode aan mijn Opa",
+      "artist": "Mirabel Experience",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "",
+      "alternatives": []
+    },
     "734bceff22262f80d6db": {
       "song_id": "734bceff22262f80d6db",
       "title": "Pack Jam (Look out for the Ovc) [Vocal]",
@@ -952,6 +2039,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Y9_pZ5LqxXM",
+      "alternatives": []
+    },
+    "74c35a82431e6d8fd9fd": {
+      "song_id": "74c35a82431e6d8fd9fd",
+      "title": "I Want To Know What Love Is (Remastered)",
+      "artist": "Foreigner",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "vsWj2DYRnzU",
       "alternatives": []
     },
     "74f43e1a9766d3f30901": {
@@ -978,6 +2077,30 @@
       "youtube_video_id": "2w1Q8ZkXZ1Q",
       "alternatives": []
     },
+    "75e45e4389dab403349e": {
+      "song_id": "75e45e4389dab403349e",
+      "title": "Ever Fallen In Love (With Someone You Shouldn't've)",
+      "artist": "Buzzcocks",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "aUVVRyjiVzo",
+      "alternatives": []
+    },
+    "76796f8b5043240d9809": {
+      "song_id": "76796f8b5043240d9809",
+      "title": "Ne me quitte pas",
+      "artist": "Jacques Brel",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "oR_SZR_tmxM",
+      "alternatives": []
+    },
     "772a976a3748270f50c1": {
       "song_id": "772a976a3748270f50c1",
       "title": "Phoenix",
@@ -990,6 +2113,18 @@
       "youtube_video_id": "W7egZsGOBeI",
       "alternatives": []
     },
+    "780222aa612e3ef86aa7": {
+      "song_id": "780222aa612e3ef86aa7",
+      "title": "The Road to Hell, Pt. 2",
+      "artist": "Chris Rea",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "OcW-BSEB3ng",
+      "alternatives": []
+    },
     "7867ab96da372358e28e": {
       "song_id": "7867ab96da372358e28e",
       "title": "Stewed People",
@@ -1000,6 +2135,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Ipv8FQjKzdo",
+      "alternatives": []
+    },
+    "7967754b61c8561feeeb": {
+      "song_id": "7967754b61c8561feeeb",
+      "title": "Featherweight",
+      "artist": "Fleet Foxes",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "qKGM7gi50H8",
       "alternatives": []
     },
     "797633b157f397818f5e": {
@@ -1038,6 +2185,38 @@
       "youtube_video_id": "cwPg8gJq_Kw",
       "alternatives": []
     },
+    "7aaf6b2fa93afb197fc1": {
+      "song_id": "7aaf6b2fa93afb197fc1",
+      "title": "Flying Apples",
+      "artist": "Fabio Martoglio",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "OVLOC3XkpE8",
+      "alternatives": [
+        {
+          "source": "audd",
+          "title": "Mistaken Tourist",
+          "artist": "Minotaur Shock",
+          "confidence": 0.85,
+          "album": "Mistaken Tourist"
+        }
+      ]
+    },
+    "7ab6ff7ef3e97aad9713": {
+      "song_id": "7ab6ff7ef3e97aad9713",
+      "title": "The Man-Machine",
+      "artist": "Kraftwerk",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "zHIsGqJaXXw",
+      "alternatives": []
+    },
     "7ab98179f48fc62303da": {
       "song_id": "7ab98179f48fc62303da",
       "title": "Rock the House (Michael Gray Remix)",
@@ -1048,6 +2227,91 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Bdahga93eLY",
+      "alternatives": []
+    },
+    "7b19a54f554223753529": {
+      "song_id": "7b19a54f554223753529",
+      "title": "Lucky Charm",
+      "artist": "Panda Bear & Sonic Boom",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "vZPau1xWG0I",
+      "alternatives": []
+    },
+    "7cadcfb8c578160201a3": {
+      "song_id": "7cadcfb8c578160201a3",
+      "title": "Petite Etoile (feat. Beth Ditto)",
+      "artist": "Polo & Pan",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "6ACTrTqnSHU",
+      "alternatives": []
+    },
+    "803641043e4ddf95ce9e": {
+      "song_id": "803641043e4ddf95ce9e",
+      "title": "Ashes to Ashes",
+      "artist": "warpaint",
+      "album": "We Were so Turned On (Tribute to David Bowie)",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "4Ou7VwS3pSw",
+      "alternatives": []
+    },
+    "827921227f78c747a5c0": {
+      "song_id": "827921227f78c747a5c0",
+      "title": "Here Comes Your Man",
+      "artist": "Pixies",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "tPgf_btTFlc",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Celestial Candyfloss",
+          "artist": "Gruff Rhys",
+          "confidence": 0.7
+        },
+        {
+          "source": "shazamio",
+          "title": "The Walk",
+          "artist": "The Cure",
+          "confidence": 0.7
+        }
+      ]
+    },
+    "828b1d6d8d88ac2e12a6": {
+      "song_id": "828b1d6d8d88ac2e12a6",
+      "title": "For Tomorrow",
+      "artist": "Blur",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; britpop; psychedelic pop",
+      "youtube_video_id": "Fh8GoIxL7dw",
+      "alternatives": []
+    },
+    "82fc5b53bffd889a7059": {
+      "song_id": "82fc5b53bffd889a7059",
+      "title": "I Can't Leave Your Love Alone",
+      "artist": "Clarence Carter",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "vjXZSrKFEIk",
       "alternatives": []
     },
     "849bdb7cc720f31e1853": {
@@ -1110,6 +2374,30 @@
       "youtube_video_id": "fbU1zYzD-Tw",
       "alternatives": []
     },
+    "86c0b5d930ef1c0d10fa": {
+      "song_id": "86c0b5d930ef1c0d10fa",
+      "title": "Piano Concerto No. 1 in B-Flat Minor, Op. 23: II. Andante semplice - Prestissimo - Tempo 1",
+      "artist": "Sviatoslav Richter, Herbert von Karajan & Vienna Philharmonic",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "_QCbtKvnxQQ",
+      "alternatives": []
+    },
+    "874274d2058924d1828c": {
+      "song_id": "874274d2058924d1828c",
+      "title": "All Systems Are Lying",
+      "artist": "Soulwax",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "HVhO8qVVmuI",
+      "alternatives": []
+    },
     "87c42e885d40b2c26888": {
       "song_id": "87c42e885d40b2c26888",
       "title": "Try Me Out",
@@ -1120,6 +2408,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "CrChA17AWLc",
+      "alternatives": []
+    },
+    "87e4405f48ee6e0c8f72": {
+      "song_id": "87e4405f48ee6e0c8f72",
+      "title": "She's A Rainbow",
+      "artist": "The Rolling Stones",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "6c1BThu95d8",
       "alternatives": []
     },
     "890bbd939f78f0c2999a": {
@@ -1170,6 +2470,18 @@
       "youtube_video_id": "36_4xjLFjM0",
       "alternatives": []
     },
+    "8a2840231b9a402451f2": {
+      "song_id": "8a2840231b9a402451f2",
+      "title": "DO THE STRAND",
+      "artist": "ROXY MUSIC",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "CHZfkTkpwzU",
+      "alternatives": []
+    },
     "8a2bbcbc89eaa1bd434a": {
       "song_id": "8a2bbcbc89eaa1bd434a",
       "title": "Do It Any Way You Wanna",
@@ -1194,6 +2506,30 @@
       "youtube_video_id": "e2Ljkr9NmOg",
       "alternatives": []
     },
+    "8b973b70a2e03bd879f8": {
+      "song_id": "8b973b70a2e03bd879f8",
+      "title": "Too Old To Rock 'N' Roll: Too Young To Die!",
+      "artist": "Jethro Tull",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "VcmJThaACHQ",
+      "alternatives": []
+    },
+    "8b9b0389816451b5e30d": {
+      "song_id": "8b9b0389816451b5e30d",
+      "title": "Le Poisson Des Mers Du Sud",
+      "artist": "Isabelle Antena",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "WiciTWHB4SU",
+      "alternatives": []
+    },
     "8c20d751473d03d55a16": {
       "song_id": "8c20d751473d03d55a16",
       "title": "Metal Mickey",
@@ -1204,6 +2540,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "0rbw5FaCAzw",
+      "alternatives": []
+    },
+    "8c4fc66b840c2485709f": {
+      "song_id": "8c4fc66b840c2485709f",
+      "title": "Voyage voyage",
+      "artist": "Desireless",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "synthpop; new wave; french pop",
+      "youtube_video_id": "NlgmH5q9uNk",
       "alternatives": []
     },
     "8d729516467229c00320": {
@@ -1230,6 +2578,66 @@
       "youtube_video_id": "eKG44sMk--0",
       "alternatives": []
     },
+    "8e086797f0de4421ded4": {
+      "song_id": "8e086797f0de4421ded4",
+      "title": "Coming On Strong",
+      "artist": "Bloc Party",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Y1xnoEkr5Dk",
+      "alternatives": []
+    },
+    "8e4d7599dcafa8679493": {
+      "song_id": "8e4d7599dcafa8679493",
+      "title": "The Man-Machine (Live)",
+      "artist": "Kraftwerk",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "ZX1hgSPjxyM",
+      "alternatives": []
+    },
+    "8f04e600ddff78c5cd25": {
+      "song_id": "8f04e600ddff78c5cd25",
+      "title": "Swan Lake, Op. 20: Act II, No. 10: Scene. Moderato",
+      "artist": "Alexander Titov & Orchestra New Philharmony St. Petersburg",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "3hUmRe-G7Tk",
+      "alternatives": []
+    },
+    "8f43fe5b1f9a177defb3": {
+      "song_id": "8f43fe5b1f9a177defb3",
+      "title": "I Had My Chance",
+      "artist": "Morphine",
+      "album": "Yes",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; alternative rock; jazz",
+      "youtube_video_id": "KE6ENw40L6Q",
+      "alternatives": []
+    },
+    "8fd83438dcc9c17e2059": {
+      "song_id": "8fd83438dcc9c17e2059",
+      "title": "Frankenstein",
+      "artist": "Antony and the Johnsons & ANOHNI",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "vkHvmcUSYNI",
+      "alternatives": []
+    },
     "90ffe59286e9bf32f1c7": {
       "song_id": "90ffe59286e9bf32f1c7",
       "title": "Song to the Siren",
@@ -1242,6 +2650,18 @@
       "youtube_video_id": "vMTEtDBHGY4",
       "alternatives": []
     },
+    "918f0c833200aa350014": {
+      "song_id": "918f0c833200aa350014",
+      "title": "I Got You Babe",
+      "artist": "Sonny & Cher",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "HKGjCPBSG38",
+      "alternatives": []
+    },
     "926df1ff0277f87369b2": {
       "song_id": "926df1ff0277f87369b2",
       "title": "Everyone Thinks He Looks Daft",
@@ -1252,6 +2672,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "F1QNgcaRtQo",
+      "alternatives": []
+    },
+    "92c6039330f6fa3f6b3e": {
+      "song_id": "92c6039330f6fa3f6b3e",
+      "title": "The Guns of Brixton",
+      "artist": "The Clash",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "JcW8VNwYvL0",
+      "alternatives": []
+    },
+    "9331d0d8201095226bd4": {
+      "song_id": "9331d0d8201095226bd4",
+      "title": "The Girl From Ipanema",
+      "artist": "Stan Getz & Astrud Gilberto",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "sVdaFQhS86E",
       "alternatives": []
     },
     "93450c5e1f69c0cc947f": {
@@ -1290,6 +2734,18 @@
       "youtube_video_id": "--uRcXZQcoI",
       "alternatives": []
     },
+    "9434c19b1571b76e32c3": {
+      "song_id": "9434c19b1571b76e32c3",
+      "title": "Everything Counts (Oliver Huntemann & Stephan Bodzin Dub)",
+      "artist": "Depeche Mode",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "lM8lGIauSZU",
+      "alternatives": []
+    },
     "94587847785205770edc": {
       "song_id": "94587847785205770edc",
       "title": "Odyssey (Pt. 1)",
@@ -1314,6 +2770,86 @@
       "youtube_video_id": "7C5t0q6ZLfg",
       "alternatives": []
     },
+    "94cbf404045520acde23": {
+      "song_id": "94cbf404045520acde23",
+      "title": "Caring Is Creepy",
+      "artist": "The Shins",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "UqMbZY_iv6E",
+      "alternatives": []
+    },
+    "95b20e7053fcade99c53": {
+      "song_id": "95b20e7053fcade99c53",
+      "title": "For Tomorrow (Visit To Primrose Hill Extended)",
+      "artist": "Blur",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; britpop; psychedelic pop",
+      "youtube_video_id": "J77C9ODFflw",
+      "alternatives": []
+    },
+    "95fafb2de69363142b3e": {
+      "song_id": "95fafb2de69363142b3e",
+      "title": "I Had Too Much To Dream (Last Night) [Remastered]",
+      "artist": "The Electric Prunes",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "bjaHU8iuhmI",
+      "alternatives": []
+    },
+    "9602c0f9b9f1206412ab": {
+      "song_id": "9602c0f9b9f1206412ab",
+      "title": "Sour Times",
+      "artist": "Portishead",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "un8EW82GwKc",
+      "alternatives": []
+    },
+    "98613ccbc37e51ef99e5": {
+      "song_id": "98613ccbc37e51ef99e5",
+      "title": "Femme Fatale",
+      "artist": "The Velvet Underground & Nico",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "svYqI1PvcpM",
+      "alternatives": [
+        {
+          "source": "audd",
+          "title": "Femme Fatale",
+          "artist": "The Velvet Underground",
+          "confidence": 0.85,
+          "album": "Gold"
+        }
+      ]
+    },
+    "986159afa4f40162b8e0": {
+      "song_id": "986159afa4f40162b8e0",
+      "title": "I've Got The World On A String",
+      "artist": "Oscar Peterson",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "tO-AJVACqVA",
+      "alternatives": []
+    },
     "99504bab86e5bb69953c": {
       "song_id": "99504bab86e5bb69953c",
       "title": "Get Thy Bearings",
@@ -1336,6 +2872,66 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "UwigmMTsM-Y",
+      "alternatives": []
+    },
+    "9b8b49f03996957dbb34": {
+      "song_id": "9b8b49f03996957dbb34",
+      "title": "William, It Was Really Nothing",
+      "artist": "The Smiths",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "P22TEf4pZZs",
+      "alternatives": []
+    },
+    "9b9ddd9af22e63801d79": {
+      "song_id": "9b9ddd9af22e63801d79",
+      "title": "La Pluie",
+      "artist": "In Aeternam Vale",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "uq6D21G_0Z0",
+      "alternatives": []
+    },
+    "9cfc3f5e8865be0b7d2c": {
+      "song_id": "9cfc3f5e8865be0b7d2c",
+      "title": "Getting Away With It (All Messed Up)",
+      "artist": "James",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Io2Cl1u5gmU",
+      "alternatives": []
+    },
+    "9e2ae5d81f287e0b7e37": {
+      "song_id": "9e2ae5d81f287e0b7e37",
+      "title": "The Black Tower",
+      "artist": "Julian's Treatment",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "TmeNEqaIkno",
+      "alternatives": []
+    },
+    "a074b29ad9db346192be": {
+      "song_id": "a074b29ad9db346192be",
+      "title": "Cries And Whispers",
+      "artist": "Jo Yeong-wook",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "vh2LWnenZvw",
       "alternatives": []
     },
     "a089d9e4bab3cadec55e": {
@@ -1374,6 +2970,18 @@
       "youtube_video_id": "Pv9eQF8dnqU",
       "alternatives": []
     },
+    "a1f11a5e7e8074dfac98": {
+      "song_id": "a1f11a5e7e8074dfac98",
+      "title": "Pinky Blue",
+      "artist": "Altered Images",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "DdJH82JTljU",
+      "alternatives": []
+    },
     "a3932b6988f3c585953e": {
       "song_id": "a3932b6988f3c585953e",
       "title": "I Had a Dream, Joe (2010 Remaster)",
@@ -1384,6 +2992,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "Uri2BGUGPrg",
+      "alternatives": []
+    },
+    "a712cf0a347313f43c06": {
+      "song_id": "a712cf0a347313f43c06",
+      "title": "Moon Over Bourbon Street",
+      "artist": "Sting",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "jazz; rock; pop",
+      "youtube_video_id": "5A_3M6pkMls",
+      "alternatives": []
+    },
+    "a7ee46c0c65dd35f9414": {
+      "song_id": "a7ee46c0c65dd35f9414",
+      "title": "Endors Toi",
+      "artist": "Tame Impala",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; psychedelic rock; indie rock",
+      "youtube_video_id": "NKcCoxCSql8",
       "alternatives": []
     },
     "a99af4731a4ca3d04146": {
@@ -1417,6 +3049,18 @@
         }
       ]
     },
+    "aaec3d01a711bfb2d192": {
+      "song_id": "aaec3d01a711bfb2d192",
+      "title": "Emphasis",
+      "artist": "Dylan Warren",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "40Z0YAPhmVI",
+      "alternatives": []
+    },
     "ab35876800043564c8d9": {
       "song_id": "ab35876800043564c8d9",
       "title": "Better Than Them",
@@ -1439,6 +3083,42 @@
       "mbid": "",
       "genre": "indie; rock; alternative rock",
       "youtube_video_id": "0hopdWwHAZM",
+      "alternatives": []
+    },
+    "af10934b1bc37f903b82": {
+      "song_id": "af10934b1bc37f903b82",
+      "title": "Manic Monday",
+      "artist": "The Bangles",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "SsmVgoXDq2w",
+      "alternatives": []
+    },
+    "b0632de8d536838e2bd0": {
+      "song_id": "b0632de8d536838e2bd0",
+      "title": "Red Red Wine",
+      "artist": "Tony Tribe",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "PNgzk0TvJJI",
+      "alternatives": []
+    },
+    "b10e59613ddea54a996e": {
+      "song_id": "b10e59613ddea54a996e",
+      "title": "Almost Cut My Hair",
+      "artist": "Crosby, Stills, Nash & Young",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "as5lE64J1hQ",
       "alternatives": []
     },
     "b1cf31eb4b5b86d58c39": {
@@ -1465,6 +3145,30 @@
       "youtube_video_id": "y8RoStwoKbI",
       "alternatives": []
     },
+    "b22f8c011dad5d07af39": {
+      "song_id": "b22f8c011dad5d07af39",
+      "title": "St. Apollonia",
+      "artist": "Beirut",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "folk; indie; rock",
+      "youtube_video_id": "uQG-b3VOr4s",
+      "alternatives": []
+    },
+    "b29d411f17ce91bcc1a9": {
+      "song_id": "b29d411f17ce91bcc1a9",
+      "title": "Baggy Trousers",
+      "artist": "Madness",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "ska; reggae; ska revival",
+      "youtube_video_id": "Dc3AovUZgvo",
+      "alternatives": []
+    },
     "b32ba04a90bb1951e254": {
       "song_id": "b32ba04a90bb1951e254",
       "title": "Smooth Operator",
@@ -1489,6 +3193,18 @@
       "youtube_video_id": "lVyZlpcRlrA",
       "alternatives": []
     },
+    "b40a17a04468ad29ef46": {
+      "song_id": "b40a17a04468ad29ef46",
+      "title": "A Place In The Sun",
+      "artist": "Marine Girls",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "0kjABf474jw",
+      "alternatives": []
+    },
     "b42f22646e38f99a795f": {
       "song_id": "b42f22646e38f99a795f",
       "title": "On Parade",
@@ -1499,6 +3215,38 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "wSbacJTxprM",
+      "alternatives": []
+    },
+    "b440aa69055494354850": {
+      "song_id": "b440aa69055494354850",
+      "title": "Ceylan",
+      "artist": "Derya Yildirim & Grup Simsek",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "pop; folk; world",
+      "youtube_video_id": "DM2ebKJn4Yk",
+      "alternatives": [
+        {
+          "source": "audd",
+          "title": "Ceylan",
+          "artist": "Derya Yıldırım & Grup Şimşek",
+          "confidence": 0.85,
+          "album": "Yarın Yoksa"
+        }
+      ]
+    },
+    "b449064fef02f2ac51f9": {
+      "song_id": "b449064fef02f2ac51f9",
+      "title": "The Edge",
+      "artist": "David McCallum",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "trip-hop; trip hop; electronic/ambient/rhythm and blues/jazz",
+      "youtube_video_id": "y05mMRJrUnE",
       "alternatives": []
     },
     "b4513543b277394f4290": {
@@ -1525,6 +3273,18 @@
       "youtube_video_id": "lgHGU8gqz9U",
       "alternatives": []
     },
+    "b51d38ae142c29f27f25": {
+      "song_id": "b51d38ae142c29f27f25",
+      "title": "SEEIN' STARS",
+      "artist": "Turnstile",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "a95G2GzB3t0",
+      "alternatives": []
+    },
     "b56dfde0d85bda22bfad": {
       "song_id": "b56dfde0d85bda22bfad",
       "title": "Houses in Motion (Edit)",
@@ -1535,6 +3295,30 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "w7XEobQh7Ro",
+      "alternatives": []
+    },
+    "b6ecf96b56f782a0f6de": {
+      "song_id": "b6ecf96b56f782a0f6de",
+      "title": "Moody's Mood",
+      "artist": "George Benson",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "a0TVgow_CVM",
+      "alternatives": []
+    },
+    "b7c230c302e723c7dff4": {
+      "song_id": "b7c230c302e723c7dff4",
+      "title": "Cutthroat",
+      "artist": "shame",
+      "album": "Cutthroat",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "iEZfLcdJemo",
       "alternatives": []
     },
     "b7fd835ed71bd3c8e96f": {
@@ -1556,6 +3340,18 @@
         }
       ]
     },
+    "bbb60d03369b026332b9": {
+      "song_id": "bbb60d03369b026332b9",
+      "title": "Slick",
+      "artist": "Ramsey Lewis",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "fqKbsStzCA0",
+      "alternatives": []
+    },
     "bca7ec6b021393486b70": {
       "song_id": "bca7ec6b021393486b70",
       "title": "Gecenin Üçünde",
@@ -1566,6 +3362,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "b6sLTHyTbBc",
+      "alternatives": []
+    },
+    "bd08531277cd617ffea1": {
+      "song_id": "bd08531277cd617ffea1",
+      "title": "After Laughter (Comes Tears)",
+      "artist": "Wendy Rene",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "soul; r&b",
+      "youtube_video_id": "F7pqO7YKBt0",
       "alternatives": []
     },
     "bdfb98b5453151ed1d3c": {
@@ -1592,6 +3400,30 @@
       "youtube_video_id": "N-wfb25WmV4",
       "alternatives": []
     },
+    "bf77d3e27f9be3646e8c": {
+      "song_id": "bf77d3e27f9be3646e8c",
+      "title": "Across the Lines",
+      "artist": "Tracy Chapman",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "kP3mpcb3Z4Q",
+      "alternatives": []
+    },
+    "bff3037089e1897828fe": {
+      "song_id": "bff3037089e1897828fe",
+      "title": "Rain",
+      "artist": "José Feliciano",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "yXeh9TxJFtE",
+      "alternatives": []
+    },
     "c12cce20f0bc47a8747f": {
       "song_id": "c12cce20f0bc47a8747f",
       "title": "Bye Bye Bluebird",
@@ -1602,6 +3434,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "ph2BcdWXRBs",
+      "alternatives": []
+    },
+    "c13e628158ed9cd4c31f": {
+      "song_id": "c13e628158ed9cd4c31f",
+      "title": "1 Hour Country Gospel Music Playlist",
+      "artist": "Echoes of Africa",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "juRJbY1oIoM",
       "alternatives": []
     },
     "c260c2d223aa1211e746": {
@@ -1628,6 +3472,18 @@
       "youtube_video_id": "TL0xzp4zzBE",
       "alternatives": []
     },
+    "c329691a6c8022918de1": {
+      "song_id": "c329691a6c8022918de1",
+      "title": "One Headlight",
+      "artist": "The Wallflowers",
+      "album": "Plásticos Y Decibelios: 30 Aniversario",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Zzyfcys1aLM",
+      "alternatives": []
+    },
     "c4982f31dc12412c8947": {
       "song_id": "c4982f31dc12412c8947",
       "title": "I'll Be Over You",
@@ -1638,6 +3494,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "r7XhWUDj-Ts",
+      "alternatives": []
+    },
+    "c4f2e4a6b3b2edb11832": {
+      "song_id": "c4f2e4a6b3b2edb11832",
+      "title": "Shape the Future",
+      "artist": "Nightmares On Wax",
+      "album": "Shape The Future",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "kG8ESXaR6F0",
       "alternatives": []
     },
     "c52a53424a28e5863e56": {
@@ -1652,6 +3520,66 @@
       "youtube_video_id": "d1acEVmnVhI",
       "alternatives": []
     },
+    "c53254c009c747f89f21": {
+      "song_id": "c53254c009c747f89f21",
+      "title": "The Crossing",
+      "artist": "Menahan Street Band",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "XXDskgUc63Y",
+      "alternatives": []
+    },
+    "c5a86ec47a1a33b5ded7": {
+      "song_id": "c5a86ec47a1a33b5ded7",
+      "title": "Food for Clouds",
+      "artist": "The Brian Jonestown Massacre",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "pwQseBRLO_o",
+      "alternatives": []
+    },
+    "c68822ce630a54226f4e": {
+      "song_id": "c68822ce630a54226f4e",
+      "title": "Unveiling The Secret",
+      "artist": "Psyche",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "x0rvLglWIAs",
+      "alternatives": []
+    },
+    "c7dc49e94787389789a5": {
+      "song_id": "c7dc49e94787389789a5",
+      "title": "Vietnamese Baby",
+      "artist": "New York Dolls",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "H61CANkNQnI",
+      "alternatives": []
+    },
+    "c80b140ec77635d0dfa1": {
+      "song_id": "c80b140ec77635d0dfa1",
+      "title": "Rüya",
+      "artist": "Peki Momés",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "0w-4SOcroqE",
+      "alternatives": []
+    },
     "c9030ccde9431d41e979": {
       "song_id": "c9030ccde9431d41e979",
       "title": "Anarchy In The UK",
@@ -1664,6 +3592,42 @@
       "youtube_video_id": "q31WY0Aobro",
       "alternatives": []
     },
+    "c9ccb512e6fff88e702a": {
+      "song_id": "c9ccb512e6fff88e702a",
+      "title": "Son Of Sam",
+      "artist": "Elliott Smith",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "afeAUndotas",
+      "alternatives": []
+    },
+    "ca7e9a2ff8f193f18e68": {
+      "song_id": "ca7e9a2ff8f193f18e68",
+      "title": "I Had a Talk With My Man",
+      "artist": "Mitty Collier",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "BRxzWfkiaSk",
+      "alternatives": []
+    },
+    "cabe888b3c2463b40e63": {
+      "song_id": "cabe888b3c2463b40e63",
+      "title": "Power of the Moon",
+      "artist": "Ezra Furman",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "CjaIB5BzJDw",
+      "alternatives": []
+    },
     "cadd00c77c9071292ae3": {
       "song_id": "cadd00c77c9071292ae3",
       "title": "Fare Evader",
@@ -1674,6 +3638,18 @@
       "mbid": "",
       "genre": "funk; soul; psychedelic",
       "youtube_video_id": "gZSwdr4aoE0",
+      "alternatives": []
+    },
+    "cc156f472a2397589b7f": {
+      "song_id": "cc156f472a2397589b7f",
+      "title": "Lions In My Own Garden (Exit Someone)",
+      "artist": "Prefab Sprout",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "NH68sYvnW2A",
       "alternatives": []
     },
     "cc5b247ef0b9c4629648": {
@@ -1731,6 +3707,78 @@
       "youtube_video_id": "BvF2k0mJTVI",
       "alternatives": []
     },
+    "d042a34c12a60ac640ff": {
+      "song_id": "d042a34c12a60ac640ff",
+      "title": "Sunset Streets",
+      "artist": "Medd",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "kUVud0uPDu0",
+      "alternatives": []
+    },
+    "d0a17d0cf15dc1f41eb4": {
+      "song_id": "d0a17d0cf15dc1f41eb4",
+      "title": "Untitled",
+      "artist": "Interpol",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Fmxrqo4ChRs",
+      "alternatives": []
+    },
+    "d1720dd3f86635200416": {
+      "song_id": "d1720dd3f86635200416",
+      "title": "Texas Sun",
+      "artist": "Khruangbin & Leon Bridges",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Whe7MURlKLw",
+      "alternatives": []
+    },
+    "d2b30f90798acf50a05c": {
+      "song_id": "d2b30f90798acf50a05c",
+      "title": "Observatory Crest",
+      "artist": "Captain Beefheart",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock",
+      "youtube_video_id": "hfX5Ymxf4Rg",
+      "alternatives": []
+    },
+    "d301e7201cea7b8583a0": {
+      "song_id": "d301e7201cea7b8583a0",
+      "title": "Whalebones",
+      "artist": "Man Man",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "fT9RydqGPD0",
+      "alternatives": []
+    },
+    "d35c62caa1561a3401e7": {
+      "song_id": "d35c62caa1561a3401e7",
+      "title": "Laughing Boy",
+      "artist": "Mary Wells",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "g5PK5LYSPew",
+      "alternatives": []
+    },
     "d3b7151ff08b9c82c29f": {
       "song_id": "d3b7151ff08b9c82c29f",
       "title": "Neon Lights",
@@ -1755,6 +3803,30 @@
       "youtube_video_id": "MzoB_sB8Er0",
       "alternatives": []
     },
+    "d54fd4a697ed3bc2892d": {
+      "song_id": "d54fd4a697ed3bc2892d",
+      "title": "Keep Your Body Workin'",
+      "artist": "Kleeer",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "bsdCt3txSBc",
+      "alternatives": []
+    },
+    "d5566d23c5638742ac5f": {
+      "song_id": "d5566d23c5638742ac5f",
+      "title": "'Round Midnight",
+      "artist": "Miles Davis",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Ys9wiGNDCvA",
+      "alternatives": []
+    },
     "d5a2113b946177f68de2": {
       "song_id": "d5a2113b946177f68de2",
       "title": "Everything She Wants (Remix)",
@@ -1765,6 +3837,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "ydvOuoK67lE",
+      "alternatives": []
+    },
+    "d5b27a05b6d44c1af5cf": {
+      "song_id": "d5b27a05b6d44c1af5cf",
+      "title": "She Brings the Rain",
+      "artist": "Can",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "xiuuSoPphxI",
       "alternatives": []
     },
     "d6084ec0a5c60df93046": {
@@ -1779,6 +3863,18 @@
       "youtube_video_id": "CJsiDDI-7Xw",
       "alternatives": []
     },
+    "d611e06fff6ed0f59e5b": {
+      "song_id": "d611e06fff6ed0f59e5b",
+      "title": "Elephant",
+      "artist": "Tame Impala",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock",
+      "youtube_video_id": "LnKUD_OztRE",
+      "alternatives": []
+    },
     "d63deacf7061c1c80daf": {
       "song_id": "d63deacf7061c1c80daf",
       "title": "They Don't Know",
@@ -1789,6 +3885,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "f9un119lq4c",
+      "alternatives": []
+    },
+    "d77c5c7fee12d56b6452": {
+      "song_id": "d77c5c7fee12d56b6452",
+      "title": "My Least Favorite Life (From the HBO Series \"True Detective\")",
+      "artist": "Lera Lynn",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "dFh71_ftxLE",
       "alternatives": []
     },
     "d7a637b9ee7db1f42b8d": {
@@ -1851,6 +3959,18 @@
       "youtube_video_id": "aYCBi9qmJCk",
       "alternatives": []
     },
+    "da92e64dabd1b08cbc8f": {
+      "song_id": "da92e64dabd1b08cbc8f",
+      "title": "California",
+      "artist": "Low",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "O76qiP6acGk",
+      "alternatives": []
+    },
     "da98ed6a4508f00f1192": {
       "song_id": "da98ed6a4508f00f1192",
       "title": "Grandma's Hands",
@@ -1873,6 +3993,42 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "vzEugEPsv4A",
+      "alternatives": []
+    },
+    "db836f0c841a67156c9e": {
+      "song_id": "db836f0c841a67156c9e",
+      "title": "Like The Rain",
+      "artist": "Andrea Bejar",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "iMaSU0LpmOY",
+      "alternatives": []
+    },
+    "dbcd10ec82bd4d93a3ce": {
+      "song_id": "dbcd10ec82bd4d93a3ce",
+      "title": "Somebody",
+      "artist": "Depeche Mode",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "alternative dance; electronic; synth-pop",
+      "youtube_video_id": "jbaKcxTW7A8",
+      "alternatives": []
+    },
+    "dc83e8c385583a4b7081": {
+      "song_id": "dc83e8c385583a4b7081",
+      "title": "Anhedonia",
+      "artist": "Mamalarky",
+      "album": "Anhedonia",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "EkXyTgG7mGM",
       "alternatives": []
     },
     "dcba3cb227c346167a9f": {
@@ -1959,6 +4115,50 @@
       "youtube_video_id": "TjIPzyVlK60",
       "alternatives": []
     },
+    "e14107219c64670fe048": {
+      "song_id": "e14107219c64670fe048",
+      "title": "Mizrab",
+      "artist": "Gabor Szabo",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "UNu8NVTfwfI",
+      "alternatives": []
+    },
+    "e1f9975a736ccad3d81c": {
+      "song_id": "e1f9975a736ccad3d81c",
+      "title": "Ocean Steppin'",
+      "artist": "John Glacier & Sampha",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "cDRFn2jUQAM",
+      "alternatives": [
+        {
+          "source": "audd",
+          "title": "Ocean Steppin'",
+          "artist": "John Glacier",
+          "confidence": 0.85,
+          "album": "Ocean Steppin'"
+        }
+      ]
+    },
+    "e31f0400064bddec15f7": {
+      "song_id": "e31f0400064bddec15f7",
+      "title": "Hang Loose",
+      "artist": "Alabama Shakes",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "hhKty2w2XNo",
+      "alternatives": []
+    },
     "e33b9bd824f0c3f0dca8": {
       "song_id": "e33b9bd824f0c3f0dca8",
       "title": "The Frame",
@@ -1981,6 +4181,18 @@
       "mbid": "",
       "genre": "new wave",
       "youtube_video_id": "HaPAqh37NTk",
+      "alternatives": []
+    },
+    "e41b257ba054bf897de9": {
+      "song_id": "e41b257ba054bf897de9",
+      "title": "Too Old to Rock 'N' Roll",
+      "artist": "Jethro Tull",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "VcmJThaACHQ",
       "alternatives": []
     },
     "e5058e57080cc929c4c3": {
@@ -2019,6 +4231,18 @@
       "youtube_video_id": "pOfBdvuky1s",
       "alternatives": []
     },
+    "ea88dc0182aebf6e5dda": {
+      "song_id": "ea88dc0182aebf6e5dda",
+      "title": "Yellow Eyes",
+      "artist": "The Gun Club",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "rock; alternative rock; punk",
+      "youtube_video_id": "EhrF-Y32bVc",
+      "alternatives": []
+    },
     "eaa08b1348a707f5af46": {
       "song_id": "eaa08b1348a707f5af46",
       "title": "Kahır Mektubu",
@@ -2055,6 +4279,42 @@
       "youtube_video_id": "X3IU7gKl7s0",
       "alternatives": []
     },
+    "eae847c53a93be72cf2d": {
+      "song_id": "eae847c53a93be72cf2d",
+      "title": "Over and Over Again (Lost and Found) (Cassette Tape)",
+      "artist": "Clap Your Hands Say Yeah",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "c6YZ90WhXVY",
+      "alternatives": []
+    },
+    "eb69c32309e016d8e3d3": {
+      "song_id": "eb69c32309e016d8e3d3",
+      "title": "Dream Lover",
+      "artist": "Johnny Burnette",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "yr1O4xsD4GI",
+      "alternatives": []
+    },
+    "ec7e0bfa7e19993484ba": {
+      "song_id": "ec7e0bfa7e19993484ba",
+      "title": "Love Hurts",
+      "artist": "Nazareth",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "Vj2AlaQcW40",
+      "alternatives": []
+    },
     "ecbac804bd2cf2d3fc3d": {
       "song_id": "ecbac804bd2cf2d3fc3d",
       "title": "Singing Hallelujah",
@@ -2078,6 +4338,25 @@
       "genre": "",
       "youtube_video_id": "GoQ5f1lYmLM",
       "alternatives": []
+    },
+    "ef344e8bb2aaa759b680": {
+      "song_id": "ef344e8bb2aaa759b680",
+      "title": "Piano Concerto No. 1 in B-Flat Minor, Op. 23: III. Allegro con fuoco",
+      "artist": "NDR Elbphilharmonie Orchester, Günter Wand & Jorge Bolet",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "x2mnV-wrf48",
+      "alternatives": [
+        {
+          "source": "shazamio",
+          "title": "Piano Concerto No. 1 in B-Flat Minor, Op. 23: III. Allegro con fuoco",
+          "artist": "Philharmonia Orchestra, Lorin Maazel & Emil Gilels",
+          "confidence": 0.55
+        }
+      ]
     },
     "ef485ad683a099fe2b2b": {
       "song_id": "ef485ad683a099fe2b2b",
@@ -2103,6 +4382,42 @@
       "youtube_video_id": "364qY0Oz-xs",
       "alternatives": []
     },
+    "f06b26d900becbc70f35": {
+      "song_id": "f06b26d900becbc70f35",
+      "title": "Beam Me Up",
+      "artist": "Midnight Magic",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "pop; dance; disco",
+      "youtube_video_id": "8EaYwmv7hcA",
+      "alternatives": []
+    },
+    "f216ba02a873bfdae90a": {
+      "song_id": "f216ba02a873bfdae90a",
+      "title": "Waterfalls",
+      "artist": "TLC",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "soul; r&b; urban soul",
+      "youtube_video_id": "8WEtxJ4-sh4",
+      "alternatives": []
+    },
+    "f272c447f4f80a7f471d": {
+      "song_id": "f272c447f4f80a7f471d",
+      "title": "Inconvenience (12'' Version)",
+      "artist": "Au Pairs",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "MshR13lYTdc",
+      "alternatives": []
+    },
     "f32aa26d6bc74ae22d2c": {
       "song_id": "f32aa26d6bc74ae22d2c",
       "title": "Wilkie",
@@ -2113,6 +4428,90 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "WTBsxt-Zshc",
+      "alternatives": []
+    },
+    "f5452882126121da42c8": {
+      "song_id": "f5452882126121da42c8",
+      "title": "I Go to Sleep (Demo Version)",
+      "artist": "The Kinks",
+      "album": "Kinda Kinks - Deluxe",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "O-mt7AUP4QU",
+      "alternatives": []
+    },
+    "f5e3662e688e74ebc514": {
+      "song_id": "f5e3662e688e74ebc514",
+      "title": "Adam's Hotel",
+      "artist": "Deodato",
+      "album": "Do It Again (Jazz Club)",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "0_i9oTNMb1M",
+      "alternatives": []
+    },
+    "f7124f8a356c9135394a": {
+      "song_id": "f7124f8a356c9135394a",
+      "title": "Rock Steady",
+      "artist": "Aretha Franklin",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "fGavl_m41LE",
+      "alternatives": []
+    },
+    "f75f6cdd20fce450d7ba": {
+      "song_id": "f75f6cdd20fce450d7ba",
+      "title": "Prime",
+      "artist": "Black Bass Mix",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "i3CxhjV2hzA",
+      "alternatives": []
+    },
+    "f84d5ae5138ec7949ad5": {
+      "song_id": "f84d5ae5138ec7949ad5",
+      "title": "Cream of Gold",
+      "artist": "Pavement",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "jtZrRnRVpnU",
+      "alternatives": []
+    },
+    "f8cb42b3eac9765dafc3": {
+      "song_id": "f8cb42b3eac9765dafc3",
+      "title": "Diva (2015 Remaster)",
+      "artist": "Jean-Michel Jarre",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "BRTbzyAmSBw",
+      "alternatives": []
+    },
+    "fa38fabad027d1d637b5": {
+      "song_id": "fa38fabad027d1d637b5",
+      "title": "Begin The Beguine",
+      "artist": "Artie Shaw",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "cCYGyg1H56s",
       "alternatives": []
     },
     "fb449762a0d996500368": {
@@ -2137,6 +4536,18 @@
       "mbid": "",
       "genre": "",
       "youtube_video_id": "pEmX5HR9ZxU",
+      "alternatives": []
+    },
+    "fcb221d5894513ee0c2f": {
+      "song_id": "fcb221d5894513ee0c2f",
+      "title": "Bad Moon Rising",
+      "artist": "Creedence Clearwater Revival",
+      "album": "",
+      "composer": "",
+      "work": "",
+      "mbid": "",
+      "genre": "",
+      "youtube_video_id": "zUQiUFZ5RDw",
       "alternatives": []
     },
     "ffb5bde90bb3cdc5f222": {

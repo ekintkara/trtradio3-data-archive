@@ -1,9 +1,33 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-01T12:22:58.064053+00:00",
+  "generated_at": "2026-11-02T14:17:17.821560+00:00",
   "radio_id": "show",
   "month": "2026-11",
   "episodes": {
+    "show/show-radyoda-yeni-gun/2026-11-02": {
+      "episode_id": "show/show-radyoda-yeni-gun/2026-11-02",
+      "radio_id": "show",
+      "program_id": 10838,
+      "program_slug": "show-radyoda-yeni-gun",
+      "program_name": "Show Radyo'da Yeni Gün",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-02",
+      "aired_at": "2026-11-02",
+      "track_count": 44
+    },
+    "show/muzik-show/2026-11-02": {
+      "episode_id": "show/muzik-show/2026-11-02",
+      "radio_id": "show",
+      "program_id": 10837,
+      "program_slug": "muzik-show",
+      "program_name": "Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 120.0,
+      "date": "2026-11-02",
+      "aired_at": "2026-11-02",
+      "track_count": 147
+    },
     "show/muzik-show/2026-11-01": {
       "episode_id": "show/muzik-show/2026-11-01",
       "radio_id": "show",
@@ -16,6 +40,18 @@
       "aired_at": "2026-11-01",
       "track_count": 146
     },
+    "show/hit-muzik/2026-11-02": {
+      "episode_id": "show/hit-muzik/2026-11-02",
+      "radio_id": "show",
+      "program_id": 10841,
+      "program_slug": "hit-muzik",
+      "program_name": "Hit Müzik",
+      "program_start_time": "15:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-02",
+      "aired_at": "2026-11-02",
+      "track_count": 44
+    },
     "show/hit-muzik/2026-11-01": {
       "episode_id": "show/hit-muzik/2026-11-01",
       "radio_id": "show",
@@ -27,6 +63,18 @@
       "date": "2026-11-01",
       "aired_at": "2026-11-01",
       "track_count": 170
+    },
+    "show/gunun-en-iyileri/2026-11-02": {
+      "episode_id": "show/gunun-en-iyileri/2026-11-02",
+      "radio_id": "show",
+      "program_id": 10840,
+      "program_slug": "gunun-en-iyileri",
+      "program_name": "Günün En İyileri",
+      "program_start_time": "14:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-02",
+      "aired_at": "2026-11-02",
+      "track_count": 20
     }
   }
 }
