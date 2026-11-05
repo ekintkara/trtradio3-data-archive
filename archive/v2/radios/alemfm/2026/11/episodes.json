@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-04T13:30:49.147850+00:00",
+  "generated_at": "2026-11-05T13:45:24.506366+00:00",
   "radio_id": "alemfm",
   "month": "2026-11",
   "episodes": {
+    "alemfm/serdar-gokalp-serdar-trafikte/2026-11-05": {
+      "episode_id": "alemfm/serdar-gokalp-serdar-trafikte/2026-11-05",
+      "radio_id": "alemfm",
+      "program_id": 12897,
+      "program_slug": "serdar-gokalp-serdar-trafikte",
+      "program_name": "Serdar Gökalp - Serdar Trafikte",
+      "program_start_time": "16:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-05",
+      "aired_at": "2026-11-05",
+      "track_count": 3
+    },
     "alemfm/serdar-gokalp-serdar-trafikte/2026-11-04": {
       "episode_id": "alemfm/serdar-gokalp-serdar-trafikte/2026-11-04",
       "radio_id": "alemfm",
@@ -52,6 +64,18 @@
       "aired_at": "2026-11-01",
       "track_count": 32
     },
+    "alemfm/fatih-yildirim-umut-bezgin-kafa-acan-uzman/2026-11-05": {
+      "episode_id": "alemfm/fatih-yildirim-umut-bezgin-kafa-acan-uzman/2026-11-05",
+      "radio_id": "alemfm",
+      "program_id": 12895,
+      "program_slug": "fatih-yildirim-umut-bezgin-kafa-acan-uzman",
+      "program_name": "Fatih Yıldırım & Umut Bezgin - Kafa Açan Uzman",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-05",
+      "aired_at": "2026-11-05",
+      "track_count": 16
+    },
     "alemfm/fatih-yildirim-umut-bezgin-kafa-acan-uzman/2026-11-04": {
       "episode_id": "alemfm/fatih-yildirim-umut-bezgin-kafa-acan-uzman/2026-11-04",
       "radio_id": "alemfm",
@@ -87,6 +111,18 @@
       "date": "2026-11-02",
       "aired_at": "2026-11-02",
       "track_count": 16
+    },
+    "alemfm/alemin-en-iyileri/2026-11-05": {
+      "episode_id": "alemfm/alemin-en-iyileri/2026-11-05",
+      "radio_id": "alemfm",
+      "program_id": 12896,
+      "program_slug": "alemin-en-iyileri",
+      "program_name": "Alem’in En İyileri",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-05",
+      "aired_at": "2026-11-05",
+      "track_count": 104
     },
     "alemfm/alemin-en-iyileri/2026-11-04": {
       "episode_id": "alemfm/alemin-en-iyileri/2026-11-04",
