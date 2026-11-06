@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-05T13:45:24.506366+00:00",
+  "generated_at": "2026-11-06T13:29:30.163207+00:00",
   "radio_id": "viva",
   "month": "2026-11",
   "episodes": {
+    "viva/vural-ozkan-konusuyor/2026-11-06": {
+      "episode_id": "viva/vural-ozkan-konusuyor/2026-11-06",
+      "radio_id": "viva",
+      "program_id": 13082,
+      "program_slug": "vural-ozkan-konusuyor",
+      "program_name": "Vural Özkan Konuşuyor",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-06",
+      "aired_at": "2026-11-06",
+      "track_count": 29
+    },
     "viva/vural-ozkan-konusuyor/2026-11-05": {
       "episode_id": "viva/vural-ozkan-konusuyor/2026-11-05",
       "radio_id": "viva",
@@ -63,6 +75,18 @@
       "date": "2026-11-01",
       "aired_at": "2026-11-01",
       "track_count": 21
+    },
+    "viva/turkce-muzigin-keyfi/2026-11-06": {
+      "episode_id": "viva/turkce-muzigin-keyfi/2026-11-06",
+      "radio_id": "viva",
+      "program_id": 13083,
+      "program_slug": "turkce-muzigin-keyfi",
+      "program_name": "Türkçe Müziğin Keyfi",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-06",
+      "aired_at": "2026-11-06",
+      "track_count": 110
     },
     "viva/turkce-muzigin-keyfi/2026-11-05": {
       "episode_id": "viva/turkce-muzigin-keyfi/2026-11-05",
@@ -124,6 +148,18 @@
       "aired_at": "2026-11-01",
       "track_count": 76
     },
+    "viva/muzik-viva/2026-11-06": {
+      "episode_id": "viva/muzik-viva/2026-11-06",
+      "radio_id": "viva",
+      "program_id": 13081,
+      "program_slug": "muzik-viva",
+      "program_name": "Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-06",
+      "aired_at": "2026-11-06",
+      "track_count": 150
+    },
     "viva/muzik-viva/2026-11-05": {
       "episode_id": "viva/muzik-viva/2026-11-05",
       "radio_id": "viva",
@@ -183,6 +219,18 @@
       "date": "2026-11-01",
       "aired_at": "2026-11-01",
       "track_count": 149
+    },
+    "viva/esen-kayar-ile-istek-hatti/2026-11-06": {
+      "episode_id": "viva/esen-kayar-ile-istek-hatti/2026-11-06",
+      "radio_id": "viva",
+      "program_id": 13084,
+      "program_slug": "esen-kayar-ile-istek-hatti",
+      "program_name": "Esen Kayar İle İstek Hattı",
+      "program_start_time": "15:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-06",
+      "aired_at": "2026-11-06",
+      "track_count": 25
     },
     "viva/esen-kayar-ile-istek-hatti/2026-11-05": {
       "episode_id": "viva/esen-kayar-ile-istek-hatti/2026-11-05",
