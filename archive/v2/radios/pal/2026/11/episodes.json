@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-06T13:29:30.163207+00:00",
+  "generated_at": "2026-11-07T12:09:16.163205+00:00",
   "radio_id": "pal",
   "month": "2026-11",
   "episodes": {
+    "pal/canli-yayin-pal/2026-11-07": {
+      "episode_id": "pal/canli-yayin-pal/2026-11-07",
+      "radio_id": "pal",
+      "program_id": 7294,
+      "program_slug": "canli-yayin-pal",
+      "program_name": "Canlı Yayın",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-07",
+      "aired_at": "2026-11-07",
+      "track_count": 374
+    },
     "pal/canli-yayin-pal/2026-11-06": {
       "episode_id": "pal/canli-yayin-pal/2026-11-06",
       "radio_id": "pal",
