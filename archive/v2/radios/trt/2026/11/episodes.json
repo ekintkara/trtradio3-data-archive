@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-09T14:45:19.072696+00:00",
+  "generated_at": "2026-11-10T13:59:54.173926+00:00",
   "radio_id": "trt",
   "month": "2026-11",
   "episodes": {
+    "trt/zamanin-ruhu/2026-11-10": {
+      "episode_id": "trt/zamanin-ruhu/2026-11-10",
+      "radio_id": "trt",
+      "program_id": 1645,
+      "program_slug": "zamanin-ruhu",
+      "program_name": "Zamanın Ruhu",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-10",
+      "aired_at": "2026-11-10",
+      "track_count": 12
+    },
     "trt/zamanin-ruhu/2026-11-03": {
       "episode_id": "trt/zamanin-ruhu/2026-11-03",
       "radio_id": "trt",
@@ -208,6 +220,18 @@
       "aired_at": "2026-11-05",
       "track_count": 3
     },
+    "trt/radyo-3-sabah/2026-11-10": {
+      "episode_id": "trt/radyo-3-sabah/2026-11-10",
+      "radio_id": "trt",
+      "program_id": -80967,
+      "program_slug": "radyo-3-sabah",
+      "program_name": "Radyo 3 Sabah",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-10",
+      "aired_at": "2026-11-10",
+      "track_count": 5
+    },
     "trt/radyo-3-sabah/2026-11-09": {
       "episode_id": "trt/radyo-3-sabah/2026-11-09",
       "radio_id": "trt",
@@ -315,6 +339,18 @@
       "date": "2026-11-01",
       "aired_at": "2026-11-01",
       "track_count": 15
+    },
+    "trt/radyo-3-gunisigi/2026-11-10": {
+      "episode_id": "trt/radyo-3-gunisigi/2026-11-10",
+      "radio_id": "trt",
+      "program_id": -50949,
+      "program_slug": "radyo-3-gunisigi",
+      "program_name": "Radyo 3 Günışığı",
+      "program_start_time": "07:05",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-10",
+      "aired_at": "2026-11-10",
+      "track_count": 13
     },
     "trt/radyo-3-gunisigi/2026-11-09": {
       "episode_id": "trt/radyo-3-gunisigi/2026-11-09",
@@ -460,6 +496,18 @@
       "aired_at": "2026-11-01",
       "track_count": 5
     },
+    "trt/muzikli-gunce/2026-11-10": {
+      "episode_id": "trt/muzikli-gunce/2026-11-10",
+      "radio_id": "trt",
+      "program_id": 142,
+      "program_slug": "muzikli-gunce",
+      "program_name": "Müzikli Günce",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-10",
+      "aired_at": "2026-11-10",
+      "track_count": 8
+    },
     "trt/muzikli-gunce/2026-11-03": {
       "episode_id": "trt/muzikli-gunce/2026-11-03",
       "radio_id": "trt",
@@ -483,6 +531,18 @@
       "date": "2026-11-04",
       "aired_at": "2026-11-04",
       "track_count": 1
+    },
+    "trt/muzigin-rotasi/2026-11-10": {
+      "episode_id": "trt/muzigin-rotasi/2026-11-10",
+      "radio_id": "trt",
+      "program_id": -68074,
+      "program_slug": "muzigin-rotasi",
+      "program_name": "Müziğin Rotası",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-10",
+      "aired_at": "2026-11-10",
+      "track_count": 2
     },
     "trt/muzigin-rotasi/2026-11-03": {
       "episode_id": "trt/muzigin-rotasi/2026-11-03",
@@ -688,6 +748,18 @@
       "aired_at": "2026-11-06",
       "track_count": 11
     },
+    "trt/gunumuzu-dinlemek/2026-11-10": {
+      "episode_id": "trt/gunumuzu-dinlemek/2026-11-10",
+      "radio_id": "trt",
+      "program_id": -67631,
+      "program_slug": "gunumuzu-dinlemek",
+      "program_name": "Günümüzü Dinlemek",
+      "program_start_time": "14:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-10",
+      "aired_at": "2026-11-10",
+      "track_count": 3
+    },
     "trt/gunumuzu-dinlemek/2026-11-03": {
       "episode_id": "trt/gunumuzu-dinlemek/2026-11-03",
       "radio_id": "trt",
@@ -724,6 +796,18 @@
       "aired_at": "2026-11-05",
       "track_count": 0
     },
+    "trt/gulsin-onayla-r-3-atolyesi/2026-11-10": {
+      "episode_id": "trt/gulsin-onayla-r-3-atolyesi/2026-11-10",
+      "radio_id": "trt",
+      "program_id": -42227,
+      "program_slug": "gulsin-onayla-r-3-atolyesi",
+      "program_name": "Gülsin Onay'la R-3 Atölyesi",
+      "program_start_time": "15:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-10",
+      "aired_at": "2026-11-10",
+      "track_count": 14
+    },
     "trt/gulsin-onayla-r-3-atolyesi/2026-11-03": {
       "episode_id": "trt/gulsin-onayla-r-3-atolyesi/2026-11-03",
       "radio_id": "trt",
@@ -759,6 +843,18 @@
       "date": "2026-11-04",
       "aired_at": "2026-11-04",
       "track_count": 0
+    },
+    "trt/gece-ve-muzik/2026-11-10": {
+      "episode_id": "trt/gece-ve-muzik/2026-11-10",
+      "radio_id": "trt",
+      "program_id": -62015,
+      "program_slug": "gece-ve-muzik",
+      "program_name": "Gece ve Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 300.0,
+      "date": "2026-11-10",
+      "aired_at": "2026-11-10",
+      "track_count": 8
     },
     "trt/gece-ve-muzik/2026-11-09": {
       "episode_id": "trt/gece-ve-muzik/2026-11-09",
@@ -891,6 +987,18 @@
       "date": "2026-11-08",
       "aired_at": "2026-11-08",
       "track_count": 2
+    },
+    "trt/ebu-euroclassic-notturno/2026-11-10": {
+      "episode_id": "trt/ebu-euroclassic-notturno/2026-11-10",
+      "radio_id": "trt",
+      "program_id": -40523,
+      "program_slug": "ebu-euroclassic-notturno",
+      "program_name": "Ebu Euroclassıc Notturno",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-10",
+      "aired_at": "2026-11-10",
+      "track_count": 38
     },
     "trt/ebu-euroclassic-notturno/2026-11-09": {
       "episode_id": "trt/ebu-euroclassic-notturno/2026-11-09",
@@ -1048,6 +1156,18 @@
       "aired_at": "2026-11-04",
       "track_count": 4
     },
+    "trt/dinleti/2026-11-10": {
+      "episode_id": "trt/dinleti/2026-11-10",
+      "radio_id": "trt",
+      "program_id": -5205,
+      "program_slug": "dinleti",
+      "program_name": "Dinleti",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-10",
+      "aired_at": "2026-11-10",
+      "track_count": 5
+    },
     "trt/dinleti/2026-11-03": {
       "episode_id": "trt/dinleti/2026-11-03",
       "radio_id": "trt",
@@ -1059,6 +1179,42 @@
       "date": "2026-11-03",
       "aired_at": "2026-11-03",
       "track_count": 10
+    },
+    "trt/digerkam/2026-11-10": {
+      "episode_id": "trt/digerkam/2026-11-10",
+      "radio_id": "trt",
+      "program_id": 1705,
+      "program_slug": "digerkam",
+      "program_name": "Diğerkâm",
+      "program_start_time": "16:30",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-10",
+      "aired_at": "2026-11-10",
+      "track_count": 0
+    },
+    "trt/democracy-now/2026-11-10": {
+      "episode_id": "trt/democracy-now/2026-11-10",
+      "radio_id": "trt",
+      "program_id": 1693,
+      "program_slug": "democracy-now",
+      "program_name": "Democracy Now!",
+      "program_start_time": "06:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-10",
+      "aired_at": "2026-11-10",
+      "track_count": 0
+    },
+    "trt/defterimdeki-notalar/2026-11-10": {
+      "episode_id": "trt/defterimdeki-notalar/2026-11-10",
+      "radio_id": "trt",
+      "program_id": -46431,
+      "program_slug": "defterimdeki-notalar",
+      "program_name": "Defterimdeki Notalar",
+      "program_start_time": "16:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-10",
+      "aired_at": "2026-11-10",
+      "track_count": 2
     },
     "trt/defterimdeki-notalar/2026-11-03": {
       "episode_id": "trt/defterimdeki-notalar/2026-11-03",
@@ -1239,6 +1395,18 @@
       "date": "2026-11-09",
       "aired_at": "2026-11-09",
       "track_count": 12
+    },
+    "trt/akdeniz-melodileri/2026-11-10": {
+      "episode_id": "trt/akdeniz-melodileri/2026-11-10",
+      "radio_id": "trt",
+      "program_id": -53633,
+      "program_slug": "akdeniz-melodileri",
+      "program_name": "Akdeniz Melodileri",
+      "program_start_time": "12:05",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-10",
+      "aired_at": "2026-11-10",
+      "track_count": 9
     }
   }
 }
