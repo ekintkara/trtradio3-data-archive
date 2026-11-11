@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T13:59:54.173926+00:00",
+  "generated_at": "2026-11-11T13:15:41.601292+00:00",
   "radio_id": "trt",
   "month": "2026-11",
   "episodes": {
@@ -62,6 +62,18 @@
       "recording_start_offset_sec": 0.0,
       "date": "2026-11-06",
       "aired_at": "2026-11-06",
+      "track_count": 3
+    },
+    "trt/yeni-muzige-dogru/2026-11-11": {
+      "episode_id": "trt/yeni-muzige-dogru/2026-11-11",
+      "radio_id": "trt",
+      "program_id": -70235,
+      "program_slug": "yeni-muzige-dogru",
+      "program_name": "Yeni Müziğe Doğru",
+      "program_start_time": "14:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-11",
+      "aired_at": "2026-11-11",
       "track_count": 3
     },
     "trt/yeni-muzige-dogru/2026-11-04": {
@@ -136,6 +148,18 @@
       "aired_at": "2026-11-01",
       "track_count": 1
     },
+    "trt/trt-ankara-radyosu-coksesli-korosu/2026-11-11": {
+      "episode_id": "trt/trt-ankara-radyosu-coksesli-korosu/2026-11-11",
+      "radio_id": "trt",
+      "program_id": -42839,
+      "program_slug": "trt-ankara-radyosu-coksesli-korosu",
+      "program_name": "TRT Ankara Radyosu Çoksesli Korosu",
+      "program_start_time": "09:30",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-11",
+      "aired_at": "2026-11-11",
+      "track_count": 2
+    },
     "trt/trt-ankara-radyosu-coksesli-korosu/2026-11-04": {
       "episode_id": "trt/trt-ankara-radyosu-coksesli-korosu/2026-11-04",
       "radio_id": "trt",
@@ -146,6 +170,18 @@
       "recording_start_offset_sec": 0.0,
       "date": "2026-11-04",
       "aired_at": "2026-11-04",
+      "track_count": 0
+    },
+    "trt/troubadour/2026-11-11": {
+      "episode_id": "trt/troubadour/2026-11-11",
+      "radio_id": "trt",
+      "program_id": -94503,
+      "program_slug": "troubadour",
+      "program_name": "Troubadour",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-11",
+      "aired_at": "2026-11-11",
       "track_count": 0
     },
     "trt/troubadour/2026-11-04": {
@@ -219,6 +255,18 @@
       "date": "2026-11-05",
       "aired_at": "2026-11-05",
       "track_count": 3
+    },
+    "trt/radyo-3-sabah/2026-11-11": {
+      "episode_id": "trt/radyo-3-sabah/2026-11-11",
+      "radio_id": "trt",
+      "program_id": -24889,
+      "program_slug": "radyo-3-sabah",
+      "program_name": "Radyo 3 Sabah",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-11",
+      "aired_at": "2026-11-11",
+      "track_count": 8
     },
     "trt/radyo-3-sabah/2026-11-10": {
       "episode_id": "trt/radyo-3-sabah/2026-11-10",
@@ -339,6 +387,18 @@
       "date": "2026-11-01",
       "aired_at": "2026-11-01",
       "track_count": 15
+    },
+    "trt/radyo-3-gunisigi/2026-11-11": {
+      "episode_id": "trt/radyo-3-gunisigi/2026-11-11",
+      "radio_id": "trt",
+      "program_id": -68091,
+      "program_slug": "radyo-3-gunisigi",
+      "program_name": "Radyo 3 Günışığı",
+      "program_start_time": "07:05",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-11",
+      "aired_at": "2026-11-11",
+      "track_count": 17
     },
     "trt/radyo-3-gunisigi/2026-11-10": {
       "episode_id": "trt/radyo-3-gunisigi/2026-11-10",
@@ -519,6 +579,18 @@
       "date": "2026-11-03",
       "aired_at": "2026-11-03",
       "track_count": 2
+    },
+    "trt/muzik-mozaik/2026-11-11": {
+      "episode_id": "trt/muzik-mozaik/2026-11-11",
+      "radio_id": "trt",
+      "program_id": -27341,
+      "program_slug": "muzik-mozaik",
+      "program_name": "Müzik Mozaik",
+      "program_start_time": "12:05",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-11",
+      "aired_at": "2026-11-11",
+      "track_count": 9
     },
     "trt/muzik-mozaik/2026-11-04": {
       "episode_id": "trt/muzik-mozaik/2026-11-04",
@@ -832,6 +904,18 @@
       "aired_at": "2026-11-07",
       "track_count": 5
     },
+    "trt/gecit/2026-11-11": {
+      "episode_id": "trt/gecit/2026-11-11",
+      "radio_id": "trt",
+      "program_id": -17418,
+      "program_slug": "gecit",
+      "program_name": "Geçit",
+      "program_start_time": "16:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-11",
+      "aired_at": "2026-11-11",
+      "track_count": 1
+    },
     "trt/gecit/2026-11-04": {
       "episode_id": "trt/gecit/2026-11-04",
       "radio_id": "trt",
@@ -843,6 +927,18 @@
       "date": "2026-11-04",
       "aired_at": "2026-11-04",
       "track_count": 0
+    },
+    "trt/gece-ve-muzik/2026-11-11": {
+      "episode_id": "trt/gece-ve-muzik/2026-11-11",
+      "radio_id": "trt",
+      "program_id": -67328,
+      "program_slug": "gece-ve-muzik",
+      "program_name": "Gece ve Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 300.0,
+      "date": "2026-11-11",
+      "aired_at": "2026-11-11",
+      "track_count": 12
     },
     "trt/gece-ve-muzik/2026-11-10": {
       "episode_id": "trt/gece-ve-muzik/2026-11-10",
@@ -987,6 +1083,18 @@
       "date": "2026-11-08",
       "aired_at": "2026-11-08",
       "track_count": 2
+    },
+    "trt/ebu-euroclassic-notturno/2026-11-11": {
+      "episode_id": "trt/ebu-euroclassic-notturno/2026-11-11",
+      "radio_id": "trt",
+      "program_id": -67718,
+      "program_slug": "ebu-euroclassic-notturno",
+      "program_name": "Ebu Euroclassıc Notturno",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-11",
+      "aired_at": "2026-11-11",
+      "track_count": 27
     },
     "trt/ebu-euroclassic-notturno/2026-11-10": {
       "episode_id": "trt/ebu-euroclassic-notturno/2026-11-10",
@@ -1144,6 +1252,18 @@
       "aired_at": "2026-11-06",
       "track_count": 6
     },
+    "trt/dogunun-bati-yuzu/2026-11-11": {
+      "episode_id": "trt/dogunun-bati-yuzu/2026-11-11",
+      "radio_id": "trt",
+      "program_id": -40777,
+      "program_slug": "dogunun-bati-yuzu",
+      "program_name": "Doğunun Batı Yüzü",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-11",
+      "aired_at": "2026-11-11",
+      "track_count": 1
+    },
     "trt/dogunun-bati-yuzu/2026-11-04": {
       "episode_id": "trt/dogunun-bati-yuzu/2026-11-04",
       "radio_id": "trt",
@@ -1252,6 +1372,18 @@
       "aired_at": "2026-11-02",
       "track_count": 3
     },
+    "trt/calgilar-ve-ezgiler/2026-11-11": {
+      "episode_id": "trt/calgilar-ve-ezgiler/2026-11-11",
+      "radio_id": "trt",
+      "program_id": -6179,
+      "program_slug": "calgilar-ve-ezgiler",
+      "program_name": "Çalgılar Ve Ezgiler",
+      "program_start_time": "15:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-11",
+      "aired_at": "2026-11-11",
+      "track_count": 3
+    },
     "trt/calgilar-ve-ezgiler/2026-11-04": {
       "episode_id": "trt/calgilar-ve-ezgiler/2026-11-04",
       "radio_id": "trt",
@@ -1288,6 +1420,18 @@
       "aired_at": "2026-11-02",
       "track_count": 10
     },
+    "trt/buyuk-senfoniler/2026-11-11": {
+      "episode_id": "trt/buyuk-senfoniler/2026-11-11",
+      "radio_id": "trt",
+      "program_id": 1593,
+      "program_slug": "buyuk-senfoniler",
+      "program_name": "Büyük Senfoniler",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-11",
+      "aired_at": "2026-11-11",
+      "track_count": 5
+    },
     "trt/buyuk-senfoniler/2026-11-04": {
       "episode_id": "trt/buyuk-senfoniler/2026-11-04",
       "radio_id": "trt",
@@ -1299,6 +1443,18 @@
       "date": "2026-11-04",
       "aired_at": "2026-11-04",
       "track_count": 1
+    },
+    "trt/bursadan-senfonik-tinilar/2026-11-11": {
+      "episode_id": "trt/bursadan-senfonik-tinilar/2026-11-11",
+      "radio_id": "trt",
+      "program_id": -3385,
+      "program_slug": "bursadan-senfonik-tinilar",
+      "program_name": "Bursa'dan Senfonik Tınılar",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-11",
+      "aired_at": "2026-11-11",
+      "track_count": 0
     },
     "trt/bursadan-senfonik-tinilar/2026-11-04": {
       "episode_id": "trt/bursadan-senfonik-tinilar/2026-11-04",
@@ -1383,6 +1539,18 @@
       "date": "2026-11-02",
       "aired_at": "2026-11-02",
       "track_count": 6
+    },
+    "trt/altin-saatler/2026-11-11": {
+      "episode_id": "trt/altin-saatler/2026-11-11",
+      "radio_id": "trt",
+      "program_id": 1726,
+      "program_slug": "altin-saatler",
+      "program_name": "Altın Saatler",
+      "program_start_time": "15:30",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-11",
+      "aired_at": "2026-11-11",
+      "track_count": 0
     },
     "trt/allegro/2026-11-09": {
       "episode_id": "trt/allegro/2026-11-09",
