@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-14T12:45:28.644579+00:00",
+  "generated_at": "2026-11-15T13:12:43.232907+00:00",
   "radio_id": "trt",
   "month": "2026-11",
   "episodes": {
@@ -27,6 +27,18 @@
       "date": "2026-11-03",
       "aired_at": "2026-11-03",
       "track_count": 8
+    },
+    "trt/yuzyillar-boyu-insan-sesi/2026-11-15": {
+      "episode_id": "trt/yuzyillar-boyu-insan-sesi/2026-11-15",
+      "radio_id": "trt",
+      "program_id": -87644,
+      "program_slug": "yuzyillar-boyu-insan-sesi",
+      "program_name": "Yüzyıllar Boyu İnsan Sesi",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-15",
+      "aired_at": "2026-11-15",
+      "track_count": 1
     },
     "trt/yuzyillar-boyu-insan-sesi/2026-11-08": {
       "episode_id": "trt/yuzyillar-boyu-insan-sesi/2026-11-08",
@@ -100,6 +112,18 @@
       "aired_at": "2026-11-04",
       "track_count": 3
     },
+    "trt/yeni-baslayanlar-icin-opera/2026-11-15": {
+      "episode_id": "trt/yeni-baslayanlar-icin-opera/2026-11-15",
+      "radio_id": "trt",
+      "program_id": -17299,
+      "program_slug": "yeni-baslayanlar-icin-opera",
+      "program_name": "Yeni Başlayanlar İçin Opera",
+      "program_start_time": "15:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-15",
+      "aired_at": "2026-11-15",
+      "track_count": 5
+    },
     "trt/yeni-baslayanlar-icin-opera/2026-11-08": {
       "episode_id": "trt/yeni-baslayanlar-icin-opera/2026-11-08",
       "radio_id": "trt",
@@ -147,6 +171,18 @@
       "date": "2026-11-05",
       "aired_at": "2026-11-05",
       "track_count": 0
+    },
+    "trt/trt-coksesli-genclik-ve-cocuk-korolari/2026-11-15": {
+      "episode_id": "trt/trt-coksesli-genclik-ve-cocuk-korolari/2026-11-15",
+      "radio_id": "trt",
+      "program_id": -70746,
+      "program_slug": "trt-coksesli-genclik-ve-cocuk-korolari",
+      "program_name": "TRT Çoksesli Gençlik ve Çocuk Koroları",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-15",
+      "aired_at": "2026-11-15",
+      "track_count": 1
     },
     "trt/trt-coksesli-genclik-ve-cocuk-korolari/2026-11-08": {
       "episode_id": "trt/trt-coksesli-genclik-ve-cocuk-korolari/2026-11-08",
@@ -339,6 +375,18 @@
       "date": "2026-11-05",
       "aired_at": "2026-11-05",
       "track_count": 3
+    },
+    "trt/radyo-3-sabah/2026-11-15": {
+      "episode_id": "trt/radyo-3-sabah/2026-11-15",
+      "radio_id": "trt",
+      "program_id": -47013,
+      "program_slug": "radyo-3-sabah",
+      "program_name": "Radyo 3 Sabah",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-15",
+      "aired_at": "2026-11-15",
+      "track_count": 7
     },
     "trt/radyo-3-sabah/2026-11-14": {
       "episode_id": "trt/radyo-3-sabah/2026-11-14",
@@ -724,6 +772,18 @@
       "aired_at": "2026-11-05",
       "track_count": 8
     },
+    "trt/muzikli-masallar/2026-11-15": {
+      "episode_id": "trt/muzikli-masallar/2026-11-15",
+      "radio_id": "trt",
+      "program_id": -91734,
+      "program_slug": "muzikli-masallar",
+      "program_name": "Müzikli Masallar",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-15",
+      "aired_at": "2026-11-15",
+      "track_count": 4
+    },
     "trt/muzikli-masallar/2026-11-08": {
       "episode_id": "trt/muzikli-masallar/2026-11-08",
       "radio_id": "trt",
@@ -820,6 +880,18 @@
       "aired_at": "2026-11-03",
       "track_count": 6
     },
+    "trt/muzigin-portresi/2026-11-15": {
+      "episode_id": "trt/muzigin-portresi/2026-11-15",
+      "radio_id": "trt",
+      "program_id": -98932,
+      "program_slug": "muzigin-portresi",
+      "program_name": "Müziğin Portresi",
+      "program_start_time": "14:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-15",
+      "aired_at": "2026-11-15",
+      "track_count": 3
+    },
     "trt/muzigin-portresi/2026-11-08": {
       "episode_id": "trt/muzigin-portresi/2026-11-08",
       "radio_id": "trt",
@@ -843,6 +915,18 @@
       "date": "2026-11-01",
       "aired_at": "2026-11-01",
       "track_count": 6
+    },
+    "trt/muzige-adanmis-yasamlar/2026-11-15": {
+      "episode_id": "trt/muzige-adanmis-yasamlar/2026-11-15",
+      "radio_id": "trt",
+      "program_id": -29659,
+      "program_slug": "muzige-adanmis-yasamlar",
+      "program_name": "Müziğe Adanmış Yaşamlar",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-15",
+      "aired_at": "2026-11-15",
+      "track_count": 2
     },
     "trt/muzige-adanmis-yasamlar/2026-11-08": {
       "episode_id": "trt/muzige-adanmis-yasamlar/2026-11-08",
@@ -879,6 +963,18 @@
       "date": "2026-11-08",
       "aired_at": "2026-11-08",
       "track_count": 0
+    },
+    "trt/metamorfoz/2026-11-15": {
+      "episode_id": "trt/metamorfoz/2026-11-15",
+      "radio_id": "trt",
+      "program_id": 1594,
+      "program_slug": "metamorfoz",
+      "program_name": "Metamorfoz",
+      "program_start_time": "11:15",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-15",
+      "aired_at": "2026-11-15",
+      "track_count": 22
     },
     "trt/metamorfoz/2026-11-08": {
       "episode_id": "trt/metamorfoz/2026-11-08",
@@ -951,6 +1047,18 @@
       "date": "2026-11-07",
       "aired_at": "2026-11-07",
       "track_count": 3
+    },
+    "trt/kulturler-arasinda/2026-11-15": {
+      "episode_id": "trt/kulturler-arasinda/2026-11-15",
+      "radio_id": "trt",
+      "program_id": -87974,
+      "program_slug": "kulturler-arasinda",
+      "program_name": "Kültürler Arasında",
+      "program_start_time": "07:05",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-15",
+      "aired_at": "2026-11-15",
+      "track_count": 12
     },
     "trt/kulturler-arasinda/2026-11-08": {
       "episode_id": "trt/kulturler-arasinda/2026-11-08",
@@ -1180,6 +1288,18 @@
       "aired_at": "2026-11-04",
       "track_count": 0
     },
+    "trt/gece-ve-muzik/2026-11-15": {
+      "episode_id": "trt/gece-ve-muzik/2026-11-15",
+      "radio_id": "trt",
+      "program_id": -70136,
+      "program_slug": "gece-ve-muzik",
+      "program_name": "Gece ve Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 300.0,
+      "date": "2026-11-15",
+      "aired_at": "2026-11-15",
+      "track_count": 14
+    },
     "trt/gece-ve-muzik/2026-11-14": {
       "episode_id": "trt/gece-ve-muzik/2026-11-14",
       "radio_id": "trt",
@@ -1372,6 +1492,18 @@
       "aired_at": "2026-11-05",
       "track_count": 6
     },
+    "trt/eksi-80/2026-11-15": {
+      "episode_id": "trt/eksi-80/2026-11-15",
+      "radio_id": "trt",
+      "program_id": -77911,
+      "program_slug": "eksi-80",
+      "program_name": "Eksi 80",
+      "program_start_time": "12:05",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-15",
+      "aired_at": "2026-11-15",
+      "track_count": 15
+    },
     "trt/eksi-80/2026-11-08": {
       "episode_id": "trt/eksi-80/2026-11-08",
       "radio_id": "trt",
@@ -1383,6 +1515,18 @@
       "date": "2026-11-08",
       "aired_at": "2026-11-08",
       "track_count": 2
+    },
+    "trt/ebu-euroclassic-notturno/2026-11-15": {
+      "episode_id": "trt/ebu-euroclassic-notturno/2026-11-15",
+      "radio_id": "trt",
+      "program_id": -28718,
+      "program_slug": "ebu-euroclassic-notturno",
+      "program_name": "Ebu Euroclassıc Notturno",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-15",
+      "aired_at": "2026-11-15",
+      "track_count": 32
     },
     "trt/ebu-euroclassic-notturno/2026-11-14": {
       "episode_id": "trt/ebu-euroclassic-notturno/2026-11-14",
