@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-19T14:57:42.214276+00:00",
+  "generated_at": "2026-11-20T14:39:26.018586+00:00",
   "radio_id": "acikradyo",
   "month": "2026-11",
   "episodes": {
@@ -39,6 +39,18 @@
       "date": "2026-11-04",
       "aired_at": "2026-11-04",
       "track_count": 5
+    },
+    "acikradyo/yeryuzu-tanigi/2026-11-20": {
+      "episode_id": "acikradyo/yeryuzu-tanigi/2026-11-20",
+      "radio_id": "acikradyo",
+      "program_id": 1764,
+      "program_slug": "yeryuzu-tanigi",
+      "program_name": "Yeryüzü Tanığı",
+      "program_start_time": "10:30",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 2
     },
     "acikradyo/yeryuzu-tanigi/2026-11-13": {
       "episode_id": "acikradyo/yeryuzu-tanigi/2026-11-13",
@@ -268,6 +280,18 @@
       "aired_at": "2026-11-04",
       "track_count": 5
     },
+    "acikradyo/sinefil/2026-11-20": {
+      "episode_id": "acikradyo/sinefil/2026-11-20",
+      "radio_id": "acikradyo",
+      "program_id": 1770,
+      "program_slug": "sinefil",
+      "program_name": "Sinefil",
+      "program_start_time": "15:30",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 8
+    },
     "acikradyo/sinefil/2026-11-13": {
       "episode_id": "acikradyo/sinefil/2026-11-13",
       "radio_id": "acikradyo",
@@ -291,6 +315,18 @@
       "date": "2026-11-06",
       "aired_at": "2026-11-06",
       "track_count": 4
+    },
+    "acikradyo/sevgili-gunluk/2026-11-20": {
+      "episode_id": "acikradyo/sevgili-gunluk/2026-11-20",
+      "radio_id": "acikradyo",
+      "program_id": 1763,
+      "program_slug": "sevgili-gunluk",
+      "program_name": "Sevgili Günlük",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 6
     },
     "acikradyo/sevgili-gunluk/2026-11-19": {
       "episode_id": "acikradyo/sevgili-gunluk/2026-11-19",
@@ -531,6 +567,18 @@
       "date": "2026-11-18",
       "aired_at": "2026-11-18",
       "track_count": 4
+    },
+    "acikradyo/sabahlik/2026-11-20": {
+      "episode_id": "acikradyo/sabahlik/2026-11-20",
+      "radio_id": "acikradyo",
+      "program_id": 1761,
+      "program_slug": "sabahlik",
+      "program_name": "Sabahlık",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 16
     },
     "acikradyo/sabahlik/2026-11-19": {
       "episode_id": "acikradyo/sabahlik/2026-11-19",
@@ -808,6 +856,18 @@
       "aired_at": "2026-11-02",
       "track_count": 7
     },
+    "acikradyo/once-saglik/2026-11-20": {
+      "episode_id": "acikradyo/once-saglik/2026-11-20",
+      "radio_id": "acikradyo",
+      "program_id": 1767,
+      "program_slug": "once-saglik",
+      "program_name": "Önce Sağlık",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 3
+    },
     "acikradyo/once-saglik/2026-11-13": {
       "episode_id": "acikradyo/once-saglik/2026-11-13",
       "radio_id": "acikradyo",
@@ -988,6 +1048,18 @@
       "aired_at": "2026-11-02",
       "track_count": 11
     },
+    "acikradyo/metalyer/2026-11-20": {
+      "episode_id": "acikradyo/metalyer/2026-11-20",
+      "radio_id": "acikradyo",
+      "program_id": 1757,
+      "program_slug": "metalyer",
+      "program_name": "Metalyer",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 9
+    },
     "acikradyo/metalyer/2026-11-13": {
       "episode_id": "acikradyo/metalyer/2026-11-13",
       "radio_id": "acikradyo",
@@ -1107,6 +1179,18 @@
       "date": "2026-11-01",
       "aired_at": "2026-11-01",
       "track_count": 18
+    },
+    "acikradyo/kopuk-baglar/2026-11-20": {
+      "episode_id": "acikradyo/kopuk-baglar/2026-11-20",
+      "radio_id": "acikradyo",
+      "program_id": 1768,
+      "program_slug": "kopuk-baglar",
+      "program_name": "Kopuk Bağlar",
+      "program_start_time": "14:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 3
     },
     "acikradyo/kopuk-baglar/2026-11-13": {
       "episode_id": "acikradyo/kopuk-baglar/2026-11-13",
@@ -1240,6 +1324,18 @@
       "aired_at": "2026-11-04",
       "track_count": 12
     },
+    "acikradyo/kavanozdaki-yildiz/2026-11-20": {
+      "episode_id": "acikradyo/kavanozdaki-yildiz/2026-11-20",
+      "radio_id": "acikradyo",
+      "program_id": 1771,
+      "program_slug": "kavanozdaki-yildiz",
+      "program_name": "Kavanozdaki Yıldız",
+      "program_start_time": "16:30",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 2
+    },
     "acikradyo/hukuk-guvenligi/2026-11-19": {
       "episode_id": "acikradyo/hukuk-guvenligi/2026-11-19",
       "radio_id": "acikradyo",
@@ -1264,6 +1360,18 @@
       "aired_at": "2026-11-05",
       "track_count": 5
     },
+    "acikradyo/hikayenin-her-hali/2026-11-20": {
+      "episode_id": "acikradyo/hikayenin-her-hali/2026-11-20",
+      "radio_id": "acikradyo",
+      "program_id": 1765,
+      "program_slug": "hikayenin-her-hali",
+      "program_name": "Hikâyenin Her Hali",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 17
+    },
     "acikradyo/hikayenin-her-hali/2026-11-13": {
       "episode_id": "acikradyo/hikayenin-her-hali/2026-11-13",
       "radio_id": "acikradyo",
@@ -1287,6 +1395,18 @@
       "date": "2026-11-06",
       "aired_at": "2026-11-06",
       "track_count": 5
+    },
+    "acikradyo/headroom/2026-11-20": {
+      "episode_id": "acikradyo/headroom/2026-11-20",
+      "radio_id": "acikradyo",
+      "program_id": 1766,
+      "program_slug": "headroom",
+      "program_name": "Headroom",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 13
     },
     "acikradyo/headroom/2026-11-13": {
       "episode_id": "acikradyo/headroom/2026-11-13",
@@ -1624,6 +1744,18 @@
       "aired_at": "2026-11-04",
       "track_count": 7
     },
+    "acikradyo/eclectic-dreams/2026-11-20": {
+      "episode_id": "acikradyo/eclectic-dreams/2026-11-20",
+      "radio_id": "acikradyo",
+      "program_id": 1758,
+      "program_slug": "eclectic-dreams",
+      "program_name": "Eclectic Dreams",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 7
+    },
     "acikradyo/eclectic-dreams/2026-11-13": {
       "episode_id": "acikradyo/eclectic-dreams/2026-11-13",
       "radio_id": "acikradyo",
@@ -1707,6 +1839,18 @@
       "date": "2026-11-03",
       "aired_at": "2026-11-03",
       "track_count": 2
+    },
+    "acikradyo/dunyanin-cazi/2026-11-20": {
+      "episode_id": "acikradyo/dunyanin-cazi/2026-11-20",
+      "radio_id": "acikradyo",
+      "program_id": 1772,
+      "program_slug": "dunyanin-cazi",
+      "program_name": "Dünyanın Cazı",
+      "program_start_time": "17:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 5
     },
     "acikradyo/dunyanin-cazi/2026-11-19": {
       "episode_id": "acikradyo/dunyanin-cazi/2026-11-19",
@@ -1863,6 +2007,18 @@
       "date": "2026-11-17",
       "aired_at": "2026-11-17",
       "track_count": 2
+    },
+    "acikradyo/democracy-now/2026-11-20": {
+      "episode_id": "acikradyo/democracy-now/2026-11-20",
+      "radio_id": "acikradyo",
+      "program_id": 1760,
+      "program_slug": "democracy-now",
+      "program_name": "Democracy Now!",
+      "program_start_time": "06:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 6
     },
     "acikradyo/democracy-now/2026-11-19": {
       "episode_id": "acikradyo/democracy-now/2026-11-19",
@@ -2223,6 +2379,18 @@
       "date": "2026-11-02",
       "aired_at": "2026-11-02",
       "track_count": 16
+    },
+    "acikradyo/apacik-radyo-muzikleri/2026-11-20": {
+      "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-11-20",
+      "radio_id": "acikradyo",
+      "program_id": 1759,
+      "program_slug": "apacik-radyo-muzikleri",
+      "program_name": "Apaçık Radyo Müzikleri",
+      "program_start_time": "02:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 44
     },
     "acikradyo/apacik-radyo-muzikleri/2026-11-19": {
       "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-11-19",
@@ -2620,6 +2788,18 @@
       "aired_at": "2026-11-01",
       "track_count": 6
     },
+    "acikradyo/adagiodan-prestoya/2026-11-20": {
+      "episode_id": "acikradyo/adagiodan-prestoya/2026-11-20",
+      "radio_id": "acikradyo",
+      "program_id": 1769,
+      "program_slug": "adagiodan-prestoya",
+      "program_name": "Adagio’dan Presto’ya",
+      "program_start_time": "14:30",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 8
+    },
     "acikradyo/adagiodan-prestoya/2026-11-13": {
       "episode_id": "acikradyo/adagiodan-prestoya/2026-11-13",
       "radio_id": "acikradyo",
@@ -2774,6 +2954,18 @@
       "recording_start_offset_sec": 0.0,
       "date": "2026-11-07",
       "aired_at": "2026-11-07",
+      "track_count": 12
+    },
+    "acikradyo/acik-gazete/2026-11-20": {
+      "episode_id": "acikradyo/acik-gazete/2026-11-20",
+      "radio_id": "acikradyo",
+      "program_id": 1762,
+      "program_slug": "acik-gazete",
+      "program_name": "Açık Gazete",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
       "track_count": 12
     },
     "acikradyo/acik-gazete/2026-11-19": {

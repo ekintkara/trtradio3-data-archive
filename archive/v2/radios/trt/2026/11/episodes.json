@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-19T14:57:42.214276+00:00",
+  "generated_at": "2026-11-20T14:39:26.018586+00:00",
   "radio_id": "trt",
   "month": "2026-11",
   "episodes": {
@@ -74,6 +74,18 @@
       "recording_start_offset_sec": 0.0,
       "date": "2026-11-01",
       "aired_at": "2026-11-01",
+      "track_count": 4
+    },
+    "trt/yorumlar-yorumcular/2026-11-20": {
+      "episode_id": "trt/yorumlar-yorumcular/2026-11-20",
+      "radio_id": "trt",
+      "program_id": -29251,
+      "program_slug": "yorumlar-yorumcular",
+      "program_name": "Yorumlar Yorumcular",
+      "program_start_time": "14:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
       "track_count": 4
     },
     "trt/yorumlar-yorumcular/2026-11-13": {
@@ -400,6 +412,18 @@
       "aired_at": "2026-11-07",
       "track_count": 2
     },
+    "trt/sakli-notalar/2026-11-20": {
+      "episode_id": "trt/sakli-notalar/2026-11-20",
+      "radio_id": "trt",
+      "program_id": -24156,
+      "program_slug": "sakli-notalar",
+      "program_name": "Saklı Notalar",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 4
+    },
     "trt/sakli-notalar/2026-11-13": {
       "episode_id": "trt/sakli-notalar/2026-11-13",
       "radio_id": "trt",
@@ -459,6 +483,18 @@
       "date": "2026-11-05",
       "aired_at": "2026-11-05",
       "track_count": 3
+    },
+    "trt/radyo-3-sabah/2026-11-20": {
+      "episode_id": "trt/radyo-3-sabah/2026-11-20",
+      "radio_id": "trt",
+      "program_id": -35607,
+      "program_slug": "radyo-3-sabah",
+      "program_name": "Radyo 3 Sabah",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 6
     },
     "trt/radyo-3-sabah/2026-11-19": {
       "episode_id": "trt/radyo-3-sabah/2026-11-19",
@@ -688,6 +724,18 @@
       "aired_at": "2026-11-01",
       "track_count": 15
     },
+    "trt/radyo-3-gunisigi/2026-11-20": {
+      "episode_id": "trt/radyo-3-gunisigi/2026-11-20",
+      "radio_id": "trt",
+      "program_id": -41643,
+      "program_slug": "radyo-3-gunisigi",
+      "program_name": "Radyo 3 Günışığı",
+      "program_start_time": "07:05",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 5
+    },
     "trt/radyo-3-gunisigi/2026-11-19": {
       "episode_id": "trt/radyo-3-gunisigi/2026-11-19",
       "radio_id": "trt",
@@ -879,6 +927,18 @@
       "date": "2026-11-02",
       "aired_at": "2026-11-02",
       "track_count": 20
+    },
+    "trt/pervane/2026-11-20": {
+      "episode_id": "trt/pervane/2026-11-20",
+      "radio_id": "trt",
+      "program_id": -46170,
+      "program_slug": "pervane",
+      "program_name": "Pervane",
+      "program_start_time": "15:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 15
     },
     "trt/pervane/2026-11-13": {
       "episode_id": "trt/pervane/2026-11-13",
@@ -1288,6 +1348,18 @@
       "aired_at": "2026-11-01",
       "track_count": 4
     },
+    "trt/maestronun-gunlugu/2026-11-20": {
+      "episode_id": "trt/maestronun-gunlugu/2026-11-20",
+      "radio_id": "trt",
+      "program_id": -95249,
+      "program_slug": "maestronun-gunlugu",
+      "program_name": "Maestro'nun Günlüğü",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 2
+    },
     "trt/maestronun-gunlugu/2026-11-13": {
       "episode_id": "trt/maestronun-gunlugu/2026-11-13",
       "radio_id": "trt",
@@ -1359,6 +1431,18 @@
       "date": "2026-11-08",
       "aired_at": "2026-11-08",
       "track_count": 10
+    },
+    "trt/klasik-muzikle-dunya-turu/2026-11-20": {
+      "episode_id": "trt/klasik-muzikle-dunya-turu/2026-11-20",
+      "radio_id": "trt",
+      "program_id": -78904,
+      "program_slug": "klasik-muzikle-dunya-turu",
+      "program_name": "Klasik Müzikle Dünya Turu",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 7
     },
     "trt/klasik-muzikle-dunya-turu/2026-11-13": {
       "episode_id": "trt/klasik-muzikle-dunya-turu/2026-11-13",
@@ -1467,6 +1551,18 @@
       "date": "2026-11-13",
       "aired_at": "2026-11-13",
       "track_count": 0
+    },
+    "trt/ileri-frekans/2026-11-20": {
+      "episode_id": "trt/ileri-frekans/2026-11-20",
+      "radio_id": "trt",
+      "program_id": -45410,
+      "program_slug": "ileri-frekans",
+      "program_name": "İleri Frekans",
+      "program_start_time": "17:05",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 3
     },
     "trt/iklimlere-yolculuk/2026-11-06": {
       "episode_id": "trt/iklimlere-yolculuk/2026-11-06",
@@ -1647,6 +1743,18 @@
       "date": "2026-11-04",
       "aired_at": "2026-11-04",
       "track_count": 0
+    },
+    "trt/gece-ve-muzik/2026-11-20": {
+      "episode_id": "trt/gece-ve-muzik/2026-11-20",
+      "radio_id": "trt",
+      "program_id": -71341,
+      "program_slug": "gece-ve-muzik",
+      "program_name": "Gece ve Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 19
     },
     "trt/gece-ve-muzik/2026-11-19": {
       "episode_id": "trt/gece-ve-muzik/2026-11-19",
@@ -1936,6 +2044,18 @@
       "aired_at": "2026-11-08",
       "track_count": 2
     },
+    "trt/ebu-euroclassic-notturno/2026-11-20": {
+      "episode_id": "trt/ebu-euroclassic-notturno/2026-11-20",
+      "radio_id": "trt",
+      "program_id": -35522,
+      "program_slug": "ebu-euroclassic-notturno",
+      "program_name": "Ebu Euroclassıc Notturno",
+      "program_start_time": "01:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 13
+    },
     "trt/ebu-euroclassic-notturno/2026-11-19": {
       "episode_id": "trt/ebu-euroclassic-notturno/2026-11-19",
       "radio_id": "trt",
@@ -2199,6 +2319,18 @@
       "date": "2026-11-02",
       "aired_at": "2026-11-02",
       "track_count": 6
+    },
+    "trt/dunya-sahne-ve-studyolarindan/2026-11-20": {
+      "episode_id": "trt/dunya-sahne-ve-studyolarindan/2026-11-20",
+      "radio_id": "trt",
+      "program_id": -61363,
+      "program_slug": "dunya-sahne-ve-studyolarindan",
+      "program_name": "Dünya Sahne Ve Stüdyolarından",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 11
     },
     "trt/dunya-sahne-ve-studyolarindan/2026-11-13": {
       "episode_id": "trt/dunya-sahne-ve-studyolarindan/2026-11-13",
@@ -2619,6 +2751,18 @@
       "date": "2026-11-07",
       "aired_at": "2026-11-07",
       "track_count": 9
+    },
+    "trt/atmosfer/2026-11-20": {
+      "episode_id": "trt/atmosfer/2026-11-20",
+      "radio_id": "trt",
+      "program_id": 1500,
+      "program_slug": "atmosfer",
+      "program_name": "Atmosfer",
+      "program_start_time": "16:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 17
     },
     "trt/atmosfer/2026-11-13": {
       "episode_id": "trt/atmosfer/2026-11-13",

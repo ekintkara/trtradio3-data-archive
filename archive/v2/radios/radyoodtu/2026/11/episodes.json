@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-19T14:57:42.214276+00:00",
+  "generated_at": "2026-11-20T14:39:26.018586+00:00",
   "radio_id": "radyoodtu",
   "month": "2026-11",
   "episodes": {
@@ -688,6 +688,18 @@
       "aired_at": "2026-11-01",
       "track_count": 27
     },
+    "radyoodtu/muzik-yayini/2026-11-20": {
+      "episode_id": "radyoodtu/muzik-yayini/2026-11-20",
+      "radio_id": "radyoodtu",
+      "program_id": 53,
+      "program_slug": "muzik-yayini",
+      "program_name": "Müzik Yayını",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 32
+    },
     "radyoodtu/muzik-yayini/2026-11-13": {
       "episode_id": "radyoodtu/muzik-yayini/2026-11-13",
       "radio_id": "radyoodtu",
@@ -940,6 +952,18 @@
       "aired_at": "2026-11-01",
       "track_count": 17
     },
+    "radyoodtu/gunes-gozlugu/2026-11-20": {
+      "episode_id": "radyoodtu/gunes-gozlugu/2026-11-20",
+      "radio_id": "radyoodtu",
+      "program_id": 6,
+      "program_slug": "gunes-gozlugu",
+      "program_name": "Güneş Gözlüğü",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 129
+    },
     "radyoodtu/gunes-gozlugu/2026-11-19": {
       "episode_id": "radyoodtu/gunes-gozlugu/2026-11-19",
       "radio_id": "radyoodtu",
@@ -1179,6 +1203,18 @@
       "date": "2026-11-06",
       "aired_at": "2026-11-06",
       "track_count": 23
+    },
+    "radyoodtu/bazilari-sinema-sever-ege-yildizhan-ve-cinar-tasci/2026-11-20": {
+      "episode_id": "radyoodtu/bazilari-sinema-sever-ege-yildizhan-ve-cinar-tasci/2026-11-20",
+      "radio_id": "radyoodtu",
+      "program_id": 76,
+      "program_slug": "bazilari-sinema-sever-ege-yildizhan-ve-cinar-tasci",
+      "program_name": "Bazıları Sinema Sever (Ege Yıldızhan ve Çınar Taşcı)",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-20",
+      "aired_at": "2026-11-20",
+      "track_count": 17
     },
     "radyoodtu/bazilari-sinema-sever-ege-yildizhan-ve-cinar-tasci/2026-11-13": {
       "episode_id": "radyoodtu/bazilari-sinema-sever-ege-yildizhan-ve-cinar-tasci/2026-11-13",
