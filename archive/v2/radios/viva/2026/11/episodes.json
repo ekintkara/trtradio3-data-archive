@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-20T14:39:26.018586+00:00",
+  "generated_at": "2026-11-21T13:56:35.027011+00:00",
   "radio_id": "viva",
   "month": "2026-11",
   "episodes": {
@@ -219,6 +219,18 @@
       "date": "2026-11-01",
       "aired_at": "2026-11-01",
       "track_count": 21
+    },
+    "viva/turkce-muzigin-keyfi/2026-11-21": {
+      "episode_id": "viva/turkce-muzigin-keyfi/2026-11-21",
+      "radio_id": "viva",
+      "program_id": 7455,
+      "program_slug": "turkce-muzigin-keyfi",
+      "program_name": "Türkçe Müziğin Keyfi",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-21",
+      "aired_at": "2026-11-21",
+      "track_count": 197
     },
     "viva/turkce-muzigin-keyfi/2026-11-20": {
       "episode_id": "viva/turkce-muzigin-keyfi/2026-11-20",
@@ -447,6 +459,18 @@
       "date": "2026-11-17",
       "aired_at": "2026-11-17",
       "track_count": 3
+    },
+    "viva/muzik-viva/2026-11-21": {
+      "episode_id": "viva/muzik-viva/2026-11-21",
+      "radio_id": "viva",
+      "program_id": 7454,
+      "program_slug": "muzik-viva",
+      "program_name": "Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 10800.0,
+      "date": "2026-11-21",
+      "aired_at": "2026-11-21",
+      "track_count": 92
     },
     "viva/muzik-viva/2026-11-20": {
       "episode_id": "viva/muzik-viva/2026-11-20",

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-20T14:39:26.018586+00:00",
+  "generated_at": "2026-11-21T13:56:35.027011+00:00",
   "radio_id": "radyoodtu",
   "month": "2026-11",
   "episodes": {
@@ -688,6 +688,18 @@
       "aired_at": "2026-11-01",
       "track_count": 27
     },
+    "radyoodtu/muzik-yayini/2026-11-21": {
+      "episode_id": "radyoodtu/muzik-yayini/2026-11-21",
+      "radio_id": "radyoodtu",
+      "program_id": 60,
+      "program_slug": "muzik-yayini",
+      "program_name": "Müzik Yayını",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-21",
+      "aired_at": "2026-11-21",
+      "track_count": 41
+    },
     "radyoodtu/muzik-yayini/2026-11-20": {
       "episode_id": "radyoodtu/muzik-yayini/2026-11-20",
       "radio_id": "radyoodtu",
@@ -735,6 +747,18 @@
       "date": "2026-11-06",
       "aired_at": "2026-11-06",
       "track_count": 18
+    },
+    "radyoodtu/latin-estetik-guven-gunes/2026-11-21": {
+      "episode_id": "radyoodtu/latin-estetik-guven-gunes/2026-11-21",
+      "radio_id": "radyoodtu",
+      "program_id": 61,
+      "program_slug": "latin-estetik-guven-gunes",
+      "program_name": "Latin Estetik (Güven Güneş)",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-21",
+      "aired_at": "2026-11-21",
+      "track_count": 9
     },
     "radyoodtu/latin-estetik-guven-gunes/2026-11-14": {
       "episode_id": "radyoodtu/latin-estetik-guven-gunes/2026-11-14",
@@ -951,6 +975,18 @@
       "date": "2026-11-01",
       "aired_at": "2026-11-01",
       "track_count": 17
+    },
+    "radyoodtu/gunes-gozlugu/2026-11-21": {
+      "episode_id": "radyoodtu/gunes-gozlugu/2026-11-21",
+      "radio_id": "radyoodtu",
+      "program_id": 7,
+      "program_slug": "gunes-gozlugu",
+      "program_name": "Güneş Gözlüğü",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 10800.0,
+      "date": "2026-11-21",
+      "aired_at": "2026-11-21",
+      "track_count": 82
     },
     "radyoodtu/gunes-gozlugu/2026-11-20": {
       "episode_id": "radyoodtu/gunes-gozlugu/2026-11-20",
@@ -1192,6 +1228,18 @@
       "aired_at": "2026-11-01",
       "track_count": 109
     },
+    "radyoodtu/easy-kusagi/2026-11-21": {
+      "episode_id": "radyoodtu/easy-kusagi/2026-11-21",
+      "radio_id": "radyoodtu",
+      "program_id": 58,
+      "program_slug": "easy-kusagi",
+      "program_name": "Easy Kuşağı",
+      "program_start_time": "08:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-21",
+      "aired_at": "2026-11-21",
+      "track_count": 34
+    },
     "radyoodtu/cumartesi-eki/2026-11-06": {
       "episode_id": "radyoodtu/cumartesi-eki/2026-11-06",
       "radio_id": "radyoodtu",
@@ -1203,6 +1251,18 @@
       "date": "2026-11-06",
       "aired_at": "2026-11-06",
       "track_count": 23
+    },
+    "radyoodtu/caz-kulubu-oyku-goger-ve-tolga-bilge/2026-11-21": {
+      "episode_id": "radyoodtu/caz-kulubu-oyku-goger-ve-tolga-bilge/2026-11-21",
+      "radio_id": "radyoodtu",
+      "program_id": 59,
+      "program_slug": "caz-kulubu-oyku-goger-ve-tolga-bilge",
+      "program_name": "Caz Kulübü (Öykü Göğer ve Tolga Bilge)",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-21",
+      "aired_at": "2026-11-21",
+      "track_count": 17
     },
     "radyoodtu/bazilari-sinema-sever-ege-yildizhan-ve-cinar-tasci/2026-11-20": {
       "episode_id": "radyoodtu/bazilari-sinema-sever-ege-yildizhan-ve-cinar-tasci/2026-11-20",

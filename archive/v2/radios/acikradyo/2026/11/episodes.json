@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-20T14:39:26.018586+00:00",
+  "generated_at": "2026-11-21T13:56:35.027011+00:00",
   "radio_id": "acikradyo",
   "month": "2026-11",
   "episodes": {
+    "acikradyo/yojimbo/2026-11-21": {
+      "episode_id": "acikradyo/yojimbo/2026-11-21",
+      "radio_id": "acikradyo",
+      "program_id": 1789,
+      "program_slug": "yojimbo",
+      "program_name": "Yojimbo",
+      "program_start_time": "16:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-21",
+      "aired_at": "2026-11-21",
+      "track_count": 8
+    },
     "acikradyo/yesilcam-arkeolojisi/2026-11-18": {
       "episode_id": "acikradyo/yesilcam-arkeolojisi/2026-11-18",
       "radio_id": "acikradyo",
@@ -147,6 +159,18 @@
       "date": "2026-11-03",
       "aired_at": "2026-11-03",
       "track_count": 8
+    },
+    "acikradyo/yeni-seyler-rejimi/2026-11-21": {
+      "episode_id": "acikradyo/yeni-seyler-rejimi/2026-11-21",
+      "radio_id": "acikradyo",
+      "program_id": 1784,
+      "program_slug": "yeni-seyler-rejimi",
+      "program_name": "Yeni Şeyler Rejimi",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-21",
+      "aired_at": "2026-11-21",
+      "track_count": 2
     },
     "acikradyo/yeni-seyler-rejimi/2026-11-14": {
       "episode_id": "acikradyo/yeni-seyler-rejimi/2026-11-14",
@@ -1456,6 +1480,18 @@
       "aired_at": "2026-11-02",
       "track_count": 2
     },
+    "acikradyo/harici-bellek/2026-11-21": {
+      "episode_id": "acikradyo/harici-bellek/2026-11-21",
+      "radio_id": "acikradyo",
+      "program_id": 1785,
+      "program_slug": "harici-bellek",
+      "program_name": "Harici Bellek",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-21",
+      "aired_at": "2026-11-21",
+      "track_count": 25
+    },
     "acikradyo/harici-bellek/2026-11-14": {
       "episode_id": "acikradyo/harici-bellek/2026-11-14",
       "radio_id": "acikradyo",
@@ -1648,6 +1684,18 @@
       "aired_at": "2026-11-03",
       "track_count": 12
     },
+    "acikradyo/fizan-ekspresi/2026-11-21": {
+      "episode_id": "acikradyo/fizan-ekspresi/2026-11-21",
+      "radio_id": "acikradyo",
+      "program_id": 1787,
+      "program_slug": "fizan-ekspresi",
+      "program_name": "Fizan Ekspresi",
+      "program_start_time": "14:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-21",
+      "aired_at": "2026-11-21",
+      "track_count": 3
+    },
     "acikradyo/fizan-ekspresi/2026-11-14": {
       "episode_id": "acikradyo/fizan-ekspresi/2026-11-14",
       "radio_id": "acikradyo",
@@ -1779,6 +1827,18 @@
       "date": "2026-11-06",
       "aired_at": "2026-11-06",
       "track_count": 6
+    },
+    "acikradyo/dunyayi-dinliyorum/2026-11-21": {
+      "episode_id": "acikradyo/dunyayi-dinliyorum/2026-11-21",
+      "radio_id": "acikradyo",
+      "program_id": 1788,
+      "program_slug": "dunyayi-dinliyorum",
+      "program_name": "Dünyayı Dinliyorum",
+      "program_start_time": "15:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-21",
+      "aired_at": "2026-11-21",
+      "track_count": 5
     },
     "acikradyo/dunyayi-dinliyorum/2026-11-14": {
       "episode_id": "acikradyo/dunyayi-dinliyorum/2026-11-14",
@@ -2379,6 +2439,18 @@
       "date": "2026-11-02",
       "aired_at": "2026-11-02",
       "track_count": 16
+    },
+    "acikradyo/apacik-radyo-muzikleri/2026-11-21": {
+      "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-11-21",
+      "radio_id": "acikradyo",
+      "program_id": 1781,
+      "program_slug": "apacik-radyo-muzikleri",
+      "program_name": "Apaçık Radyo Müzikleri",
+      "program_start_time": "02:00",
+      "recording_start_offset_sec": 3600.0,
+      "date": "2026-11-21",
+      "aired_at": "2026-11-21",
+      "track_count": 17
     },
     "acikradyo/apacik-radyo-muzikleri/2026-11-20": {
       "episode_id": "acikradyo/apacik-radyo-muzikleri/2026-11-20",
@@ -3111,6 +3183,18 @@
       "date": "2026-11-04",
       "aired_at": "2026-11-04",
       "track_count": 10
+    },
+    "acikradyo/acik-deniz/2026-11-21": {
+      "episode_id": "acikradyo/acik-deniz/2026-11-21",
+      "radio_id": "acikradyo",
+      "program_id": 1786,
+      "program_slug": "acik-deniz",
+      "program_name": "Açık Deniz",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-21",
+      "aired_at": "2026-11-21",
+      "track_count": 5
     },
     "acikradyo/acik-deniz/2026-11-14": {
       "episode_id": "acikradyo/acik-deniz/2026-11-14",
