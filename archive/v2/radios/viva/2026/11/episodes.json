@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-21T13:56:35.027011+00:00",
+  "generated_at": "2026-11-22T13:49:36.722450+00:00",
   "radio_id": "viva",
   "month": "2026-11",
   "episodes": {
@@ -184,6 +184,18 @@
       "aired_at": "2026-11-02",
       "track_count": 31
     },
+    "viva/viva-nostalji/2026-11-22": {
+      "episode_id": "viva/viva-nostalji/2026-11-22",
+      "radio_id": "viva",
+      "program_id": 10195,
+      "program_slug": "viva-nostalji",
+      "program_name": "Viva Nostalji",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-22",
+      "aired_at": "2026-11-22",
+      "track_count": 19
+    },
     "viva/viva-nostalji/2026-11-15": {
       "episode_id": "viva/viva-nostalji/2026-11-15",
       "radio_id": "viva",
@@ -219,6 +231,18 @@
       "date": "2026-11-01",
       "aired_at": "2026-11-01",
       "track_count": 21
+    },
+    "viva/turkce-muzigin-keyfi/2026-11-22": {
+      "episode_id": "viva/turkce-muzigin-keyfi/2026-11-22",
+      "radio_id": "viva",
+      "program_id": 10196,
+      "program_slug": "turkce-muzigin-keyfi",
+      "program_name": "Türkçe Müziğin Keyfi",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-22",
+      "aired_at": "2026-11-22",
+      "track_count": 116
     },
     "viva/turkce-muzigin-keyfi/2026-11-21": {
       "episode_id": "viva/turkce-muzigin-keyfi/2026-11-21",
@@ -459,6 +483,18 @@
       "date": "2026-11-17",
       "aired_at": "2026-11-17",
       "track_count": 3
+    },
+    "viva/muzik-viva/2026-11-22": {
+      "episode_id": "viva/muzik-viva/2026-11-22",
+      "radio_id": "viva",
+      "program_id": 10193,
+      "program_slug": "muzik-viva",
+      "program_name": "Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-22",
+      "aired_at": "2026-11-22",
+      "track_count": 150
     },
     "viva/muzik-viva/2026-11-21": {
       "episode_id": "viva/muzik-viva/2026-11-21",
