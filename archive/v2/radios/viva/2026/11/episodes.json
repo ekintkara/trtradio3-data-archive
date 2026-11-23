@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-22T13:49:36.722450+00:00",
+  "generated_at": "2026-11-23T16:55:11.365743+00:00",
   "radio_id": "viva",
   "month": "2026-11",
   "episodes": {
+    "viva/vural-ozkan-konusuyor/2026-11-23": {
+      "episode_id": "viva/vural-ozkan-konusuyor/2026-11-23",
+      "radio_id": "viva",
+      "program_id": 10846,
+      "program_slug": "vural-ozkan-konusuyor",
+      "program_name": "Vural Özkan Konuşuyor",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-23",
+      "aired_at": "2026-11-23",
+      "track_count": 34
+    },
     "viva/vural-ozkan-konusuyor/2026-11-20": {
       "episode_id": "viva/vural-ozkan-konusuyor/2026-11-20",
       "radio_id": "viva",
@@ -231,6 +243,18 @@
       "date": "2026-11-01",
       "aired_at": "2026-11-01",
       "track_count": 21
+    },
+    "viva/turkce-muzigin-keyfi/2026-11-23": {
+      "episode_id": "viva/turkce-muzigin-keyfi/2026-11-23",
+      "radio_id": "viva",
+      "program_id": 10849,
+      "program_slug": "turkce-muzigin-keyfi",
+      "program_name": "Türkçe Müziğin Keyfi",
+      "program_start_time": "17:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-23",
+      "aired_at": "2026-11-23",
+      "track_count": 19
     },
     "viva/turkce-muzigin-keyfi/2026-11-22": {
       "episode_id": "viva/turkce-muzigin-keyfi/2026-11-22",
@@ -472,6 +496,18 @@
       "aired_at": "2026-11-01",
       "track_count": 76
     },
+    "viva/sari-seker-sema-yayinda/2026-11-23": {
+      "episode_id": "viva/sari-seker-sema-yayinda/2026-11-23",
+      "radio_id": "viva",
+      "program_id": 10850,
+      "program_slug": "sari-seker-sema-yayinda",
+      "program_name": "Sarı Şeker Sema Yayında",
+      "program_start_time": "18:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-23",
+      "aired_at": "2026-11-23",
+      "track_count": 31
+    },
     "viva/sari-seker-sema-yayinda/2026-11-17": {
       "episode_id": "viva/sari-seker-sema-yayinda/2026-11-17",
       "radio_id": "viva",
@@ -483,6 +519,18 @@
       "date": "2026-11-17",
       "aired_at": "2026-11-17",
       "track_count": 3
+    },
+    "viva/muzik-viva/2026-11-23": {
+      "episode_id": "viva/muzik-viva/2026-11-23",
+      "radio_id": "viva",
+      "program_id": 10845,
+      "program_slug": "muzik-viva",
+      "program_name": "Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-23",
+      "aired_at": "2026-11-23",
+      "track_count": 154
     },
     "viva/muzik-viva/2026-11-22": {
       "episode_id": "viva/muzik-viva/2026-11-22",
@@ -723,6 +771,18 @@
       "date": "2026-11-01",
       "aired_at": "2026-11-01",
       "track_count": 149
+    },
+    "viva/esen-kayar-ile-istek-hatti/2026-11-23": {
+      "episode_id": "viva/esen-kayar-ile-istek-hatti/2026-11-23",
+      "radio_id": "viva",
+      "program_id": 10848,
+      "program_slug": "esen-kayar-ile-istek-hatti",
+      "program_name": "Esen Kayar İle İstek Hattı",
+      "program_start_time": "15:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-23",
+      "aired_at": "2026-11-23",
+      "track_count": 36
     },
     "viva/esen-kayar-ile-istek-hatti/2026-11-20": {
       "episode_id": "viva/esen-kayar-ile-istek-hatti/2026-11-20",
