@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-23T16:55:11.365743+00:00",
+  "generated_at": "2026-11-24T16:45:14.425841+00:00",
   "radio_id": "radioeksen",
   "month": "2026-11",
   "episodes": {
@@ -123,6 +123,18 @@
       "date": "2026-11-01",
       "aired_at": "2026-11-01",
       "track_count": 14
+    },
+    "radioeksen/guven-yildiz--aksam-programi/2026-11-24": {
+      "episode_id": "radioeksen/guven-yildiz--aksam-programi/2026-11-24",
+      "radio_id": "radioeksen",
+      "program_id": 1622,
+      "program_slug": "guven-yildiz--aksam-programi",
+      "program_name": "GÜVEN YILDIZ -AKŞAM PROGRAMI",
+      "program_start_time": "16:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-24",
+      "aired_at": "2026-11-24",
+      "track_count": 54
     },
     "radioeksen/guven-yildiz--aksam-programi/2026-11-23": {
       "episode_id": "radioeksen/guven-yildiz--aksam-programi/2026-11-23",
@@ -303,6 +315,18 @@
       "date": "2026-11-02",
       "aired_at": "2026-11-02",
       "track_count": 3
+    },
+    "radioeksen/gulsah-turgut--paribu-artin-sundugu-gun-ortasi-programi/2026-11-24": {
+      "episode_id": "radioeksen/gulsah-turgut--paribu-artin-sundugu-gun-ortasi-programi/2026-11-24",
+      "radio_id": "radioeksen",
+      "program_id": 1621,
+      "program_slug": "gulsah-turgut--paribu-artin-sundugu-gun-ortasi-programi",
+      "program_name": "GÜLŞAH TURGUT -PARİBU ART'IN SUNDUĞU GÜN ORTASI PROGRAMI",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-24",
+      "aired_at": "2026-11-24",
+      "track_count": 45
     },
     "radioeksen/gulsah-turgut--paribu-artin-sundugu-gun-ortasi-programi/2026-11-23": {
       "episode_id": "radioeksen/gulsah-turgut--paribu-artin-sundugu-gun-ortasi-programi/2026-11-23",
@@ -496,6 +520,18 @@
       "aired_at": "2026-11-02",
       "track_count": 50
     },
+    "radioeksen/gulsah-guray--pozitif-muzikin-sundugu-sabah-sovu/2026-11-24": {
+      "episode_id": "radioeksen/gulsah-guray--pozitif-muzikin-sundugu-sabah-sovu/2026-11-24",
+      "radio_id": "radioeksen",
+      "program_id": 1619,
+      "program_slug": "gulsah-guray--pozitif-muzikin-sundugu-sabah-sovu",
+      "program_name": "GÜLŞAH GÜRAY -POZİTİF MÜZİK'İN SUNDUĞU SABAH ŞOVU",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-24",
+      "aired_at": "2026-11-24",
+      "track_count": 44
+    },
     "radioeksen/gulsah-guray--pozitif-muzikin-sundugu-sabah-sovu/2026-11-23": {
       "episode_id": "radioeksen/gulsah-guray--pozitif-muzikin-sundugu-sabah-sovu/2026-11-23",
       "radio_id": "radioeksen",
@@ -687,6 +723,18 @@
       "date": "2026-11-02",
       "aired_at": "2026-11-02",
       "track_count": 43
+    },
+    "radioeksen/eksen-muzik/2026-11-24": {
+      "episode_id": "radioeksen/eksen-muzik/2026-11-24",
+      "radio_id": "radioeksen",
+      "program_id": 1620,
+      "program_slug": "eksen-muzik",
+      "program_name": "Eksen Müzik",
+      "program_start_time": "10:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-24",
+      "aired_at": "2026-11-24",
+      "track_count": 49
     },
     "radioeksen/eksen-muzik/2026-11-23": {
       "episode_id": "radioeksen/eksen-muzik/2026-11-23",
