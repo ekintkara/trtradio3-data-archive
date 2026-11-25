@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-24T16:45:14.425841+00:00",
+  "generated_at": "2026-11-25T16:31:18.931610+00:00",
   "radio_id": "standardfm",
   "month": "2026-11",
   "episodes": {
+    "standardfm/oglen-klasikleri---duzenleyen-malik-avunduk/2026-11-25": {
+      "episode_id": "standardfm/oglen-klasikleri---duzenleyen-malik-avunduk/2026-11-25",
+      "radio_id": "standardfm",
+      "program_id": 1607,
+      "program_slug": "oglen-klasikleri---duzenleyen-malik-avunduk",
+      "program_name": "Öğlen Klasikleri - Düzenleyen: Malik Avunduk",
+      "program_start_time": "11:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-25",
+      "aired_at": "2026-11-25",
+      "track_count": 83
+    },
     "standardfm/oglen-klasikleri---duzenleyen-malik-avunduk/2026-11-24": {
       "episode_id": "standardfm/oglen-klasikleri---duzenleyen-malik-avunduk/2026-11-24",
       "radio_id": "standardfm",
@@ -219,6 +231,18 @@
       "date": "2026-11-23",
       "aired_at": "2026-11-23",
       "track_count": 10
+    },
+    "standardfm/klasik-muzik/2026-11-25": {
+      "episode_id": "standardfm/klasik-muzik/2026-11-25",
+      "radio_id": "standardfm",
+      "program_id": 1606,
+      "program_slug": "klasik-muzik",
+      "program_name": "Klasik Müzik",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-25",
+      "aired_at": "2026-11-25",
+      "track_count": 58
     },
     "standardfm/klasik-muzik/2026-11-24": {
       "episode_id": "standardfm/klasik-muzik/2026-11-24",
@@ -556,6 +580,18 @@
       "aired_at": "2026-11-01",
       "track_count": 48
     },
+    "standardfm/gece-yayini/2026-11-25": {
+      "episode_id": "standardfm/gece-yayini/2026-11-25",
+      "radio_id": "standardfm",
+      "program_id": 1605,
+      "program_slug": "gece-yayini",
+      "program_name": "Gece Yayını",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-25",
+      "aired_at": "2026-11-25",
+      "track_count": 92
+    },
     "standardfm/gece-yayini/2026-11-24": {
       "episode_id": "standardfm/gece-yayini/2026-11-24",
       "radio_id": "standardfm",
@@ -843,6 +879,18 @@
       "date": "2026-11-05",
       "aired_at": "2026-11-05",
       "track_count": 81
+    },
+    "standardfm/aksam-nesriyati/2026-11-25": {
+      "episode_id": "standardfm/aksam-nesriyati/2026-11-25",
+      "radio_id": "standardfm",
+      "program_id": 1608,
+      "program_slug": "aksam-nesriyati",
+      "program_name": "Akşam Neşriyatı",
+      "program_start_time": "17:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-25",
+      "aired_at": "2026-11-25",
+      "track_count": 37
     },
     "standardfm/aksam-nesriyati/2026-11-24": {
       "episode_id": "standardfm/aksam-nesriyati/2026-11-24",

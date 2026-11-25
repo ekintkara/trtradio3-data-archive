@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-24T16:45:14.425841+00:00",
+  "generated_at": "2026-11-25T16:31:18.931610+00:00",
   "radio_id": "show",
   "month": "2026-11",
   "episodes": {
+    "show/show-radyoda-yeni-gun/2026-11-25": {
+      "episode_id": "show/show-radyoda-yeni-gun/2026-11-25",
+      "radio_id": "show",
+      "program_id": 12558,
+      "program_slug": "show-radyoda-yeni-gun",
+      "program_name": "Show Radyo'da Yeni Gün",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-25",
+      "aired_at": "2026-11-25",
+      "track_count": 39
+    },
     "show/show-radyoda-yeni-gun/2026-11-24": {
       "episode_id": "show/show-radyoda-yeni-gun/2026-11-24",
       "radio_id": "show",
@@ -207,6 +219,18 @@
       "date": "2026-11-02",
       "aired_at": "2026-11-02",
       "track_count": 44
+    },
+    "show/muzik-show/2026-11-25": {
+      "episode_id": "show/muzik-show/2026-11-25",
+      "radio_id": "show",
+      "program_id": 12557,
+      "program_slug": "muzik-show",
+      "program_name": "Müzik",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-25",
+      "aired_at": "2026-11-25",
+      "track_count": 167
     },
     "show/muzik-show/2026-11-24": {
       "episode_id": "show/muzik-show/2026-11-24",
@@ -508,6 +532,18 @@
       "aired_at": "2026-11-07",
       "track_count": 2
     },
+    "show/hit-muzik/2026-11-25": {
+      "episode_id": "show/hit-muzik/2026-11-25",
+      "radio_id": "show",
+      "program_id": 12561,
+      "program_slug": "hit-muzik",
+      "program_name": "Hit Müzik",
+      "program_start_time": "15:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-25",
+      "aired_at": "2026-11-25",
+      "track_count": 60
+    },
     "show/hit-muzik/2026-11-24": {
       "episode_id": "show/hit-muzik/2026-11-24",
       "radio_id": "show",
@@ -796,6 +832,18 @@
       "aired_at": "2026-11-01",
       "track_count": 170
     },
+    "show/gunun-en-iyileri/2026-11-25": {
+      "episode_id": "show/gunun-en-iyileri/2026-11-25",
+      "radio_id": "show",
+      "program_id": 12560,
+      "program_slug": "gunun-en-iyileri",
+      "program_name": "Günün En İyileri",
+      "program_start_time": "14:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-25",
+      "aired_at": "2026-11-25",
+      "track_count": 24
+    },
     "show/gunun-en-iyileri/2026-11-24": {
       "episode_id": "show/gunun-en-iyileri/2026-11-24",
       "radio_id": "show",
@@ -1023,6 +1071,18 @@
       "date": "2026-11-07",
       "aired_at": "2026-11-07",
       "track_count": 306
+    },
+    "show/ariza-show/2026-11-25": {
+      "episode_id": "show/ariza-show/2026-11-25",
+      "radio_id": "show",
+      "program_id": 12562,
+      "program_slug": "ariza-show",
+      "program_name": "Arıza Show",
+      "program_start_time": "18:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-25",
+      "aired_at": "2026-11-25",
+      "track_count": 23
     },
     "show/ariza-show/2026-11-24": {
       "episode_id": "show/ariza-show/2026-11-24",
