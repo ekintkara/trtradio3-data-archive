@@ -1,9 +1,21 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-26T16:04:50.328756+00:00",
+  "generated_at": "2026-11-27T15:53:06.451578+00:00",
   "radio_id": "alemfm",
   "month": "2026-11",
   "episodes": {
+    "alemfm/serdar-gokalp-serdar-trafikte/2026-11-27": {
+      "episode_id": "alemfm/serdar-gokalp-serdar-trafikte/2026-11-27",
+      "radio_id": "alemfm",
+      "program_id": 13069,
+      "program_slug": "serdar-gokalp-serdar-trafikte",
+      "program_name": "Serdar Gökalp - Serdar Trafikte",
+      "program_start_time": "16:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-27",
+      "aired_at": "2026-11-27",
+      "track_count": 24
+    },
     "alemfm/serdar-gokalp-serdar-trafikte/2026-11-26": {
       "episode_id": "alemfm/serdar-gokalp-serdar-trafikte/2026-11-26",
       "radio_id": "alemfm",
@@ -280,6 +292,18 @@
       "aired_at": "2026-11-01",
       "track_count": 32
     },
+    "alemfm/fatih-yildirim-umut-bezgin-kafa-acan-uzman/2026-11-27": {
+      "episode_id": "alemfm/fatih-yildirim-umut-bezgin-kafa-acan-uzman/2026-11-27",
+      "radio_id": "alemfm",
+      "program_id": 13067,
+      "program_slug": "fatih-yildirim-umut-bezgin-kafa-acan-uzman",
+      "program_name": "Fatih Yıldırım & Umut Bezgin - Kafa Açan Uzman",
+      "program_start_time": "07:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-27",
+      "aired_at": "2026-11-27",
+      "track_count": 11
+    },
     "alemfm/fatih-yildirim-umut-bezgin-kafa-acan-uzman/2026-11-26": {
       "episode_id": "alemfm/fatih-yildirim-umut-bezgin-kafa-acan-uzman/2026-11-26",
       "radio_id": "alemfm",
@@ -508,6 +532,18 @@
       "aired_at": "2026-11-02",
       "track_count": 16
     },
+    "alemfm/fatih-yildirim-izlenecek-bisey-degil/2026-11-27": {
+      "episode_id": "alemfm/fatih-yildirim-izlenecek-bisey-degil/2026-11-27",
+      "radio_id": "alemfm",
+      "program_id": 13070,
+      "program_slug": "fatih-yildirim-izlenecek-bisey-degil",
+      "program_name": "Fatih Yıldırım - İzlenecek Bi’şey Değil",
+      "program_start_time": "18:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-27",
+      "aired_at": "2026-11-27",
+      "track_count": 8
+    },
     "alemfm/fatih-yildirim-izlenecek-bisey-degil/2026-11-26": {
       "episode_id": "alemfm/fatih-yildirim-izlenecek-bisey-degil/2026-11-26",
       "radio_id": "alemfm",
@@ -591,6 +627,18 @@
       "date": "2026-11-07",
       "aired_at": "2026-11-07",
       "track_count": 230
+    },
+    "alemfm/alemin-en-iyileri/2026-11-27": {
+      "episode_id": "alemfm/alemin-en-iyileri/2026-11-27",
+      "radio_id": "alemfm",
+      "program_id": 13068,
+      "program_slug": "alemin-en-iyileri",
+      "program_name": "Alem’in En İyileri",
+      "program_start_time": "09:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-27",
+      "aired_at": "2026-11-27",
+      "track_count": 96
     },
     "alemfm/alemin-en-iyileri/2026-11-26": {
       "episode_id": "alemfm/alemin-en-iyileri/2026-11-26",

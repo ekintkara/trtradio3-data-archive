@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-26T16:04:50.328756+00:00",
+  "generated_at": "2026-11-27T15:53:06.451578+00:00",
   "radio_id": "radyoodtu",
   "month": "2026-11",
   "episodes": {
@@ -904,6 +904,18 @@
       "aired_at": "2026-11-01",
       "track_count": 27
     },
+    "radyoodtu/muzik-yayini/2026-11-27": {
+      "episode_id": "radyoodtu/muzik-yayini/2026-11-27",
+      "radio_id": "radyoodtu",
+      "program_id": 56,
+      "program_slug": "muzik-yayini",
+      "program_name": "Müzik Yayını",
+      "program_start_time": "18:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-27",
+      "aired_at": "2026-11-27",
+      "track_count": 10
+    },
     "radyoodtu/muzik-yayini/2026-11-21": {
       "episode_id": "radyoodtu/muzik-yayini/2026-11-21",
       "radio_id": "radyoodtu",
@@ -952,6 +964,18 @@
       "aired_at": "2026-11-06",
       "track_count": 65
     },
+    "radyoodtu/maximum-gencin-sundugu-40-haramiler-tekrar/2026-11-27": {
+      "episode_id": "radyoodtu/maximum-gencin-sundugu-40-haramiler-tekrar/2026-11-27",
+      "radio_id": "radyoodtu",
+      "program_id": 54,
+      "program_slug": "maximum-gencin-sundugu-40-haramiler-tekrar",
+      "program_name": "Maximum Genç'in Sunduğu 40 Haramiler (Tekrar)",
+      "program_start_time": "14:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-27",
+      "aired_at": "2026-11-27",
+      "track_count": 17
+    },
     "radyoodtu/maximum-gencin-sundugu-40-haramiler-tekrar/2026-11-06": {
       "episode_id": "radyoodtu/maximum-gencin-sundugu-40-haramiler-tekrar/2026-11-06",
       "radio_id": "radyoodtu",
@@ -999,6 +1023,18 @@
       "date": "2026-11-07",
       "aired_at": "2026-11-07",
       "track_count": 9
+    },
+    "radyoodtu/kaleydoskop-her-hafta-farkli-bir-dj/2026-11-27": {
+      "episode_id": "radyoodtu/kaleydoskop-her-hafta-farkli-bir-dj/2026-11-27",
+      "radio_id": "radyoodtu",
+      "program_id": 67,
+      "program_slug": "kaleydoskop-her-hafta-farkli-bir-dj",
+      "program_name": "Kaleydoskop (Her Hafta Farklı Bir DJ)",
+      "program_start_time": "13:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-27",
+      "aired_at": "2026-11-27",
+      "track_count": 17
     },
     "radyoodtu/kaleydoskop-her-hafta-farkli-bir-dj/2026-11-06": {
       "episode_id": "radyoodtu/kaleydoskop-her-hafta-farkli-bir-dj/2026-11-06",
@@ -1251,6 +1287,18 @@
       "date": "2026-11-01",
       "aired_at": "2026-11-01",
       "track_count": 17
+    },
+    "radyoodtu/gunes-gozlugu/2026-11-27": {
+      "episode_id": "radyoodtu/gunes-gozlugu/2026-11-27",
+      "radio_id": "radyoodtu",
+      "program_id": 6,
+      "program_slug": "gunes-gozlugu",
+      "program_name": "Güneş Gözlüğü",
+      "program_start_time": "00:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-27",
+      "aired_at": "2026-11-27",
+      "track_count": 130
     },
     "radyoodtu/gunes-gozlugu/2026-11-26": {
       "episode_id": "radyoodtu/gunes-gozlugu/2026-11-26",
@@ -1588,6 +1636,18 @@
       "aired_at": "2026-11-21",
       "track_count": 34
     },
+    "radyoodtu/cumartesi-eki/2026-11-27": {
+      "episode_id": "radyoodtu/cumartesi-eki/2026-11-27",
+      "radio_id": "radyoodtu",
+      "program_id": 55,
+      "program_slug": "cumartesi-eki",
+      "program_name": "Cumartesi Eki",
+      "program_start_time": "15:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-27",
+      "aired_at": "2026-11-27",
+      "track_count": 48
+    },
     "radyoodtu/cumartesi-eki/2026-11-06": {
       "episode_id": "radyoodtu/cumartesi-eki/2026-11-06",
       "radio_id": "radyoodtu",
@@ -1610,6 +1670,18 @@
       "recording_start_offset_sec": 0.0,
       "date": "2026-11-21",
       "aired_at": "2026-11-21",
+      "track_count": 17
+    },
+    "radyoodtu/bazilari-sinema-sever-ege-yildizhan-ve-cinar-tasci/2026-11-27": {
+      "episode_id": "radyoodtu/bazilari-sinema-sever-ege-yildizhan-ve-cinar-tasci/2026-11-27",
+      "radio_id": "radyoodtu",
+      "program_id": 76,
+      "program_slug": "bazilari-sinema-sever-ege-yildizhan-ve-cinar-tasci",
+      "program_name": "Bazıları Sinema Sever (Ege Yıldızhan ve Çınar Taşcı)",
+      "program_start_time": "12:00",
+      "recording_start_offset_sec": 0.0,
+      "date": "2026-11-27",
+      "aired_at": "2026-11-27",
       "track_count": 17
     },
     "radyoodtu/bazilari-sinema-sever-ege-yildizhan-ve-cinar-tasci/2026-11-20": {
